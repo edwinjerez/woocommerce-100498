@@ -1,0 +1,402 @@
+# Translation of WordPress.com - Themes - Eris in Romanian
+# This file is distributed under the same license as the WordPress.com - Themes - Eris package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-23 04:01:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: WordPress.com - Themes - Eris\n"
+
+#: inc/wpcom-colors.php:33
+msgid "Menus & Headings"
+msgstr "Meniuri și rubrici"
+
+#: inc/wpcom-colors.php:50
+msgid "Links"
+msgstr "Legături"
+
+#: inc/customizer/settings/customizer-layout.php:35
+msgid "Four-column layout"
+msgstr "Aranjament pe patru coloane"
+
+#: inc/customizer/settings/customizer-layout.php:34
+msgid "Three-column layout"
+msgstr "Aranjament pe trei coloane"
+
+#: inc/customizer/settings/customizer-layout.php:33
+msgid "Two-column layout"
+msgstr "Aranjament pe două coloane"
+
+#: templates/template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nimic nu se potrivește termenilor căutării tale. Te rog încearcă din nou cu cuvinte cheie diferite."
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/eris/style.css
+msgid "Eris is a crisp and elegant portfolio theme. You can use showcase all your different projects as a unified and beautiful story."
+msgstr "Eris este o temă clară și un portofoliu elegant. Poți folosi caseta de prezentare pentru toate proiectele tale diferite ca o poveste unificată și frumoasă."
+
+#: templates/template-parts/content-search.php:17
+msgid "portfolio"
+msgstr "portofoliu"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/eris/templates/portfolio-page.php
+msgid "Portfolio"
+msgstr "Portofoliu"
+
+#. translators: %s: Name of current post
+#: templates/template-parts/content-page.php:33
+msgid "Edit %s"
+msgstr "Editează %s"
+
+#: templates/template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gata să publici primul tău articol? <a href=\"%1$s\">Poți începe aici</a>."
+
+#: templates/template-parts/content-author.php:22
+msgid "Posted by:"
+msgstr "Postat de:"
+
+#: templates/template-parts/content-link.php:40
+#: templates/template-parts/content-page.php:22
+#: templates/template-parts/content-quote.php:40
+#: templates/template-parts/content-single.php:26
+#: templates/template-parts/content.php:30
+msgid "Pages:"
+msgstr "Pagini:"
+
+#. translators: %s: Name of current post.
+#: templates/template-parts/content-link.php:35
+#: templates/template-parts/content-quote.php:35
+#: templates/template-parts/content-single.php:21
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Citește în continuare %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: taxonomy-jetpack-portfolio-type.php:55 templates/portfolio-page.php:105
+#: templates/template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Se pare că nu putem găsi ceea ce cauți tu. Poate o căutare ar fi de ajutor."
+
+#: taxonomy-jetpack-portfolio-type.php:51 templates/portfolio-page.php:101
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gata să-ți publici primul proiect? <a href=\"%1$s\">Începe de aici</a>."
+
+#: searchform.php:14
+msgid "Search"
+msgstr "Căutare"
+
+#: taxonomy-jetpack-portfolio-type.php:46 templates/portfolio-page.php:96
+#: templates/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nimic găsit"
+
+#: sidebar.php:19
+msgid "close sidebar"
+msgstr "închide bara laterală"
+
+#: searchform.php:12
+msgid "Start Searching"
+msgstr "Începe căutarea"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutării pentru: %s"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Caută după:"
+
+#: inc/template-tags.php:390
+msgid "All"
+msgstr "Tot"
+
+#: inc/template-tags.php:427
+msgid "Follow"
+msgstr "Urmărește"
+
+#: inc/template-tags.php:552
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:359
+msgid "Page navigation"
+msgstr "Navigare în pagină"
+
+#: inc/template-tags.php:347 templates/portfolio-page.php:84
+msgid "Next"
+msgstr "Următor"
+
+#: inc/template-tags.php:346 templates/portfolio-page.php:83
+msgid "Prev"
+msgstr "Anterioară"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:129
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:131
+msgid "Archives"
+msgstr "Arhive"
+
+#: inc/template-tags.php:118
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Stări"
+
+#: inc/template-tags.php:120
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:122
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Conversații"
+
+#: inc/template-tags.php:125
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:110
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Imagini"
+
+#: inc/template-tags.php:112
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videouri"
+
+#: inc/template-tags.php:114
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citat"
+
+#: inc/template-tags.php:116
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Legături"
+
+#: inc/template-tags.php:103
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/template-tags.php:106
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Note"
+
+#: inc/template-tags.php:108
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerii"
+
+#: inc/template-tags.php:101
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:103
+msgid "Day: %s"
+msgstr "Ziua: %s"
+
+#: inc/template-tags.php:99
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:101
+msgid "Month: %s"
+msgstr "Luna: %s"
+
+#: inc/template-tags.php:95 tag.php:18
+msgid "Tag: %s"
+msgstr "Etichetă: %s"
+
+#: inc/template-tags.php:99
+msgid "Year: %s"
+msgstr "Anul: %s"
+
+#: inc/template-tags.php:97
+msgid "Author; %s"
+msgstr "Autor; %s"
+
+#: inc/template-tags.php:60
+msgid "Posted in %1$s"
+msgstr "Publicat în %1$s"
+
+#: inc/template-tags.php:71
+msgid "Tagged %1$s"
+msgstr "Etichetat %1$s"
+
+#: inc/template-tags.php:93
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by SK Modernist, translate this to 'off'. Do not translate
+#. * into your own language.
+#: inc/fonts-enqueue.php:18
+msgctxt "SK Modernist font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:278
+msgid "Read more %s"
+msgstr "Citește mai mult pe %s"
+
+#: inc/customizer/settings/customizer-layout.php:28
+msgid "Portfolio layout"
+msgstr "Aranjament portofoliu"
+
+#: inc/customizer/settings/customizer-layout.php:12
+msgid "Portfolio Layout Settings"
+msgstr "Setări aranjament portofoliu"
+
+#: inc/customizer/settings/customizer-header.php:41
+msgid "Enable sticky header"
+msgstr "Activează antet reprezentativ"
+
+#: inc/customizer/settings/customizer-header.php:12
+msgid "Header Settings"
+msgstr "Setări antet"
+
+#: inc/customizer/customizer.php:29
+msgid "Eris Theme Options"
+msgstr "Opțiuni temă Eris"
+
+#: inc/customizer/settings/customizer-header.php:28
+msgid "Hide header menu behind a button"
+msgstr "Ascunde meniul antet în spatele unui buton"
+
+#: inc/customizer/settings/customizer-layout.php:46
+msgid "Display single project in Split Layout"
+msgstr "Afișează proiect singular în aranjament împărțit"
+
+#: inc/customizer/settings/customizer-layout.php:47
+msgid "The Split layout puts your text on one side and images on the other. Useful for storytelling, when you want the text to run alongside the images."
+msgstr "Aranjamentul împărțit îți pune textul într-o parte și imaginile în cealaltă parte. Util pentru povestitor, când vrea ca textul să ruleze în paralel cu imaginile."
+
+#: inc/customizer/customizer.php:28
+msgid "Theme Options"
+msgstr "Opțiuni temă"
+
+#: header.php:87
+msgid "scroll to discover more"
+msgstr "derulează pentru a descoperi mai multe"
+
+#: header.php:78
+msgid "open sidebar"
+msgstr "deschide bară laterală"
+
+#: header.php:70
+msgid "open search form"
+msgstr "deschide formular de căutare"
+
+#: header.php:66
+msgid "close search form"
+msgstr "închide formular de căutare"
+
+#: header.php:88
+msgid "back to top"
+msgstr "înapoi sus"
+
+#: header.php:54
+msgid "Primary Menu"
+msgstr "Meniu principal"
+
+#: header.php:58
+msgid "Menu"
+msgstr "Meniu"
+
+#: header.php:54
+msgid "menu"
+msgstr "Meniu"
+
+#: functions.php:58
+msgid "Social menu"
+msgstr "Meniu socializare"
+
+#: functions.php:117
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#: functions.php:127
+msgid "Widget area for %s"
+msgstr "Zonă asamblabilă pentru %s"
+
+#: functions.php:119
+msgid "Footer Widgets 2"
+msgstr "Piese subsol 2"
+
+#: functions.php:118
+msgid "Footer Widgets 1"
+msgstr "Piese subsol 1"
+
+#: functions.php:57
+msgid "Header"
+msgstr "Antet"
+
+#: footer.php:36
+msgid "Proudly powered by %s"
+msgstr "Propulsat cu mândrie de %s"
+
+#: footer.php:38
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s de %2$s."
+
+#: footer.php:36
+msgid "https://wordpress.org/"
+msgstr "https://ro.wordpress.org/"
+
+#: comments.php:46 comments.php:68
+msgid "Newer Comments"
+msgstr "Comentarii mai noi"
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: comments.php:42 comments.php:64
+msgid "Comment navigation"
+msgstr "Navigare în comentarii"
+
+#: comments.php:45 comments.php:67
+msgid "Older Comments"
+msgstr "Comentarii mai vechi"
+
+#: 404.php:24 header.php:64 taxonomy-jetpack-portfolio-type.php:57
+#: templates/portfolio-page.php:107
+#: templates/template-parts/content-none.php:27
+#: templates/template-parts/content-none.php:33
+msgid "Press Enter / Return to begin your search."
+msgstr "Apasă Enter / Return pentru a începe căutarea."
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try to search for what you are looking for?"
+msgstr "Se pare că n-a fost găsit nimic la această locație. Poate încerci să cauți ceea ce vrei?"
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on %2$s"
+msgid_plural "%1$s thoughts on %2$s"
+msgstr[0] "Un comentariu la %2$s"
+msgstr[1] "%1$s comentarii la %2$s"
+msgstr[2] "%1$s de comentarii la %2$s"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Pagina aceea nu a fost găsită."

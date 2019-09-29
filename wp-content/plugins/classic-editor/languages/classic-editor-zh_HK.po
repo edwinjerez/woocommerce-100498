@@ -1,0 +1,492 @@
+# Translation of Plugins - Classic Editor - Stable (latest release) in Chinese (Hong Kong)
+# This file is distributed under the same license as the Plugins - Classic Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-02 16:17:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_HK\n"
+"Project-Id-Version: Plugins - Classic Editor - Stable (latest release)\n"
+
+#: classic-editor.php:311
+msgid "Edit (Block editor)"
+msgstr "編輯 (區塊編輯器)"
+
+#: classic-editor.php:191
+msgid "Use the Block editor by default and include optional links back to the Classic editor."
+msgstr "預設使用區塊編輯器，但加入可返回傳統編輯器的選用連結"
+
+#: classic-editor.php:185
+msgid "Replace the Block editor with the Classic editor."
+msgstr "以傳統編輯器取代區塊編輯器"
+
+#. Author of the plugin/theme
+msgid "WordPress Contributors"
+msgstr "WordPress Contributors"
+
+#. Description of the plugin/theme
+msgid "Enables the WordPress classic editor and the old-style Edit Post screen layout (TinyMCE, meta boxes, etc.). Supports the older plugins that extend this screen."
+msgstr "將 WordPress 網站的編輯器還原為傳統編輯器及舊式 [編輯文章] 畫面版面配置 (例如 TinyMCE、中繼資料區塊等等)，同時也支援其他能擴充這個畫面的外掛。"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org"
+msgstr "https://zh-hk.wordpress.org"
+
+#. Plugin Name of the plugin/theme
+msgid "Classic Editor"
+msgstr "傳統編輯器"
+
+#: classic-editor.php:453
+msgid "Permalink saved"
+msgstr "永久連結已儲存"
+
+#: classic-editor.php:452
+msgid "Saving Draft&#8230;"
+msgstr "正在儲存草稿&#8230;"
+
+#: classic-editor.php:451
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "如果離開這個頁面，便會失去之前所做的所有變更。"
+
+#: classic-editor.php:450
+msgid "Published"
+msgstr "已發佈"
+
+#: classic-editor.php:449
+msgid "Privately Published"
+msgstr "已私密發佈"
+
+#: classic-editor.php:448
+msgid "Password Protected"
+msgstr "密碼保護"
+
+#: classic-editor.php:447
+msgid "Public, Sticky"
+msgstr "公開、置頂"
+
+#: classic-editor.php:446
+msgid "Public"
+msgstr "公開"
+
+#: classic-editor.php:445
+msgid "Private"
+msgstr "私密"
+
+#: classic-editor.php:444
+msgid "Save Draft"
+msgstr "儲存草稿"
+
+#: classic-editor.php:443
+msgid "Save as Pending"
+msgstr "儲存為待審閱內容"
+
+#: classic-editor.php:442
+msgid "Update"
+msgstr "更新"
+
+#: classic-editor.php:441
+msgid "Schedule"
+msgstr "排程"
+
+#: classic-editor.php:439
+msgid "No more comments found."
+msgstr "找不到更多符合條件的留言。"
+
+#: classic-editor.php:438
+msgid "Show more comments"
+msgstr "顯示更多留言"
+
+#. translators: 1: month, 2: day, 3: year, 4: hour, 5: minute
+#: classic-editor.php:437
+msgid "%1$s %2$s, %3$s @ %4$s:%5$s"
+msgstr "%3$s 年 %1$s %2$s 日 %4$s:%5$s"
+
+#: classic-editor.php:435
+msgid "Published on:"
+msgstr "發佈時間:"
+
+#: classic-editor.php:434
+msgid "Schedule for:"
+msgstr "預先排程發佈時間:"
+
+#: classic-editor.php:433
+msgid "Publish on:"
+msgstr "發佈時間:"
+
+#: classic-editor.php:432
+msgid "Cancel"
+msgstr "取消"
+
+#: classic-editor.php:431
+msgid "OK"
+msgstr "確定"
+
+#. translators: %s: post title
+#: classic-editor.php:371
+msgid "Edit &#8220;%s&#8221; in the classic editor"
+msgstr "使用傳統編輯器編輯《%s》"
+
+#: classic-editor.php:329
+msgid "Settings"
+msgstr "設定"
+
+#: classic-editor.php:317 classic-editor.php:374
+msgid "Edit (Classic)"
+msgstr "編輯 (傳統編輯器)"
+
+#: classic-editor.php:274
+msgid "(Classic)"
+msgstr "(傳統編輯器)"
+
+#: classic-editor.php:172
+msgid "Classic editor settings"
+msgstr "傳統編輯器設定"
+
+#. translators: 1: Post edited date, 2: Post edited time
+#: classic-edit-form-advanced.php:702
+msgid "Last edited on %1$s at %2$s"
+msgstr "最後編輯時間: %1$s%2$s"
+
+#: classic-edit-form-advanced.php:699 classic-edit-form-advanced.php:702
+msgid "g:i a"
+msgstr "a g:i"
+
+#: classic-edit-form-advanced.php:699 classic-edit-form-advanced.php:702
+msgid "F j, Y"
+msgstr "Y 年 n 月 j 日"
+
+#. translators: 1: Name of most recent post author, 2: Post edited date, 3:
+#. Post edited time
+#: classic-edit-form-advanced.php:699
+msgid "Last edited by %1$s on %2$s at %3$s"
+msgstr "最後由「%1$s」於 %2$s%3$s 進行編輯"
+
+#: classic-edit-form-advanced.php:691
+msgid "Word count: %s"
+msgstr "字數統計: %s"
+
+#: classic-edit-form-advanced.php:642
+msgid "Get Shortlink"
+msgstr "取得短網址"
+
+#: classic-edit-form-advanced.php:617
+msgid "Enter title here"
+msgstr "請在這裡輸入標題"
+
+#: classic-edit-form-advanced.php:553
+msgid "We&#8217;re backing up this post in your browser, just in case."
+msgstr "正在瀏覽器中備份這篇內容，以防萬一。"
+
+#: classic-edit-form-advanced.php:552
+msgid "<strong>Connection lost.</strong> Saving has been disabled until you&#8217;re reconnected."
+msgstr "<strong>與網站伺服器失去連線。</strong>在恢復連線前，儲存功能為停用狀態。"
+
+#: classic-edit-form-advanced.php:524
+msgid "Page Attributes"
+msgstr "頁面屬性"
+
+#: classic-edit-form-advanced.php:520
+msgid "<strong>Order</strong> &mdash; Pages are usually ordered alphabetically, but you can choose your own order by entering a number (1 for first, etc.) in this field."
+msgstr "<strong>順序</strong> &mdash; 頁面通常依字母順序排序，但使用者可以在 [順序] 欄位中輸入整數為頁面自訂順序。輸入 0 為最優先排序，數值越大順序越後，而同一順序數值頁面再依標題首字字母順序排序。"
+
+#: classic-edit-form-advanced.php:519
+msgid "<strong>Template</strong> &mdash; Some themes have custom templates you can use for certain pages that might have additional features or custom layouts. If so, you&#8217;ll see them in this dropdown menu."
+msgstr "<strong>範本</strong> &mdash; 有些佈景主題會內建自訂範本，這些自訂範本讓特定使用目的的頁面有了更多元的功能或自訂版面配置。只要是佈景主題內建的自訂範本，就會出現在 [範本] 下拉式選單中。"
+
+#: classic-edit-form-advanced.php:518
+msgid "<strong>Parent</strong> &mdash; You can arrange your pages in hierarchies. For example, you could have an &#8220;About&#8221; page that has &#8220;Life Story&#8221; and &#8220;My Dog&#8221; pages under it. There are no limits to how many levels you can nest pages."
+msgstr "<strong>上層頁面</strong> &mdash; 作者可以指派其所撰寫的頁面的階層架構。舉例來說，網站中某位作者可以有個《關於我》頁面，而該頁面其下還有《生活札記》及《狗狗與我》等子頁面，且並系統未限制巢狀頁面階層數量。"
+
+#: classic-edit-form-advanced.php:514
+msgid "Discussion Settings"
+msgstr "討論設定"
+
+#: classic-edit-form-advanced.php:510
+msgid "<strong>Discussion</strong> &mdash; You can turn comments and pings on or off, and if there are comments on the post, you can see them here and moderate them."
+msgstr "<strong>討論</strong> &mdash; 網站管理員可以為個別內容開啟或關閉留言及內容更新通知。當文章有留言時，網站管理員可以在這裡進行檢視及管理。"
+
+#: classic-edit-form-advanced.php:505
+msgid "Publish Settings"
+msgstr "發佈設定"
+
+#. translators: %s: Featured Image
+#: classic-edit-form-advanced.php:498
+msgid "<strong>%s</strong> &mdash; This allows you to associate an image with your post without inserting it. This is usually useful only if your theme makes use of the image as a post thumbnail on the home page, a custom header, etc."
+msgstr "<strong>%s</strong> &mdash; 特色圖片讓使用者建立文章與某張圖片的關聯，而無須插入圖片，但只有佈景主題在首頁或自訂頁首等處使用精選圖片作為縮圖才會發揮效果。"
+
+#: classic-edit-form-advanced.php:487
+msgid "Several boxes on this screen contain settings for how your content will be published, including:"
+msgstr "這個畫面包含數個設定區塊，這些設定能讓使用者決定該如何發佈內容，項目如下:"
+
+#: classic-edit-form-advanced.php:481
+msgid "Inserting Media"
+msgstr "插入媒體檔案"
+
+#: classic-edit-form-advanced.php:477
+msgid "You can also embed media from many popular websites including Twitter, YouTube, Flickr and others by pasting the media URL on its own line into the content of your post/page. Please refer to the Codex to <a href=\"https://codex.wordpress.org/Embeds\">learn more about embeds</a>."
+msgstr "使用者還可以透過將媒體檔案網址貼上至文章/頁面的內容中的方式，藉以嵌入來自包含 Twitter、YouTube、Flickr 等熱門網站的內容。請前往 Codex 以<a href=\"https://codex.wordpress.org/Embeds\" target=\"_blank\">進一步瞭解嵌入內容</a>。"
+
+#: classic-edit-form-advanced.php:470
+msgid "<a href=\"https://codex.wordpress.org/Media_Add_New_Screen#Edit_Media\">Documentation on Edit Media</a>"
+msgstr "《<a href=\"https://codex.wordpress.org/Media_Add_New_Screen#Edit_Media\" target=\"_blank\">編輯媒體檔案</a>》線上說明"
+
+#: classic-edit-form-advanced.php:465
+msgid "Remember to click Update Media to save metadata entered or changed."
+msgstr "請記得點擊 [更新媒體檔案] 以儲存完成輸入或變更的中繼資料。"
+
+#: classic-edit-form-advanced.php:464
+msgid "Note that you crop the image by clicking on it (the Crop icon is already selected) and dragging the cropping frame to select the desired part. Then click Save to retain the cropping."
+msgstr "請注意，裁切圖片時請點擊該圖片 (裁切圖示按鈕成為生效狀態) 並拖曳裁切框至所需大小，然後點擊 [儲存] 以保留裁切變更。"
+
+#: classic-edit-form-advanced.php:489
+msgid "<strong>Publish</strong> &mdash; You can set the terms of publishing your post in the Publish box. For Status, Visibility, and Publish (immediately), click on the Edit link to reveal more options. Visibility includes options for password-protecting a post or making it stay at the top of your blog indefinitely (sticky). The Password protected option allows you to set an arbitrary password for each post. The Private option hides the post from everyone except editors and administrators. Publish (immediately) allows you to set a future or past date and time, so you can schedule a post to be published in the future or backdate a post."
+msgstr "<strong>發佈</strong> &mdash; 作者可以在文章的 [發佈] 方塊中進行多項設定，包含 [狀態]、[可見度] 及 [發佈] (立即發佈)，也可以點擊 [編輯] 連結以顯示更多進階設定。可見度包含以密碼保護文章，或讓文章在網站上置頂的設定。[密碼保護] 功能讓作者可以為每篇文章設定自訂密碼，而 [私密] 功能能讓文章作者本人、具備 [編輯] 及 [網站管理員] 的使用者以外的所有人都無法看到該篇文章。[發佈] (立即發佈) 功能能讓作者設定某個未來或過去的日期時間，這樣作者便能為文章排程，讓文章在未來發佈或將發佈時間回溯至過去。"
+
+#: classic-edit-form-advanced.php:493
+msgid "<strong>Format</strong> &mdash; Post Formats designate how your theme will display a specific post. For example, you could have a <em>standard</em> blog post with a title and paragraphs, or a short <em>aside</em> that omits the title and contains a short text blurb. Please refer to the Codex for <a href=\"https://codex.wordpress.org/Post_Formats#Supported_Formats\">descriptions of each post format</a>. Your theme could enable all or some of 10 possible formats."
+msgstr "<strong>文章格式</strong> &mdash; 文章格式決定了佈景主題顯示指定文章的方式。舉例來說，使用者可以撰寫含有標題及段落的<em>標準</em>格式文章，也可以撰寫省略標題、僅有簡短文字簡介的<em>記事</em>格式文章，請參閱 Codex 上的《<a href=\"https://codex.wordpress.org/Post_Formats#Supported_Formats\" target=\"_blank\">文章格式說明</a>》以取得進一步資訊。目前使用的佈景主題可以啟用全部 10 種或其中部分的文章格式。"
+
+#: classic-edit-form-advanced.php:476
+msgid "You can upload and insert media (images, audio, documents, etc.) by clicking the Add Media button. You can select from the images and files already uploaded to the Media Library, or upload new media to add to your page or post. To create an image gallery, select the images to add and click the &#8220;Create a new gallery&#8221; button."
+msgstr "使用者可以點擊 [新增媒體] 按鈕以上傳或插入媒體檔案 (包含圖片、音訊、文件等等)，也可以從 [媒體庫] 中選取已上傳的圖片或檔案，或將新的媒體檔案新增至頁面或文章中。如需建立圖庫，請選取要加入圖庫的圖片，然後點擊 [建立圖庫]。"
+
+#: classic-edit-form-advanced.php:463
+msgid "For images only, you can click on Edit Image under the thumbnail to expand out an inline image editor with icons for cropping, rotating, or flipping the image as well as for undoing and redoing. The boxes on the right give you more options for scaling the image, for cropping it, and for cropping the thumbnail in a different way than you crop the original image. You can click on Help in those boxes to get more information."
+msgstr "使用者若需處理圖片，可以點擊縮圖下方的 [編輯圖片] 以開啟圖片編輯器，在圖片編輯器中可以對圖片進行裁切、旋轉、或翻轉，還可以復原及重做。編輯器右側提供了更多設定，用於縮放、裁切圖片以及使用與裁切原始圖片不同的方式裁切縮圖。請點擊 [使用說明] 以瞭解進一步的資訊。"
+
+#: classic-edit-form-advanced.php:462
+msgid "This screen allows you to edit four fields for metadata in a file within the media library."
+msgstr "使用者可以在這個畫面編輯媒體庫檔案的 4 個中繼資料欄位。"
+
+#: classic-edit-form-advanced.php:460
+msgid "Overview"
+msgstr "概觀"
+
+#: classic-edit-form-advanced.php:454
+msgid "<a href=\"https://codex.wordpress.org/Pages_Screen#Editing_Individual_Pages\">Documentation on Editing Pages</a>"
+msgstr "《<a href=\"https://codex.wordpress.org/Pages_Screen#Editing_Individual_Pages\" target=\"_blank\">編輯頁面</a>》線上說明"
+
+#: classic-edit-form-advanced.php:453
+msgid "<a href=\"https://codex.wordpress.org/Pages_Add_New_Screen\">Documentation on Adding New Pages</a>"
+msgstr "《<a href=\"https://codex.wordpress.org/Pages_Add_New_Screen\" target=\"_blank\">新增頁面</a>》線上說明"
+
+#: classic-edit-form-advanced.php:447
+msgid "About Pages"
+msgstr "關於頁面"
+
+#: classic-edit-form-advanced.php:439 classic-edit-form-advanced.php:455
+#: classic-edit-form-advanced.php:471
+msgid "<a href=\"https://wordpress.org/support/\">Support Forums</a>"
+msgstr "<a href=\"https://tw.wordpress.org/support/\" target=\"_blank\">技術支援論壇</a>"
+
+#: classic-edit-form-advanced.php:438
+msgid "<a href=\"https://codex.wordpress.org/Posts_Add_New_Screen\">Documentation on Writing and Editing Posts</a>"
+msgstr "《<a href=\"https://codex.wordpress.org/Posts_Add_New_Screen\" target=\"_blank\">寫作及編輯文章</a>》線上說明"
+
+#: classic-edit-form-advanced.php:437 classic-edit-form-advanced.php:452
+#: classic-edit-form-advanced.php:469
+msgid "For more information:"
+msgstr "如需瞭解進一步資訊:"
+
+#: classic-edit-form-advanced.php:436
+msgid "You can also create posts with the <a href=\"%s\">Press This bookmarklet</a>."
+msgstr "使用者也可以使用 [<a href=\"%s\">發佈至網站</a>] 書籤小工具以建立文章。"
+
+#: classic-edit-form-advanced.php:442
+msgid "Pages are similar to posts in that they have a title, body text, and associated metadata, but they are different in that they are not part of the chronological blog stream, kind of like permanent posts. Pages are not categorized or tagged, but can have a hierarchy. You can nest pages under other pages by making one the &#8220;Parent&#8221; of the other, creating a group of pages."
+msgstr "頁面與文章相似之處在於它們都有標題、內文及相關中繼資料，而不同之處在於頁面不受內容發佈時間順序所影響，類似永久文章。頁面無法進行分類及加上標籤，但其仍有階層架構；使用者可以先建立上層頁面，然後將其他頁面以巢狀方式納入其中，便能建立一個頁面群組。"
+
+#: classic-edit-form-advanced.php:443
+msgid "Creating a Page is very similar to creating a Post, and the screens can be customized in the same way using drag and drop, the Screen Options tab, and expanding/collapsing boxes as you choose. This screen also has the distraction-free writing space, available in both the Visual and Text modes via the Fullscreen buttons. The Page editor mostly works the same as the Post editor, but there are some Page-specific features in the Page Attributes box."
+msgstr "建立頁面與建立文章非常類似，畫面同樣可以透過拖放、[顯示項目設定] 分頁，以及選取可展開/收合的區塊進行自訂。這個畫面一樣提供可透過按鈕切換至全螢幕的 [專注寫作模式]，並可在內容編輯器的 [預覽] 及 [文字] 模式進行切換。頁面編輯器與文章編輯器大同小異，差別在於頁面有它專屬的 [頁面屬性] 區塊。"
+
+#: classic-edit-form-advanced.php:509
+msgid "<strong>Send Trackbacks</strong> &mdash; Trackbacks are a way to notify legacy blog systems that you&#8217;ve linked to them. Enter the URL(s) you want to send trackbacks. If you link to other WordPress sites they&#8217;ll be notified automatically using pingbacks, and this field is unnecessary."
+msgstr "<strong>傳送引用通知</strong> &mdash; 引用通知 (Trackback) 是種通知舊式網站系統在這個網站的文章中已連結它們的方式，透過輸入需要傳送引用通知的網址即可完成。當這個網站的文章連結至其他 WordPress 網站時，系統便會以自動引用通知 (Pingback) 的方式通知他們，不須進行其他操作。"
+
+#: classic-edit-form-advanced.php:424
+msgid "The Text mode allows you to enter HTML along with your post text. Note that &lt;p&gt; and &lt;br&gt; tags are converted to line breaks when switching to the Text editor to make it less cluttered. When you type, a single line break can be used instead of typing &lt;br&gt;, and two line breaks instead of paragraph tags. The line breaks are converted back to tags automatically."
+msgstr "[文字] 模式讓使用者輸入含有 HTML 程式碼的內容。請注意，切換至 [文字] 模式時，&lt;p&gt; 及 &lt;br&gt; 標籤會轉換成分行符號以避免版面雜亂。輸入內容時，輸入一次分行符號便可取代 &lt;br&gt; 標籤，而連續輸入兩次分行符號則可取代段落標籤。切換回 [預覽] 模式後，分行符號會自動轉換回對應的標籤。"
+
+#: classic-edit-form-advanced.php:431
+msgid "Title and Post Editor"
+msgstr "標題及文章編輯器"
+
+#: classic-edit-form-advanced.php:427
+msgid "Keyboard users: When you&#8217;re working in the visual editor, you can use <kbd>Alt + F10</kbd> to access the toolbar."
+msgstr "鍵盤使用者請注意，在編輯器的 [預覽] 模式中，使用者可以按下 <kbd>Alt + F10</kbd> 以存取工具列。"
+
+#: classic-edit-form-advanced.php:426
+msgid "You can enable distraction-free writing mode using the icon to the right. This feature is not available for old browsers or devices with small screens, and requires that the full-height editor be enabled in Screen Options."
+msgstr "使用者可以點擊位於右側的圖示以啟用 [專注寫作模式]。這項功能不適用於舊版瀏覽器或小螢幕裝置，且必須先在 [顯示項目設定] 中啟用全版高度編輯器。"
+
+#: classic-edit-form-advanced.php:425
+msgid "You can insert media files by clicking the icons above the post editor and following the directions. You can align or edit images using the inline formatting toolbar available in Visual mode."
+msgstr "使用者可以點擊文章編輯器上方的圖示並依照指示以插入媒體檔案，還可以在 [預覽] 模式中使用格式化工具列以對齊或編輯圖片。"
+
+#: classic-edit-form-advanced.php:423
+msgid "Visual mode gives you an editor that is similar to a word processor. Click the Toolbar Toggle button to get a second row of controls."
+msgstr "[預覽] 模式提供使用者類似文字處理程式 (例如 Word) 的編輯器功能。點擊 [工具列開關] 按鈕以顯示第二列功能控制項。"
+
+#: classic-edit-form-advanced.php:422
+msgid "<strong>Post editor</strong> &mdash; Enter the text for your post. There are two modes of editing: Visual and Text. Choose the mode by clicking on the appropriate tab."
+msgstr "<strong>文章編輯器</strong> &mdash; 作者撰寫文章內容的區域。文章編輯器提供 [預覽] 及 [文字] 兩種編輯模式，可透過點擊對應的編輯模式分頁進行切換。"
+
+#: classic-edit-form-advanced.php:421
+msgid "<strong>Title</strong> &mdash; Enter a title for your post. After you enter a title, you&#8217;ll see the permalink below, which you can edit."
+msgstr "<strong>標題</strong> &mdash; 作者可為文章輸入標題。標題輸入完畢後，將會在標題欄位下方看到永久連結，並且可以加以編輯。"
+
+#: classic-edit-form-advanced.php:417
+msgid "Customizing This Display"
+msgstr "自訂顯示項目"
+
+#: classic-edit-form-advanced.php:369
+msgid "Author"
+msgstr "作者"
+
+#: classic-edit-form-advanced.php:366
+msgid "Slug"
+msgstr "代稱"
+
+#: classic-edit-form-advanced.php:413
+msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
+msgstr "標題欄位及文章編輯區域為固定位置，但使用者可以透過拖放方式重新排列其他區塊，還可以點擊各個區塊的標題列以收合或展開區塊。使用 [顯示項目設定] 分頁便能顯示更多區塊，例如 [內容摘要]、[傳送引用通知]、[自訂欄位]、[討論]、[代稱] 及 [作者]，或設定這個畫面的版面配置為 [1 欄] 或 [2 欄]。"
+
+#: classic-edit-form-advanced.php:361
+msgid "Comments"
+msgstr "留言"
+
+#: classic-edit-form-advanced.php:348
+msgid "Discussion"
+msgstr "討論"
+
+#: classic-edit-form-advanced.php:333
+msgid "Custom Fields"
+msgstr "自訂欄位"
+
+#: classic-edit-form-advanced.php:330
+msgid "Send Trackbacks"
+msgstr "傳送引用通知"
+
+#: classic-edit-form-advanced.php:327
+msgid "Excerpt"
+msgstr "內容摘要"
+
+#: classic-edit-form-advanced.php:301
+msgctxt "post format"
+msgid "Format"
+msgstr "文章格式"
+
+#: classic-edit-form-advanced.php:297 classic-editor.php:440
+msgid "Publish"
+msgstr "發佈"
+
+#: classic-edit-form-advanced.php:294
+msgid "Metadata"
+msgstr "中繼資料"
+
+#: classic-edit-form-advanced.php:290
+msgid "Save"
+msgstr "儲存"
+
+#: classic-edit-form-advanced.php:283
+msgid "Revisions"
+msgstr "內容修訂"
+
+#: classic-edit-form-advanced.php:259
+msgid "There is an autosave of this post that is more recent than the version below. <a href=\"%s\">View the autosave</a>"
+msgstr "這篇內容的自動儲存版本比目前編輯區的內容更新。<a href=\"%s\">檢視這份自動儲存</a>"
+
+#: classic-edit-form-advanced.php:220
+msgid "Media file updated."
+msgstr "媒體檔案已更新。"
+
+#: classic-edit-form-advanced.php:218
+msgid "Page draft updated."
+msgstr "頁面草稿已更新。"
+
+#: classic-edit-form-advanced.php:217
+msgid "Page scheduled for: %s."
+msgstr "頁面排程發佈時間: %s。"
+
+#: classic-edit-form-advanced.php:216
+msgid "Page submitted."
+msgstr "頁面已提交。"
+
+#: classic-edit-form-advanced.php:215
+msgid "Page saved."
+msgstr "頁面已儲存。"
+
+#: classic-edit-form-advanced.php:214
+msgid "Page published."
+msgstr "頁面已發佈。"
+
+#. translators: %s: date and time of the revision
+#: classic-edit-form-advanced.php:213
+msgid "Page restored to revision from %s."
+msgstr "頁面已從 %s 的內容修訂還原。"
+
+#: classic-edit-form-advanced.php:208 classic-edit-form-advanced.php:211
+msgid "Page updated."
+msgstr "頁面已更新。"
+
+#: classic-edit-form-advanced.php:204
+msgid "Post draft updated."
+msgstr "文章草稿已更新。"
+
+#: classic-edit-form-advanced.php:203
+msgid "Post scheduled for: %s."
+msgstr "文章排程發佈時間: %s。"
+
+#: classic-edit-form-advanced.php:202
+msgid "Post submitted."
+msgstr "文章已提交。"
+
+#: classic-edit-form-advanced.php:201
+msgid "Post saved."
+msgstr "文章已儲存。"
+
+#: classic-edit-form-advanced.php:200
+msgid "Post published."
+msgstr "文章已發佈。"
+
+#. translators: %s: date and time of the revision
+#: classic-edit-form-advanced.php:199
+msgid "Post restored to revision from %s."
+msgstr "文章已從 %s 的內容修訂還原。"
+
+#: classic-edit-form-advanced.php:196 classic-edit-form-advanced.php:210
+msgid "Custom field deleted."
+msgstr "自訂欄位已刪除。"
+
+#: classic-edit-form-advanced.php:195 classic-edit-form-advanced.php:209
+msgid "Custom field updated."
+msgstr "自訂欄位已更新。"
+
+#: classic-edit-form-advanced.php:194 classic-edit-form-advanced.php:197
+msgid "Post updated."
+msgstr "文章已更新。"
+
+#. translators: Publish box date format, see https://secure.php.net/date
+#: classic-edit-form-advanced.php:190
+msgid "M j, Y @ H:i"
+msgstr "Y 年 n 月 j 日a g:i"
+
+#: classic-edit-form-advanced.php:184
+msgid "View page"
+msgstr "檢視頁面"
+
+#: classic-edit-form-advanced.php:172 classic-edit-form-advanced.php:178
+msgid "Preview page"
+msgstr "預覽頁面"
+
+#: classic-edit-form-advanced.php:166
+msgid "View post"
+msgstr "檢視文章"
+
+#: classic-edit-form-advanced.php:154 classic-edit-form-advanced.php:160
+msgid "Preview post"
+msgstr "預覽文章"

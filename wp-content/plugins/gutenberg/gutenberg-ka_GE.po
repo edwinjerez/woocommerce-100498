@@ -1,0 +1,3978 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Georgian
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-18 07:03:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ka_GE\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: languages/gutenberg-translations.php:2504 build/editor/index.js:50
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "სიტყვები"
+
+#: languages/gutenberg-translations.php:2444 build/block-library/index.js:12
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "შიგთავსი…"
+
+#: languages/gutenberg-translations.php:2435 build/block-library/index.js:12
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "ბმულად გარდაქმნა"
+
+#: languages/gutenberg-translations.php:2432 build/block-library/index.js:12
+msgctxt "button label"
+msgid "Try again"
+msgstr "ცადეთ კიდევ"
+
+#: languages/gutenberg-translations.php:2394 build/nux/index.js:1
+msgid "Editor tips"
+msgstr "რედაქტორის ტიპები"
+
+#. translators: %s: font size name
+#: languages/gutenberg-translations.php:1171 build/components/index.js:19
+msgid "Font size: %s"
+msgstr "შრიფტის ზომა: %s"
+
+#. translators: ARIA label for the Block sidebar tab, selected.
+#: languages/gutenberg-translations.php:1480 build/edit-post/index.js:12
+msgid "Block (selected)"
+msgstr "ბლოკი (არჩეული)"
+
+#. translators: ARIA label for the Document sidebar tab, selected.
+#: languages/gutenberg-translations.php:1476 build/edit-post/index.js:12
+msgid "Document (selected)"
+msgstr "დოკუმენტი (არჩეული)"
+
+#. Translators: Use this to specify the CSS font family for the default font
+#: lib/client-assets.php:1219
+msgctxt "CSS Font Family for Editor Font"
+msgid "Noto Serif"
+msgstr "Noto Serif"
+
+#: lib/client-assets.php:403
+msgctxt "Google Font Name and Variants"
+msgid "Noto Serif:400,400i,700,700i"
+msgstr "Noto Serif:400,400i,700,700i"
+
+#. translators: %d: number of words
+#: languages/gutenberg-translations.php:1845 build/editor/index.js:50
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d სიტყვა"
+
+#: languages/gutenberg-translations.php:1281 build/edit-post/index.js:12
+msgid "Top Toolbar"
+msgstr "ხელსაწყოთა ზედა ზოლი"
+
+#: languages/gutenberg-translations.php:709 build/block-library/index.js:12
+msgid "Mark the excerpt of this content. Content before this block will be shown in the excerpt on your archives page."
+msgstr "მონიშნეთ ნაწყვეტი ამ შიგთავსიდან. შიგთავსი ამ ბლოკამდე ნაჩვენები იქნება ნაწყვეტის სახით არქივების გვერდზე."
+
+#: languages/gutenberg-translations.php:578 build/block-library/index.js:12
+msgid "Link Rel"
+msgstr "ურთიერთმდგომარეობა"
+
+#: languages/gutenberg-translations.php:575 build/block-library/index.js:12
+msgid "Link CSS Class"
+msgstr "ბმულის CSS-კლასი"
+
+#: languages/gutenberg-translations.php:96 build/block-library/index.js:12
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "შექმენით შიგთავსი და შეინახეთ ის თქვენთვის და სხვა ავტორებისატვის ხელმეორედ გამოსაყენებლად. განაახლეთ ბლოკი და ცვლილება მოხდება ყველგან, სადაც ის გამოყენებულია."
+
+#: gutenberg.php:47
+msgid "https://wordpress.org/plugins/classic-editor/"
+msgstr "https://wordpress.org/plugins/classic-editor/"
+
+#: lib/class-wp-rest-autosaves-controller.php:162
+msgid "Sorry, you are not allowed to view revisions of this post."
+msgstr "უკაცრავად, არ გაქვთ ამ ჩანაწერის რევიზიების ნახვის უფლება."
+
+#: languages/gutenberg-translations.php:1884 build/editor/index.js:50
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "ჩანაწერის სურათის ჩასწორებისათვის თქვენ გჭირდებათ ამ მედიაფაილის ჩატვირთვის ნებართვა."
+
+#: languages/gutenberg-translations.php:1822 build/editor/index.js:50
+msgid "Given your current role, you can only link a video, you cannot upload."
+msgstr "თქვენი მიმდინარე როლით თქვენ შეგიძლიათ ვიდეოფაილზე მითითება, მაგრამ არ შეგიძლიათ მათი ატვირთვა."
+
+#: languages/gutenberg-translations.php:1819 build/editor/index.js:50
+msgid "Given your current role, you can only link an image, you cannot upload."
+msgstr "თქვენი მიმდინარე როლით თქვენ შეგიძლიათ სურათზე მითითება, მაგრამ არ შეგიძლიათ მათი ატვირთვა."
+
+#: languages/gutenberg-translations.php:1816 build/editor/index.js:50
+msgid "Given your current role, you can only link an audio, you cannot upload."
+msgstr "თქვენი მიმდინარე როლით თქვენ შეგიძლიათ აუდიოფაილზე მითითება, მაგრამ არ შეგიძლიათ მათი ატვირთვა."
+
+#: languages/gutenberg-translations.php:1813 build/editor/index.js:50
+msgid "Given your current role, you can only link a media file, you cannot upload."
+msgstr "თქვენი მიმდინარე როლით თქვენ შეგიძლიათ მედიაფაილზე მითითება, მაგრამ არ შეგიძლიათ მათი ატვირთვა."
+
+#: languages/gutenberg-translations.php:1798 build/editor/index.js:50
+msgid "To edit this block, you need permission to upload media."
+msgstr "ამ ბლოკის ჩასწორებისას თქვენ გესაჭიროებათ ნებართვა მედიაფაილის ატვირთვაზე."
+
+#: languages/gutenberg-translations.php:1674 build/editor/index.js:50
+msgid "(selected block)"
+msgstr "(არჩეული ბლოკი)"
+
+#: languages/gutenberg-translations.php:1604 build/editor/index.js:50
+msgid "Block tools"
+msgstr "ბლოკების ხელსაწყოები"
+
+#: languages/gutenberg-translations.php:1424 build/edit-post/index.js:12
+msgid "Permalink"
+msgstr "მუდმივი ბმული"
+
+#: languages/gutenberg-translations.php:584 build/block-library/index.js:12
+msgid "This image has an empty alt attribute"
+msgstr "ამ სურათს აქვს ცარიელი alt ატრიბუტი"
+
+#: languages/gutenberg-translations.php:581 build/block-library/index.js:12
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "ამ სურათს აქვს ცარიელი alt ატრიბუტი; ფაილის სახელი: %s"
+
+#. translators: %s: https://wordpress.org/plugins/classic-editor
+#: gutenberg.php:46
+msgid "The Block Editor requires JavaScript. Please try the <a href=\"%s\">Classic Editor plugin</a>."
+msgstr "ბლოკების რედაქტორს სჭირდება JavaScript. გთხოვთ სცადოთ პლაგინი <a href=\"%s\">Classic Editor</a>."
+
+#. Translators: link is to current page specify classic editor.
+#: gutenberg.php:40
+msgid "The Block Editor requires JavaScript. You can use the <a href=\"%s\">Classic Editor</a>."
+msgstr "ბლოკების რედაქტორს სჭირდება JavaScript. შეგიძლიათ გამოიყენოთ პლაგინი <a href=\"%s\">Classic Editor</a>."
+
+#. translators: Number of blocks untrashed.
+#: lib/register.php:558
+msgid "%s block restored from the Trash."
+msgid_plural "%s blocks restored from the Trash."
+msgstr[0] "%s ბლოკი აღდგენილია სანაგვედან."
+
+#. translators: Number of blocks trashed.
+#: lib/register.php:556
+msgid "%s block moved to the Trash."
+msgid_plural "%s blocks moved to the Trash."
+msgstr[0] "%s ბლოკი გადატანილია სანაგვეში."
+
+#. translators: Number of blocks deleted.
+#: lib/register.php:554
+msgid "%s block permanently deleted."
+msgid_plural "%s blocks permanently deleted."
+msgstr[0] "%s ბლოკი სამუდამოდ წაიშალა."
+
+#. translators: Blocks not updated because they're locked.
+#: lib/register.php:552
+msgid "%s block not updated, somebody is editing it."
+msgid_plural "%s blocks not updated, somebody is editing them."
+msgstr[0] "%s ელემენტი ვერ განახლდა, ვიღაც ასწორებს მათ."
+
+#. translators: Blocks not updated because they're locked.
+#: lib/register.php:552
+msgid "1 block not updated, somebody is editing it."
+msgstr "1 ბლოკი არ განახლდა, ვიღაც მუშაობს მასთან."
+
+#. translators: Number of blocks updated.
+#: lib/register.php:550
+msgid "%s block updated."
+msgid_plural "%s blocks updated."
+msgstr[0] "%s ბლოკი განახლდა."
+
+#: lib/register.php:466
+msgid "Block scheduled."
+msgstr "ბლოკი დაიგეგმა."
+
+#: lib/register.php:465
+msgid "Block reverted to draft."
+msgstr "ბლოკი დაბრუნდა მონახაზებში."
+
+#: lib/register.php:464
+msgid "Block published privately."
+msgstr "ბლოკი გამოქვეყნდა, როგორც პირადი."
+
+#: lib/register.php:463
+msgid "Block published."
+msgstr "ბლოკი გამოქვეყნდა."
+
+#: lib/register.php:462
+msgid "Blocks list"
+msgstr "ბლოკების სია"
+
+#: lib/register.php:461
+msgid "Blocks list navigation"
+msgstr "გადაადგილება ბლოკების სიაში"
+
+#: lib/register.php:460
+msgid "Filter blocks list"
+msgstr "ბლოკების სიის გაფილტვრა"
+
+#: lib/register.php:459
+msgid "No blocks found in Trash."
+msgstr "სანაგვეში ჩანაწერები არ მოიძებნა."
+
+#: lib/register.php:456
+msgid "All Blocks"
+msgstr "ყველა ბლოკი"
+
+#: lib/register.php:455
+msgid "View Block"
+msgstr "ბლოკის ნახვა"
+
+#: lib/register.php:454
+msgid "Edit Block"
+msgstr "ბლოკის ჩასწორება"
+
+#: lib/register.php:453
+msgid "New Block"
+msgstr "ახალი ბლოკი"
+
+#: lib/register.php:452
+msgid "Add New Block"
+msgstr "ახალი ბლოკის დამატება"
+
+#: lib/register.php:451
+msgctxt "Block"
+msgid "Add New"
+msgstr "ახლის დამატება"
+
+#: lib/register.php:450
+msgctxt "add new on admin bar"
+msgid "Block"
+msgstr "ბლოკი"
+
+#: lib/register.php:449
+msgctxt "admin menu"
+msgid "Blocks"
+msgstr "ბლოკი"
+
+#: lib/register.php:448
+msgctxt "post type singular name"
+msgid "Block"
+msgstr "ბლოკი"
+
+#: lib/register.php:447
+msgctxt "post type general name"
+msgid "Blocks"
+msgstr "ბლოკი"
+
+#: languages/gutenberg-translations.php:2351 build/format-library/index.js:12
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "ყურადღება: ბმული დამატებულია, მაგრამ შესაძლოა შეიცავდეს შეცდომებს. გთხოვთ გადაამოწმოთ."
+
+#: languages/gutenberg-translations.php:2290 build/editor/index.js:50
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s ბლოკი არჩეულია."
+
+#: languages/gutenberg-translations.php:2281 lib/client-assets.php:985
+#: build/editor/index.js:50
+msgid "Thumbnail"
+msgstr "ესკიზი"
+
+#: languages/gutenberg-translations.php:2245 lib/client-assets.php:988
+#: build/editor/index.js:50
+msgid "Full Size"
+msgstr "სრული ზომა"
+
+#: languages/gutenberg-translations.php:2125 build/editor/index.js:50
+msgid "Start writing with text or HTML"
+msgstr "დაწყეთ ტექსტის, ან HTML-კოდის წერა"
+
+#: languages/gutenberg-translations.php:2122 build/editor/index.js:50
+msgid "Type text or HTML"
+msgstr "ტექსტის, ან HTML-კოდის წერა"
+
+#: languages/gutenberg-translations.php:1807 build/editor/index.js:50
+msgid "Drag an image, upload a new one or select a file from your library."
+msgstr "გადაათრიეთ სურათი, ატვირთეთ ახალი, ან აირჩიეთ სასურველი ბიბლიოთეკიდან."
+
+#: languages/gutenberg-translations.php:1804 build/editor/index.js:50
+msgid "Drag an audio, upload a new one or select a file from your library."
+msgstr "გადაათრიეთ აუდიო-ფაილი, ატვირთეთ ახალი, ან აირჩიეთ სასურველი ბიბლიოთეკიდან."
+
+#: languages/gutenberg-translations.php:1801 build/editor/index.js:50
+msgid "Drag a media file, upload a new one or select a file from your library."
+msgstr "გადაათრიეთ მედია-ფაილი, ატვირთეთ ახალი, ან აირჩიეთ სასურველი ბიბლიოთეკიდან."
+
+#: languages/gutenberg-translations.php:1728 build/editor/index.js:50
+msgid "Block icon"
+msgstr "ბლოკის ხატულა"
+
+#: languages/gutenberg-translations.php:1556 build/editor/index.js:50
+msgid "Align text right"
+msgstr "ტექსტის გასწორება მარჯვნივ"
+
+#: languages/gutenberg-translations.php:1553 build/editor/index.js:50
+msgid "Align text center"
+msgstr "ტექსტის გასწორება ცენტრში"
+
+#: languages/gutenberg-translations.php:1550 build/editor/index.js:50
+msgid "Align text left"
+msgstr "ტექსტის გასწორება მარცხნივ"
+
+#: languages/gutenberg-translations.php:740 lib/client-assets.php:1296
+#: build/editor/index.js:50 build/block-library/index.js:12
+msgid "Start writing or type / to choose a block"
+msgstr "დაიწყეთ წერა, ან დააჭირეთ კლავიშზე (/) ბლოკის ასარჩევად"
+
+#: languages/gutenberg-translations.php:736 build/block-library/index.js:12
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "ცარიელი ბლოკი; დაიწყეთ წერა, ან დააჭირეთ კლავიშზე (/) ბლოკის არჩევისათვის"
+
+#: languages/gutenberg-translations.php:733 build/block-library/index.js:12
+msgid "Paragraph block"
+msgstr "პარაგრაფის ბლოკი"
+
+#: languages/gutenberg-translations.php:715 build/block-library/index.js:12
+msgid "Page Break"
+msgstr "გვერდის გაწყვეტა"
+
+#: languages/gutenberg-translations.php:676 build/block-library/index.js:12
+msgid "Stack on mobile"
+msgstr "დაჯგუფება მობილურ რეჟიმში"
+
+#: languages/gutenberg-translations.php:462 build/block-library/index.js:12
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "გადაათრიეთ სურათი, ატვირთეთ ახალი, ან აირჩიეთ სასურველი ბიბლიოთეკიდან."
+
+#: languages/gutenberg-translations.php:381 build/block-library/index.js:12
+msgid "Drag a file, upload a new one or select a file from your library."
+msgstr "გადაათრიეთ ფაილი, ატვირთეთ ახალი, ან აირჩიეთ სასურველი ბიბლიოთეკიდან."
+
+#: languages/gutenberg-translations.php:5 build/annotations/index.js:1
+msgid "Annotation"
+msgstr "ანოტაცია"
+
+#: languages/gutenberg-translations.php:2485 build/editor/index.js:50
+msgctxt "blocks"
+msgid "Most Used"
+msgstr "ხშირად გამოყენებული"
+
+#. translators: Button to fix block content
+#: languages/gutenberg-translations.php:2479 build/editor/index.js:50
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "გასწორება"
+
+#: languages/gutenberg-translations.php:2472 build/editor/index.js:50
+msgctxt "font size name"
+msgid "Huge"
+msgstr "უზარმაზარი"
+
+#: languages/gutenberg-translations.php:2469 build/editor/index.js:50
+msgctxt "font size name"
+msgid "Large"
+msgstr "დიდი"
+
+#: languages/gutenberg-translations.php:2466 build/editor/index.js:50
+msgctxt "font size name"
+msgid "Medium"
+msgstr "საშუალო"
+
+#: languages/gutenberg-translations.php:2463 build/editor/index.js:50
+msgctxt "font size name"
+msgid "Small"
+msgstr "პატარა"
+
+#: languages/gutenberg-translations.php:2457 build/editor/index.js:50
+#: build/components/index.js:19
+msgctxt "font size name"
+msgid "Normal"
+msgstr "ჩვეულებრივი"
+
+#: languages/gutenberg-translations.php:2453 build/components/index.js:19
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "შეტანა"
+
+#: languages/gutenberg-translations.php:2441
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "იმპორტი"
+
+#: languages/gutenberg-translations.php:2438 build/block-library/index.js:12
+msgctxt "button label"
+msgid "Download"
+msgstr "ჩამოტვირთვა"
+
+#: languages/gutenberg-translations.php:2429 build/block-library/index.js:12
+msgctxt "button label"
+msgid "Embed"
+msgstr "ჩაშენებული"
+
+#: languages/gutenberg-translations.php:2426 build/block-library/index.js:12
+msgctxt "block title"
+msgid "Embed"
+msgstr "ჩაშენებული"
+
+#: languages/gutenberg-translations.php:2423 build/block-library/index.js:12
+msgctxt "block title"
+msgid "Classic"
+msgstr "კლასიკური"
+
+#: languages/gutenberg-translations.php:2417 build/block-library/index.js:12
+msgctxt "block style"
+msgid "Large"
+msgstr "დიდი"
+
+#: languages/gutenberg-translations.php:2414 build/block-library/index.js:12
+msgctxt "block style"
+msgid "Regular"
+msgstr "ჩვეულებრივი"
+
+#: languages/gutenberg-translations.php:2409 build/block-library/index.js:12
+msgctxt "block style"
+msgid "Squared"
+msgstr "კვადრატული"
+
+#: languages/gutenberg-translations.php:2406 build/block-library/index.js:12
+msgctxt "block style"
+msgid "Rounded"
+msgstr "მომრგვალებული"
+
+#. translators: accessibility label for external links, where the argument is
+#. the link text
+#: languages/gutenberg-translations.php:2361 build/format-library/index.js:12
+msgid "%s (opens in a new tab)"
+msgstr "%s (გაიხსნება ახალ ჩანართში)"
+
+#: languages/gutenberg-translations.php:2354 build/format-library/index.js:12
+msgid "Link edited."
+msgstr "ბმული ჩასწორებულია."
+
+#: languages/gutenberg-translations.php:2348 build/format-library/index.js:12
+msgid "Link removed."
+msgstr "ბმული წაშილია."
+
+#: languages/gutenberg-translations.php:2336 build/format-library/index.js:12
+msgid "media"
+msgstr "მედია"
+
+#: languages/gutenberg-translations.php:2055 build/editor/index.js:50
+msgid "Double-check your settings before publishing."
+msgstr "ორჯერ გადაამოწმეთ პარამეტრები, სანამ გამოაქვეყნებთ."
+
+#: languages/gutenberg-translations.php:1967 build/editor/index.js:50
+msgid "Generating preview…"
+msgstr "გადახედვის გენერირება…"
+
+#: languages/gutenberg-translations.php:1887 build/editor/index.js:50
+msgid "Edit or update the image"
+msgstr "სურათის განახლება, ან ჩასწორება"
+
+#: languages/gutenberg-translations.php:1825 build/editor/index.js:50
+msgid "Media"
+msgstr "მედია"
+
+#: languages/gutenberg-translations.php:1350 build/edit-post/index.js:12
+msgid "Navigate to the nearest toolbar."
+msgstr "გადასვლა ხელსაწყოთა უახლოეს პანელზე."
+
+#: languages/gutenberg-translations.php:1268 build/edit-post/index.js:12
+msgid "Hide more tools & options"
+msgstr "დამატებითი ხელსაწყოებისა და პარამეტრების დამალვა"
+
+#: languages/gutenberg-translations.php:1265 build/edit-post/index.js:12
+msgid "Show more tools & options"
+msgstr "დამატებითი ხელსაწყოებისა და პარამეტრების ჩვენება"
+
+#. translators: accessibility text for the editor toolbar when Top Toolbar is
+#. off
+#: languages/gutenberg-translations.php:1241 build/edit-post/index.js:12
+msgid "Document tools"
+msgstr "დოკუმენტის ხელსაწყოები"
+
+#. translators: accessibility text for the editor toolbar when Top Toolbar is
+#. on
+#: languages/gutenberg-translations.php:1237 build/edit-post/index.js:12
+msgid "Document and block tools"
+msgstr "დოკუმენტის და ბლოკის ინსტრუმენტები"
+
+#: languages/gutenberg-translations.php:952 build/block-library/index.js:12
+msgid "Embed a video from your media library or upload a new one."
+msgstr "ჩასვით ვიდეო თქვენი მედია-ბიბლიოთეკიდან, ან ატვირთეთ ახალი."
+
+#: languages/gutenberg-translations.php:913 build/block-library/index.js:12
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "ლექსის სტროფების ჩასმა. შესაძლებელია ინტერვალების სპეციალური ფორმატის გამოყენება, ანდა სიმღერის ტექსტის ციტირება."
+
+#: languages/gutenberg-translations.php:832 build/block-library/index.js:12
+msgid "Add white space between blocks and customize its height."
+msgstr "დაამატეთ დაშორება ბლოკებს შორის და მოარგეთ მისი სიმაღლე."
+
+#: languages/gutenberg-translations.php:820 build/block-library/index.js:12
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "დამატებითი სამომხმარებლო ელემენტების ჩასმა მალსახმობის საშუალებით."
+
+#: languages/gutenberg-translations.php:802 build/block-library/index.js:12
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "შექმენით შუალედი იდეებსა და სექციებს შორის ჰორიზონტალური გამყოფის მეშვეობით."
+
+#: languages/gutenberg-translations.php:793 build/block-library/index.js:12
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "გამოყავით ვიზუალურად ციტატა. „სხვისი ციტირებით, ჩვენ საკუთარ თავს ვციტირებთ.“ — Julio Cortázar"
+
+#: languages/gutenberg-translations.php:783 build/block-library/index.js:12
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "გამოყავით ვიზუალურად ციტატა თქვენი ტექსტიდან."
+
+#: languages/gutenberg-translations.php:752 build/block-library/index.js:12
+msgid "Start with the building block of all narrative."
+msgstr "დაიწყეთ თხრობითი ბლოკის შექმნით."
+
+#: languages/gutenberg-translations.php:718 build/block-library/index.js:12
+msgid "Separate your content into a multi-page experience."
+msgstr "დაყავით შიგთავსი რამდენიმე გვერდათ."
+
+#: languages/gutenberg-translations.php:682 build/block-library/index.js:12
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "დააყენეთ მულტიმედია ელემენტი და შემოსაზღვრეთ ის ტექსტით ლამაზი მაკეტისათვის."
+
+#: languages/gutenberg-translations.php:673 build/block-library/index.js:12
+msgid "Media & Text Settings"
+msgstr "მედიისა და ტექსტის პარამეტრები"
+
+#: languages/gutenberg-translations.php:655 build/block-library/index.js:12
+msgid "Create a bulleted or numbered list."
+msgstr "ბურთულებიანი, ან დამონრილი სიის შექმნა."
+
+#: languages/gutenberg-translations.php:618 build/block-library/index.js:12
+msgid "Display a list of your most recent comments."
+msgstr "საიტის ბოლო კომენტარები."
+
+#: languages/gutenberg-translations.php:593 build/block-library/index.js:12
+msgid "Insert an image to make a visual statement."
+msgstr "დაამატეთ სურათი ვიზუალური განაცხადისათვის."
+
+#: languages/gutenberg-translations.php:548 build/block-library/index.js:12
+msgid "Alternative text describes your image to people who can’t see it. Add a short description with its key details."
+msgstr "ალტერნატიული ტექსტი აღწერს თქვენს სურათს მათთვის, ვისაც არ შეუძლია მისი დანახვა. დაამატეთ მოკლე არწერილობა საკვანძო დეტალებით."
+
+#: languages/gutenberg-translations.php:528 build/block-library/index.js:12
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "დაამატეთ მორგებული HTML კოდი და ნახეთ შედეგი ჩასწორების პროცესში."
+
+#: languages/gutenberg-translations.php:505 build/block-library/index.js:12
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "გამოაცხადეთ ახალი სექციები და მოარგეთ შიგთავსი მომხმაერებელთა დასახმარებლად (აგრეთვე, საძიებო სისტემებისათვის) გაიგონ მისი სტრუქტურა."
+
+#: languages/gutenberg-translations.php:483 build/block-library/index.js:12
+msgid "Display multiple images in a rich gallery."
+msgstr "რამოდენიმე სურათის გაერთიანება გალაერეაში."
+
+#: languages/gutenberg-translations.php:398 build/block-library/index.js:12
+msgid "Add a link to a downloadable file."
+msgstr "ბმულის დამატება ჩამოსატვირთ ფაილზე."
+
+#: languages/gutenberg-translations.php:369 build/block-library/index.js:12
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "ვიდეოს, სურათების, ტვიტების, აუდიოს და სხვა შიგთავსის ჩაშენება გარე წყაროებიდან."
+
+#: languages/gutenberg-translations.php:351 build/block-library/index.js:12
+msgid "Resize for smaller devices"
+msgstr "ზომის შეცვლა პატარა მოწყობილობებისათვის"
+
+#: languages/gutenberg-translations.php:339 build/block-library/index.js:12
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "ამ ჩაშენებულმა ობიექტმა შესაძლოა ვერ შეინარჩუნოს მხარეთა თანაფარდობა ბრაუზერის ფანჯრის ცვლილებისას."
+
+#: languages/gutenberg-translations.php:336 build/block-library/index.js:12
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "ეს ჩაშენებული ობიექტი შეინარჩუნებს მხარეთა თანაფარდობას ბრაუზერის ფანჯრის ცვლილებისას."
+
+#: languages/gutenberg-translations.php:333 build/block-library/index.js:12
+msgid "Embed an Animoto video."
+msgstr "Animoto ვიდეოს ჩაშენება."
+
+#: languages/gutenberg-translations.php:330 build/block-library/index.js:12
+msgid "Embed a Vimeo video."
+msgstr "Vimeo ვიდეოს ჩაშენება."
+
+#: languages/gutenberg-translations.php:327 build/block-library/index.js:12
+msgid "Embed Flickr content."
+msgstr "Flickr შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:320 build/block-library/index.js:12
+msgid "Embed Spotify content."
+msgstr "Spotify შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:317 build/block-library/index.js:12
+msgid "Embed SoundCloud content."
+msgstr "SoundCloud შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:314 build/block-library/index.js:12
+msgid "Embed a WordPress post."
+msgstr "WordPress-ის ჩანაწერის ჩასმა."
+
+#: languages/gutenberg-translations.php:305 build/block-library/index.js:12
+msgid "Embed an Instagram post."
+msgstr "Instagram ჩანაწერის ჩაშენება."
+
+#: languages/gutenberg-translations.php:302 build/block-library/index.js:12
+msgid "Embed a Facebook post."
+msgstr "Facebook ჩანაწერის ჩაშენება."
+
+#: languages/gutenberg-translations.php:299 build/block-library/index.js:12
+msgid "Embed a WordPress.tv video."
+msgstr "WordPress.tv ვიდეოს ჩაშენება."
+
+#: languages/gutenberg-translations.php:296 build/block-library/index.js:12
+msgid "Embed a VideoPress video."
+msgstr "VideoPress ვიდეოს ჩაშენება."
+
+#: languages/gutenberg-translations.php:289 build/block-library/index.js:12
+msgid "Embed a Tumblr post."
+msgstr "Tumblr სტატიის ჩაშენება."
+
+#: languages/gutenberg-translations.php:286 build/block-library/index.js:12
+msgid "Embed a TED video."
+msgstr "TED ვიდეოს ჩაშენება."
+
+#: languages/gutenberg-translations.php:280 build/block-library/index.js:12
+msgid "Embed Speaker Deck content."
+msgstr "Speaker Deck შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:283 build/block-library/index.js:12
+msgid "Embed a YouTube video."
+msgstr "YouTube ვიდეოს ჩაშენება."
+
+#: languages/gutenberg-translations.php:277 build/block-library/index.js:12
+msgid "Embed SmugMug content."
+msgstr "SmugMug შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:274 build/block-library/index.js:12
+msgid "Embed Slideshare content."
+msgstr "Slideshare შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:271 build/block-library/index.js:12
+msgid "Embed Scribd content."
+msgstr "Scribd შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:268 build/block-library/index.js:12
+msgid "Embed Screencast content."
+msgstr "Screencast შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:265 build/block-library/index.js:12
+msgid "Embed ReverbNation content."
+msgstr "ReverbNation შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:262 build/block-library/index.js:12
+msgid "Embed a Reddit thread."
+msgstr "Reddit შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:259 build/block-library/index.js:12
+msgid "Embed Polldaddy content."
+msgstr "Polldaddy შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:256 build/block-library/index.js:12
+msgid "Embed Mixcloud content."
+msgstr "Mixcloud შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:253 build/block-library/index.js:12
+msgid "Embed a tweet."
+msgstr "ტვიტის ჩაშენება."
+
+#: languages/gutenberg-translations.php:244 build/block-library/index.js:12
+msgid "Embed Meetup.com content."
+msgstr "Meetup.com შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:241 build/block-library/index.js:12
+msgid "Embed Kickstarter content."
+msgstr "Kickstarter შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:238 build/block-library/index.js:12
+msgid "Embed Issuu content."
+msgstr "Issuu შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:235 build/block-library/index.js:12
+msgid "Embed Imgur content."
+msgstr "Imgur შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:232 build/block-library/index.js:12
+msgid "Embed Hulu content."
+msgstr "Hulu შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:229 build/block-library/index.js:12
+msgid "Embed a Dailymotion video."
+msgstr "Dailymotion ვიდეოს ჩაშენება."
+
+#: languages/gutenberg-translations.php:226 build/block-library/index.js:12
+msgid "Embed CollegeHumor content."
+msgstr "CollegeHumor შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:223 build/block-library/index.js:12
+msgid "Embed Cloudup content."
+msgstr "Cloudup შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:220 build/block-library/index.js:12
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "დაამატეთ სურათი ან ვიდეო ტექსტის გადაფარვით — არაჩვეულებრივია სათაურებისათვის."
+
+#: languages/gutenberg-translations.php:214 build/block-library/index.js:12
+msgid "Drag an image or a video, upload a new one or select a file from your library."
+msgstr "გადაათრიეთ სურათი, ატვირთეთ ახალი, ან აირჩიეთ სასურველი ბიბლიოთეკიდან."
+
+#: languages/gutenberg-translations.php:174 build/block-library/index.js:12
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "აჩვენეთ კოდის ფრაგმენტი დაშორებებით და ტაბულაციით."
+
+#: languages/gutenberg-translations.php:163 build/block-library/index.js:12
+msgid "Use the classic WordPress editor."
+msgstr "WordPress-ის კლასიკური რედაქტორის გამოყენება."
+
+#: languages/gutenberg-translations.php:154 build/block-library/index.js:12
+msgid "Display a list of all categories."
+msgstr "ყველა კატეგორიის სიის ჩვენება."
+
+#: languages/gutenberg-translations.php:133 build/block-library/index.js:12
+msgid "Prompt visitors to take action with a custom button."
+msgstr "მოიწვიეთ ვიზიტორები სამომხმარებლო ღილაკის გამოყენებისათვის."
+
+#: languages/gutenberg-translations.php:75 build/block-library/index.js:12
+msgid "Embed a simple audio player."
+msgstr "მარტივი აუდიო დამკვრელის ჩაშენება."
+
+#: lib/rest-api.php:335
+msgid "Page published privately."
+msgstr "გვერდი გამოქვეყნდა როგორც პირადი."
+
+#: lib/rest-api.php:338
+msgid "Page updated."
+msgstr "გვერდი განახლდა."
+
+#: lib/rest-api.php:337
+msgid "Page scheduled."
+msgstr "გვერდის გამოქვეყნება დაგეგმილია."
+
+#: lib/rest-api.php:336
+msgid "Page reverted to draft."
+msgstr "გვერდი გადატანილია მონახაზებში."
+
+#: lib/rest-api.php:334
+msgid "Page published."
+msgstr "გვერდი გამოქვეყნდა."
+
+#: lib/client-assets.php:244
+msgid "M j, Y g:i a"
+msgstr "M j, Y g:i a"
+
+#: lib/class-wp-rest-themes-controller.php:194
+msgid "Limit result set to themes assigned one or more statuses."
+msgstr "თემების შედეგის შეზღუდვა დანიშნული სტატუსით."
+
+#: lib/class-wp-rest-themes-controller.php:171
+msgid "Whether the theme supports responsive embedded content."
+msgstr "თემის მხრიდან ადაპტიური, ჩაშენებადი შიგთავსის მხარდაჭერა."
+
+#: lib/class-wp-rest-themes-controller.php:166
+msgid "Whether the theme supports post thumbnails."
+msgstr "თემის მხრიდან მინიატურების მხარდაჭერა."
+
+#: lib/class-wp-rest-themes-controller.php:161
+msgid "Post formats supported."
+msgstr "ჩანაწერების მხარდაჭერილი ფორმატები."
+
+#: lib/class-wp-rest-themes-controller.php:156
+msgid "Features supported by this theme."
+msgstr "ამ თემის მიერ მხარდაჭერილი შესაძლებლობები."
+
+#: lib/class-wp-rest-themes-controller.php:62
+msgid "Sorry, you are not allowed to view themes."
+msgstr "უკაცრავად, არ გაქვთ თემის ნახვის უფლება."
+
+#: languages/gutenberg-translations.php:2475 build/edit-post/index.js:12
+msgctxt "noun"
+msgid "View"
+msgstr "ხედი"
+
+#: languages/gutenberg-translations.php:2460 build/components/index.js:19
+msgctxt "font size name"
+msgid "Custom"
+msgstr "მორგებული"
+
+#: languages/gutenberg-translations.php:2450 build/block-library/index.js:12
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "მარცხნიდან მარჯვნივ"
+
+#: languages/gutenberg-translations.php:2067 build/editor/index.js:50
+msgid "Save as Pending"
+msgstr "შენახვა დასამტკიცებლად"
+
+#. translators: %s: post type singular name
+#: languages/gutenberg-translations.php:2025 build/editor/index.js:50
+msgid "%s address"
+msgstr "%s მისამართი"
+
+#: languages/gutenberg-translations.php:1837 build/editor/index.js:50
+msgid "Paste or type URL"
+msgstr "ჩასვით, ან შეიტანეთ URL"
+
+#: languages/gutenberg-translations.php:1834 build/editor/index.js:50
+msgid "Insert from URL"
+msgstr "საიტიდან ჩასმა"
+
+#: languages/gutenberg-translations.php:1671 build/editor/index.js:50
+msgid "Block Navigation"
+msgstr "გადაადგილება ბლოკებში"
+
+#: languages/gutenberg-translations.php:1593 build/editor/index.js:50
+msgid "Styles"
+msgstr "სტილები"
+
+#: languages/gutenberg-translations.php:1466 build/edit-post/index.js:12
+msgid "Click to change"
+msgstr "შესაცვლელად დააწკაპუნეთ"
+
+#: languages/gutenberg-translations.php:1444 build/edit-post/index.js:12
+msgid "Advanced Panels"
+msgstr "დამატებითი პანელები"
+
+#: languages/gutenberg-translations.php:1420 build/edit-post/index.js:12
+msgid "Document Panels"
+msgstr "დოკუმენტის პანელი"
+
+#: languages/gutenberg-translations.php:1417 build/edit-post/index.js:12
+msgid "Enable Tips"
+msgstr "რჩევების ჩართვა"
+
+#: languages/gutenberg-translations.php:1411 build/edit-post/index.js:12
+msgid "General"
+msgstr "საერთო"
+
+#: languages/gutenberg-translations.php:1335 build/edit-post/index.js:12
+msgid "Open the block navigation menu."
+msgstr "ბლოკებში გადასვლის მენიუს გახსნა."
+
+#: languages/gutenberg-translations.php:1296 build/edit-post/index.js:12
+msgid "Work without distraction"
+msgstr "მუშაობა ყურადღების გაფანტვის გარეშე"
+
+#: languages/gutenberg-translations.php:1290 build/edit-post/index.js:12
+msgid "Focus on one block at a time"
+msgstr "ყურადᲦᲔᲑᲐ ერთ კონკრეტულ ბლოკზე"
+
+#: languages/gutenberg-translations.php:1284 build/edit-post/index.js:12
+msgid "Access all block and document tools in a single place"
+msgstr "წვდომა ყველა ბლოკზე და ხელსაწყოზე ერთ ადგილას"
+
+#: languages/gutenberg-translations.php:1272 build/edit-post/index.js:12
+msgid "Options"
+msgstr "პარამეტრები"
+
+#. translators: accessibility text
+#: languages/gutenberg-translations.php:1158 build/editor/index.js:50
+#: build/components/index.js:19
+msgid "(opens in a new tab)"
+msgstr "(ხსნის ახალი ჩანართში)"
+
+#: languages/gutenberg-translations.php:1144 build/components/index.js:19
+msgid "Minutes"
+msgstr "წუთი"
+
+#: languages/gutenberg-translations.php:1141 build/components/index.js:19
+msgid "Hours"
+msgstr "საათი"
+
+#: languages/gutenberg-translations.php:1138 build/components/index.js:19
+msgid "Time"
+msgstr "დრო"
+
+#: languages/gutenberg-translations.php:1135 build/components/index.js:19
+msgid "Year"
+msgstr "წელი"
+
+#: languages/gutenberg-translations.php:1132 build/components/index.js:19
+msgid "Day"
+msgstr "დღე"
+
+#: languages/gutenberg-translations.php:1129 build/components/index.js:19
+msgid "December"
+msgstr "დეკემბერი"
+
+#: languages/gutenberg-translations.php:1126 build/components/index.js:19
+msgid "November"
+msgstr "ნოემბერი"
+
+#: languages/gutenberg-translations.php:1123 build/components/index.js:19
+msgid "October"
+msgstr "ოქტომბერი"
+
+#: languages/gutenberg-translations.php:1120 build/components/index.js:19
+msgid "September"
+msgstr "სექტემბერი"
+
+#: languages/gutenberg-translations.php:1117 build/components/index.js:19
+msgid "August"
+msgstr "აგვისტო"
+
+#: languages/gutenberg-translations.php:1114 build/components/index.js:19
+msgid "July"
+msgstr "ივლისი"
+
+#: languages/gutenberg-translations.php:1111 build/components/index.js:19
+msgid "June"
+msgstr "ივნისი"
+
+#: languages/gutenberg-translations.php:1108 build/components/index.js:19
+msgid "May"
+msgstr "მაი"
+
+#: languages/gutenberg-translations.php:1105 build/components/index.js:19
+msgid "April"
+msgstr "აპრ"
+
+#: languages/gutenberg-translations.php:1102 build/components/index.js:19
+msgid "March"
+msgstr "მარტი"
+
+#: languages/gutenberg-translations.php:1099 build/components/index.js:19
+msgid "February"
+msgstr "თებერვალი"
+
+#: languages/gutenberg-translations.php:1096 build/components/index.js:19
+msgid "January"
+msgstr "იანვარი"
+
+#: languages/gutenberg-translations.php:1093 build/components/index.js:19
+msgid "Month"
+msgstr "თვე"
+
+#: languages/gutenberg-translations.php:1090 build/components/index.js:19
+msgid "Date"
+msgstr "თარიღი"
+
+#: languages/gutenberg-translations.php:1078 build/components/index.js:19
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "გადადით კვირის პირველ (home), ან ბოლო (end) დღეზე."
+
+#: languages/gutenberg-translations.php:1075 build/components/index.js:19
+msgid "Home/End"
+msgstr "Home/End"
+
+#: languages/gutenberg-translations.php:1072 build/components/index.js:19
+msgid "Home and End"
+msgstr "Home და End"
+
+#: languages/gutenberg-translations.php:1069 build/components/index.js:19
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "უკან (PgUp), ან წინ (PgDn) გადასვლა ერთი თვით."
+
+#: languages/gutenberg-translations.php:1066 build/components/index.js:19
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: languages/gutenberg-translations.php:1063 build/components/index.js:19
+msgid "Page Up and Page Down"
+msgstr "Page Up და Page Down"
+
+#: languages/gutenberg-translations.php:1060 build/components/index.js:19
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "უკან (PgUp), ან წინ (PgDn) გადასვლა ერთი კვირით."
+
+#: languages/gutenberg-translations.php:1057 build/components/index.js:19
+msgid "Up and Down Arrows"
+msgstr "ისრები ზემოთ და ქვემოთ"
+
+#: languages/gutenberg-translations.php:1054 build/components/index.js:19
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "უკან (PgUp), ან წინ (PgDn) გადასვლა ერთი დღით."
+
+#: languages/gutenberg-translations.php:1051 build/components/index.js:19
+msgid "Left and Right Arrows"
+msgstr "ისრები მარცხნივ და მარჯვნივ"
+
+#: languages/gutenberg-translations.php:1048 build/components/index.js:19
+msgid "Select the date in focus."
+msgstr "აირჩიეთ თარიღი."
+
+#: languages/gutenberg-translations.php:1045 build/components/index.js:19
+msgid "Navigating with a keyboard"
+msgstr "გადაადგილება კლავიატურით"
+
+#: languages/gutenberg-translations.php:1042 build/components/index.js:19
+msgid "Click the desired day to select it."
+msgstr "დააწკაპუნეთ საჭირო დრეზე მის მოსანიშნად."
+
+#: languages/gutenberg-translations.php:1039 build/components/index.js:19
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "გამოიყენეთ მარცხენა, ან მარჯვენა ისარი სხვა თვეების მოსანიშნად წარსულში, ან მომავალში."
+
+#: languages/gutenberg-translations.php:1036 build/components/index.js:19
+msgid "Click to Select"
+msgstr "დააწკაპუნეთ მოსანიშნად"
+
+#: languages/gutenberg-translations.php:1087 build/components/index.js:19
+msgid "Calendar Help"
+msgstr "კალენდრის დახმარება"
+
+#: languages/gutenberg-translations.php:1033 build/components/index.js:19
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to increase saturation, and right to decrease saturation."
+msgstr "გამოიყენეთ ისარები ფერის შესაცვლელად. ზემოთ გადაადგილება — ფერის გასაღიავებლად, ქვემოთ გადაადგილება — დასამუქებლად, მარცხნივ — გაჯერების მოსამატებლად, მარჯვნივ — გაჯერების დასაკლებად."
+
+#: languages/gutenberg-translations.php:1030 build/components/index.js:19
+msgid "Choose a shade"
+msgstr "აირჩიეთ შეფერილობა"
+
+#: languages/gutenberg-translations.php:1027 build/components/index.js:19
+msgid "Change color format"
+msgstr "ფერის ფორმატის შეცვლა"
+
+#: languages/gutenberg-translations.php:1024 build/components/index.js:19
+msgid "Color value in HSL"
+msgstr "ფერის მნიშვნელობა HSL-ფორმატში"
+
+#: languages/gutenberg-translations.php:1021 build/components/index.js:19
+msgid "Color value in RGB"
+msgstr "ფერის მნიშვნელობა RGB-ფორმატში"
+
+#: languages/gutenberg-translations.php:1018 build/components/index.js:19
+msgid "Color value in hexadecimal"
+msgstr "ფერის მნიშვნელობა HEX-ფორმატში"
+
+#: languages/gutenberg-translations.php:1015 build/components/index.js:19
+msgid "RGB mode active"
+msgstr "RGB რეჟიმი აქტიურია"
+
+#: languages/gutenberg-translations.php:1012 build/components/index.js:19
+msgid "Hex color mode active"
+msgstr "Hex რეჟიმი აქტიურია"
+
+#: languages/gutenberg-translations.php:1009 build/components/index.js:19
+msgid "Hue/saturation/lightness mode active"
+msgstr "HSL რეჟიმი აქტიურია"
+
+#: languages/gutenberg-translations.php:1006 build/components/index.js:19
+msgid "Move the arrow left or right to change hue."
+msgstr "გადაადგილეთ ისარი მარცხნივ, ან მარჯვნივ შეფერილობის შესაცვლელად."
+
+#: languages/gutenberg-translations.php:1003 build/components/index.js:19
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "შეფერილობის მნიშვნელობა გრადუსებში, 0-დან 359-მდე."
+
+#: languages/gutenberg-translations.php:1000 build/components/index.js:19
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "ალფას მნიშვნელობა, 0-დან (გამჭვირვალე) 1-მდე (გაუმჭვირვალე)."
+
+#: languages/gutenberg-translations.php:886 build/block-library/index.js:12
+msgid "Stripes"
+msgstr "ზოლები"
+
+#: languages/gutenberg-translations.php:700 build/block-library/index.js:12
+msgid "Your site doesn’t include support for this block."
+msgstr "თქვენი საიტი მხარს არ უჭერს ამ ბლოკს."
+
+#: languages/gutenberg-translations.php:697 build/block-library/index.js:12
+msgid "Unrecognized Block"
+msgstr "გამოუცნობი ბლოკი"
+
+#: languages/gutenberg-translations.php:694 build/block-library/index.js:12
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "თქვენი საიტი მხარს არ უჭერს \"%s\" ბლოკს. შეგიძლიათ ხელუხლებლად დატოვოთ ეს ბლოკი, ან წაშალოთ."
+
+#: languages/gutenberg-translations.php:688 build/block-library/index.js:12
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "თქვენი საიტი მხარს არ უჭერს “%s” ბლოკს. შეგიძლიათ ხელუხლებლად დატოვოთ ეს ბლოკი, გარდაქმნათ HTML-კოდად, ან წაშალოთ."
+
+#: languages/gutenberg-translations.php:685 build/block-library/index.js:12
+msgid "Media area"
+msgstr "მულტიმედიას არე"
+
+#: languages/gutenberg-translations.php:679 build/block-library/index.js:12
+msgid "Media & Text"
+msgstr "მედია და ტექსტი"
+
+#: languages/gutenberg-translations.php:670 build/block-library/index.js:12
+msgid "Show media on right"
+msgstr "მედიის ჩვენება მარჯვნივ"
+
+#: languages/gutenberg-translations.php:667 build/block-library/index.js:12
+msgid "Show media on left"
+msgstr "მედიის ჩვენება მარცხნივ"
+
+#: languages/gutenberg-translations.php:439 build/block-library/index.js:12
+#: build/format-library/index.js:12
+msgid "Open in New Tab"
+msgstr "ახალ ჩანართში გახსნა"
+
+#: languages/gutenberg-translations.php:211 build/block-library/index.js:12
+msgid "Cover"
+msgstr "გარეკანი"
+
+#: languages/gutenberg-translations.php:196 build/block-library/index.js:12
+msgid "Cover Settings"
+msgstr "გარეკანის პარამეტრები"
+
+#: languages/gutenberg-translations.php:193 build/block-library/index.js:12
+msgid "Edit media"
+msgstr "მედიის ჩასწორება"
+
+#: languages/gutenberg-translations.php:2501 build/editor/index.js:50
+msgctxt "term"
+msgid "Available %s"
+msgstr "ხელმისაწვდომი: %s"
+
+#: languages/gutenberg-translations.php:2498 build/editor/index.js:50
+msgctxt "term"
+msgid "Search %s"
+msgstr "ძებნა %s"
+
+#: languages/gutenberg-translations.php:2284 lib/client-assets.php:986
+#: build/editor/index.js:50
+msgid "Medium"
+msgstr "საშუალო"
+
+#: languages/gutenberg-translations.php:2233 build/editor/index.js:50
+msgid "Paste URL or type to search"
+msgstr "ჩასვით მისამართი, ან აკრიფეთ ძებნისათვის"
+
+#: languages/gutenberg-translations.php:2119 build/editor/index.js:50
+msgid "Terms"
+msgstr "პირობები"
+
+#: languages/gutenberg-translations.php:2049 build/editor/index.js:50
+msgid "Your work will be published at the specified date and time."
+msgstr "თქვენი შრომა გამოქვეყნდება მითითებულ თარიღსა და დროს."
+
+#: languages/gutenberg-translations.php:2046 build/editor/index.js:50
+msgid "Are you ready to schedule?"
+msgstr "მზად ხართ დაგეგმოთ გამოქვეყნება?"
+
+#: languages/gutenberg-translations.php:2000 build/editor/index.js:50
+msgid "Always show pre-publish checks."
+msgstr "ყოველთვის გამოჩნდეს შემოწმება გამოქვეყნებამდე."
+
+#: languages/gutenberg-translations.php:1940 build/editor/index.js:50
+msgid "Take Over"
+msgstr "კონტროლის აღება"
+
+#: languages/gutenberg-translations.php:1937 build/editor/index.js:50
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "სხვა მომხმარებელი უკვე მუშაობს ამ ჩანაწერზე, რაც ნიშნავს, რომ ვერ შეიტანთ ცვლილებებს, სანამ კონტროლს არ აიღებთ."
+
+#. translators: %s: user's display name
+#: languages/gutenberg-translations.php:1934 build/editor/index.js:50
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "%s ამჟამად მუშაობს ამ ჩანაწერზე, რაც იმას ნიშნავს, რომ ცვლილებების შეტანა ვერ ხერხდება, თუ კონტროლის არ აიღებთ."
+
+#: languages/gutenberg-translations.php:1930 build/editor/index.js:50
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "სხვა მომხმარებელი ამჟამად მუშაობს ამ ჩანაწერზე. არ იდარდოთ, თქვენი ცვლილებები ამ ეტაპზე შენახულია."
+
+#. translators: %s: user's display name
+#: languages/gutenberg-translations.php:1927 build/editor/index.js:50
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "%s ამჟამად მუშაობს ამ ჩანაწერზე. არ იდარდოთ, თქვენი ცვლილებები ამ ეტაპზე შენახულია."
+
+#: languages/gutenberg-translations.php:1923 build/editor/index.js:50
+msgid "Avatar"
+msgstr "ავატარი"
+
+#: languages/gutenberg-translations.php:1920 build/editor/index.js:50
+msgid "This post is already being edited."
+msgstr "ჩანაწერი უკვე რედაქტირდება."
+
+#: languages/gutenberg-translations.php:1917 build/editor/index.js:50
+msgid "Someone else has taken over this post."
+msgstr "ვიღაცამ კონტროლი აიღო ამ ჩანაწერზე."
+
+#: languages/gutenberg-translations.php:1610 build/editor/index.js:50
+msgid "This block contains unexpected or invalid content."
+msgstr "ბლოკი შეიცავს მოულოდნელ, ან არასწორ შიგთავსს."
+
+#. translators: Dialog title to fix block content
+#: languages/gutenberg-translations.php:1620 build/editor/index.js:50
+msgid "Resolve Block"
+msgstr "ბლოკის გასწორება"
+
+#: languages/gutenberg-translations.php:1587 build/editor/index.js:50
+msgid "Convert to HTML"
+msgstr "HTML-ად გარდაქმნა"
+
+#: languages/gutenberg-translations.php:1414 build/edit-post/index.js:12
+msgid "Enable Pre-publish Checks"
+msgstr "გამოქვეყნებამდე შემოწმების ჩართვა"
+
+#: languages/gutenberg-translations.php:1534 build/edit-post/index.js:12
+msgid "This block can only be used once."
+msgstr "ამ ბლოკის გამოყენება მხოლოდ ერთხელ შეიძლება."
+
+#: languages/gutenberg-translations.php:1504 build/edit-post/index.js:12
+msgid "Exit Code Editor"
+msgstr "კოდის რედაქტორიდან გამოსვლა"
+
+#: languages/gutenberg-translations.php:1501 build/edit-post/index.js:12
+msgid "Editing Code"
+msgstr "კოდის რედაქტორი"
+
+#: languages/gutenberg-translations.php:1161 build/components/index.js:19
+msgid "Custom font size"
+msgstr "შრიფტის მორგებული ზომა"
+
+#: languages/gutenberg-translations.php:786 build/block-library/index.js:12
+msgid "Solid Color"
+msgstr "ერთფეროვანი"
+
+#: languages/gutenberg-translations.php:777 build/block-library/index.js:12
+msgid "Main Color"
+msgstr "მთავარი ფერი"
+
+#: languages/gutenberg-translations.php:522 build/block-library/index.js:12
+msgid "HTML"
+msgstr "HTML"
+
+#: languages/gutenberg-translations.php:519 build/block-library/index.js:12
+msgid "Write HTML…"
+msgstr "დაწერეთ HTML…"
+
+#: languages/gutenberg-translations.php:348 build/block-library/index.js:12
+msgid "Media Settings"
+msgstr "მედია პარამეტრები"
+
+#: languages/gutenberg-translations.php:205 build/block-library/index.js:12
+msgid "Overlay Color"
+msgstr "სურათის დაფარვა"
+
+#: languages/gutenberg-translations.php:202 build/block-library/index.js:12
+msgid "Overlay"
+msgstr "გადაფარვა"
+
+#: languages/gutenberg-translations.php:157 build/block-library/index.js:12
+msgid "Insert Media"
+msgstr "მედიას ჩასმა"
+
+#. translators: %s: post title
+#: gutenberg.php:316
+msgid "Export &#8220;%s&#8221; as JSON"
+msgstr "&#8220;%s&#8221;-ის ექსპორტი JSON-ში"
+
+#: languages/gutenberg-translations.php:2391
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "კვლავგამოყენებადი წარმატებით დაიმპორტდა!"
+
+#: languages/gutenberg-translations.php:2385
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "არასწორი JSON ფაილი კვლავგამოყენებადი ბლოკისათვის"
+
+#: languages/gutenberg-translations.php:2382
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "არასწორი JSON ფაილი"
+
+#: languages/gutenberg-translations.php:2379
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "იმპორტი JSON ფაილიდან"
+
+#: languages/gutenberg-translations.php:2376 build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "ბრჭყალი"
+
+#: languages/gutenberg-translations.php:2373 build/keycodes/index.js:1
+msgid "Period"
+msgstr "წერტილი"
+
+#: languages/gutenberg-translations.php:2370 build/keycodes/index.js:1
+msgid "Comma"
+msgstr "მძიმე"
+
+#: languages/gutenberg-translations.php:1719 build/editor/index.js:50
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "%d ბლოკის ტიპის შეცვლა"
+
+#: languages/gutenberg-translations.php:1583 build/editor/index.js:50
+msgid "Current"
+msgstr "მიმდინარე"
+
+#: languages/gutenberg-translations.php:1580 build/editor/index.js:50
+msgid "After Conversion"
+msgstr "გარდაქმნის შემდეგ"
+
+#: languages/gutenberg-translations.php:1577 build/editor/index.js:50
+msgid "Change Alignment"
+msgstr "გასწორების შეცვლა"
+
+#: languages/gutenberg-translations.php:1559 build/editor/index.js:50
+msgid "Change Text Alignment"
+msgstr "ტექსტის სწორების შეცვლა"
+
+#: languages/gutenberg-translations.php:898 build/block-library/index.js:12
+msgid "Template block used as a container."
+msgstr "ბლოკის შაბლონის გამოყენება კონტეინერად."
+
+#: languages/gutenberg-translations.php:895 build/block-library/index.js:12
+msgid "Reusable Template"
+msgstr "კვლავგამოყენებადი შაბლონი"
+
+#. translators: %d: number of blocks
+#: languages/gutenberg-translations.php:1841 build/editor/index.js:50
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d ბლოკი"
+
+#. translators: The 'escape' key on a keyboard.
+#: languages/gutenberg-translations.php:1366 build/edit-post/index.js:12
+msgid "Escape"
+msgstr "გამოსვლა"
+
+#. translators: The forward-slash character. e.g. '/'.
+#: languages/gutenberg-translations.php:1388 build/edit-post/index.js:12
+msgid "Forward-slash"
+msgstr "უკუ დახრილი ხაზი"
+
+#: gutenberg.php:320
+msgid "Export as JSON"
+msgstr "ექსპორტი JSON-ში"
+
+#: packages/block-library/src/archives/index.php:104
+msgid "No archives to show."
+msgstr "არ არის არქივი, რომ გაჩვენოთ."
+
+#: lib/register.php:457
+msgid "Search Blocks"
+msgstr "ბლოკების ძებნა"
+
+#: languages/gutenberg-translations.php:2326 build/editor/index.js:50
+msgid "This file is empty."
+msgstr "ფაილი ცარიელია."
+
+#: languages/gutenberg-translations.php:2320 build/editor/index.js:50
+msgid "Sorry, this file type is not supported here."
+msgstr "უკაცრავად, ამ ტიპის ფაილი არ არის მხარდაჭერილი."
+
+#: languages/gutenberg-translations.php:1541 build/editor/index.js:50
+#: build/edit-post/index.js:12
+msgid "Manage All Reusable Blocks"
+msgstr "კვლავგამოყენებადი ბლოკების მართვა"
+
+#: languages/gutenberg-translations.php:1740 build/editor/index.js:50
+msgid "Title"
+msgstr "სათაური"
+
+#: languages/gutenberg-translations.php:1293 build/edit-post/index.js:12
+msgid "Fullscreen Mode"
+msgstr "სრული ეკრანის რეჟიმი"
+
+#: languages/gutenberg-translations.php:1233 build/edit-post/index.js:12
+msgid "View Posts"
+msgstr "ჩანაწერების ნახვა"
+
+#: post-content.php:39
+msgid "Beautiful landscape"
+msgstr "შესანიშნავი პეიზაჟი"
+
+#: languages/gutenberg-translations.php:1997 build/editor/index.js:50
+msgid "Close panel"
+msgstr "პანელის დახურვა"
+
+#: languages/gutenberg-translations.php:1613 build/editor/index.js:50
+msgid "Convert to Classic Block"
+msgstr "კლასიკურ ბლოკად გარდაქმნა"
+
+#: languages/gutenberg-translations.php:944 build/block-library/index.js:12
+msgid "Remove Poster Image"
+msgstr "მინიატურის წაშლა"
+
+#: languages/gutenberg-translations.php:937 build/block-library/index.js:12
+msgid "Select Poster Image"
+msgstr "აფიშის გამოსახულების არჩევა"
+
+#: languages/gutenberg-translations.php:934 build/block-library/index.js:12
+msgid "Poster Image"
+msgstr "პოსტერის სურათი"
+
+#: languages/gutenberg-translations.php:907 build/block-library/index.js:12
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "ეს ბლოკი მოძველდა. მის ნაცვლად გამოიყენეთ ბლოკი „სვეტები“."
+
+#: languages/gutenberg-translations.php:904 build/block-library/index.js:12
+msgid "Text Columns (deprecated)"
+msgstr "ტექსტური სვეტები (მოძველებული)"
+
+#: languages/gutenberg-translations.php:874 build/block-library/index.js:12
+msgid "Create"
+msgstr "შექმნა"
+
+#: languages/gutenberg-translations.php:871 build/block-library/index.js:12
+msgid "Row Count"
+msgstr "სტრიქონების რაოდენობა"
+
+#: languages/gutenberg-translations.php:868 build/block-library/index.js:12
+msgid "Column Count"
+msgstr "სვეტების რაოდენობა"
+
+#: languages/gutenberg-translations.php:844 build/block-library/index.js:12
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "ეს ბლოკი მოძველდა. მის ნაცვლად გამოიყენეთ ბლოკი „აბზაცი“."
+
+#: languages/gutenberg-translations.php:841 build/block-library/index.js:12
+msgid "Subheading (deprecated)"
+msgstr "ქვესათაური (მოძველებული)"
+
+#: languages/gutenberg-translations.php:796 build/block-library/index.js:12
+msgid "blockquote"
+msgstr "ციტატა"
+
+#: languages/gutenberg-translations.php:1384 build/edit-post/index.js:12
+msgid "Change the block type after adding a new paragraph."
+msgstr "ბლოკის ტიპის შეცვლა ახალი აბზაცის დამატების შემდეგ."
+
+#: languages/gutenberg-translations.php:1287 build/edit-post/index.js:12
+msgid "Spotlight Mode"
+msgstr "გამორჩევის რეჟიმი"
+
+#: languages/gutenberg-translations.php:2021 build/editor/index.js:50
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "ჭდეები მომხმარებელსა და საძიებო სისტემას ეხმარება გადაადგილდნენ თქვენს საიტზე და მოიძიონ შიგთავსი. დაამატეთ რამდენიმე საკვანძო სიტყვა თქვენს ჩანაწერს."
+
+#: languages/gutenberg-translations.php:2018 build/editor/index.js:50
+msgid "Add tags"
+msgstr "ჭდეების დამატება"
+
+#: languages/gutenberg-translations.php:2015 build/editor/index.js:50
+msgid "Apply the \"%1$s\" format."
+msgstr "\"%1$s\" ფორმატის მისადაგება."
+
+#: languages/gutenberg-translations.php:2012 build/editor/index.js:50
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "თქვენს თემაში გამოიყენება ჩანაწერის ფორმატი, შიგთავსის სხვადასხვა ტიპის საჩვენებლად. გამოიყენეთ ჩანაწერის ფორმატი, ამ განსაკუთრებული სტილის სანახავად."
+
+#: languages/gutenberg-translations.php:2009 build/editor/index.js:50
+msgid "Use a post format"
+msgstr "ჩანაწერის ფორმატის გამოყენება"
+
+#: languages/gutenberg-translations.php:1699 build/editor/index.js:50
+msgid "Insert After"
+msgstr "ჩასმა ქვემოთ"
+
+#: languages/gutenberg-translations.php:1696 build/editor/index.js:50
+msgid "Insert Before"
+msgstr "ჩასმა ზემოთ"
+
+#. translators: 1: Number of selected blocks, 2: Position of selected blocks
+#: languages/gutenberg-translations.php:1667 build/editor/index.js:50
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "%1$d ბლოკის გადაადგილება %2$d პოზიციიდან ქვევით ერთი პოზიციით"
+
+#. translators: 1: Number of selected blocks, 2: Position of selected blocks
+#: languages/gutenberg-translations.php:1663 build/editor/index.js:50
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "%1$d ბლოკის გადაადგილება %2$d პოზიციიდან ზევით ერთი პოზიციით"
+
+#. translators: 1: Type of block (i.e. Text, Image etc), 2: Position of
+#. selected block, 3: New position
+#: languages/gutenberg-translations.php:1649 build/editor/index.js:50
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "%1$s ბლოკის გადაადგილება %2$d პოზიციიდან ზევით %3$d პოზიციაზე"
+
+#. translators: 1: Type of block (i.e. Text, Image etc), 2: Position of
+#. selected block, 3: New position
+#: languages/gutenberg-translations.php:1641 build/editor/index.js:50
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "%1$s ბლოკის გადაადგილება %2$d პოზიციიდან ქვევით %3$d პოზიციაზე"
+
+#: languages/gutenberg-translations.php:955 build/block-library/index.js:12
+msgid "movie"
+msgstr "ფილმი"
+
+#: languages/gutenberg-translations.php:1378 build/edit-post/index.js:12
+msgid "Insert a new block before the selected block(s)."
+msgstr "ახალი ბლოკის ჩასმა მონიშნულ ბლოკ(ებ)ამდე."
+
+#: languages/gutenberg-translations.php:1375 build/edit-post/index.js:12
+msgid "Remove the selected block(s)."
+msgstr "მონიშნული ბლოკ(ებ)ის ამოღება."
+
+#: languages/gutenberg-translations.php:1372 build/edit-post/index.js:12
+msgid "Duplicate the selected block(s)."
+msgstr "მონიშნული ბლოკ(ებ)ის დუბლირება."
+
+#: languages/gutenberg-translations.php:1369 build/edit-post/index.js:12
+msgid "Block shortcuts"
+msgstr "ბლოკის მალსახმობი კლავიშები"
+
+#: languages/gutenberg-translations.php:1362 build/edit-post/index.js:12
+msgid "Clear selection."
+msgstr "არჩეულის გასუფთავება."
+
+#: languages/gutenberg-translations.php:1359 build/edit-post/index.js:12
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "ყველაფრის მონიშვნა. დააჭირეთ კიდევ ერთხელ, ყველა ბლოკის მონიშვნისათვის."
+
+#: languages/gutenberg-translations.php:1356 build/edit-post/index.js:12
+msgid "Selection shortcuts"
+msgstr "არჩევის მალსახმობი კლავშები"
+
+#: languages/gutenberg-translations.php:1353 build/edit-post/index.js:12
+msgid "Switch between Visual Editor and Code Editor."
+msgstr "ვიზუალურ რედაქტორსა და კოდის რედაქტორს შორის გადართვა."
+
+#: languages/gutenberg-translations.php:1347 build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor (alternative)."
+msgstr "გადასვლა რედაქტორის წინა სექციაში (ალტერნატივა)."
+
+#: languages/gutenberg-translations.php:1344 build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor (alternative)."
+msgstr "გადასვლა რედაქტორის შემდეგ სექციაში (ალტერნატივა)."
+
+#: languages/gutenberg-translations.php:1341 build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor."
+msgstr "გადასვლა რედაქტორის წინა სექციაში."
+
+#: languages/gutenberg-translations.php:1338 build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor."
+msgstr "გადასვლა რედაქტორის შემდეგ სექციაში."
+
+#: languages/gutenberg-translations.php:1332 build/edit-post/index.js:12
+msgid "Show or hide the settings sidebar."
+msgstr "პარამეტრების გვერდითა ზოლის ჩვენება, ან დამალვა."
+
+#: languages/gutenberg-translations.php:1329 build/edit-post/index.js:12
+msgid "Redo your last undo."
+msgstr "ბოლო გაუქმების გამეორება."
+
+#: languages/gutenberg-translations.php:1326 build/edit-post/index.js:12
+msgid "Undo your last changes."
+msgstr "ბოლო ცვლილებების გაუქმება."
+
+#: languages/gutenberg-translations.php:1323 build/edit-post/index.js:12
+msgid "Save your changes."
+msgstr "ცვლილებების შენახვა."
+
+#: languages/gutenberg-translations.php:1320 build/edit-post/index.js:12
+msgid "Display this help."
+msgstr "დახმარების ჩვენება."
+
+#: languages/gutenberg-translations.php:1317 build/edit-post/index.js:12
+msgid "Global shortcuts"
+msgstr "გლობალური მალსახმობები"
+
+#: languages/gutenberg-translations.php:1314 build/edit-post/index.js:12
+msgid "Display the selected text in a monospaced font."
+msgstr "მონიშნული ტექსტის ჩვენება მონოსიგანის შრიფტით."
+
+#: languages/gutenberg-translations.php:1311 build/edit-post/index.js:12
+msgid "Add a strikethrough to the selected text."
+msgstr "მონიშნული ტექსტის გადახაზვა."
+
+#: languages/gutenberg-translations.php:1308 build/edit-post/index.js:12
+msgid "Remove a link."
+msgstr "ბმულის ამოღება."
+
+#: languages/gutenberg-translations.php:1305 build/edit-post/index.js:12
+msgid "Convert the selected text into a link."
+msgstr "მონიშნული ტექსტის ბმულად გარდაქმნა."
+
+#: languages/gutenberg-translations.php:1302 build/edit-post/index.js:12
+msgid "Underline the selected text."
+msgstr "მონიშნული ტექსტის ხაზგასმა."
+
+#: languages/gutenberg-translations.php:1299 build/edit-post/index.js:12
+msgid "Make the selected text italic."
+msgstr "მონიშნული ტექსტის დახრა."
+
+#: languages/gutenberg-translations.php:1394 build/edit-post/index.js:12
+msgid "Make the selected text bold."
+msgstr "მონიშნული ტექსტის გამუქება."
+
+#: languages/gutenberg-translations.php:1391 build/edit-post/index.js:12
+msgid "Text formatting"
+msgstr "ტექსტის დაფორმატება"
+
+#: languages/gutenberg-translations.php:1381 build/edit-post/index.js:12
+msgid "Insert a new block after the selected block(s)."
+msgstr "ახალი ბლოკის ჩასმა მონიშნული ბლოკ(ებ)ის შემდეგ."
+
+#: languages/gutenberg-translations.php:1398 build/edit-post/index.js:12
+msgid "Keyboard Shortcuts"
+msgstr "კლავიატურის მალსახმობები"
+
+#: post-content.php:179
+msgid "Thanks for testing Gutenberg!"
+msgstr "გმადლობთ, რომ გამოსცადეთ Gutenberg!"
+
+#: post-content.php:171
+msgid "Help build Gutenberg"
+msgstr "დაგვეხმარეთ შევქმნათ Gutenberg"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:162
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "თუ გსურთ გაიგოთ მეტი, თუ როგორ შექმნათ დამატებითი ბლოკები, ან თუ გსურთ დაეხმაროთ პროექტს, გადადით <a href=\"%s\">GitHub რეპოში</a>."
+
+#: post-content.php:153
+msgid "The WordPress community"
+msgstr "WordPress-ის გუნდი"
+
+#: post-content.php:153
+msgid "Code is Poetry"
+msgstr "კოდი პოეზიაა"
+
+#: post-content.php:149
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "შეგიძლიათ შექმნათ ნებისმიერი ბლოკი, სტატიკური, ან დინამიური, დეკორატიული, ან უბრალო. აი ციტირების ბლოკი:"
+
+#: post-content.php:139
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "შესაძლებელია ნებისმიერი ბლოკის გასწორება. ჩაშენებული ბლოკი ასევე სწორდება და ნაგულისხმევად ადაპტიურია:"
+
+#: post-content.php:135
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "ზემოთ მოცემულია გალერეა ორი სურათით. ეს ხერხი უფრო მარტივია ვიზუალურად სასიამოვნო მაკეტების შესაქმნელად. თქვენ ასევე შეგიძლიათ ადვილად გარდაქმნათ გალერეა ცალკეულ სურათად, ბლოკის გადამრთველის საშუალებით."
+
+#: post-content.php:124
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "რასაკვირველია, სრულმაშტაბიანი სურათი შესაძლოა საკმაოდ დიდი იყოს. მაგრამ ხანდახან ეს ამათ ღირს."
+
+#: post-content.php:120
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "ხელმისაწვდომობა მნიშვნელოვანია &mdash; არ დაგავიწყდეთ ატრიბუტი alt"
+
+#: post-content.php:116
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "თუ გააერთიანებთ <strong>შიგთავსისი მიხედვით</strong> და <strong>სრული სიგანის</strong> სწორებებს გალერეებთან, თქვენ შეძლებთ ფრიად მდიდარი მედია-მაკეტის შექმნას:"
+
+#: post-content.php:112
+msgid "Media Rich"
+msgstr "მედია"
+
+#: post-content.php:108
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "შეგიძლიათ შეცვალოთ სვეტების რაოდენობა გალერეებში, გვერდითა ზოლში ბლოკების ინსპექტორში ცოციას გადაცოცებით."
+
+#: post-content.php:96
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "ბლოკი შეიძლება იყოს ნებისმიერი. მაგალითად, შეგიძლიათ დაამატოთ ციტატა, როგორც თქვენი ტექსტის კომპოზიციის ნაწილი, ან შეგიძლიათ აჩვენოთ გიგანტური სტილიზებული ტექსტი. ეს ყველაფერი ხელმისაწვდომია პარამეტრებში."
+
+#: post-content.php:92
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "ინფორმაცია ციტატის წყაროს შესახებ წარმოადგენს ცალკეულ ტექსტურ ველს, რომელიც სურათის წარწერის მსგავსია. ამიტომ ციტატის სტრუქტურა უცვლელია, მაშინაც კი, როდესაც ირჩევთ, ცვლით, ან შლით წყაროს. წყაროს ხელახლა დამატება ნებისმიერ დროს შეიძლება."
+
+#: post-content.php:87
+msgid "Matt Mullenweg, 2017"
+msgstr "მეთ მულენვეგი, 2017"
+
+#: post-content.php:86
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "რედაქტორი ცდილობს გაგაცნოთ სტატიებისა და გვერდების შექმნის ახალი გამოცდილება, რაც საშუალებას მოგცემთ შექმნათ მდიდარი სტატიები ბლოკების საშუალებით — ახლანდელი მალსახმობების, html, ან კოდის ჩასმის სხვადასხვანაირი მაქინაციების მაგივრად."
+
+#: post-content.php:81
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "ბლოკების უდიდესი უპირატესობა იმაში მდგომარეობს, რომ თქვენ შეგიძლიათ ერთდოულად ჩაასწოროთ ისინი და ამავდროულად მართოთ შიგთავსი. იმის ნაცვლად, რომ შეცვალოთ ციტატების წყაროების, ან ღილაკის წარწერის ველები, თქვენ შეგიძლიათ პირდაპირ შეცვალოთ შიგთავსი. სცადეთ ჩაასწოროთ შემდეგი ციტატა:"
+
+#: post-content.php:77
+msgid "Visual Editing"
+msgstr "ვიზუალური ჩასწორება"
+
+#: post-content.php:68
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "და <em>სიები</em>, როგორც ესენი, რასაკვირველია :)"
+
+#: post-content.php:67
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "შაბლონის, ღილაკების, სურათების, გამყოფების და ა.შ. ბლოკები."
+
+#: post-content.php:66
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "YouTube-ის ვიდეოები, ტვიტები, ან WordPress სტატიების ჩაშენებები."
+
+#: post-content.php:65
+msgid "Galleries"
+msgstr "გალერეა"
+
+#: post-content.php:64
+msgid "Images &amp; Videos"
+msgstr "სურათები და ვიდეო"
+
+#: post-content.php:63
+msgid "Text &amp; Headings"
+msgstr "ტექსტი და სათაურები"
+
+#: post-content.php:58
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "სცადეთ, WordPress-ს უკვე შეუძლია დაამატოთ თქვენს ჩანაწერებში ბლოკები, რომლებიც თქვენ არ იცოდით. აი მოკლე სია იმისა, თუ რისი ნახვა შეგიძლიათ ამჟამად:"
+
+#: post-content.php:54
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "წარმოიდგინეთ, რომ ყველაფერი, რისი გაკეთებაც შეუძლია WordPress-ს, ხელმისაწვდომია სწრაფად და ერთიანი ადგილიდან. არ არის აუცილებელი HTML-ტეგების გაწერა, ან მალსახმობების რთული სინტაქსის დამახსოვრება, რომლებსაც დაინახავთ რედაქტორის სარკმელში. ღილაკი <code>(+)</code>, რომელსაც დაინახავთ რედაქტორში, საშუალებას მოგცემთ ნახოთ შიგთავსის ხელმისაწვდომი ბლოკები და დაამატოთ ისინი თქვენს სტატიაში. პლაგინებს და თემებს შეუძლიათ დაარეგისტრირონ საკუთარი ბლოკები."
+
+#: post-content.php:50
+msgid "The <em>Inserter</em> Tool"
+msgstr "<em>ჩასმის</em> ხელსაწყო"
+
+#: post-content.php:46
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "შეეცადეთ აირჩიოთ, წაშალოთ, ან ჩაასწოროთ სათაური. ახლა აღარ მოგიწევთ სიფრთხილე სურათის, ან სხვა ტექსტის არჩევისას, რათა არ დაუშვათ შეცდომა."
+
+#: post-content.php:40
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "თუ თქვენი თემა მხარს უჭერს „სრულ ეკრანზე“ რეჟიმს, თქვენ დაინახავთ ღილაკს „სრულ ეკრანზე“ ხელსაწყოთა ზოლზე. სცადეთ."
+
+#: post-content.php:34
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "ძირითადი ყურადღება ახალ რედაქტორში დათმობილი აქვს სურათების და მულტიმედიას დამუშავებას, მაქსიმალური სიფრთხილით. იმედს ვიტოვებთ, რომ გამონახავთ დროს სურათზე წარწერის გასაკეთებლად, ან სრულ ეკრანზე გადასვლაზე."
+
+#: post-content.php:30
+msgid "A Picture is Worth a Thousand Words"
+msgstr "ერთი სურათი ათასი სიტყვის ნაცვლად"
+
+#: post-content.php:26
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "სათაურები ასევე ცალკე ბლოკებია, რაც გეხმარებათ სტატიის შიგთავსის მოწესრიგებაში."
+
+#: post-content.php:22
+msgid "... like this one, which is right aligned."
+msgstr "... ისივე როგორც ეს, რომელიც გასწორებულია მარჯვენა კიდეზე."
+
+#: post-content.php:18
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "ის, რასაც ახლა კითხულობთ, წარმოადგენს <strong>აბზაცს</strong>. ის ყველაზე მთავარი ბლოკია. აბზაცს აქვს მართვის საკუთარი ელემენტები, რომელთა გადაადგილება თავისუფლად შეიძლება…"
+
+#: post-content.php:14
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "ახალი რედაქტორის მიზანია — გახადოს შიგთავსის დამატება WordPress-ში მარტივი და სასიამოვნო. ეს ჩანაწერი შედგება <em>შიგთავსის ფრაგმენტებისგან</em>, რაც ძალიან ჰგავს LEGO-ს აგურებს, რომლებიც შეგიძლიათ რაგინდარად გამოიყენოთ. გადაადგილეთ მაუსის მიმთითებელი და თქვენ შეამჩნევთ, რომ სხვადასხვა ბლოკები აინთება კონტურებით და ისრებით. დააჭირეთ ისრებზე, რათა სწრაფად გადაადგილოთ ბლოკები და ნუ იფიქრებთ იმაზე, რომ შესაძლოა დაკარგოთ შიგთავსი კოპირებისა და ჩასმის პროცესში."
+
+#: post-content.php:10
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "მთისა და ზღვის წიგნი"
+
+#: lib/client-assets.php:1138
+msgid "Welcome to the Gutenberg Editor"
+msgstr "მოგესალმებით Gutenberg-ის რედაქტორში"
+
+#: languages/gutenberg-translations.php:2447 build/block-library/index.js:12
+msgctxt "block name"
+msgid "More"
+msgstr "მეტი"
+
+#: languages/gutenberg-translations.php:2420 build/block-library/index.js:12
+msgctxt "button to expand options"
+msgid "More"
+msgstr "მეტი"
+
+#: languages/gutenberg-translations.php:2088 build/editor/index.js:50
+msgid "Are you sure you want to unschedule this post?"
+msgstr "დარწმუნებული ხართ, რომ გსურთ ამ ჩანაწერის გამოქვეყნების განრიგის წაშლა?"
+
+#: languages/gutenberg-translations.php:544 build/block-library/index.js:12
+msgid "Alt Text (Alternative Text)"
+msgstr "Alt (ალტერნატიული ტექსტი)"
+
+#: languages/gutenberg-translations.php:93 build/block-library/index.js:12
+msgid "Reusable Block"
+msgstr "კვლავგამოყენებადი ბლოკი"
+
+#: lib/compat.php:215
+msgid "Continue to Classic Editor"
+msgstr "Classic Editor-ში გაგრძელება"
+
+#: lib/compat.php:214
+msgid "Edit in Gutenberg"
+msgstr "ჩასწორება Gutenberg-ში"
+
+#: lib/compat.php:208
+msgid "Because this post does not have revisions, you will not be able to revert any changes you make in the Classic Editor."
+msgstr "ვინაიდან ამ ჩანაწერს არ გააჩნია ვერსია, თქვენ ვერ შეძლებთ ნებისმიერი ცვლილების გაუქმებას, რომლებიც შეტანილია კლასიკური რედაქტორით."
+
+#. translators: link to the post revisions page
+#: lib/compat.php:202
+msgid "You can also <a href=\"%s\">browse previous revisions</a> and restore a version of the post before it was edited in Gutenberg."
+msgstr "თქვენ ასევე შეგიძლიათ <a href=\"%s\">იხილოთ წინა ვერსიები</a> და აღადგინოთ ჩანაწერის ვერსია მანამდე, სანამ ის ჩასწორდება Gutenberg-ში."
+
+#: lib/compat.php:195
+msgid "This post was previously edited in Gutenberg. You can continue in the Classic Editor, but you may lose data and formatting."
+msgstr "ეს ჩანაწერი ადრე ჩასწორდა Gutenberg-ში. თქვენ შეგიძლიათ განაგრძოთ მუშაობა კლასიკურ რედაქტორში, მაგრამ შესაძლოა დაკარგავთ მონაცემებს და დაფორმატებას."
+
+#: lib/class-wp-rest-search-controller.php:358
+msgid "Invalid type parameter."
+msgstr "ტიპის არასწორი პარამეტრი."
+
+#: lib/class-wp-rest-search-controller.php:303
+msgid "Limit results to items of one or more object subtypes."
+msgstr "შედეგების შეზღუდვა ობიექტის ერთი, ან რამდენიმე ქვეტიპით."
+
+#: lib/class-wp-rest-search-controller.php:296
+msgid "Limit results to items of an object type."
+msgstr "შედეგების შეზღუდვა ობიექტის ტიპით."
+
+#: lib/class-wp-rest-search-controller.php:260
+msgid "Object subtype."
+msgstr "ობიექტის ქვეტიპი."
+
+#: lib/class-wp-rest-search-controller.php:253
+msgid "Object type."
+msgstr "ობიექტის ტიპი."
+
+#: lib/class-wp-rest-search-controller.php:246
+msgid "URL to the object."
+msgstr "ობიექტის მისამართი."
+
+#: lib/class-wp-rest-search-controller.php:240
+msgid "The title for the object."
+msgstr "ობიეტის სათაური."
+
+#: lib/class-wp-rest-search-controller.php:234
+msgid "Unique identifier for the object."
+msgstr "ობიექტის უნიკალური იდენტიფიკატორი."
+
+#: lib/class-wp-rest-search-controller.php:149
+msgid "The page number requested is larger than the number of pages available."
+msgstr "მოთხოვნილი გვერდის ნომერი აჭარბებს არსებული გვერდების რაოდენობას."
+
+#: lib/class-wp-rest-search-controller.php:132
+msgid "Internal search handler error."
+msgstr "ძებნის ფუნქციის შიდა შეცდომა."
+
+#. translators: %s: PHP class name
+#: lib/class-wp-rest-search-controller.php:72
+msgid "REST search handlers must extend the %s class."
+msgstr "ძებნის ფუნქციის REST აფართოებენ %s კლასს."
+
+#: languages/gutenberg-translations.php:2314 build/editor/index.js:50
+msgid "Untitled Reusable Block"
+msgstr "ბლოკი დასახელების გარეშე"
+
+#: languages/gutenberg-translations.php:1860 build/editor/index.js:50
+msgid "(%s: %s)"
+msgstr "(%s: %s)"
+
+#: languages/gutenberg-translations.php:1792 build/editor/index.js:50
+msgid "Reusable"
+msgstr "კვლავგამოყენებადი"
+
+#: languages/gutenberg-translations.php:1731 build/editor/index.js:50
+msgid "(current %s: %s)"
+msgstr "(მიმდინარე %s: %s)"
+
+#: languages/gutenberg-translations.php:1708 build/editor/index.js:50
+msgid "Remove from Reusable Blocks"
+msgstr "კვლავგამოყენებადი ბლოკების ამოღება"
+
+#: languages/gutenberg-translations.php:1702 build/editor/index.js:50
+msgid "Add to Reusable Blocks"
+msgstr "კვლავგამოყენებად ბლოკების სიაში დამატება"
+
+#: languages/gutenberg-translations.php:691 build/block-library/index.js:12
+msgid "Keep as HTML"
+msgstr "HTML კოდის შენახვა"
+
+#: languages/gutenberg-translations.php:345 build/block-library/index.js:12
+msgid "Edit URL"
+msgstr "URL-ს ჩასწორება"
+
+#: languages/gutenberg-translations.php:107 build/block-library/index.js:12
+msgid "Color Settings"
+msgstr "ფერის პარამეტრები"
+
+#. translators: %s: title/name of the reusable block
+#: languages/gutenberg-translations.php:100 build/block-library/index.js:12
+msgid "Reusable Block: %s"
+msgstr "კვლავგამოყენებადი ბლოკი: %s"
+
+#: lib/rest-api.php:270
+msgid "The current user can post HTML markup and JavaScript."
+msgstr "მიმდინარე მომხმარებელს შეუძლია HTML და JavaScript-ის კოდის დამატება."
+
+#: languages/gutenberg-translations.php:11 build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "პასუხი არ არის დასაშვები JSON გამოხმაურება."
+
+#. translators: accessibility text for the publish landmark region.
+#: languages/gutenberg-translations.php:1402 build/edit-post/index.js:12
+msgid "Editor publish"
+msgstr "გამოქვეყნების რედაქტორი"
+
+#: languages/gutenberg-translations.php:928 build/block-library/index.js:12
+msgid "Muted"
+msgstr "დადუმებული"
+
+#: languages/gutenberg-translations.php:925 build/block-library/index.js:12
+msgid "Video Settings"
+msgstr "ვიდეოს პარამეტრები"
+
+#: languages/gutenberg-translations.php:621 build/block-library/index.js:12
+msgid "recent comments"
+msgstr "ბოლო კომენტარები"
+
+#: languages/gutenberg-translations.php:615 build/block-library/index.js:12
+msgid "Latest Comments"
+msgstr "ბოლო კომენტარები"
+
+#: languages/gutenberg-translations.php:600 build/block-library/index.js:12
+msgid "Display Excerpt"
+msgstr "ნაწყვეტის ჩვენება"
+
+#: languages/gutenberg-translations.php:612 build/block-library/index.js:12
+msgid "Display Date"
+msgstr "თარიღის ჩვენება"
+
+#: languages/gutenberg-translations.php:609 build/block-library/index.js:12
+msgid "Display Avatar"
+msgstr "ავატარის ჩვენება"
+
+#: languages/gutenberg-translations.php:606 build/block-library/index.js:12
+msgid "Latest Comments Settings"
+msgstr "უახლესი კომენტარების პარამეტრები"
+
+#: languages/gutenberg-translations.php:603 build/block-library/index.js:12
+msgid "Number of Comments"
+msgstr "კომენტარების რაოდენობა"
+
+#: languages/gutenberg-translations.php:208 build/block-library/index.js:12
+msgid "Background Opacity"
+msgstr "ფონის გაუმჭვირვალობა"
+
+#: languages/gutenberg-translations.php:50 build/block-library/index.js:12
+msgid "Auto"
+msgstr "ავტო"
+
+#: languages/gutenberg-translations.php:46 build/block-library/index.js:12
+msgid "Preload"
+msgstr "წინასწარი ჩატვირთვა"
+
+#: languages/gutenberg-translations.php:34 build/block-library/index.js:12
+msgid "Audio Settings"
+msgstr "აუდიოს პარამეტრები"
+
+#: languages/gutenberg-translations.php:28 build/block-library/index.js:12
+msgid "Display a monthly archive of your posts."
+msgstr "საიტის ჩანაწერების ყოველთვიური არქივის ჩვენება."
+
+#: languages/gutenberg-translations.php:18 build/block-library/index.js:12
+msgid "Display as Dropdown"
+msgstr "ჩამოსაშლელი სიის სახით ჩვენება"
+
+#: languages/gutenberg-translations.php:22 build/block-library/index.js:12
+msgid "Show Post Counts"
+msgstr "ჩანაწერების რაოდენობის ჩვენება"
+
+#: languages/gutenberg-translations.php:14 build/block-library/index.js:12
+msgid "Archives Settings"
+msgstr "არქივების პარამეტრები"
+
+#: gutenberg.php:94
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: gutenberg.php:92
+msgid "Support"
+msgstr "მხარდაჭერა"
+
+#: packages/block-library/src/latest-comments/index.php:144
+msgid "No comments to show."
+msgstr "არ არის კომენტარი, რომ გაჩვენოთ."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: packages/block-library/src/latest-comments/index.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s კომენტარი %2$s ჩანაწერზე"
+
+#: packages/block-library/src/archives/index.php:65
+msgid "Select Post"
+msgstr "აირჩიეთ ჩანაწერი"
+
+#: packages/block-library/src/archives/index.php:62
+msgid "Select Week"
+msgstr "აირჩიეთ კვირა"
+
+#: packages/block-library/src/archives/index.php:59
+msgid "Select Day"
+msgstr "აირჩიეთ დღე"
+
+#: packages/block-library/src/archives/index.php:56
+msgid "Select Month"
+msgstr "აირჩიეთ თვე"
+
+#: packages/block-library/src/archives/index.php:53
+msgid "Select Year"
+msgstr "აირჩიეთ წელი"
+
+#: languages/gutenberg-translations.php:25
+#: packages/block-library/src/archives/index.php:35
+#: build/block-library/index.js:12
+msgid "Archives"
+msgstr "არქივები"
+
+#: languages/gutenberg-translations.php:2278 build/editor/index.js:50
+msgid "Very dark gray"
+msgstr "ძალიან მუქი ნაცრისფერი"
+
+#: languages/gutenberg-translations.php:2275 build/editor/index.js:50
+msgid "Cyan bluish gray"
+msgstr "მოციფრო-ნაცრისფერი"
+
+#: languages/gutenberg-translations.php:2272 build/editor/index.js:50
+msgid "Very light gray"
+msgstr "ღია ნაცრისფერი"
+
+#: languages/gutenberg-translations.php:2269 build/editor/index.js:50
+msgid "Vivid cyan blue"
+msgstr "კაშკაშა ლურჯი"
+
+#: languages/gutenberg-translations.php:2266 build/editor/index.js:50
+msgid "Pale cyan blue"
+msgstr "ფერკმთალი ლურჯი"
+
+#: languages/gutenberg-translations.php:2263 build/editor/index.js:50
+msgid "Vivid green cyan"
+msgstr "კაშკაშა მწვანე"
+
+#: languages/gutenberg-translations.php:2260 build/editor/index.js:50
+msgid "Light green cyan"
+msgstr "ღია მწვანე"
+
+#: languages/gutenberg-translations.php:2257 build/editor/index.js:50
+msgid "Luminous vivid amber"
+msgstr "ქარვისფერი"
+
+#: languages/gutenberg-translations.php:2254 build/editor/index.js:50
+msgid "Luminous vivid orange"
+msgstr "ფორთოხლისფერი"
+
+#: languages/gutenberg-translations.php:2251 build/editor/index.js:50
+msgid "Vivid red"
+msgstr "კაშკაშა წითელი"
+
+#: languages/gutenberg-translations.php:2248 build/editor/index.js:50
+msgid "Pale pink"
+msgstr "ფერკმთალი ვარდისფერი"
+
+#: languages/gutenberg-translations.php:1779 build/editor/index.js:50
+msgid "Inline Elements"
+msgstr "შიდა ელემენტები"
+
+#: languages/gutenberg-translations.php:2339 build/format-library/index.js:12
+msgid "Inline Image"
+msgstr "ჩასმული სურათი"
+
+#: languages/gutenberg-translations.php:1789 build/editor/index.js:50
+msgid "Available block types"
+msgstr "ხელმისაწვდომი ბლოკის ტიპები"
+
+#: languages/gutenberg-translations.php:1244 build/edit-post/index.js:12
+msgid "Welcome to the wonderful world of blocks! Click the “+” (“Add block”) button to add a new block. There are blocks available for all kinds of content: you can insert text, headings, images, lists, and lots more!"
+msgstr "კეთილი იყოს თქვენი მობრძანება ბლოკების საოცარ სამყაროში! დააწკაპუნეთ ღილაკზე „+“ („ბლოკის დამატება“), ახალი ბლოკის დასამატებლად. ხელმისაწვდომია ბლოკები ყველანაირი სახის შიგთავსისათვის: თქვენ შეგიძლიათ ჩასვათ ტექსტი, სათაური, სურათი, სიაები და სხვა მრავალი!"
+
+#: languages/gutenberg-translations.php:1725 build/editor/index.js:50
+msgid "Transform To:"
+msgstr "გარდაქმნა:"
+
+#: languages/gutenberg-translations.php:1683 build/editor/index.js:50
+msgid "Remove Block"
+msgstr "ბლოკის ამოღება"
+
+#: languages/gutenberg-translations.php:1408 build/edit-post/index.js:12
+msgid "Open publish panel"
+msgstr "გამოქვეყნების პანელის გახსნა"
+
+#: languages/gutenberg-translations.php:817 build/block-library/index.js:12
+msgid "Dots"
+msgstr "წერტილები"
+
+#: languages/gutenberg-translations.php:814 build/block-library/index.js:12
+msgid "Wide Line"
+msgstr "ფართო ხაზი"
+
+#: languages/gutenberg-translations.php:811 build/block-library/index.js:12
+msgid "Short Line"
+msgstr "მოკლე ხაზი"
+
+#: languages/gutenberg-translations.php:2287 lib/client-assets.php:987
+#: build/editor/index.js:50
+msgid "Large"
+msgstr "დიდი"
+
+#: languages/gutenberg-translations.php:572 build/block-library/index.js:12
+msgid "Link URL"
+msgstr "ბმული"
+
+#: languages/gutenberg-translations.php:534 build/block-library/index.js:12
+msgid "Custom URL"
+msgstr "მორგებული URL"
+
+#: languages/gutenberg-translations.php:445 build/block-library/index.js:12
+msgid "Show Download Button"
+msgstr "ჩამოტვირთვის ღილაკის ჩვენება"
+
+#: languages/gutenberg-translations.php:442 build/block-library/index.js:12
+msgid "Download Button Settings"
+msgstr "ჩამოტვირთვის ღილაკის პარამეტრები"
+
+#: languages/gutenberg-translations.php:434 build/block-library/index.js:12
+msgid "Link To"
+msgstr "ბმული"
+
+#: languages/gutenberg-translations.php:429 build/block-library/index.js:12
+msgid "Text Link Settings"
+msgstr "ტექსტური ბმულის პარამეტრები"
+
+#: languages/gutenberg-translations.php:410 build/block-library/index.js:12
+msgid "The download button is hidden."
+msgstr "ჩამოტვირთვის ღილაკი დამალულია."
+
+#: languages/gutenberg-translations.php:407 build/block-library/index.js:12
+msgid "The download button is visible."
+msgstr "ჩამოტვირთვის ღილაკი ხილულია."
+
+#: languages/gutenberg-translations.php:404 build/block-library/index.js:12
+msgid "pdf"
+msgstr "pdf"
+
+#: languages/gutenberg-translations.php:401 build/block-library/index.js:12
+msgid "document"
+msgstr "დოკუმენტი"
+
+#: languages/gutenberg-translations.php:395 build/block-library/index.js:12
+msgid "Copy URL"
+msgstr "URL-ს კოპირება"
+
+#: languages/gutenberg-translations.php:387 build/block-library/index.js:12
+msgid "Write file name…"
+msgstr "დაწერეთ ფაილის სახელი…"
+
+#: languages/gutenberg-translations.php:384 build/block-library/index.js:12
+msgid "Edit file"
+msgstr "ფაილის ჩასწორება"
+
+#: languages/gutenberg-translations.php:378 build/block-library/index.js:12
+#: build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "ფაილი"
+
+#: languages/gutenberg-translations.php:180 build/block-library/index.js:12
+msgid "A single column within a columns block."
+msgstr "ერთი სვეტი სვეტების ბლოკში."
+
+#: languages/gutenberg-translations.php:177 build/block-library/index.js:12
+msgid "Column"
+msgstr "სვეტი"
+
+#: languages/gutenberg-translations.php:136 build/block-library/index.js:12
+msgid "Outline"
+msgstr "კონტური"
+
+#: languages/gutenberg-translations.php:42 build/block-library/index.js:12
+msgid "Loop"
+msgstr "გამეორება"
+
+#: languages/gutenberg-translations.php:38 build/block-library/index.js:12
+msgid "Autoplay"
+msgstr "ავტო-დაკვრა"
+
+#: languages/gutenberg-translations.php:931 build/block-library/index.js:12
+msgid "Playback Controls"
+msgstr "დაკვრის ელემენტები"
+
+#: languages/gutenberg-translations.php:1193 build/components/index.js:19
+msgid "Close dialog"
+msgstr "დიალოგური სარკმელის დახურვა"
+
+#: languages/gutenberg-translations.php:2317 build/editor/index.js:50
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "უკაცრავად, ამ ტიპის ფაილი არ არის ნებადართული უსაფრთხოების მიზნით."
+
+#: languages/gutenberg-translations.php:2403 build/nux/index.js:1
+msgid "Disable tips"
+msgstr "რჩევების გამორთვა"
+
+#: languages/gutenberg-translations.php:2400 build/nux/index.js:1
+msgid "Got it"
+msgstr "გასაგებია"
+
+#: languages/gutenberg-translations.php:2397 build/nux/index.js:1
+msgid "See next tip"
+msgstr "შემდეგი რჩევა"
+
+#: languages/gutenberg-translations.php:1976 build/editor/index.js:50
+msgid "Finished writing? That’s great, let’s get this published right now. Just click “Publish” and you’re good to go."
+msgstr "დაასრულეთ სტატია? შესანიშნავია, მოდით ახლა გამოვაქვეყნოთ. უბრალოდ დააჭირეთ ღილაკზე „გამოქვეყნება“. სულ ესაა."
+
+#: languages/gutenberg-translations.php:2043 build/editor/index.js:50
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "როდესაც მზად იქნებით, უბრალოდ გადააგზავნეთ სამუშაო დასამტკიცებლად და რედაქტორი შეძლებს მის მოწონებას."
+
+#: languages/gutenberg-translations.php:2040 build/editor/index.js:50
+msgid "Are you ready to submit for review?"
+msgstr "მზად ხართ გადააგზავნოთ დასამტკიცებლად?"
+
+#: languages/gutenberg-translations.php:1964 build/editor/index.js:50
+msgid "Click “Preview” to load a preview of this page, so you can make sure you’re happy with your blocks."
+msgstr "დააწკაპუნეთ ღილაკზე „გადახედვა“, ამ გვერდის წინასწარ სანახავად. თქვენ დარწმუნდებით, რომ ბლოკები კარგად გამოიყურება."
+
+#: languages/gutenberg-translations.php:941 build/editor/index.js:50
+#: build/block-library/index.js:12
+msgid "Replace image"
+msgstr "სურათის ჩანაცვლება"
+
+#: languages/gutenberg-translations.php:1881 build/editor/index.js:50
+msgid "Remove image"
+msgstr "სურათის ამოღება"
+
+#: languages/gutenberg-translations.php:1686 build/editor/index.js:50
+msgid "Hide options"
+msgstr "პარამეტრების დამალვა"
+
+#: languages/gutenberg-translations.php:1253 build/edit-post/index.js:12
+msgid "You’ll find more settings for your page and blocks in the sidebar. Click “Settings” to open it."
+msgstr "უფრო მეტ პარამეტრს ნახავთ გვერდითა ზოლში. დააწკაპუნეთ ღილაკზე „პარამეტრები“, მის გასახსნელად."
+
+#: lib/class-wp-rest-autosaves-controller.php:301
+msgid "Preview link for the post."
+msgstr "წინასწარი დათვალიერების ბმული ჩანაწერის სანახავად."
+
+#: lib/class-wp-rest-autosaves-controller.php:352
+msgid "There is nothing to save. The autosave and the post content are the same."
+msgstr "არაფერია შესანახი. ჩანაწერის შიგთავსი არ განსხვავდება ავტომატურად შენახული ვერსიისაგან."
+
+#: lib/class-wp-rest-autosaves-controller.php:252
+msgid "There is no autosave revision for this post."
+msgstr "ამ ჩანაწერისატვის არ არსებობს ავტომატურად შენახული ვერსია."
+
+#: lib/class-wp-rest-autosaves-controller.php:246
+msgid "Invalid parent post ID."
+msgstr "მშობელი ჩანაწერის არასწორი ID."
+
+#: lib/class-wp-rest-autosaves-controller.php:182
+msgid "Invalid item ID."
+msgstr "ელემენტის არასწორი ID."
+
+#: lib/class-wp-rest-autosaves-controller.php:116
+msgid "The ID for the object."
+msgstr "ობიექტის ID."
+
+#: lib/class-wp-rest-autosaves-controller.php:86
+#: lib/class-wp-rest-autosaves-controller.php:112
+msgid "The ID for the parent of the object."
+msgstr "ობიექტის მშობელის ID."
+
+#. translators: %s: file name
+#: languages/gutenberg-translations.php:2330 build/editor/index.js:50
+msgid "Error while uploading file %s to the media library."
+msgstr "შეცდომა ფაილის %s ატვირთვისას მედია ბიბლიოთეკაში."
+
+#: languages/gutenberg-translations.php:2323 build/editor/index.js:50
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "ფაილის ზომა აღემატება ამ საიტზე მაქსიმალურად დაშვებულ ზომას."
+
+#: languages/gutenberg-translations.php:2167 build/editor/index.js:50
+msgid "View the autosave"
+msgstr "ავტოშენახვის ნახვა"
+
+#: languages/gutenberg-translations.php:2164 build/editor/index.js:50
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "ამ ჩანაწერისათვის არსებობს უფრო გვიანდელი ვერსია, ვიდრე ქვემოთ მოცემული."
+
+#: languages/gutenberg-translations.php:2073 build/editor/index.js:50
+msgid "Autosaving"
+msgstr "ავტოშენახვა"
+
+#: languages/gutenberg-translations.php:1810 build/editor/index.js:50
+msgid "Drag a video, upload a new one or select a file from your library."
+msgstr "გადაათრიეთ ვიდეო-ფაილი, ატვირთეთ ახალი, ან აირჩიეთ სასურველი ბიბლიოთეკიდან."
+
+#: languages/gutenberg-translations.php:1459 build/edit-post/index.js:12
+msgid "Pin to toolbar"
+msgstr "ხელსაწყოთა ზოლზე მიმაგრება"
+
+#: languages/gutenberg-translations.php:1456 build/edit-post/index.js:12
+msgid "Unpin from toolbar"
+msgstr "ხელსაწყოთა ზოლიდან მოხსნა"
+
+#: languages/gutenberg-translations.php:892 build/block-library/index.js:12
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "ცხრილის ჩასმა — იდეალურია გრაფიკებისა და მონაცემებისათვის."
+
+#: languages/gutenberg-translations.php:883 build/block-library/index.js:12
+msgid "Fixed width table cells"
+msgstr "ცხრილის უჯრედები ფიქსირებული სიგანით"
+
+#: languages/gutenberg-translations.php:880 build/block-library/index.js:12
+msgid "Table Settings"
+msgstr "ცხრილის პარამეტრები"
+
+#: languages/gutenberg-translations.php:761 build/block-library/index.js:12
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "დაამატეთ ტექსტი, რომელიც შეესაბამება თქვენს დაშორებასა და ჩანართებს, ასევე ანიჭებს სტილს."
+
+#: languages/gutenberg-translations.php:643 build/block-library/index.js:12
+msgid "Display a list of your most recent posts."
+msgstr "საიტის ბოლო ჩანაწერები."
+
+#. translators: %s: Name of service (e.g. VideoPress, YouTube)
+#: languages/gutenberg-translations.php:373 build/block-library/index.js:12
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "ბლოკის დამატება, რომელიც აჩვენებს სხვა საიტებს, როგორიცაა Twitter, Instagram ან YouTube."
+
+#: languages/gutenberg-translations.php:183 build/block-library/index.js:12
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "დაამატეთ ბლოკი, რომელიც აჩვენებს შიგთავსს რამოდენიმე სვეტში, ხოლო შემდეგ ამ ბლოკში დაამატეთ სხვა ბლოკები შიგთავსით, რომლებიც თქვენ გსურთ."
+
+#: languages/gutenberg-translations.php:1230 build/components/index.js:19
+msgid "No results found."
+msgstr "შედეგები არ არის."
+
+#. translators: %s: error message describing the problem
+#: languages/gutenberg-translations.php:1227 build/components/index.js:19
+msgid "Error loading block: %s"
+msgstr "ბლოკის ჩატვირთვის შეცდომა: %s"
+
+#: languages/gutenberg-translations.php:2388
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "უცნობი შეცდომა"
+
+#: lib/rest-api.php:101
+msgid "Embed Handler"
+msgstr "დამმუშავებელი ჩაშენება"
+
+#: lib/class-wp-rest-block-renderer-controller.php:170
+msgid "The rendered block."
+msgstr "ხილული ბლოკი."
+
+#: lib/class-wp-rest-block-renderer-controller.php:95
+msgid "Sorry, you are not allowed to read Gutenberg blocks of this post."
+msgstr "უკაცრავად, თქვენ არ გაქვთ ამ ჩანაწერის Gutenberg-ის ბლოკების წაკითხვის უფლება."
+
+#: lib/class-wp-rest-block-renderer-controller.php:65
+msgid "ID of the post context."
+msgstr "ჩანაწერის კონტექსტის ID."
+
+#. translators: %s is the name of the block
+#: lib/class-wp-rest-block-renderer-controller.php:58
+msgid "Attributes for %s block"
+msgstr "ატრიბუტები %s ბლოკისათვის"
+
+#: lib/class-wp-rest-block-renderer-controller.php:46
+msgid "Unique registered name for the block."
+msgstr "ბლოკის უნიკალური, რეგისტრირებული სახელი."
+
+#: languages/gutenberg-translations.php:2495 build/editor/index.js:50
+msgctxt "term"
+msgid "Remove %s"
+msgstr "ამოღება: %s"
+
+#: languages/gutenberg-translations.php:1952 build/editor/index.js:50
+msgid "Copy the permalink"
+msgstr "მუდმივი ბმულის კოპირება"
+
+#: languages/gutenberg-translations.php:1949 build/editor/index.js:50
+msgid "Permalink copied"
+msgstr "მუდმივი ბმული დაკოპირდა"
+
+#: languages/gutenberg-translations.php:838 build/block-library/index.js:12
+msgid "Height in pixels"
+msgstr "სიმაღლე პიქსელებში"
+
+#: languages/gutenberg-translations.php:835 build/block-library/index.js:12
+msgid "Spacer Settings"
+msgstr "დაშორების პარამეტრები"
+
+#: languages/gutenberg-translations.php:829 build/block-library/index.js:12
+msgid "Spacer"
+msgstr "დაშორება"
+
+#: languages/gutenberg-translations.php:746 build/block-library/index.js:12
+msgid "Toggle to show a large initial letter."
+msgstr "გახადეთ საწყისი ასო-ნიშანი დიდი."
+
+#: languages/gutenberg-translations.php:743 build/block-library/index.js:12
+msgid "Showing large initial letter."
+msgstr "საწყისი დიდი ასო-ნიშანის ჩვენება."
+
+#: languages/gutenberg-translations.php:78 build/block-library/index.js:12
+msgid "Name:"
+msgstr "სახელი:"
+
+#. translators: 1: term name, 2: term position in a set of terms, 3: total term
+#. set count.
+#: languages/gutenberg-translations.php:1190 build/components/index.js:19
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s — %3$s)"
+
+#: languages/gutenberg-translations.php:1186 build/components/index.js:19
+msgid "Remove item"
+msgstr "ელემენტის წაშლა"
+
+#. translators: %s: color hex code e.g: "#f00".
+#: languages/gutenberg-translations.php:997 build/components/index.js:19
+msgid "Color code: %s"
+msgstr "ფერის კოდი: %s"
+
+#: lib/class-wp-rest-block-renderer-controller.php:142
+msgid "Invalid block."
+msgstr "არაკორექტული ბლოკი."
+
+#: lib/rest-api.php:157
+msgid "Whether to show the taxonomy in the quick/bulk edit panel."
+msgstr "ტაქსონომიის ჩვენება სწრაფი ჩასწორების პანელში."
+
+#: lib/rest-api.php:153
+msgid "Whether to make the taxonomy available for selection in navigation menus."
+msgstr "ტაქსონომიის ხელმისაწვდომობა ნავიგაციის მენიუში."
+
+#: lib/rest-api.php:149
+msgid "Whether to allow automatic creation of taxonomy columns on associated post-types table."
+msgstr "ტაქსონომიის სვეტების ავტომატური შექმნის ნების დართვა შესაბამისი ჩანაწერის ცხრილში."
+
+#: lib/rest-api.php:145
+msgid "Whether to generate a default UI for managing this taxonomy."
+msgstr "სამომხმარებლო ინტერფეისის შექმნა ნაგულისხმევად ამ ტაქსონომიისათვის."
+
+#: lib/rest-api.php:141
+msgid "Whether the taxonomy is publicly queryable."
+msgstr "ტაქსონომიის გასაჯაროება."
+
+#: lib/rest-api.php:137
+msgid "Whether a taxonomy is intended for use publicly either via the admin interface or by front-end users."
+msgstr "ტაქსონომიის ხელმისაწვდომობა ადმინისტრატორის ინტერფეისის გამოყენებით გარე მომხმარებლებისათვის."
+
+#: lib/rest-api.php:131
+msgid "The visibility settings for the taxonomy."
+msgstr "ტაქსონომიის ხილვადობის პარამეტრები."
+
+#: languages/gutenberg-translations.php:2182 build/editor/index.js:50
+msgid "Skip to the selected block"
+msgstr "გადასვლა არჩეულ ბლოკზე"
+
+#: languages/gutenberg-translations.php:1973 build/editor/index.js:50
+msgid "Publish…"
+msgstr "გამოქვეყნება…"
+
+#: languages/gutenberg-translations.php:1970 build/editor/index.js:50
+msgid "Schedule…"
+msgstr "დაგეგმილი…"
+
+#: languages/gutenberg-translations.php:1958 build/editor/index.js:50
+msgid "Change Permalinks"
+msgstr "მუდმივი ბმულის შეცვლა"
+
+#: languages/gutenberg-translations.php:1946 build/editor/index.js:50
+msgid "Edit post permalink"
+msgstr "ჩანაწერის მუდმივი ბმულის ჩასწორება"
+
+#: languages/gutenberg-translations.php:1516 build/edit-post/index.js:12
+msgid "Show Block Settings"
+msgstr "ბლოკის პარამეტრების ჩვენება"
+
+#: languages/gutenberg-translations.php:1513 build/edit-post/index.js:12
+msgid "Hide Block Settings"
+msgstr "ბლოკის პარამეტრების დამალვა"
+
+#: languages/gutenberg-translations.php:1507 build/edit-post/index.js:12
+msgid "Block settings closed"
+msgstr "ბლოკის პარამეტრები დახურულია"
+
+#: languages/gutenberg-translations.php:1453 build/edit-post/index.js:12
+msgid "Close plugin"
+msgstr "პლაგინის დახურვა"
+
+#: languages/gutenberg-translations.php:1493 build/edit-post/index.js:12
+msgid "Editor settings"
+msgstr "რედაქტორის პარამეტრები"
+
+#: languages/gutenberg-translations.php:569 build/editor/index.js:50
+#: build/block-library/index.js:12
+msgid "Link Settings"
+msgstr "ბმულის პარამეტრები"
+
+#: languages/gutenberg-translations.php:2345 build/format-library/index.js:12
+msgid "Unlink"
+msgstr "ბმულის გაუქმება"
+
+#: languages/gutenberg-translations.php:712 build/block-library/index.js:12
+msgid "Page break"
+msgstr "გვერდის გაყოფა"
+
+#: languages/gutenberg-translations.php:724 build/block-library/index.js:12
+msgid "pagination"
+msgstr "გვერდებად დანომვრა"
+
+#: languages/gutenberg-translations.php:721 build/block-library/index.js:12
+msgid "next page"
+msgstr "შემდეგი გვერდი"
+
+#: languages/gutenberg-translations.php:560 build/block-library/index.js:12
+msgid "Image Size"
+msgstr "სურათის ზომა"
+
+#: languages/gutenberg-translations.php:557 build/block-library/index.js:12
+msgid "Height"
+msgstr "სიმაღლე"
+
+#: languages/gutenberg-translations.php:554 build/block-library/index.js:12
+msgid "Width"
+msgstr "სიგანე"
+
+#: languages/gutenberg-translations.php:551 build/block-library/index.js:12
+msgid "Image Dimensions"
+msgstr "სურათის ზომები"
+
+#: languages/gutenberg-translations.php:451 build/block-library/index.js:12
+msgid "Thumbnails are not cropped."
+msgstr "ესკიზები არ მოიჭრება."
+
+#: languages/gutenberg-translations.php:448 build/block-library/index.js:12
+msgid "Thumbnails are cropped to align."
+msgstr "ესკიზები მოიჭრება გასწორებისათვის."
+
+#: languages/gutenberg-translations.php:1831 build/editor/index.js:50
+msgid "Media Library"
+msgstr "მედია ბიბლიოთეკა"
+
+#: languages/gutenberg-translations.php:1596 build/editor/index.js:50
+msgid "Advanced"
+msgstr "დამატებით"
+
+#: languages/gutenberg-translations.php:1174 build/components/index.js:19
+msgid "Add item"
+msgstr "ელემენტის დამატება"
+
+#: languages/gutenberg-translations.php:2215 build/editor/index.js:50
+msgid "Reset the template"
+msgstr "შაბლონის ჩამოყრა"
+
+#: languages/gutenberg-translations.php:2212 build/editor/index.js:50
+msgid "Keep it as is"
+msgstr "ცვლილების გარეშე დატოვება"
+
+#: languages/gutenberg-translations.php:2209 build/editor/index.js:50
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "შიგთავსი არ შეესაბამება შაბლონს, რომელიც მინიჭებული აქვს ამ ტიპის ჩანაწერს."
+
+#: languages/gutenberg-translations.php:2206 build/editor/index.js:50
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "შაბლონის ჩამოყრამ შესაძლოა გამოიწვიოს შიგთავსის დაკარგვა, განვაგრძოთ?"
+
+#: languages/gutenberg-translations.php:2188 build/editor/index.js:50
+msgid "Document Statistics"
+msgstr "დოკუმენტის სტატისტიკა"
+
+#: languages/gutenberg-translations.php:2031 build/editor/index.js:50
+msgid "is now scheduled. It will go live on"
+msgstr "დაგეგმილია და გამოქვეყნდება"
+
+#: languages/gutenberg-translations.php:2003 build/editor/index.js:50
+msgid "Scheduled"
+msgstr "დაგეგმილი"
+
+#: languages/gutenberg-translations.php:1985 build/editor/index.js:50
+msgid "Scheduling…"
+msgstr "დაგეგმვა…"
+
+#: languages/gutenberg-translations.php:1547 build/edit-post/index.js:12
+msgid "Code editor selected"
+msgstr "არჩეულია კოდის რედაქტორი"
+
+#: languages/gutenberg-translations.php:1544 build/edit-post/index.js:12
+msgid "Visual editor selected"
+msgstr "არჩეულია ვიზუალური რედაქტორი"
+
+#: languages/gutenberg-translations.php:1275 build/edit-post/index.js:12
+msgid "Plugins"
+msgstr "დანამატები"
+
+#: languages/gutenberg-translations.php:1164 build/components/index.js:19
+msgid "Custom Size"
+msgstr "სტანდარტული ზომა"
+
+#: languages/gutenberg-translations.php:471 build/block-library/index.js:12
+msgid "Upload an image"
+msgstr "სურათის ატვირთვა"
+
+#: languages/gutenberg-translations.php:964 lib/client-assets.php:941
+#: build/blocks/index.js:2
+msgid "Layout Elements"
+msgstr "დაკაბადონების ელემენტები"
+
+#: languages/gutenberg-translations.php:2492 build/editor/index.js:50
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s ამოღებულია"
+
+#: languages/gutenberg-translations.php:2489 build/editor/index.js:50
+msgctxt "term"
+msgid "%s added"
+msgstr "%s დამატებულია"
+
+#: languages/gutenberg-translations.php:2482 build/editor/index.js:50
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "გადახედვა"
+
+#: languages/gutenberg-translations.php:2311 build/editor/index.js:50
+msgid "Block deleted."
+msgstr "ბლოკი წაშლილია."
+
+#: languages/gutenberg-translations.php:2308 lib/register.php:467
+#: build/editor/index.js:50
+msgid "Block updated."
+msgstr "ბლოკი განახლდა."
+
+#: languages/gutenberg-translations.php:2305 build/editor/index.js:50
+msgid "Block created."
+msgstr "ბლოკი შეიქმნა."
+
+#: languages/gutenberg-translations.php:2302 build/editor/index.js:50
+msgid "Trashing failed"
+msgstr "სანაგვეში გადატანა ჩაიშალა"
+
+#: languages/gutenberg-translations.php:2299 build/editor/index.js:50
+msgid "Updating failed"
+msgstr "განახლება ჩაიშალა"
+
+#: languages/gutenberg-translations.php:2296 build/editor/index.js:50
+msgid "Scheduling failed"
+msgstr "დაგეგმვა ჩაიშალა"
+
+#: languages/gutenberg-translations.php:2293 build/editor/index.js:50
+msgid "Publishing failed"
+msgstr "გამოქვეყნება ჩაიშალა"
+
+#: lib/rest-api.php:346
+msgid "Post updated."
+msgstr "ჩანაწერი განახლდა."
+
+#: lib/rest-api.php:345
+msgid "Post scheduled."
+msgstr "ჩანაწერის გამოქვეყნება დაგეგმილია."
+
+#: lib/rest-api.php:343
+msgid "Post published privately."
+msgstr "ჩანაწერი გამოქვეყნდა როგორც პირადი."
+
+#: lib/rest-api.php:342
+msgid "Post published."
+msgstr "ჩანაწერი გამოქვეყნდა."
+
+#: lib/rest-api.php:344
+msgid "Post reverted to draft."
+msgstr "ჩანაწერი გადატანილია მონახაზებში."
+
+#: languages/gutenberg-translations.php:2218 build/editor/index.js:50
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "თქვენ გაქვთ ცვლილებები, რომლებიც ჯერ არ არის შენახული. თუ განაგრძობთ, ისინი დაიკარგება."
+
+#: languages/gutenberg-translations.php:2203 build/editor/index.js:50
+msgid "Document Outline"
+msgstr "დოკუმენტის სტრუქურა"
+
+#: languages/gutenberg-translations.php:2197 build/editor/index.js:50
+msgid "Paragraphs"
+msgstr "აბზაცები"
+
+#: languages/gutenberg-translations.php:2194 build/editor/index.js:50
+msgid "Headings"
+msgstr "თავსართები"
+
+#: languages/gutenberg-translations.php:2191 build/editor/index.js:50
+msgid "Words"
+msgstr "სიტყვა"
+
+#: languages/gutenberg-translations.php:2185 build/editor/index.js:50
+msgid "Content structure"
+msgstr "შიგთავსის სტრუქტურა"
+
+#: languages/gutenberg-translations.php:2158 build/editor/index.js:50
+msgid "Public"
+msgstr "საჯარო"
+
+#: languages/gutenberg-translations.php:2155 build/editor/index.js:50
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "ᲓᲐᲪᲣᲚᲘᲐ ᲞᲐᲠᲝᲚᲘᲗ, ᲠᲝᲛᲔᲚᲡᲐᲪ ᲗᲥᲕᲔᲜ ᲐᲘᲠᲩᲔᲕᲗ. ᲩᲐᲜᲐᲬᲔᲠᲘᲡ ᲜᲐᲮᲕᲐ ᲛᲮᲝᲚᲝᲓ ᲛᲐᲗ ᲨᲔᲣᲫᲚᲘᲐᲗ, ᲕᲘᲡᲐᲪ ᲐᲥᲕს პაროლი."
+
+#: languages/gutenberg-translations.php:2152 build/editor/index.js:50
+msgid "Password Protected"
+msgstr "პაროლით დაცული"
+
+#: languages/gutenberg-translations.php:2149 build/editor/index.js:50
+msgid "Only visible to site admins and editors."
+msgstr "ჩანს მხოლოდ სატის ადმინისტრატორისათვის და რედაქტორისათვის."
+
+#: languages/gutenberg-translations.php:2146 build/editor/index.js:50
+msgid "Private"
+msgstr "პირადი"
+
+#: languages/gutenberg-translations.php:2161 build/editor/index.js:50
+msgid "Visible to everyone."
+msgstr "ჩანს ყველასათვის."
+
+#: languages/gutenberg-translations.php:2134 build/editor/index.js:50
+msgid "Post Visibility"
+msgstr "ჩანაწერის ხილვადობა"
+
+#: languages/gutenberg-translations.php:2143 build/editor/index.js:50
+msgid "Would you like to privately publish this post now?"
+msgstr "გსურთ ამ ჩანაწერის პირადად გამოქვეყნება?"
+
+#: languages/gutenberg-translations.php:2140 build/editor/index.js:50
+msgid "Use a secure password"
+msgstr "გამოიყენეთ საიმედო პაროლი"
+
+#: languages/gutenberg-translations.php:2137 build/editor/index.js:50
+msgid "Create password"
+msgstr "პაროლის შექმნა"
+
+#: languages/gutenberg-translations.php:2131 build/editor/index.js:50
+msgid "Move to trash"
+msgstr "ურნაში გადატანა"
+
+#: languages/gutenberg-translations.php:2116 build/editor/index.js:50
+msgid "Parent Term"
+msgstr "მშობელი ტერმინი"
+
+#: languages/gutenberg-translations.php:2113 build/editor/index.js:50
+msgid "Parent Category"
+msgstr "მშობელი კატეგორია"
+
+#: languages/gutenberg-translations.php:2110 build/editor/index.js:50
+msgid "Add new term"
+msgstr "ახალი ტერმინის დამატება"
+
+#: languages/gutenberg-translations.php:2107 build/editor/index.js:50
+msgid "Add new category"
+msgstr "ახალი კატეგორიის დამატება"
+
+#: languages/gutenberg-translations.php:2104 build/editor/index.js:50
+msgid "Term"
+msgstr "ტერმინი"
+
+#: languages/gutenberg-translations.php:2100 build/editor/index.js:50
+msgid "Tag"
+msgstr "ტეგი"
+
+#: languages/gutenberg-translations.php:2097 build/editor/index.js:50
+msgid "Add New Term"
+msgstr "ახალი ტერმინის დამატება"
+
+#: languages/gutenberg-translations.php:2094 build/editor/index.js:50
+msgid "Add New Tag"
+msgstr "ახალი ჭდეს დამატება"
+
+#: languages/gutenberg-translations.php:2091 build/editor/index.js:50
+msgid "Switch to Draft"
+msgstr "მონახაზზე გადასვლა"
+
+#: languages/gutenberg-translations.php:2085 build/editor/index.js:50
+msgid "Are you sure you want to unpublish this post?"
+msgstr "დარწმუნებული ხართ, რომ გსურთ ამ ჩანაწერის გამოქვეყნების გაუქმება?"
+
+#: languages/gutenberg-translations.php:2082 build/editor/index.js:50
+msgid "Stick to the Front Page"
+msgstr "მთავარ გვერდზე მიჭიკარტება"
+
+#: languages/gutenberg-translations.php:2079 build/editor/index.js:50
+msgid "Immediately"
+msgstr "დაუყოვნებლივ"
+
+#: languages/gutenberg-translations.php:2070 build/editor/index.js:50
+msgid "Save Draft"
+msgstr "ესკიზის შენახვა"
+
+#: languages/gutenberg-translations.php:2076 build/editor/index.js:50
+msgid "Saving"
+msgstr "შენახვა"
+
+#: languages/gutenberg-translations.php:2061 build/editor/index.js:50
+msgid "Publish:"
+msgstr "გამოქვეყნებულია:"
+
+#: languages/gutenberg-translations.php:2058 build/editor/index.js:50
+msgid "Visibility:"
+msgstr "ხილვადობა:"
+
+#: languages/gutenberg-translations.php:2052 build/editor/index.js:50
+msgid "Are you ready to publish?"
+msgstr "მზად ხართ გამოქვეყნებისათვის?"
+
+#: languages/gutenberg-translations.php:2028 build/editor/index.js:50
+msgid "Copy Link"
+msgstr "ბმულის კოპირება"
+
+#: languages/gutenberg-translations.php:2037 build/editor/index.js:50
+msgid "What’s next?"
+msgstr "შემდეგ რა ხდება?"
+
+#: languages/gutenberg-translations.php:2034 build/editor/index.js:50
+msgid "is now live."
+msgstr "გამოქვეყნებულია."
+
+#: languages/gutenberg-translations.php:2006 build/editor/index.js:50
+msgid "Published"
+msgstr "გამოქვეყნებული"
+
+#: languages/gutenberg-translations.php:1994 build/editor/index.js:50
+msgid "Schedule"
+msgstr "განრიგში"
+
+#: languages/gutenberg-translations.php:1991 build/editor/index.js:50
+msgid "Update"
+msgstr "განახლება"
+
+#: languages/gutenberg-translations.php:1988 build/editor/index.js:50
+msgid "Submit for Review"
+msgstr "დასამტკიცებლად გაგზავნა"
+
+#: languages/gutenberg-translations.php:1982 build/editor/index.js:50
+msgid "Updating…"
+msgstr "განახლება…"
+
+#: languages/gutenberg-translations.php:1979 build/editor/index.js:50
+msgid "Publishing…"
+msgstr "გამოქვეყნება…"
+
+#: languages/gutenberg-translations.php:1961 build/editor/index.js:50
+msgid "Allow Pingbacks & Trackbacks"
+msgstr "შეტყობინებებისა და უკუბმულების ნების დართვა"
+
+#: languages/gutenberg-translations.php:1955 build/editor/index.js:50
+msgid "Permalink:"
+msgstr "მუდმივი ბმული:"
+
+#: languages/gutenberg-translations.php:1943 build/editor/index.js:50
+msgid "Pending Review"
+msgstr "დასამტკიცებელია"
+
+#: languages/gutenberg-translations.php:1914 build/editor/index.js:50
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d რევიზია"
+
+#: languages/gutenberg-translations.php:1911 build/editor/index.js:50
+msgid "Suggestion:"
+msgstr "შემოთავაზებები:"
+
+#: languages/gutenberg-translations.php:1906 build/editor/index.js:50
+msgid "Post Format"
+msgstr "ჩანაწერის ფორმატი"
+
+#: languages/gutenberg-translations.php:1903 build/editor/index.js:50
+msgid "Chat"
+msgstr "ჩეტი"
+
+#: languages/gutenberg-translations.php:1900 build/editor/index.js:50
+msgid "Status"
+msgstr "სტატუსი"
+
+#: languages/gutenberg-translations.php:1897 build/editor/index.js:50
+msgid "Standard"
+msgstr "სტანდარტული"
+
+#: languages/gutenberg-translations.php:1890 build/editor/index.js:50
+msgid "Aside"
+msgstr "შენიშვნა"
+
+#: languages/gutenberg-translations.php:1878 build/editor/index.js:50
+msgid "Set featured image"
+msgstr "მინიატურის დაყენება"
+
+#: languages/gutenberg-translations.php:1875 build/editor/index.js:50
+msgid "Learn more about manual excerpts"
+msgstr "გაიგეთ მეტი ნაწყვეტების შესახებ"
+
+#: languages/gutenberg-translations.php:1869 build/editor/index.js:50
+msgid "Write an excerpt (optional)"
+msgstr "ნაწყვეტის დაწერა (არასავალდებულო)"
+
+#: languages/gutenberg-translations.php:1866 build/editor/index.js:50
+msgid "Allow Comments"
+msgstr "კომენტარები ჩართულია"
+
+#: lib/client-assets.php:1197
+msgid "Default template"
+msgstr "ნაგულისხმევი შაბლონი"
+
+#: languages/gutenberg-translations.php:1857 build/editor/index.js:50
+msgid "Template:"
+msgstr "შაბლონი:"
+
+#: languages/gutenberg-translations.php:1854 build/editor/index.js:50
+msgid "no parent"
+msgstr "მშობლის გარეშე"
+
+#: languages/gutenberg-translations.php:1851 build/editor/index.js:50
+msgid "no title"
+msgstr "სათაურის გარეშე"
+
+#: languages/gutenberg-translations.php:1848 build/editor/index.js:50
+msgid "Order"
+msgstr "დალაგება"
+
+#: languages/gutenberg-translations.php:1795 lib/register.php:458
+#: build/editor/index.js:50
+msgid "No blocks found."
+msgstr "ბლოკი ვერ მოიძებნა."
+
+#: languages/gutenberg-translations.php:1783 build/editor/index.js:50
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d შედეგია ნაპოვნი."
+
+#: languages/gutenberg-translations.php:2064 build/editor/index.js:50
+msgid "Saved"
+msgstr "შენახულია"
+
+#: languages/gutenberg-translations.php:970 lib/client-assets.php:951
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "ჩადგმები"
+
+#: languages/gutenberg-translations.php:2200 build/editor/index.js:50
+msgid "Blocks"
+msgstr "ბლოკი"
+
+#: languages/gutenberg-translations.php:1786 build/editor/index.js:50
+msgid "Search for a block"
+msgstr "ბლოკის ძებნა"
+
+#: languages/gutenberg-translations.php:1601 build/editor/index.js:50
+msgid "Add block"
+msgstr "ბლოკის დამატება"
+
+#: languages/gutenberg-translations.php:1776 build/editor/index.js:50
+msgid "Add %s"
+msgstr "დამატება %s"
+
+#: languages/gutenberg-translations.php:1770 build/editor/index.js:50
+msgid "Copy Error"
+msgstr "შეცდომის ტექსტის კოპირება"
+
+#: languages/gutenberg-translations.php:1767 build/editor/index.js:50
+msgid "Copy Post Text"
+msgstr "ჩანაწერის ტექსტის კოპირება"
+
+#: languages/gutenberg-translations.php:1764 build/editor/index.js:50
+msgid "Attempt Recovery"
+msgstr "აღდგენის მცდელობა"
+
+#: languages/gutenberg-translations.php:1773 build/editor/index.js:50
+msgid "The editor has encountered an unexpected error."
+msgstr "მოხდა მოულოდნელი შეცდომა."
+
+#: languages/gutenberg-translations.php:1761 build/editor/index.js:50
+msgid "Undo"
+msgstr "გაუქმება"
+
+#: languages/gutenberg-translations.php:1758 build/editor/index.js:50
+msgid "Redo"
+msgstr "აღდგენა"
+
+#: languages/gutenberg-translations.php:1755 build/editor/index.js:50
+msgid "(Click to focus this heading)"
+msgstr "(დააწკაპუნეთ სათაურის მოსანიშნად)"
+
+#: languages/gutenberg-translations.php:1752 build/editor/index.js:50
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(არ არის რეკომედებული ერთზე მეტი H1 ტეგის გამოყენება)"
+
+#: languages/gutenberg-translations.php:1749 build/editor/index.js:50
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(თქვენს თემას უკვე შეუძლია H1 ტეგის გამოყენება ჩანაწერის სათაურისათვის)"
+
+#: languages/gutenberg-translations.php:1746 build/editor/index.js:50
+msgid "(Incorrect heading level)"
+msgstr "(სათაურის არასწორი დონე)"
+
+#: languages/gutenberg-translations.php:1743 build/editor/index.js:50
+msgid "(Empty heading)"
+msgstr "(სათაურის გარეშე)"
+
+#: languages/gutenberg-translations.php:1722 build/editor/index.js:50
+msgid "Block Styles"
+msgstr "ბლოკების სტილები"
+
+#: languages/gutenberg-translations.php:1716 build/editor/index.js:50
+msgid "Change block type"
+msgstr "ბლოკის ტიპის შეცვლა"
+
+#: languages/gutenberg-translations.php:1711 build/editor/index.js:50
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"დარწმუნებული ხართ, რომ გსურთ კვლავგამოყენებადი ბლოკის წაშლა?\n"
+"\n"
+"თქვენი ქმედება გამოიწვევს მის წაშლას ყველა ჩანაწერიდან."
+
+#: languages/gutenberg-translations.php:1705 build/editor/index.js:50
+msgid "Convert to Regular Block"
+msgstr "ჩვეულებრივ ბლოკად გარდაქმნა"
+
+#: languages/gutenberg-translations.php:1690 build/editor/index.js:50
+msgid "More options"
+msgstr "დამატებითი პარამეტრები"
+
+#: languages/gutenberg-translations.php:1680 build/editor/index.js:50
+msgid "Edit visually"
+msgstr "ვიზუალაურად ჩასწორება"
+
+#: languages/gutenberg-translations.php:1693 build/editor/index.js:50
+msgid "Duplicate"
+msgstr "დუბლირება"
+
+#: languages/gutenberg-translations.php:1659 build/editor/index.js:50
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "ბლოკები ვერ გადაადგილდება ქვემოთ, ვინაიდან ისინი უკვე სულ ბოლოშია"
+
+#: languages/gutenberg-translations.php:1656 build/editor/index.js:50
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "ბლოკები ვერ გადაადგილდება ზემოთ, ვინაიდან ისინი უკვე სულ თავშია"
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: languages/gutenberg-translations.php:1653 build/editor/index.js:50
+msgid "Block %s is at the beginning of the content and can’t be moved up"
+msgstr "ბლოკი %s ვერ გადაადგილდება ზემოთ, ვინაიდან ის უკვე სულ თავშია"
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: languages/gutenberg-translations.php:1645 build/editor/index.js:50
+msgid "Block %s is at the end of the content and can’t be moved down"
+msgstr "ბლოკი %s ვერ გადაადგილდება ქვემოთ, ვინაიდან ის უკვე სულ ბოლოშია"
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: languages/gutenberg-translations.php:1637 build/editor/index.js:50
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "%s ბლოკი ერთადერთი ბლოკია, შესაბამისად ის ვერ გადაადგილდება"
+
+#: languages/gutenberg-translations.php:1633 build/editor/index.js:50
+msgid "Move down"
+msgstr "ქვემოთ ჩამოტანა"
+
+#: languages/gutenberg-translations.php:1630 build/editor/index.js:50
+msgid "Move up"
+msgstr "ზემოთ ამოტანა"
+
+#: languages/gutenberg-translations.php:1677 build/editor/index.js:50
+msgid "Edit as HTML"
+msgstr "HTML-ში ჩასწორება"
+
+#: languages/gutenberg-translations.php:1624 build/editor/index.js:50
+msgid "Convert to Blocks"
+msgstr "ბლოკებად გარდაქმნა"
+
+#: languages/gutenberg-translations.php:1627 build/editor/index.js:50
+msgid "Block: %s"
+msgstr "ბლოკი: %s"
+
+#: languages/gutenberg-translations.php:1607 build/editor/index.js:50
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "ეს ბლოკი შეიცავს შეცდომას და შეუძლებელია მისი ნახვა."
+
+#: languages/gutenberg-translations.php:1590 build/editor/index.js:50
+msgid "No block selected."
+msgstr "ბლოკი არ არის არჩეული."
+
+#: languages/gutenberg-translations.php:1531 build/edit-post/index.js:12
+msgid "Transform into:"
+msgstr "გარდაქმნა:"
+
+#: languages/gutenberg-translations.php:1528 build/edit-post/index.js:12
+msgid "Remove"
+msgstr "წაშლა"
+
+#: languages/gutenberg-translations.php:1525 build/edit-post/index.js:12
+msgid "Find original"
+msgstr "საწყისის მოძებნა"
+
+#: languages/gutenberg-translations.php:1537 build/edit-post/index.js:12
+msgid "Copy All Content"
+msgstr "მთლიანი შიგთავსის კოპირება"
+
+#: languages/gutenberg-translations.php:392 build/editor/index.js:50
+#: build/block-library/index.js:12 build/edit-post/index.js:12
+msgid "Copied!"
+msgstr "დაკოპირდა!"
+
+#: languages/gutenberg-translations.php:1510 build/edit-post/index.js:12
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "დამატებითი პარამეტრები ხელმისაწვდომია პარამტერების გვერდითა ზოლში"
+
+#: languages/gutenberg-translations.php:1472 build/edit-post/index.js:12
+msgid "Visibility"
+msgstr "ხილვადობა"
+
+#: languages/gutenberg-translations.php:1469 build/edit-post/index.js:12
+msgid "Status & Visibility"
+msgstr "სტატუსი და ხილვადობა"
+
+#: languages/gutenberg-translations.php:1441 build/edit-post/index.js:12
+msgid "Page Attributes"
+msgstr "გვერდის ატრიბუტები"
+
+#. translators: ARIA label for the Block sidebar tab, not selected.
+#: languages/gutenberg-translations.php:1484 build/edit-post/index.js:12
+msgid "Block"
+msgstr "ბლოკი"
+
+#: languages/gutenberg-translations.php:1490 build/edit-post/index.js:12
+msgid "Document"
+msgstr "დოკუმენტი"
+
+#: languages/gutenberg-translations.php:1429 build/editor/index.js:50
+#: build/edit-post/index.js:12
+msgid "Featured Image"
+msgstr "მინიატურა"
+
+#: languages/gutenberg-translations.php:1487 build/edit-post/index.js:12
+msgid "Close settings"
+msgstr "პარამეტრების დახურვა"
+
+#: languages/gutenberg-translations.php:1450 build/edit-post/index.js:12
+msgid "Editor plugins"
+msgstr "პლაგინების რედაქტორი"
+
+#: languages/gutenberg-translations.php:1405 build/edit-post/index.js:12
+msgid "Editor content"
+msgstr "შიგთავსის რედაქტორი"
+
+#: languages/gutenberg-translations.php:1278 build/edit-post/index.js:12
+msgid "Tools"
+msgstr "ხელსაწყოები"
+
+#: languages/gutenberg-translations.php:1262 build/edit-post/index.js:12
+msgid "Editor"
+msgstr "რედაქტორი"
+
+#: languages/gutenberg-translations.php:1259 build/edit-post/index.js:12
+msgid "Code Editor"
+msgstr "კოდის რედაქტორი"
+
+#: languages/gutenberg-translations.php:1256 build/edit-post/index.js:12
+msgid "Visual Editor"
+msgstr "ვიზუალური რედაქტორი"
+
+#: languages/gutenberg-translations.php:1247 build/edit-post/index.js:12
+msgid "Editor top bar"
+msgstr "ხელსაწყოთა ზოლი"
+
+#: languages/gutenberg-translations.php:1250 build/edit-post/index.js:12
+msgid "Settings"
+msgstr "პარამეტრები"
+
+#: languages/gutenberg-translations.php:565 build/block-library/index.js:12
+#: build/components/index.js:19
+msgid "Reset"
+msgstr "ჩამოყრა"
+
+#: languages/gutenberg-translations.php:1196 build/components/index.js:19
+msgid "Dismiss this notice"
+msgstr "გაფრთხილების გაქრობა"
+
+#: languages/gutenberg-translations.php:1183 build/components/index.js:19
+msgid "Item removed."
+msgstr "ელემენტი წაშლილია."
+
+#: languages/gutenberg-translations.php:1180 build/components/index.js:19
+msgid "Item added."
+msgstr "ელემენტი დამატებულია."
+
+#: languages/gutenberg-translations.php:1177 build/components/index.js:19
+msgid "Separate with commas"
+msgstr "მძიმეებით გამოყოფა"
+
+#: languages/gutenberg-translations.php:1153 build/components/index.js:19
+msgid "Drop files to upload"
+msgstr "გადაათრიეთ ფაილები აქ"
+
+#: languages/gutenberg-translations.php:1150 build/components/index.js:19
+msgid "PM"
+msgstr "PM"
+
+#: languages/gutenberg-translations.php:1147 build/components/index.js:19
+msgid "AM"
+msgstr "AM"
+
+#: languages/gutenberg-translations.php:8 build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "მოხდა უცნობი შეცდომა."
+
+#: languages/gutenberg-translations.php:983 build/editor/index.js:50
+#: build/components/index.js:19
+msgid "No results."
+msgstr "შედეგის გარეშე."
+
+#: languages/gutenberg-translations.php:978 build/editor/index.js:50
+#: build/components/index.js:19
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "ნაპოვნია %d შედეგი. გადასაადგილებლად გამოიყენეთ ისარი ზემოთ, ან ქვემოთ."
+
+#: languages/gutenberg-translations.php:1498
+#: packages/block-library/src/latest-comments/index.php:31
+#: build/editor/index.js:50 build/edit-post/index.js:12
+msgid "(no title)"
+msgstr "(უსათაურო)"
+
+#: languages/gutenberg-translations.php:416 build/editor/index.js:50
+#: build/block-library/index.js:12 build/edit-post/index.js:12
+msgid "URL"
+msgstr "URL-მისამართი"
+
+#: languages/gutenberg-translations.php:2227 build/editor/index.js:50
+msgid "Submit"
+msgstr "გაგზავნა"
+
+#: languages/gutenberg-translations.php:1084 build/editor/index.js:50
+#: build/edit-post/index.js:12 build/components/index.js:19
+msgid "Close"
+msgstr "დახურვა"
+
+#: languages/gutenberg-translations.php:2224 build/editor/index.js:50
+msgid "Insert Link"
+msgstr "ბმულის ჩასმა"
+
+#: languages/gutenberg-translations.php:2221 build/editor/index.js:50
+msgid "Edit Link"
+msgstr "ბმულის რედაქტირება"
+
+#: languages/gutenberg-translations.php:1894 build/editor/index.js:50
+#: build/format-library/index.js:12
+msgid "Link"
+msgstr "ბმული"
+
+#: languages/gutenberg-translations.php:2364 build/format-library/index.js:12
+msgid "Strikethrough"
+msgstr "ხაზგადასმული"
+
+#: languages/gutenberg-translations.php:2342 build/format-library/index.js:12
+msgid "Italic"
+msgstr "დახრილი"
+
+#: languages/gutenberg-translations.php:2333 build/format-library/index.js:12
+msgid "Bold"
+msgstr "მუქი"
+
+#: languages/gutenberg-translations.php:1223 build/components/index.js:19
+msgid "Number of items"
+msgstr "ელემენტების რაოდენობა"
+
+#: languages/gutenberg-translations.php:1220 build/components/index.js:19
+msgid "All"
+msgstr "ყველა"
+
+#: languages/gutenberg-translations.php:1217 build/editor/index.js:50
+#: build/components/index.js:19
+msgid "Category"
+msgstr "კატეგორია"
+
+#. translators: label for ordering posts by title in descending order
+#: languages/gutenberg-translations.php:1213 build/components/index.js:19
+msgid "Z → A"
+msgstr "ჰ \t ა"
+
+#. translators: label for ordering posts by title in ascending order
+#: languages/gutenberg-translations.php:1209 build/components/index.js:19
+msgid "A → Z"
+msgstr "ა \t ჰ"
+
+#: languages/gutenberg-translations.php:1205 build/components/index.js:19
+msgid "Oldest to Newest"
+msgstr "უფრო ძველიდან ახლისკენ"
+
+#: languages/gutenberg-translations.php:1202 build/components/index.js:19
+msgid "Newest to Oldest"
+msgstr "უფრო ახლიდან ძველისკენ"
+
+#: languages/gutenberg-translations.php:1199 build/components/index.js:19
+msgid "Order by"
+msgstr "დახარისხება"
+
+#: languages/gutenberg-translations.php:1519 build/edit-post/index.js:12
+msgid "Select"
+msgstr "მონიშვნა"
+
+#: languages/gutenberg-translations.php:1522 build/edit-post/index.js:12
+msgid "Select or Upload Media"
+msgstr "მედიის არჩევა, ან ატვირთვა"
+
+#: languages/gutenberg-translations.php:949 build/editor/index.js:50
+#: build/block-library/index.js:12
+msgid "Video"
+msgstr "ვიდეო"
+
+#: languages/gutenberg-translations.php:922 build/block-library/index.js:12
+msgid "Edit video"
+msgstr "ვიდეოს ჩასწორება"
+
+#: languages/gutenberg-translations.php:919 build/block-library/index.js:12
+msgid "Write…"
+msgstr "დაწერეთ…"
+
+#: languages/gutenberg-translations.php:916 build/block-library/index.js:12
+msgid "poetry"
+msgstr "პოეზია"
+
+#: languages/gutenberg-translations.php:910 build/block-library/index.js:12
+msgid "Verse"
+msgstr "ლექსი"
+
+#: languages/gutenberg-translations.php:901 build/block-library/index.js:12
+msgid "New Column"
+msgstr "ახალი სვეტი"
+
+#: languages/gutenberg-translations.php:865 build/block-library/index.js:12
+msgid "Delete Column"
+msgstr "სვეტის წაშლა"
+
+#: languages/gutenberg-translations.php:862 build/block-library/index.js:12
+msgid "Add Column After"
+msgstr "სვეტის ჩასმა მარჯვნივ"
+
+#: languages/gutenberg-translations.php:859 build/block-library/index.js:12
+msgid "Add Column Before"
+msgstr "სვეტის ჩასმა მარცხნივ"
+
+#: languages/gutenberg-translations.php:856 build/block-library/index.js:12
+msgid "Delete Row"
+msgstr "სტრქონის წაშლა"
+
+#: languages/gutenberg-translations.php:853 build/block-library/index.js:12
+msgid "Add Row After"
+msgstr "სტრიქონის ჩასმა ქვემოთ"
+
+#: languages/gutenberg-translations.php:850 build/block-library/index.js:12
+msgid "Add Row Before"
+msgstr "სტრიქონის ჩასმა ზემოთ"
+
+#: languages/gutenberg-translations.php:877 build/block-library/index.js:12
+msgid "Edit Table"
+msgstr "ცხრილის ჩასწორება"
+
+#: languages/gutenberg-translations.php:889 build/block-library/index.js:12
+msgid "Table"
+msgstr "ცხრილი"
+
+#: languages/gutenberg-translations.php:847 build/block-library/index.js:12
+msgid "Write subheading…"
+msgstr "დაწერეთ ქვესათაური…"
+
+#: languages/gutenberg-translations.php:826 build/block-library/index.js:12
+msgid "Write shortcode here…"
+msgstr "დაწერეთ მალსახმობი აქ…"
+
+#: languages/gutenberg-translations.php:823 build/block-library/index.js:12
+msgid "Shortcode"
+msgstr "მალსახმობი"
+
+#: languages/gutenberg-translations.php:808 build/block-library/index.js:12
+msgid "divider"
+msgstr "გამყოფი"
+
+#: languages/gutenberg-translations.php:805 build/block-library/index.js:12
+msgid "horizontal-line"
+msgstr "ჰორიზონტალური-ხაზი"
+
+#: languages/gutenberg-translations.php:799 build/block-library/index.js:12
+msgid "Separator"
+msgstr "გამყოფი"
+
+#: languages/gutenberg-translations.php:790 build/editor/index.js:50
+#: build/block-library/index.js:12
+msgid "Quote"
+msgstr "ციტატა"
+
+#. translators: placeholder text used for the citation
+#: languages/gutenberg-translations.php:774 build/block-library/index.js:12
+msgid "Write citation…"
+msgstr "დაწერეთ ციტატა…"
+
+#. translators: placeholder text used for the quote
+#: languages/gutenberg-translations.php:769 build/block-library/index.js:12
+msgid "Write quote…"
+msgstr "დაწერეთ ციტატა…"
+
+#: languages/gutenberg-translations.php:780 build/block-library/index.js:12
+msgid "Pullquote"
+msgstr "ამონარიდი"
+
+#: languages/gutenberg-translations.php:764 build/block-library/index.js:12
+msgid "Write preformatted text…"
+msgstr "დაწერეთ დაფორმატებული ტექსტი…"
+
+#: languages/gutenberg-translations.php:758 build/block-library/index.js:12
+msgid "Preformatted"
+msgstr "დაფორმატებული"
+
+#: languages/gutenberg-translations.php:755 build/block-library/index.js:12
+msgid "text"
+msgstr "ტექსტი"
+
+#: languages/gutenberg-translations.php:749 build/block-library/index.js:12
+msgid "Paragraph"
+msgstr "პარაგრაფი"
+
+#: languages/gutenberg-translations.php:1167 build/components/index.js:19
+msgid "Font Size"
+msgstr "შრიფტის ზომა"
+
+#: languages/gutenberg-translations.php:730 build/block-library/index.js:12
+msgid "Drop Cap"
+msgstr "საზედაო ასო-ნიშანი"
+
+#: languages/gutenberg-translations.php:727 build/block-library/index.js:12
+msgid "Text Settings"
+msgstr "ტექსტის პარამეტრები"
+
+#: languages/gutenberg-translations.php:706 build/block-library/index.js:12
+msgid "Hide the teaser before the \"More\" tag"
+msgstr "ტიზერის დამალვა „დაწვრილებით“ ტეგით"
+
+#: languages/gutenberg-translations.php:703 build/block-library/index.js:12
+msgid "Read more"
+msgstr "დაწვრილებით"
+
+#: languages/gutenberg-translations.php:649 build/block-library/index.js:12
+msgid "Write list…"
+msgstr "სიის შედგენა…"
+
+#: languages/gutenberg-translations.php:664 build/block-library/index.js:12
+msgid "numbered list"
+msgstr "დანომრილი სია"
+
+#: languages/gutenberg-translations.php:661 build/block-library/index.js:12
+msgid "ordered list"
+msgstr "დანომრილი სია"
+
+#: languages/gutenberg-translations.php:658 build/block-library/index.js:12
+msgid "bullet list"
+msgstr "ბურთულებიანი სია"
+
+#: languages/gutenberg-translations.php:2170 build/editor/index.js:50
+msgid "Indent list item"
+msgstr "სიის ელემენტებზე დაშორების დამატება"
+
+#: languages/gutenberg-translations.php:2179 build/editor/index.js:50
+msgid "Outdent list item"
+msgstr "სიის ელემენტებზე უკუსააბზაცო შეწევის დამატება"
+
+#: languages/gutenberg-translations.php:2176 build/editor/index.js:50
+msgid "Convert to ordered list"
+msgstr "დანომრილ სიად გარდაქმნა"
+
+#: languages/gutenberg-translations.php:2173 build/editor/index.js:50
+msgid "Convert to unordered list"
+msgstr "ბურთულებიან სიად გარდაქმნა"
+
+#: languages/gutenberg-translations.php:652 build/block-library/index.js:12
+msgid "List"
+msgstr "სია"
+
+#: languages/gutenberg-translations.php:646 build/block-library/index.js:12
+msgid "recent posts"
+msgstr "ბოლო ჩანაწერები"
+
+#: languages/gutenberg-translations.php:634 build/block-library/index.js:12
+msgid "No posts found."
+msgstr "ჩანაწერები ვერ მოიძებნა."
+
+#: languages/gutenberg-translations.php:631 build/block-library/index.js:12
+msgid "Latest Posts"
+msgstr "უახლესი ჩანაწერები"
+
+#: languages/gutenberg-translations.php:627 build/block-library/index.js:12
+msgid "Display post date"
+msgstr "ჩანაწერის თარიღის ჩვენება"
+
+#: languages/gutenberg-translations.php:624 build/block-library/index.js:12
+msgid "Latest Posts Settings"
+msgstr "უახლესი ჩანაწერების პარამეტრები"
+
+#: languages/gutenberg-translations.php:640 build/block-library/index.js:12
+msgid "Grid View"
+msgstr "ცხრილის ხედი"
+
+#: languages/gutenberg-translations.php:637 build/block-library/index.js:12
+msgid "List View"
+msgstr "სიის ხედი"
+
+#: languages/gutenberg-translations.php:597 build/block-library/index.js:12
+#: build/format-library/index.js:12
+msgid "photo"
+msgstr "ფოტო"
+
+#: languages/gutenberg-translations.php:540 build/block-library/index.js:12
+msgid "Image Settings"
+msgstr "სურათის პარამეტრები"
+
+#: languages/gutenberg-translations.php:590 build/editor/index.js:50
+#: build/block-library/index.js:12 build/format-library/index.js:12
+msgid "Image"
+msgstr "სურათი"
+
+#: languages/gutenberg-translations.php:516 build/editor/index.js:50
+#: build/block-library/index.js:12 build/edit-post/index.js:12
+msgid "Preview"
+msgstr "გადახედვა"
+
+#: languages/gutenberg-translations.php:531 build/block-library/index.js:12
+msgid "embed"
+msgstr "ჩაშენებული"
+
+#: languages/gutenberg-translations.php:525 build/block-library/index.js:12
+msgid "Custom HTML"
+msgstr "მორგებული HTML"
+
+#: languages/gutenberg-translations.php:511 build/block-library/index.js:12
+msgid "subtitle"
+msgstr "ქვესათაური"
+
+#: languages/gutenberg-translations.php:508 build/block-library/index.js:12
+msgid "title"
+msgstr "სათაური"
+
+#: languages/gutenberg-translations.php:502 build/block-library/index.js:12
+msgid "Heading"
+msgstr "სათაური"
+
+#: languages/gutenberg-translations.php:495 build/block-library/index.js:12
+msgid "Write heading…"
+msgstr "დაწერეთ სათაური…"
+
+#. translators: %s: heading level e.g: "1", "2", "3"
+#: languages/gutenberg-translations.php:499 build/block-library/index.js:12
+msgid "Heading %d"
+msgstr "სათაური %d"
+
+#: languages/gutenberg-translations.php:489 build/block-library/index.js:12
+msgid "Level"
+msgstr "დონე"
+
+#: languages/gutenberg-translations.php:486 build/block-library/index.js:12
+msgid "Heading Settings"
+msgstr "სათაურის პარამეტრები"
+
+#: languages/gutenberg-translations.php:480 build/block-library/index.js:12
+msgid "photos"
+msgstr "ფოტოები"
+
+#: languages/gutenberg-translations.php:477 build/block-library/index.js:12
+msgid "images"
+msgstr "სურათები"
+
+#: languages/gutenberg-translations.php:474 build/block-library/index.js:12
+msgid "Remove Image"
+msgstr "სურათის ამოღება"
+
+#: languages/gutenberg-translations.php:60 build/block-library/index.js:12
+msgid "None"
+msgstr "არც ერთი"
+
+#: languages/gutenberg-translations.php:421 build/block-library/index.js:12
+msgid "Media File"
+msgstr "მედია-ფაილი"
+
+#: languages/gutenberg-translations.php:426 build/block-library/index.js:12
+msgid "Attachment Page"
+msgstr "დანართის გვერდი"
+
+#: languages/gutenberg-translations.php:468 build/block-library/index.js:12
+msgid "Crop Images"
+msgstr "სურათის მოჭრა"
+
+#: languages/gutenberg-translations.php:465 build/block-library/index.js:12
+msgid "Gallery Settings"
+msgstr "გალერეის პარამეტრები"
+
+#: languages/gutenberg-translations.php:459 build/editor/index.js:50
+#: build/block-library/index.js:12
+msgid "Gallery"
+msgstr "გალერეა"
+
+#: languages/gutenberg-translations.php:454 build/block-library/index.js:12
+msgid "Edit Gallery"
+msgstr "გალერეის ჩასწორება"
+
+#: languages/gutenberg-translations.php:160 build/block-library/index.js:12
+msgid "Classic"
+msgstr "კლასიკური"
+
+#: languages/gutenberg-translations.php:293 build/block-library/index.js:12
+msgid "video"
+msgstr "ვიდეო"
+
+#: languages/gutenberg-translations.php:250 build/block-library/index.js:12
+msgid "audio"
+msgstr "აუდიო"
+
+#: languages/gutenberg-translations.php:247 build/block-library/index.js:12
+msgid "music"
+msgstr "მუსიკა"
+
+#: languages/gutenberg-translations.php:324 build/block-library/index.js:12
+msgid "image"
+msgstr "სურათი"
+
+#: languages/gutenberg-translations.php:311 build/block-library/index.js:12
+msgid "blog"
+msgstr "ბლოგი"
+
+#: languages/gutenberg-translations.php:308 build/block-library/index.js:12
+msgid "post"
+msgstr "ჩანაწერი"
+
+#: languages/gutenberg-translations.php:363 build/block-library/index.js:12
+msgid "Embedded content from %s"
+msgstr "ჩაშენებული შიგთავსი, წყარო: %s"
+
+#: languages/gutenberg-translations.php:360 build/block-library/index.js:12
+msgid "Sorry, we could not embed that content."
+msgstr "უკაცრავად, შეუძლებელია ამ შიგთავსის ჩაშენება."
+
+#: languages/gutenberg-translations.php:357 build/block-library/index.js:12
+msgid "Enter URL to embed here…"
+msgstr "მიუთითეთ URL ჩასაშენებლად…"
+
+#: languages/gutenberg-translations.php:342 build/block-library/index.js:12
+msgid "%s URL"
+msgstr "%s URL"
+
+#: languages/gutenberg-translations.php:354 build/block-library/index.js:12
+msgid "Embedding…"
+msgstr "ჩაშენება…"
+
+#: languages/gutenberg-translations.php:217 build/block-library/index.js:12
+msgid "Write title…"
+msgstr "დაწერეთ სათაური…"
+
+#: languages/gutenberg-translations.php:492 build/block-library/index.js:12
+msgid "Text Alignment"
+msgstr "ტექსტის გასწორება"
+
+#: languages/gutenberg-translations.php:199 build/block-library/index.js:12
+msgid "Fixed Background"
+msgstr "ფიქსირებული ფონი"
+
+#: languages/gutenberg-translations.php:537 build/block-library/index.js:12
+msgid "Edit image"
+msgstr "სურათის ჩასწორება"
+
+#: languages/gutenberg-translations.php:189 build/block-library/index.js:12
+msgid "Columns"
+msgstr "სვეტები"
+
+#: languages/gutenberg-translations.php:171 build/block-library/index.js:12
+#: build/format-library/index.js:12
+msgid "Code"
+msgstr "კოდი"
+
+#: languages/gutenberg-translations.php:166 build/block-library/index.js:12
+msgid "Write code…"
+msgstr "დაწერეთ კოდი…"
+
+#: languages/gutenberg-translations.php:151 build/editor/index.js:50
+#: build/block-library/index.js:12
+msgid "Categories"
+msgstr "კატეგორიები"
+
+#: languages/gutenberg-translations.php:146 build/block-library/index.js:12
+msgid "Show Hierarchy"
+msgstr "იერარქიის ჩვენება"
+
+#: languages/gutenberg-translations.php:143 build/block-library/index.js:12
+msgid "Categories Settings"
+msgstr "კატეგორიების პარამეტრები"
+
+#: languages/gutenberg-translations.php:127 build/block-library/index.js:12
+msgid "Add text…"
+msgstr "დაამატე ტექსტი…"
+
+#: languages/gutenberg-translations.php:130 build/block-library/index.js:12
+msgid "Button"
+msgstr "ღილაკი"
+
+#: languages/gutenberg-translations.php:123 build/editor/index.js:50
+#: build/block-library/index.js:12 build/format-library/index.js:12
+msgid "Apply"
+msgstr "მისადაგება"
+
+#: languages/gutenberg-translations.php:118 build/block-library/index.js:12
+msgid "Text Color"
+msgstr "ტექსტის ფერი"
+
+#: languages/gutenberg-translations.php:113 build/block-library/index.js:12
+msgid "Background Color"
+msgstr "ფონის ფერი"
+
+#: languages/gutenberg-translations.php:90 build/block-library/index.js:12
+msgid "Block has been deleted or is unavailable."
+msgstr "ბლოკი წაშლილია, ან მიუწვდომელია."
+
+#: languages/gutenberg-translations.php:973 lib/client-assets.php:956
+#: build/blocks/index.js:2
+msgid "Reusable Blocks"
+msgstr "კვლავგამოყენებადი ბლოკები"
+
+#: languages/gutenberg-translations.php:87 build/editor/index.js:50
+#: build/block-library/index.js:12 build/format-library/index.js:12
+msgid "Edit"
+msgstr "რედაქტირება"
+
+#: languages/gutenberg-translations.php:31 build/block-library/index.js:12
+msgid "Edit audio"
+msgstr "აუდიოს ჩასწორება"
+
+#: languages/gutenberg-translations.php:67 build/block-library/index.js:12
+msgid "Write caption…"
+msgstr "დაწერეთ მინაწერი…"
+
+#: languages/gutenberg-translations.php:72 build/editor/index.js:50
+#: build/block-library/index.js:12
+msgid "Audio"
+msgstr "აუდიო"
+
+#: languages/gutenberg-translations.php:1828 build/editor/index.js:50
+msgid "Upload"
+msgstr "ატვირთვა"
+
+#: languages/gutenberg-translations.php:2242 build/editor/index.js:50
+msgid "Additional CSS Class"
+msgstr "CSS-ის დამატებითი კლასი"
+
+#: languages/gutenberg-translations.php:2239 build/editor/index.js:50
+msgid "Anchors lets you link directly to a section on a page."
+msgstr "ღუზა მიუთითებს გვერდის კონკრეტულ განაყოფზე."
+
+#: languages/gutenberg-translations.php:2236 build/editor/index.js:50
+msgid "HTML Anchor"
+msgstr "HTML ღუზა"
+
+#: languages/gutenberg-translations.php:1737 build/editor/index.js:50
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "ამ ფერთა შეხამებამ შესაძლოა ძნელად წასაკითხი გახადოს ტექსტი. სცადეთ უფრო კაშკაშა ფერი ფონისათვის ან/და ტექსტის უფრო მუქი ფერი."
+
+#: languages/gutenberg-translations.php:1734 build/editor/index.js:50
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "ამ ფერთა შეხამებამ შესაძლოა ძნელად წასაკითხი გახადოს ტექსტი. სცადეთ უფრო კაშკაშა ფერი ტექსტისათვის ან/და ფონის უფრო მუქი ფერი."
+
+#: languages/gutenberg-translations.php:986 build/components/index.js:19
+msgid "Clear"
+msgstr "გასუფთავება"
+
+#: languages/gutenberg-translations.php:989 build/components/index.js:19
+msgid "Custom color picker"
+msgstr "მორგებული ფერის არჩევა"
+
+#. translators: %s: The name of the color e.g: "vivid red".
+#: languages/gutenberg-translations.php:993 build/components/index.js:19
+msgid "Color: %s"
+msgstr "ფერი: %s"
+
+#: languages/gutenberg-translations.php:1574 build/editor/index.js:50
+msgid "Full width"
+msgstr "სრული სიგანე"
+
+#: languages/gutenberg-translations.php:1571 build/editor/index.js:50
+msgid "Wide width"
+msgstr "სიგანის მიხედვით"
+
+#: languages/gutenberg-translations.php:967 lib/client-assets.php:946
+#: build/blocks/index.js:2
+msgid "Widgets"
+msgstr "ვიჯეტები"
+
+#: languages/gutenberg-translations.php:961 lib/client-assets.php:936
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "დაფორმატება"
+
+#: languages/gutenberg-translations.php:958 lib/client-assets.php:931
+#: build/blocks/index.js:2
+msgid "Common Blocks"
+msgstr "ძირთადი ბლოკები"
+
+#: languages/gutenberg-translations.php:1568 build/editor/index.js:50
+msgid "Align right"
+msgstr "მარჯვნივ გასწორება"
+
+#: languages/gutenberg-translations.php:1565 build/editor/index.js:50
+msgid "Align center"
+msgstr "შუაში გასწორება"
+
+#: languages/gutenberg-translations.php:1562 build/editor/index.js:50
+msgid "Align left"
+msgstr "მარცხნივ გასწორება"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "ვბეჭდავთ 1440 წლიდან. ეს არის ბირთვში ბლოკების რედაქტორის პლაგინის შექმნის პროცესი."
+
+#: languages/gutenberg-translations.php:2128 lib/client-assets.php:1295
+#: build/editor/index.js:50
+msgid "Add title"
+msgstr "სათაურის დამატება"
+
+#: gutenberg.php:169
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTING.md\">contributing</a> file for more information."
+msgstr "Gutenberg-ის შექმნის რეჟიმი მოითხოვს ფაილების დაკომპილირებას. გაუშვით <code>npm install</code> დამოკიდებულებების დასაყენებლად, <code>npm run build</code> ფაილების დაკომპილირებისათვის или <code>npm run dev</code> მათი ავტოკომპილაციისათვის. დამატებითი ინფორმაციისათვის გაეცანით ფაილს <a href=\"https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTING.md\">მონაწილეობა</a>."
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg Team"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: languages/gutenberg-translations.php:1863 lib/register.php:168
+#: build/editor/index.js:50
+msgid "Author"
+msgstr "ავტორი"
+
+#: lib/register.php:164
+msgid "Slug"
+msgstr "იარლიყი"
+
+#: lib/register.php:159
+msgid "Comments"
+msgstr "კომენტარები"
+
+#: languages/gutenberg-translations.php:1437 lib/register.php:146
+#: build/edit-post/index.js:12
+msgid "Discussion"
+msgstr "დისკუსია"
+
+#: languages/gutenberg-translations.php:1447 lib/register.php:130
+#: build/edit-post/index.js:12
+msgid "Custom Fields"
+msgstr "მორგებული ველები"
+
+#: lib/register.php:126
+msgid "Send Trackbacks"
+msgstr "უკუბმულების გაგზავნა"
+
+#: languages/gutenberg-translations.php:1433 lib/register.php:122
+#: build/edit-post/index.js:12
+msgid "Excerpt"
+msgstr "ციტატა"
+
+#: lib/register.php:92
+msgctxt "post format"
+msgid "Format"
+msgstr "ფორმატირება"
+
+#: languages/gutenberg-translations.php:1463 lib/register.php:88
+#: build/editor/index.js:50 build/edit-post/index.js:12
+msgid "Publish"
+msgstr "გამოქვეყნება"
+
+#: languages/gutenberg-translations.php:54 lib/register.php:85
+#: build/block-library/index.js:12
+msgid "Metadata"
+msgstr "მეტა-მონაცემები"
+
+#: languages/gutenberg-translations.php:82 lib/register.php:81
+#: build/editor/index.js:50 build/block-library/index.js:12
+msgid "Save"
+msgstr "დამახსოვრება"
+
+#: lib/register.php:74
+msgid "Revisions"
+msgstr "რედაქციები"
+
+#. translators: %s is the name of the plugin that generated this meta box.
+#: lib/meta-box-partial-page.php:273
+msgid "Gutenberg incompatible meta box, from the \"%s\" plugin."
+msgstr "Gutenberg-თან არათავსებადი მეტა-ბლოკი, \"%s\" პლაგინიდან."
+
+#: lib/client-assets.php:243 lib/client-assets.php:274
+msgid "F j, Y g:i a"
+msgstr "F j, Y g:i a"
+
+#: lib/client-assets.php:242 lib/client-assets.php:273
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: lib/client-assets.php:241 lib/client-assets.php:270
+msgid "g:i a"
+msgstr "g:i a"
+
+#. translators: %s: duration
+#: lib/client-assets.php:237
+msgid "%s ago"
+msgstr "%s-ის წინ"
+
+#. translators: %s: duration
+#: lib/client-assets.php:235
+msgid "%s from now"
+msgstr "%s გამოქვეყნებამდე"
+
+#: lib/class-wp-rest-block-renderer-controller.php:105
+msgid "Sorry, you are not allowed to read Gutenberg blocks as this user."
+msgstr "უკაცრავად, თქვენ არ გაქვთ ამ მომმხარებლის Gutenberg-ის ბლოკების წაკითხვის უფლება."
+
+#. translators: 1: block name
+#: lib/class-wp-block-type-registry.php:111
+msgid "Block type \"%s\" is not registered."
+msgstr "ბლოკის ტიპი \"%s\" არ არის რეგისტრირებული."
+
+#. translators: 1: block name
+#: lib/class-wp-block-type-registry.php:80
+msgid "Block type \"%s\" is already registered."
+msgstr "ბლოკის ტიპი “%s” რეგისტრირებულია."
+
+#: lib/class-wp-block-type-registry.php:73
+msgid "Block type names must contain a namespace prefix. Example: my-plugin/my-custom-block-type"
+msgstr "ბლოკების ტიპების სახელები უნდა იყენებდნენ პრეფიქსს. მაგალითად: my-plugin/my-custom-block-type"
+
+#: lib/class-wp-block-type-registry.php:66
+msgid "Block type names must not contain uppercase characters."
+msgstr "ბლოკების ტიპების სახელები არ უნდა შეიცავდნენ მთავრულებს."
+
+#: lib/class-wp-block-type-registry.php:60
+msgid "Block type names must be strings."
+msgstr "ბლოკების ტიპების სახელი უნდა იყოს სტრიქონი."
+
+#: gutenberg.php:491
+msgid "Toggle editor selection menu"
+msgstr "რედაქტორის არჩევის მენიუს ჩვენება/დამალვა"
+
+#: gutenberg.php:343 gutenberg.php:493
+msgid "Classic Editor"
+msgstr "Classic Editor"
+
+#. translators: %s: post title
+#: gutenberg.php:339
+msgid "Edit &#8220;%s&#8221; in the classic editor"
+msgstr "&#8220;%s&#8221;-ის ჩასწორება კლასიკურ რედაქტორში"
+
+#: gutenberg.php:156
+msgid "Gutenberg requires WordPress 4.9.8 or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg მოითხოვს WordPress 4.9.8 ვერსიას, ან უფრო ახალს. გთხოვთ განაახლოთ WordPress, Gutenberg-ის დაყენებამდე."
+
+#: gutenberg.php:104
+msgid "Documentation"
+msgstr "დოკუმენტაცია"
+
+#: gutenberg.php:98
+msgid "Feedback"
+msgstr "უკუკავშირი"
+
+#: gutenberg.php:84 gutenberg.php:85
+msgid "Demo"
+msgstr "დემო"
+
+#: languages/gutenberg-translations.php:140
+#: packages/block-library/src/latest-posts/index.php:36
+#: build/block-library/index.js:12
+msgid "(Untitled)"
+msgstr "(უსათაურო)"
+
+#: packages/block-library/src/categories/index.php:30
+msgid "Select Category"
+msgstr "კატეგორიის არჩევა"

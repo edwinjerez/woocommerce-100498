@@ -1,0 +1,4154 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-01 04:48:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/components/index.js:19
+msgid "Custom"
+msgstr "自訂"
+
+#: build/editor/index.js:17
+msgid "Draft"
+msgstr "草稿"
+
+#. translators: 1: block name, 2: block style name
+#: lib/class-wp-block-styles-registry.php:76
+msgid "Block \"%1$s\" does not contain a style named \"%2$s.\"."
+msgstr "[%1$s] 區塊並未包含名為 [%2$s] 的樣式。"
+
+#: build/block-editor/index.js:55
+msgid "Learn more about anchors"
+msgstr "進一步瞭解錨點"
+
+#: build/block-editor/index.js:55
+msgid "Enter a word or two — without spaces — to make a unique web address just for this heading, called an “anchor.” Then, you’ll be able to link directly to this section of your page."
+msgstr "請輸入不含空格的一或多個字 (建議使用英數字元)，這項設定能讓這個標題的網址成為唯一網址，這便是錨點。為標題設定錨點後，便能在這個頁面中直接連結至這個標題區段。"
+
+#: lib/customizer.php:60
+msgid "Widget Blocks (Experimental)"
+msgstr "小工具區塊 (實驗性功能)"
+
+#: build/editor/index.js:17
+msgid "%1$s Error message: %2$s"
+msgstr "[%1$s] 的錯誤訊息: %2$s"
+
+#: build/edit-widgets/index.js:1
+msgid "Block areas saved succesfully."
+msgstr "區塊區域已成功儲存。"
+
+#: build/block-editor/index.js:55
+msgid "Upload a video file, pick one from your media library, or add one with a URL."
+msgstr "上傳視訊檔案或從媒體庫選取檔案，或透過連結新增檔案。"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Upload an image file, pick one from your media library, or add one with a URL."
+msgstr "上傳圖片或從媒體庫選取檔案，或透過連結新增檔案。"
+
+#: build/block-editor/index.js:55
+msgid "Upload an audio file, pick one from your media library, or add one with a URL."
+msgstr "上傳音訊檔案或從媒體庫選取檔案，或透過連結新增檔案。"
+
+#: build/block-editor/index.js:55
+msgid "Upload a media file or pick one from your media library."
+msgstr "上傳媒體檔案或從媒體庫選取檔案。"
+
+#: build/block-editor/index.js:55
+msgid "Skip"
+msgstr "略過"
+
+#: build/block-editor/index.js:55
+msgid "Choose Layout"
+msgstr "選取版面配置"
+
+#: build/block-editor/index.js:55
+msgid "Select a layout to start with."
+msgstr "選取版面配置以立即套用。"
+
+#: build/block-editor/index.js:55
+msgid "Select a layout to start with, or make one yourself."
+msgstr "選取版面配置以立即套用，或自訂專屬版面配置。"
+
+#: build/block-library/index.js:14
+msgid "Add a page, link, or other item to your Navigation Menu."
+msgstr "將頁面、連結或其他項目新增至導覽選單。"
+
+#: build/block-library/index.js:14
+msgid "Menu Item (Experimental)"
+msgstr "選單項目 (實驗性功能)"
+
+#: build/block-library/index.js:14
+msgid "What's this?"
+msgstr "這是什麼？"
+
+#: build/block-library/index.js:14
+msgid "https://codex.wordpress.org/Nofollow"
+msgstr "https://codex.wordpress.org/Nofollow"
+
+#: build/block-library/index.js:14
+msgid "Don't let search engines follow this link."
+msgstr "要求搜尋引擎不要前往這個連結。"
+
+#: build/block-library/index.js:14
+msgid "Add nofollow to menu item"
+msgstr "將 nofollow 屬性值新增至選單項目"
+
+#: build/block-library/index.js:14
+msgid "Provide more context about where the link goes."
+msgstr "撰寫關於連結目標頁面的說明。"
+
+#: build/block-library/index.js:14
+msgid "Title Attribute"
+msgstr "Title 屬性"
+
+#: build/block-library/index.js:14
+msgid "SEO Settings"
+msgstr "SEO 設定"
+
+#: build/block-library/index.js:14
+msgid "Description"
+msgstr "內容說明"
+
+#: build/block-library/index.js:14
+msgid "Open in new tab"
+msgstr "在新分頁中開啟"
+
+#: build/block-library/index.js:14
+msgid "Navigation Label"
+msgstr "導覽標籤"
+
+#: build/block-library/index.js:14
+msgid "Remove from menu"
+msgstr "從選單中移除"
+
+#: build/block-library/index.js:14
+msgid "Nest underneath…"
+msgstr "成為下層巢狀項目..."
+
+#: build/block-library/index.js:14
+msgid "Move to end"
+msgstr "移動至最末端"
+
+#: build/block-library/index.js:14
+msgid "Move right"
+msgstr "往右移動"
+
+#: build/block-library/index.js:14
+msgid "Move left"
+msgstr "往左移動"
+
+#: build/block-library/index.js:14
+msgid "Move to start"
+msgstr "移動至最前端"
+
+#: build/block-library/index.js:14
+msgid "Edit label text"
+msgstr "編輯標籤文字"
+
+#: build/block-library/index.js:14
+msgid "links"
+msgstr "連結"
+
+#: build/block-library/index.js:14
+msgid "navigation"
+msgstr "導覽"
+
+#: build/block-library/index.js:14
+msgid "menu"
+msgstr "選單"
+
+#: build/block-library/index.js:14
+msgid "Add a navigation menu to your site."
+msgstr "為這個網站新增導覽選單。"
+
+#: build/block-library/index.js:14
+msgid "Navigation Menu (Experimental)"
+msgstr "導覽選單 (實驗性功能)"
+
+#: build/block-library/index.js:14
+msgid "Automatically add new top level pages to this menu."
+msgstr "自動將新的最上層頁面新增至這個選單。"
+
+#: build/block-library/index.js:14
+msgid "Automatically add new pages"
+msgstr "自動新增新頁面"
+
+#: build/block-library/index.js:14
+msgid "Menu Settings"
+msgstr "選單設定"
+
+#: build/block-library/index.js:14
+msgid "Search or paste a link"
+msgstr "搜尋或貼上連結"
+
+#: build/block-library/index.js:14
+msgid "Insert a new menu item"
+msgstr "插入新的選單項目"
+
+#: build/block-library/index.js:14
+msgid "Upload a file or pick one from your media library."
+msgstr "上傳檔案或從媒體庫選取檔案。"
+
+#: build/block-library/index.js:14
+msgid "Learn more about embeds"
+msgstr "進一步瞭解嵌入內容"
+
+#: build/block-library/index.js:14
+msgid "https://wordpress.org/support/article/embeds/"
+msgstr "https://wordpress.org/support/article/embeds/"
+
+#: build/block-library/index.js:14
+msgid "Paste a link to the content you want to display on your site."
+msgstr "請貼上要在這個網站顯示內容的連結。"
+
+#: build/block-library/index.js:14
+msgid "Upload an image or video file, or pick one from your media library."
+msgstr "上傳圖片或視訊檔案，或從媒體庫選取檔案。"
+
+#: build/block-library/index.js:14
+msgid "Three columns; wide center column"
+msgstr "三欄: 較寬的中間欄"
+
+#: build/block-library/index.js:14
+msgid "Three columns; equal split"
+msgstr "三欄: 等寬"
+
+#: build/block-library/index.js:14
+msgid "Two columns; two-thirds, one-third split"
+msgstr "兩欄: 2/3 寬及 1/3 寬"
+
+#: build/block-library/index.js:14
+msgid "Two columns; one-third, two-thirds split"
+msgstr "兩欄: 1/3 寬及 2/3 寬"
+
+#: build/block-library/index.js:14
+msgid "Two columns; equal split"
+msgstr "兩欄: 等寬"
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:37
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "這個網站沒有任何關於〈%s〉的內容，因此這裡目前沒有內容可供顯示。"
+
+#: build/edit-post/index.js:12
+msgid "More tools & options"
+msgstr "更多工具及設定"
+
+#: build/block-library/index.js:14
+msgid "Create Table"
+msgstr "建立表格"
+
+#: build/block-library/index.js:14
+msgid "Insert a table for sharing data."
+msgstr "插入表格以分享資料。"
+
+#: build/editor/index.js:17
+msgctxt "Ungrouping blocks from within a Group block back into individual blocks within the Editor "
+msgid "Ungroup"
+msgstr "取消群組"
+
+#: build/editor/index.js:17
+msgctxt "verb"
+msgid "Group"
+msgstr "組成群組"
+
+#: build/components/index.js:19
+msgid "Separate with commas or the Enter key."
+msgstr "請使用逗號或按 Enter 鍵進行分隔。"
+
+#: build/components/index.js:19
+msgid "Separate with commas, spaces, or the Enter key."
+msgstr "請使用逗號、空格或按 Enter 鍵進行分隔。"
+
+#: build/block-editor/index.js:55
+msgid "Separate multiple classes with spaces."
+msgstr "請使用空格分隔多個類別。"
+
+#: build/block-library/index.js:14
+msgid "Move Image Forward"
+msgstr "向前移動圖片"
+
+#: build/block-library/index.js:14
+msgid "Move Image Backward"
+msgstr "向後移動圖片"
+
+#: lib/class-wp-rest-widget-areas-controller.php:150
+msgid "Sorry, you are not allowed to edit sidebars."
+msgstr "很抱歉，目前的登入身分沒有編輯資訊欄的權限。"
+
+#: lib/class-wp-rest-widget-areas-controller.php:99
+msgid "Sorry, you are not allowed to read sidebars."
+msgstr "很抱歉，目前的登入身分沒有讀取資訊欄的權限。"
+
+#: lib/class-wp-rest-widget-areas-controller.php:56
+msgid "Sidebar content."
+msgstr "資訊欄內容。"
+
+#: lib/class-wp-rest-widget-areas-controller.php:49
+msgid "The sidebar’s ID."
+msgstr "資訊欄 ID"
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:332
+msgid "Displays a set of blocks"
+msgstr "顯示區塊集。"
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:328
+#: lib/class-experimental-wp-widget-blocks-manager.php:340
+msgid "Blocks Area"
+msgstr "區塊區域"
+
+#: build/server-side-render/index.js:1
+msgid "Block rendered as empty."
+msgstr "區塊已轉譯為空區塊。"
+
+#: build/format-library/index.js:1
+msgid "Inline Code"
+msgstr "內嵌程式碼"
+
+#: build/block-library/index.js:14
+msgid "Note: Autoplaying videos may cause usability issues for some visitors."
+msgstr "注意: 自動播放視訊可能會對某些網站訪客造成可用性問題。"
+
+#: build/block-library/index.js:14
+msgid "Footer section"
+msgstr "頁尾區段"
+
+#: build/block-library/index.js:14
+msgid "Header section"
+msgstr "頁首區段"
+
+#: build/block-library/index.js:14
+msgid "Sorting and Filtering"
+msgstr "排序及篩選方式"
+
+#: build/block-library/index.js:14
+msgid "Post Meta Settings"
+msgstr "文章中繼資料設定"
+
+#: build/block-library/index.js:14
+msgid "Post Content"
+msgstr "文章內容"
+
+#: build/block-library/index.js:14
+msgid "Post Content Settings"
+msgstr "文章內容設定"
+
+#: build/block-library/index.js:14
+msgid "Percentage width"
+msgstr "寬度百分比"
+
+#: build/block-library/index.js:14
+msgid "Column Settings"
+msgstr "內容欄設定"
+
+#: build/block-library/index.js:14
+msgid "Note: Autoplaying audio may cause usability issues for some visitors."
+msgstr "注意: 自動播放音訊可能會對某些網站訪客造成可用性問題。"
+
+#: build/block-library/blocks/latest-posts.php:70
+#: build/block-library/index.js:14
+msgid "Read More"
+msgstr "閱讀全文"
+
+#: lib/widgets.php:189
+msgid "Block area updated."
+msgstr "區塊區域已更新。"
+
+#: lib/widgets.php:188
+msgid "Block area scheduled."
+msgstr "區塊區域已排程。"
+
+#: lib/widgets.php:185
+msgid "Block area published."
+msgstr "區塊區域已發佈。"
+
+#: lib/widgets.php:184
+msgid "Block areas list"
+msgstr "區塊區域清單"
+
+#: lib/widgets.php:183
+msgid "Block areas list navigation"
+msgstr "區塊區域清單導覽"
+
+#: lib/widgets.php:182
+msgid "Filter block areas list"
+msgstr "篩選區塊區域清單"
+
+#: lib/widgets.php:180
+msgid "No block area found."
+msgstr "找不到符合條件的區塊區域。"
+
+#: lib/widgets.php:179
+msgid "Search Block Areas"
+msgstr "搜尋區塊區域"
+
+#: lib/widgets.php:178
+msgid "All Block Areas"
+msgstr "全部區塊區域"
+
+#: lib/widgets.php:177
+msgid "View Block Area"
+msgstr "檢視區塊區域"
+
+#: lib/widgets.php:176
+msgid "Edit Block Area"
+msgstr "編輯區塊區域"
+
+#: lib/widgets.php:175
+msgid "New Block Area"
+msgstr "新增區塊區域"
+
+#: lib/widgets.php:174
+msgid "Add New Block Area"
+msgstr "新增區塊區域"
+
+#: lib/widgets.php:171
+msgctxt "admin menu"
+msgid "Block Areas"
+msgstr "區塊區域"
+
+#: lib/widgets.php:170
+msgctxt "post type singular name"
+msgid "Block Area (Experimental)"
+msgstr "區塊區域 (實驗性功能)"
+
+#: lib/widgets.php:169
+msgctxt "post type general name"
+msgid "Block Area (Experimental)"
+msgstr "區塊區域 (實驗性功能)"
+
+#: lib/widgets.php:167
+msgid "Experimental custom post type that will store block areas referenced by themes."
+msgstr "這是實驗性的自訂內容類型，用於儲存可供佈景主題參照的區塊區域。"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen content"
+msgstr "小工具畫面內容"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets advanced settings"
+msgstr "小工具進階設定"
+
+#: build/edit-widgets/index.js:1
+msgid "(experimental)"
+msgstr "(實驗性功能)"
+
+#: build/edit-widgets/index.js:1
+msgid "Block Areas"
+msgstr "區塊區域"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen top bar"
+msgstr "小工具畫面頂端列"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read."
+msgstr "這種色彩組合會使讀者難以閱讀。"
+
+#: build/block-editor/index.js:55
+msgid "Add Block"
+msgstr "新增區塊"
+
+#: build/block-library/index.js:14
+msgid "There is no poster image currently selected"
+msgstr "目前並未選取任何宣傳圖片"
+
+#: build/block-library/index.js:14
+msgid "The current poster image url is %s"
+msgstr "目前宣傳圖片的網址為 %s"
+
+#: build/block-library/index.js:14
+msgid "section"
+msgstr "區段"
+
+#: build/block-library/index.js:14
+msgid "row"
+msgstr "資料列"
+
+#: build/block-library/index.js:14
+msgid "wrapper"
+msgstr "封裝"
+
+#: build/block-library/index.js:14
+msgid "container"
+msgstr "容器"
+
+#: build/block-library/index.js:14
+msgid "A block that groups other blocks."
+msgstr "能夠將其他區塊群組起來的區塊。"
+
+#: build/block-library/index.js:14
+msgid "Group"
+msgstr "群組"
+
+#: build/block-library/index.js:14
+msgid "Crop image to fill entire column"
+msgstr "裁剪圖片以填滿整欄"
+
+#: build/block-library/index.js:14
+msgid "You are now editing the image in the image block."
+msgstr "目前正在 [圖片] 區塊中編輯圖片。"
+
+#: build/block-library/index.js:14
+msgid "You are now viewing the image in the image block."
+msgstr "目前正在 [圖片] 區塊中檢視圖片。"
+
+#: build/block-library/index.js:14
+msgid "Play inline"
+msgstr "播放內嵌內容"
+
+#: build/block-library/index.js:14
+msgid "Leave empty if the image is purely decorative."
+msgstr "如果圖片僅為裝飾目的、與實際內容無甚相關時，這個欄位可留空。"
+
+#: build/block-library/index.js:14
+msgid "Describe the purpose of the image"
+msgstr "請輸入圖片說明文字"
+
+#: build/block-editor/index.js:55
+msgid "Add a block"
+msgstr "新增區塊"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting label"
+msgid "Change vertical alignment"
+msgstr "變更垂直對齊方式"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Bottom"
+msgstr "垂直靠下對齊"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Middle"
+msgstr "垂直置中對齊"
+
+#: build/editor/index.js:17
+msgid "Replace Image"
+msgstr "更換圖片"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Top"
+msgstr "垂直靠上對齊"
+
+#: build/block-library/index.js:14
+msgid "Display a legacy widget."
+msgstr "顯示舊版小工具。"
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget (Experimental)"
+msgstr "舊版小工具 (實驗性功能)"
+
+#: build/block-library/index.js:14
+msgid "Change widget"
+msgstr "變更小工具"
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget"
+msgstr "舊版小工具"
+
+#: build/block-library/index.js:14
+msgid "You don't have permissions to use widgets on this site."
+msgstr "目前的登入身分沒有在這個網站使用小工具的權限。"
+
+#: build/block-library/index.js:14
+msgid "Select a legacy widget to display:"
+msgstr "選取要顯示的舊版小工具:"
+
+#: build/block-library/index.js:14
+msgid "There are no widgets available."
+msgstr "沒有可供使用的小工具。"
+
+#: build/block-library/index.js:14
+msgid "Not a valid widget."
+msgstr "這不是有效的小工具。"
+
+#: build/block-editor/index.js:55
+msgid "Change block type or style"
+msgstr "變更區塊類型或樣式"
+
+#: build/block-editor/index.js:55
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "Space"
+
+#: build/block-editor/index.js:55
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "Backspace"
+
+#: build/block-editor/index.js:55
+msgid "More Rich Text Controls"
+msgstr "更多 RTF 文字控制項"
+
+#: build/editor/index.js:17
+msgid "Search Terms"
+msgstr "搜尋詞彙"
+
+#: build/editor/index.js:17
+msgid "Exit the Editor"
+msgstr "結束編輯器"
+
+#: build/edit-post/index.js:12
+msgid "Block Manager"
+msgstr "區塊管理程式"
+
+#: lib/class-wp-rest-widget-updater-controller.php:101
+msgid "Invalid widget."
+msgstr "無效的小工具。"
+
+#: lib/class-wp-rest-widget-updater-controller.php:42
+msgid "Class name of the widget."
+msgstr "小工具的類別名稱。"
+
+#: lib/class-wp-rest-widget-updater-controller.php:69
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "很抱歉，目前的登入身分沒有在這個網站存取小工具的權限。"
+
+#: gutenberg.php:49 gutenberg.php:50
+msgid "Widgets (beta)"
+msgstr "小工具 (Beta 版)"
+
+#: build/block-library/index.js:14
+msgid "link"
+msgstr "連結"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s can't be previewed in the editor."
+msgstr "來自 %s 的嵌入內容無法在編輯器中進行預覽。"
+
+#: build/components/index.js:19
+msgid "Custom Color"
+msgstr "自訂色彩"
+
+#: build/block-library/index.js:14
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "提示使用者點擊按鈕樣式連結採取行動。"
+
+#: build/block-library/blocks/rss.php:62
+msgid "by"
+msgstr "作者:"
+
+#: build/block-library/blocks/rss.php:27
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "發生錯誤。這項錯誤代表這個資訊提供已失效，請稍後再試。"
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "RSS 錯誤:"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgctxt "block style"
+msgid "Default"
+msgstr "預設"
+
+#: build/editor/index.js:17
+msgid "Stick to the top of the blog"
+msgstr "將這篇文章置頂"
+
+#: build/edit-post/index.js:12
+msgid "Read about permalinks"
+msgstr "進一步瞭解永久連結"
+
+#: build/edit-post/index.js:12
+msgid "The last part of the URL. "
+msgstr "網址代稱是完整網址中的最後部分。"
+
+#: build/edit-post/index.js:12
+msgid "URL Slug"
+msgstr "網址代稱"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode deactivated"
+msgstr "全螢幕模式已停用。"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode activated"
+msgstr "全螢幕模式已啟用。"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode deactivated"
+msgstr "寫作焦點模式已停用。"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode activated"
+msgstr "寫作焦點模式已啟用。"
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar deactivated"
+msgstr "置頂工具列已停用。"
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar activated"
+msgstr "置頂工具列已啟用。"
+
+#: build/edit-post/index.js:12
+msgid "You’ll find more settings for your page and blocks in the sidebar. Click the cog icon to toggle the sidebar open and closed."
+msgstr "在資訊欄中可以找到更多頁面及區塊的設定。點擊齒輪圖示以切換資訊欄的開啟及關閉。"
+
+#: build/edit-post/index.js:12
+msgid "Back"
+msgstr "返回"
+
+#: build/edit-post/index.js:12
+msgid "Feature activated"
+msgstr "功能已啟用。"
+
+#: build/edit-post/index.js:12
+msgid "Feature deactivated"
+msgstr "功能已停用。"
+
+#: build/components/index.js:19
+msgid "Vertical Pos."
+msgstr "垂直位置"
+
+#: build/components/index.js:19
+msgid "Horizontal Pos."
+msgstr "水平位置"
+
+#: build/block-library/index.js:14
+msgid "A cloud of your most used tags."
+msgstr "這個網站最常使用的標籤組成的標籤雲。"
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud"
+msgstr "標籤雲"
+
+#: build/block-library/index.js:14
+msgid "Taxonomy"
+msgstr "分類法"
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud Settings"
+msgstr "標籤雲設定"
+
+#: build/block-library/index.js:14
+msgid "- Select -"
+msgstr "- 選取 -"
+
+#: build/block-library/index.js:14
+msgid "Default"
+msgstr "預設"
+
+#: build/block-library/index.js:14
+msgid "find"
+msgstr "搜尋"
+
+#: build/block-library/index.js:14
+msgid "Help visitors find your content."
+msgstr "協助網站訪客搜尋網站內容。"
+
+#: build/block-library/blocks/search.php:76
+#: build/block-library/blocks/search.php:84 build/block-library/index.js:14
+msgid "Search"
+msgstr "搜尋"
+
+#: build/block-library/index.js:14
+msgid "Add button text…"
+msgstr "新增按鈕文字..."
+
+#: build/block-library/index.js:14
+msgid "Button text"
+msgstr "按鈕文字"
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder…"
+msgstr "選用的預留文字..."
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder text"
+msgstr "選用的預留文字"
+
+#: build/block-library/index.js:14
+msgid "Add label…"
+msgstr "新增標籤..."
+
+#: build/block-library/index.js:14
+msgid "Label text"
+msgstr "標籤文字"
+
+#: build/block-library/index.js:14
+msgid "feed"
+msgstr "資訊提供"
+
+#: build/block-library/index.js:14
+msgid "atom"
+msgstr "Atom"
+
+#: build/block-library/index.js:14
+msgid "Display entries from any RSS or Atom feed."
+msgstr "顯示任何來源的 RSS 或 Atom 資訊提供中的項目。"
+
+#: build/block-library/index.js:14
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/index.js:14
+msgid "Max number of words in excerpt"
+msgstr "內容摘要字數上限"
+
+#: build/block-library/index.js:14
+msgid "Display excerpt"
+msgstr "顯示內容摘要"
+
+#: build/block-library/index.js:14
+msgid "Display date"
+msgstr "顯示日期"
+
+#: build/block-library/index.js:14
+msgid "Display author"
+msgstr "顯示作者"
+
+#: build/block-library/index.js:14
+msgid "RSS Settings"
+msgstr "RSS 設定"
+
+#: build/block-library/index.js:14
+msgid "Edit RSS URL"
+msgstr "編輯 RSS 網址"
+
+#: build/block-library/index.js:14
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "在這個區塊前的內容，會在彙整頁面顯示為內容摘要。"
+
+#: build/block-library/index.js:14
+msgid "Hide the excerpt on the full content page"
+msgstr "在完整頁面內容中隱藏內容摘要"
+
+#: build/block-library/index.js:14
+msgid "The excerpt is visible."
+msgstr "內容摘要已顯示。"
+
+#: build/block-library/index.js:14
+msgid "The excerpt is hidden."
+msgstr "內容摘要已隱藏。"
+
+#: build/block-library/index.js:14
+msgid "image %1$d of %2$d in gallery"
+msgstr "第 %1$d 張圖片，圖庫中總計 %2$d 張圖片"
+
+#: build/block-library/index.js:14
+msgid "Sorry, this content could not be embedded."
+msgstr "很抱歉，無法嵌入這項內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed Amazon Kindle content."
+msgstr "嵌入 Amazon Kindle 內容。"
+
+#: build/block-library/index.js:14
+msgid "ebook"
+msgstr "電子書"
+
+#: build/block-library/index.js:14
+msgid "Embed Crowdsignal (formerly Polldaddy) content."
+msgstr "嵌入 Crowdsignal (先前的 Polldaddy) 內容。"
+
+#: build/block-library/index.js:14
+msgid "Focal Point Picker"
+msgstr "焦點選擇器"
+
+#: build/block-library/index.js:14
+msgid "archive"
+msgstr "彙整"
+
+#: build/block-library/index.js:14
+msgid "posts"
+msgstr "文章"
+
+#: build/block-library/index.js:14
+msgid "A calendar of your site’s posts."
+msgstr "這個網站的文章月曆。"
+
+#: build/block-library/index.js:14
+msgid "Calendar"
+msgstr "月曆"
+
+#: build/format-library/index.js:1
+msgid "Underline"
+msgstr "底線"
+
+#: build/editor/index.js:17
+msgid "https://codex.wordpress.org/Excerpt"
+msgstr "https://codex.wordpress.org/Excerpt"
+
+#: build/block-editor/index.js:55
+msgid "Attempt Block Recovery"
+msgstr "嘗試區塊復原"
+
+#: build/editor/index.js:17
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "characters_excluding_spaces"
+
+#: build/block-library/index.js:14
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "內容..."
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "轉換成連結"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Try again"
+msgstr "再試一次"
+
+#: build/nux/index.js:1
+msgid "Editor tips"
+msgstr "編輯器使用提示"
+
+#: build/edit-post/index.js:12
+msgid "Block (selected)"
+msgstr "區塊 (已選取)"
+
+#: build/edit-post/index.js:12
+msgid "Document (selected)"
+msgstr "文件 (已選取)"
+
+#: build/block-editor/index.js:55
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d 個字"
+
+#: build/edit-post/index.js:12
+msgid "Top Toolbar"
+msgstr "頂端工具列"
+
+#: build/block-library/index.js:14
+msgid "Link Rel"
+msgstr "連結的 Rel 屬性"
+
+#: build/block-library/index.js:14
+msgid "Link CSS Class"
+msgstr "連結的 CSS 類別"
+
+#: build/block-library/index.js:14
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "建立內容，並將內容儲存為網站上任何作者均可取用的可重複使用區塊。更新可重複使用區塊的內容後，相關變更會套用至使用了這個區塊的全部內容。"
+
+#: build/editor/index.js:17
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "如需編輯精選圖片，目前的登入身分必須具備上傳媒體檔案的權限。"
+
+#: build/block-editor/index.js:55
+msgid "To edit this block, you need permission to upload media."
+msgstr "如需編輯這個區塊，目前的登入身分必須具備上傳媒體檔案的權限。"
+
+#: build/block-editor/index.js:55
+msgid "(selected block)"
+msgstr "(選取的區塊)"
+
+#: build/block-editor/index.js:55
+msgid "Block tools"
+msgstr "區塊工具"
+
+#: build/edit-post/index.js:12
+msgid "Permalink"
+msgstr "永久連結"
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute"
+msgstr "這張圖片的 alt 屬性值為空"
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "這張圖片的 alt 屬性值為空，它的檔案名稱為 %s"
+
+#: lib/widgets.php:187
+msgid "Block area reverted to draft."
+msgstr "這個區塊區域已還原為草稿。"
+
+#: lib/widgets.php:186
+msgid "Block area published privately."
+msgstr "已發佈為私密區塊區域。"
+
+#: lib/widgets.php:181
+msgid "No block areas found in Trash."
+msgstr "在回收桶中找不到符合條件的區塊區域。"
+
+#: lib/widgets.php:173
+msgctxt "Block"
+msgid "Add New"
+msgstr "新增區塊"
+
+#: lib/widgets.php:172
+msgctxt "add new on admin bar"
+msgid "Block Area"
+msgstr "區塊區域"
+
+#: build/format-library/index.js:1
+msgid "Link inserted."
+msgstr "連結已插入。"
+
+#: build/format-library/index.js:1
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "警告: 連結已插入但可能含有錯誤。請為這個連結進行測試。"
+
+#: build/block-editor/index.js:55
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s 個區塊已選取。"
+
+#: lib/widgets-page.php:57 build/block-editor/index.js:55
+msgid "Thumbnail"
+msgstr "縮圖"
+
+#: lib/widgets-page.php:60 build/block-editor/index.js:55
+msgid "Full Size"
+msgstr "完整大小"
+
+#: build/block-editor/index.js:55
+msgid "Link selected."
+msgstr "連結已選取。"
+
+#: build/editor/index.js:17
+msgid "Start writing with text or HTML"
+msgstr "以任意文字或 HTML 程式碼開始撰寫內容"
+
+#: build/editor/index.js:17
+msgid "Type text or HTML"
+msgstr "輸入文字或 HTML 程式碼"
+
+#: build/block-editor/index.js:55
+msgid "Block icon"
+msgstr "區塊圖示"
+
+#: build/block-editor/index.js:55
+msgid "Align Text Right"
+msgstr "文字靠右對齊"
+
+#: build/block-editor/index.js:55
+msgid "Align Text Center"
+msgstr "文字置中對齊"
+
+#: build/block-editor/index.js:55
+msgid "Align Text Left"
+msgstr "文字靠左對齊"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Start writing or type / to choose a block"
+msgstr "開始撰寫內容或輸入斜線 (/) 以選取區塊類型"
+
+#: build/block-library/index.js:14
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "空白區塊: 開始撰寫內容或輸入斜線 (/) 以選取區塊類型"
+
+#: build/block-library/index.js:14
+msgid "Paragraph block"
+msgstr "段落區塊"
+
+#: build/block-library/index.js:14
+msgid "Page Break"
+msgstr "分頁符號"
+
+#: build/block-library/index.js:14
+msgid "Stack on mobile"
+msgstr "於行動裝置上以堆疊方式顯示內容元素"
+
+#: build/block-library/index.js:14
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "拖曳圖片檔案、上傳新檔案或從媒體庫選取檔案。"
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "註解"
+
+#: build/block-editor/index.js:55
+msgctxt "blocks"
+msgid "Most Used"
+msgstr "最常使用"
+
+#: build/block-editor/index.js:55
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "解析"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Huge"
+msgstr "超大型"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Large"
+msgstr "大型"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Medium"
+msgstr "中型"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Small"
+msgstr "小型"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Normal"
+msgstr "標準"
+
+#: build/components/index.js:19
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Enter"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "匯入"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Download"
+msgstr "下載"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Embed"
+msgstr "嵌入內容"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Embed"
+msgstr "嵌入內容"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Classic"
+msgstr "傳統編輯器"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Large"
+msgstr "大型"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Squared"
+msgstr "矩形按鈕"
+
+#: build/format-library/index.js:1
+msgid "%s (opens in a new tab)"
+msgstr "%s (在新分頁中開啟)"
+
+#: build/format-library/index.js:1
+msgid "Link edited."
+msgstr "連結已編輯。"
+
+#: build/format-library/index.js:1
+msgid "Link removed."
+msgstr "連結已移除。"
+
+#: build/format-library/index.js:1
+msgid "media"
+msgstr "媒體"
+
+#: build/editor/index.js:17
+msgid "Double-check your settings before publishing."
+msgstr "發佈前請再次確認相關設定。"
+
+#: build/editor/index.js:17
+msgid "Generating preview…"
+msgstr "正在產生預覽..."
+
+#: build/editor/index.js:17
+msgid "Edit or update the image"
+msgstr "編輯或更新圖片"
+
+#: build/block-editor/index.js:55
+msgid "Media"
+msgstr "媒體"
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the nearest toolbar."
+msgstr "導覽至最接近的工具列"
+
+#: build/edit-post/index.js:12
+msgid "Document tools"
+msgstr "內容工具"
+
+#: build/edit-post/index.js:12
+msgid "Document and block tools"
+msgstr "內容及區塊工具"
+
+#: build/block-library/index.js:14
+msgid "Embed a video from your media library or upload a new one."
+msgstr "從媒體庫中嵌入視訊檔，或上傳新的視訊檔。"
+
+#: build/block-library/index.js:14
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "插入詩句或引用歌詞，其他文字內容也可以套用這個區塊的特殊字元間距格式。"
+
+#: build/block-library/index.js:14
+msgid "Add white space between blocks and customize its height."
+msgstr "在區塊之間加入可設定高度的空白間格。"
+
+#: build/block-library/index.js:14
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "透過 WordPress 短代碼插入其他自訂元素。"
+
+#: build/block-library/index.js:14
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "以水平分隔符號在不同想法或章節之間建立分隔。"
+
+#: build/block-library/index.js:14
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "賦予引文視覺強調效果。<br/>「引用他人的說法，是為了加強自己的論述。」－胡利奧·科塔薩爾"
+
+#: build/block-library/index.js:14
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "賦予內容特別的視覺效果藉以強調引文。"
+
+#: build/block-library/index.js:14
+msgid "Start with the building block of all narrative."
+msgstr "段落是文字內容的基本要素，請以它為基礎開始撰寫內容。"
+
+#: build/block-library/index.js:14
+msgid "Separate your content into a multi-page experience."
+msgstr "將長篇內容以分頁符號分隔成多個頁面。"
+
+#: build/block-library/index.js:14
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "設定媒體與文字內容並排以獲得更精美的版面配置。"
+
+#: build/block-library/index.js:14
+msgid "Media & Text Settings"
+msgstr "媒體及文字設定"
+
+#: build/block-library/index.js:14
+msgid "Create a bulleted or numbered list."
+msgstr "建立項目符號或編號清單。"
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent comments."
+msgstr "顯示網站上近期留言的清單。"
+
+#: build/block-library/index.js:14
+msgid "Insert an image to make a visual statement."
+msgstr "插入圖片以進行視覺化說明。"
+
+#: build/block-library/index.js:14
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "撰寫自訂 HTML 程式碼，並可預覽編輯結果。"
+
+#: build/block-library/index.js:14
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "介紹新章節並協助讀者 (及搜尋引擎) 瞭解內容的組織方式。"
+
+#: build/block-library/index.js:14
+msgid "Display multiple images in a rich gallery."
+msgstr "以精美圖庫的方式顯示多張圖片。"
+
+#: build/block-library/index.js:14
+msgid "Add a link to a downloadable file."
+msgstr "新增可下載單一檔案的連結。"
+
+#: build/block-library/index.js:14
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "從外部來源嵌入視訊、圖片、推文、音訊以及其他內容。"
+
+#: build/block-library/index.js:14
+msgid "Resize for smaller devices"
+msgstr "為螢幕較小的裝置調整大小"
+
+#: build/block-library/index.js:14
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "這項內嵌內容在調整瀏覽器大小時，可能無法保持其長寬比。"
+
+#: build/block-library/index.js:14
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "這項內嵌內容在調整瀏覽器大小時，會保持其長寬比。"
+
+#: build/block-library/index.js:14
+msgid "Embed an Animoto video."
+msgstr "嵌入 Animoto 影片。"
+
+#: build/block-library/index.js:14
+msgid "Embed a Vimeo video."
+msgstr "嵌入 Vimeo 影片。"
+
+#: build/block-library/index.js:14
+msgid "Embed Flickr content."
+msgstr "嵌入 Flickr 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed Spotify content."
+msgstr "嵌入 Spotify 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed SoundCloud content."
+msgstr "嵌入 SoundCloud 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress post."
+msgstr "嵌入 WordPress 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed an Instagram post."
+msgstr "嵌入 Instagram 貼文。"
+
+#: build/block-library/index.js:14
+msgid "Embed a Facebook post."
+msgstr "嵌入 Facebook 貼文。"
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress.tv video."
+msgstr "嵌入 WordPress.tv 影片。"
+
+#: build/block-library/index.js:14
+msgid "Embed a VideoPress video."
+msgstr "嵌入 VideoPress 影片。"
+
+#: build/block-library/index.js:14
+msgid "Embed a Tumblr post."
+msgstr "嵌入 Tumblr 文章。"
+
+#: build/block-library/index.js:14
+msgid "Embed a TED video."
+msgstr "嵌入 TED 影片。"
+
+#: build/block-library/index.js:14
+msgid "Embed Speaker Deck content."
+msgstr "嵌入 Speaker Deck 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed a YouTube video."
+msgstr "嵌入 YouTube 影片。"
+
+#: build/block-library/index.js:14
+msgid "Embed SmugMug content."
+msgstr "嵌入 SmugMug 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed Slideshare content."
+msgstr "嵌入 Slideshare 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed Scribd content."
+msgstr "嵌入 Scribd 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed Screencast content."
+msgstr "嵌入 Screencast 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed ReverbNation content."
+msgstr "嵌入 ReverbNation 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed a Reddit thread."
+msgstr "嵌入 Reddit 討論串。"
+
+#: build/block-library/index.js:14
+msgid "Embed Polldaddy content."
+msgstr "嵌入 Polldaddy 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed Mixcloud content."
+msgstr "嵌入 Mixcloud 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed a tweet."
+msgstr "嵌入 Twitter 推文。"
+
+#: build/block-library/index.js:14
+msgid "Embed Meetup.com content."
+msgstr "嵌入 Meetup.com 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed Kickstarter content."
+msgstr "嵌入 Kickstarter 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed Issuu content."
+msgstr "嵌入 Issuu 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed Imgur content."
+msgstr "嵌入 Imgur 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed Hulu content."
+msgstr "嵌入 Hulu 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed a Dailymotion video."
+msgstr "嵌入 DailyMotion 影片。"
+
+#: build/block-library/index.js:14
+msgid "Embed CollegeHumor content."
+msgstr "嵌入 CollegeHumor 內容。"
+
+#: build/block-library/index.js:14
+msgid "Embed Cloudup content."
+msgstr "嵌入 Cloudup 內容。"
+
+#: build/block-library/index.js:14
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "為內容加入圖片或影片，並可在其上加上簡短文字，相當適合呈現為內容頁首。"
+
+#: build/block-library/index.js:14
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "顯示完全保持空格及定位點不變的程式碼片段。"
+
+#: build/block-library/index.js:14
+msgid "Use the classic WordPress editor."
+msgstr "使用 WordPress 傳統編輯器。"
+
+#: build/block-library/index.js:14
+msgid "Display a list of all categories."
+msgstr "顯示全部分類的清單。"
+
+#: build/block-library/index.js:14
+msgid "Embed a simple audio player."
+msgstr "嵌入簡易音訊播放器。"
+
+#: build/edit-post/index.js:12
+msgctxt "noun"
+msgid "View"
+msgstr "檢視"
+
+#: build/block-library/index.js:14
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "從左至右"
+
+#: build/editor/index.js:17
+msgid "Save as Pending"
+msgstr "儲存為待審閱內容"
+
+#: build/editor/index.js:17
+msgid "%s address"
+msgstr "[%s] 位址"
+
+#: build/block-editor/index.js:55
+msgid "Paste or type URL"
+msgstr "貼上或輸入網址"
+
+#: build/block-editor/index.js:55
+msgid "Insert from URL"
+msgstr "從網址插入"
+
+#: build/block-editor/index.js:55
+msgid "Block Navigation"
+msgstr "區塊導覽"
+
+#: build/block-editor/index.js:55
+msgid "Styles"
+msgstr "樣式"
+
+#: build/edit-post/index.js:12
+msgid "Advanced Panels"
+msgstr "進階面板"
+
+#: build/edit-post/index.js:12
+msgid "Document Panels"
+msgstr "內容面板"
+
+#: build/edit-post/index.js:12
+msgid "Enable Tips"
+msgstr "啟用使用提示"
+
+#: build/edit-post/index.js:12
+msgid "General"
+msgstr "一般"
+
+#: build/edit-post/index.js:12
+msgid "Open the block navigation menu."
+msgstr "開啟區塊導覽選單"
+
+#: build/edit-post/index.js:12
+msgid "Work without distraction"
+msgstr "不受干擾的寫作方式"
+
+#: build/edit-post/index.js:12
+msgid "Focus on one block at a time"
+msgstr "畫面僅會聚焦於正在編輯的區塊"
+
+#: build/edit-post/index.js:12
+msgid "Access all block and document tools in a single place"
+msgstr "可在同一位置使用所有區塊及內容工具"
+
+#: build/edit-post/index.js:12
+msgid "Options"
+msgstr "設定"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "(opens in a new tab)"
+msgstr "(在新分頁中開啟)"
+
+#: build/components/index.js:19
+msgid "Minutes"
+msgstr "分鐘"
+
+#: build/components/index.js:19
+msgid "Hours"
+msgstr "小時"
+
+#: build/components/index.js:19
+msgid "Time"
+msgstr "時間"
+
+#: build/components/index.js:19
+msgid "Year"
+msgstr "年份"
+
+#: build/components/index.js:19
+msgid "Day"
+msgstr "日"
+
+#: build/components/index.js:19
+msgid "December"
+msgstr "十二月"
+
+#: build/components/index.js:19
+msgid "November"
+msgstr "十一月"
+
+#: build/components/index.js:19
+msgid "October"
+msgstr "十月"
+
+#: build/components/index.js:19
+msgid "September"
+msgstr "九月"
+
+#: build/components/index.js:19
+msgid "August"
+msgstr "八月"
+
+#: build/components/index.js:19
+msgid "July"
+msgstr "七月"
+
+#: build/components/index.js:19
+msgid "June"
+msgstr "六月"
+
+#: build/components/index.js:19
+msgid "May"
+msgstr "五月"
+
+#: build/components/index.js:19
+msgid "April"
+msgstr "四月"
+
+#: build/components/index.js:19
+msgid "March"
+msgstr "三月"
+
+#: build/components/index.js:19
+msgid "February"
+msgstr "二月"
+
+#: build/components/index.js:19
+msgid "January"
+msgstr "一月"
+
+#: build/components/index.js:19
+msgid "Month"
+msgstr "月份"
+
+#: build/components/index.js:19
+msgid "Date"
+msgstr "日期"
+
+#: build/components/index.js:19
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "使用 Home 鍵或 End 鍵移動至該週的第一天或最後一天。"
+
+#: build/components/index.js:19
+msgid "Home/End"
+msgstr "Home/End"
+
+#: build/components/index.js:19
+msgid "Home and End"
+msgstr "Home 鍵及 End 鍵"
+
+#: build/components/index.js:19
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "使用 PgUp 鍵或 PgDn 鍵以月為單位向後或向前移動。"
+
+#: build/components/index.js:19
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: build/components/index.js:19
+msgid "Page Up and Page Down"
+msgstr "Page Up 及 Page Down"
+
+#: build/components/index.js:19
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "使用向上鍵或向下鍵以週為單位向後或向前移動。"
+
+#: build/components/index.js:19
+msgid "Up and Down Arrows"
+msgstr "向上鍵及向下鍵"
+
+#: build/components/index.js:19
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "使用向左鍵或向右鍵以日為單位向後或向前移動。"
+
+#: build/components/index.js:19
+msgid "Left and Right Arrows"
+msgstr "向左鍵及向右鍵"
+
+#: build/components/index.js:19
+msgid "Select the date in focus."
+msgstr "選取已框選的日期。"
+
+#: build/components/index.js:19
+msgid "Navigating with a keyboard"
+msgstr "鍵盤操作方式"
+
+#: build/components/index.js:19
+msgid "Click the desired day to select it."
+msgstr "點擊所需的日期便能選取這個日期。"
+
+#: build/components/index.js:19
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "點擊月份名稱旁的向右箭號或向左箭號以選取過去或未來的其他月份。"
+
+#: build/components/index.js:19
+msgid "Click to Select"
+msgstr "點擊以選取"
+
+#: build/components/index.js:19
+msgid "Calendar Help"
+msgstr "月曆使用說明"
+
+#: build/components/index.js:19
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to decrease saturation, and right to increase saturation."
+msgstr "使用鍵盤上的箭號鍵以變更基準色彩。向上鍵及向下鍵分別可以淡化及暗化色彩，向左鍵及向右鍵分別可以降低及增加飽和度。"
+
+#: build/components/index.js:19
+msgid "Choose a shade"
+msgstr "選取陰影"
+
+#: build/components/index.js:19
+msgid "Change color format"
+msgstr "變更色彩格式"
+
+#: build/components/index.js:19
+msgid "Color value in HSL"
+msgstr "HSL 色彩值"
+
+#: build/components/index.js:19
+msgid "Color value in RGB"
+msgstr "RGB 色彩值"
+
+#: build/components/index.js:19
+msgid "Color value in hexadecimal"
+msgstr "Hex (十六進位) 色彩值"
+
+#: build/components/index.js:19
+msgid "RGB mode active"
+msgstr "RGB 模式已啟用"
+
+#: build/components/index.js:19
+msgid "Hex color mode active"
+msgstr "Hex 色彩模式已啟用"
+
+#: build/components/index.js:19
+msgid "Hue/saturation/lightness mode active"
+msgstr "色調/飽和度/亮度模式已啟用"
+
+#: build/components/index.js:19
+msgid "Move the arrow left or right to change hue."
+msgstr "按下向左鍵或向右鍵以變更色調。"
+
+#: build/components/index.js:19
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "色調值以度為單位，可設定為從 0 至 359 間的數值。"
+
+#: build/components/index.js:19
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Alpha 值，可設定為從 0 (透明) 至 1 (完全不透明) 間的數值。"
+
+#: build/block-library/index.js:14
+msgid "Stripes"
+msgstr "條紋"
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for this block."
+msgstr "這個網站不包含對這個區塊的支援。"
+
+#: build/block-library/index.js:14
+msgid "Unrecognized Block"
+msgstr "無法識別的區塊"
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "這個網站不包含對 [%s] 區塊的支援。內容作者可選擇保有這個區塊的完整性，或將其完全移除。"
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "這個網站不包含對 [%s] 區塊的支援。內容作者可選擇保有這個區塊的完整性、將它轉換成 [自訂 HTML] 區塊，或將其完全移除。"
+
+#: build/block-library/index.js:14
+msgid "Media area"
+msgstr "媒體區域"
+
+#: build/block-library/index.js:14
+msgid "Media & Text"
+msgstr "媒體及文字"
+
+#: build/block-library/index.js:14
+msgid "Show media on right"
+msgstr "在右側顯示媒體"
+
+#: build/block-library/index.js:14
+msgid "Show media on left"
+msgstr "在左側顯示媒體"
+
+#: build/format-library/index.js:1 build/block-library/index.js:14
+msgid "Open in New Tab"
+msgstr "在新分頁中開啟"
+
+#: build/block-library/index.js:14
+msgid "Cover"
+msgstr "封面"
+
+#: build/block-library/index.js:14
+msgid "Cover Settings"
+msgstr "封面設定"
+
+#: build/block-library/index.js:14
+msgid "Edit media"
+msgstr "編輯媒體"
+
+#: lib/widgets-page.php:58 build/block-editor/index.js:55
+msgid "Medium"
+msgstr "中型尺寸"
+
+#: build/block-editor/index.js:55
+msgid "Paste URL or type to search"
+msgstr "貼上或輸入網址以搜尋"
+
+#: build/editor/index.js:17
+msgid "Terms"
+msgstr "項目"
+
+#: build/editor/index.js:17
+msgid "Your work will be published at the specified date and time."
+msgstr "這篇內容將會發佈於指定的日期與時間。"
+
+#: build/editor/index.js:17
+msgid "Are you ready to schedule?"
+msgstr "確定要將這篇內容進行排程？"
+
+#: build/editor/index.js:17
+msgid "Always show pre-publish checks."
+msgstr "永遠顯示發佈前檢查項目。"
+
+#: build/editor/index.js:17
+msgid "Take Over"
+msgstr "接管編輯工作"
+
+#: build/editor/index.js:17
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "另一位使用者目前正在編輯這篇內容，這代表除非你接管編輯工作，否則無法編輯這篇內容。"
+
+#: build/editor/index.js:17
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "「%s」目前正在編輯這篇內容，這代表除非你接管編輯工作，否則無法編輯這篇內容。"
+
+#: build/editor/index.js:17
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "另一位使用者目前已接管這篇內容的編輯工作。不必擔心，截至目前為止的編輯變更均已儲存。"
+
+#: build/editor/index.js:17
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "「%s」目前已接管這篇內容的編輯工作。不必擔心，截至目前為止的編輯變更均已儲存。"
+
+#: build/editor/index.js:17
+msgid "Avatar"
+msgstr "個人頭像"
+
+#: build/editor/index.js:17
+msgid "This post is already being edited."
+msgstr "這篇內容已經過編輯。"
+
+#: build/editor/index.js:17
+msgid "Someone else has taken over this post."
+msgstr "已有其他人接管了這篇內容的編輯工作。"
+
+#: build/block-editor/index.js:55
+msgid "This block contains unexpected or invalid content."
+msgstr "這個區塊包含未預期或無效的內容。"
+
+#: build/block-editor/index.js:55
+msgid "Resolve Block"
+msgstr "解析區塊"
+
+#: build/block-editor/index.js:55
+msgid "Convert to HTML"
+msgstr "轉換成 HTML"
+
+#: build/edit-post/index.js:12
+msgid "Enable Pre-publish Checks"
+msgstr "啟用發佈前檢查"
+
+#: build/edit-post/index.js:12
+msgid "This block can only be used once."
+msgstr "這個區塊僅能使用一次。"
+
+#: build/edit-post/index.js:12
+msgid "Exit Code Editor"
+msgstr "結束程式碼編輯器"
+
+#: build/edit-post/index.js:12
+msgid "Editing Code"
+msgstr "編輯程式碼"
+
+#: build/block-library/index.js:14
+msgid "Solid Color"
+msgstr "純色"
+
+#: build/block-library/index.js:14
+msgid "Main Color"
+msgstr "主要色彩"
+
+#: build/block-library/index.js:14
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:14
+msgid "Write HTML…"
+msgstr "撰寫 HTML 程式碼..."
+
+#: build/block-library/index.js:14
+msgid "Media Settings"
+msgstr "媒體設定"
+
+#: build/block-library/index.js:14
+msgid "Overlay Color"
+msgstr "覆疊色彩"
+
+#: build/block-library/index.js:14
+msgid "Overlay"
+msgstr "覆疊"
+
+#: build/block-library/index.js:14
+msgid "Insert Media"
+msgstr "插入媒體檔案"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "可重複使用區塊已成功匯入。"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "無效的可重複使用區塊 JSON 檔案"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "無效的 JSON 檔案"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "從 JSON 檔案匯入"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "反引號"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "句號"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "逗號"
+
+#: build/block-editor/index.js:55
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "變更 %d 個區塊的類型"
+
+#: build/block-editor/index.js:55
+msgid "Current"
+msgstr "目前版本"
+
+#: build/block-editor/index.js:55
+msgid "After Conversion"
+msgstr "轉換後"
+
+#: build/block-editor/index.js:55
+msgid "Change alignment"
+msgstr "變更對齊方式"
+
+#: build/block-editor/index.js:55
+msgid "Change text alignment"
+msgstr "變更文字對齊方式"
+
+#: build/block-library/index.js:14
+msgid "Template block used as a container."
+msgstr "用於成為容器的區塊範本。"
+
+#: build/block-library/index.js:14
+msgid "Reusable Template"
+msgstr "可重複使用區塊範本"
+
+#: build/block-editor/index.js:55
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d 個區塊"
+
+#: build/edit-post/index.js:12
+msgid "Escape"
+msgstr "ESC"
+
+#: build/edit-post/index.js:12
+msgid "Forward-slash"
+msgstr "正斜線"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "尚無彙整可供顯示。"
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "檔案內容為空。"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "很抱歉，這是不支援的檔案類型。"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Manage All Reusable Blocks"
+msgstr "管理可重複使用區塊"
+
+#: build/editor/index.js:17
+msgid "Title"
+msgstr "標題"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen Mode"
+msgstr "全螢幕模式"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "美麗的風景"
+
+#: build/editor/index.js:17
+msgid "Close panel"
+msgstr "關閉面板"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Classic Block"
+msgstr "轉換成 [傳統編輯器] 區塊"
+
+#: build/block-library/index.js:14
+msgid "Remove Poster Image"
+msgstr "移除宣傳圖片"
+
+#: build/block-library/index.js:14
+msgid "Select Poster Image"
+msgstr "選取宣傳圖片"
+
+#: build/block-library/index.js:14
+msgid "Poster Image"
+msgstr "宣傳圖片"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "這個區塊已淘汰不用，請改用 [內容欄] 區塊。"
+
+#: build/block-library/index.js:14
+msgid "Text Columns (deprecated)"
+msgstr "文字欄 (已淘汰不用)"
+
+#: build/block-library/index.js:14
+msgid "Row Count"
+msgstr "資料列數"
+
+#: build/block-library/index.js:14
+msgid "Column Count"
+msgstr "資料行數"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "這個區塊已淘汰不用，請改用 [段落] 區塊。"
+
+#: build/block-library/index.js:14
+msgid "Subheading (deprecated)"
+msgstr "子標題 (已淘汰不用)"
+
+#: build/block-library/index.js:14
+msgid "blockquote"
+msgstr "段落引用"
+
+#: build/edit-post/index.js:12
+msgid "Change the block type after adding a new paragraph."
+msgstr "新增段落後，藉以變更區塊類型"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight Mode"
+msgstr "寫作焦點模式"
+
+#: build/editor/index.js:17
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "標籤能夠協助使用者及搜尋引擎瀏覽這個網站並找到合適的內容。請加入一些能說明文章內容的關鍵字。"
+
+#: build/editor/index.js:17
+msgid "Add tags"
+msgstr "新增標籤"
+
+#: build/editor/index.js:17
+msgid "Apply the \"%1$s\" format."
+msgstr "套用 [%1$s] 文章格式。"
+
+#: build/editor/index.js:17
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "目前使用的佈景主題使用文章格式強調不同類型的內容，例如圖片或視訊。套用其中一種文章格式便能檢視其專屬樣式。"
+
+#: build/editor/index.js:17
+msgid "Use a post format"
+msgstr "使用文章格式"
+
+#: build/block-editor/index.js:55
+msgid "Insert After"
+msgstr "於後方插入區塊"
+
+#: build/block-editor/index.js:55
+msgid "Insert Before"
+msgstr "於前方插入區塊"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "將位於%2$d的 %1$d 個區塊下移一次"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "將位於%2$d的 %1$d 個區塊上移一次"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "將位於%2$d的 [%1$s] 區塊上移至%3$d"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "將位於%2$d的 [%1$s] 區塊下移至%3$d"
+
+#: build/block-library/index.js:14
+msgid "movie"
+msgstr "電影"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block before the selected block(s)."
+msgstr "在選取區塊的前方插入新區塊"
+
+#: build/edit-post/index.js:12
+msgid "Remove the selected block(s)."
+msgstr "移除選取的區塊"
+
+#: build/edit-post/index.js:12
+msgid "Duplicate the selected block(s)."
+msgstr "再製選取的區塊"
+
+#: build/edit-post/index.js:12
+msgid "Block shortcuts"
+msgstr "區塊快速鍵"
+
+#: build/edit-post/index.js:12
+msgid "Clear selection."
+msgstr "取消內容選取"
+
+#: build/edit-post/index.js:12
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "寫作時按一次可選取當前區塊，再按一次即可選取全部區塊"
+
+#: build/edit-post/index.js:12
+msgid "Selection shortcuts"
+msgstr "內容選取快速鍵"
+
+#: build/edit-post/index.js:12
+msgid "Switch between Visual Editor and Code Editor."
+msgstr "於 [視覺化編輯器] 與 [程式碼編輯器] 間切換"
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor (alternative)."
+msgstr "前往編輯器的上一個功能區域 (備用快速鍵)"
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor (alternative)."
+msgstr "前往編輯器的下一個功能區域 (備用快速鍵)"
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor."
+msgstr "前往編輯器的上一個功能區域"
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor."
+msgstr "前往編輯器的下一個功能區域"
+
+#: build/edit-post/index.js:12
+msgid "Show or hide the settings sidebar."
+msgstr "顯示或隱藏設定面板"
+
+#: build/edit-post/index.js:12
+msgid "Redo your last undo."
+msgstr "取消復原變更"
+
+#: build/edit-post/index.js:12
+msgid "Undo your last changes."
+msgstr "復原變更"
+
+#: build/edit-post/index.js:12
+msgid "Save your changes."
+msgstr "儲存變更"
+
+#: build/edit-post/index.js:12
+msgid "Display this help."
+msgstr "顯示這份說明"
+
+#: build/edit-post/index.js:12
+msgid "Global shortcuts"
+msgstr "全域快速鍵"
+
+#: build/edit-post/index.js:12
+msgid "Remove a link."
+msgstr "移除連結"
+
+#: build/edit-post/index.js:12
+msgid "Convert the selected text into a link."
+msgstr "將選取內容轉換成連結"
+
+#: build/edit-post/index.js:12
+msgid "Underline the selected text."
+msgstr "為選取內容加上底線"
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text italic."
+msgstr "將選取內容變更為斜體"
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text bold."
+msgstr "將選取內容變更為粗體"
+
+#: build/edit-post/index.js:12
+msgid "Text formatting"
+msgstr "內容格式化"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block after the selected block(s)."
+msgstr "在選取區塊的後方插入新區塊"
+
+#: build/edit-post/index.js:12
+msgid "Keyboard Shortcuts"
+msgstr "鍵盤快速鍵"
+
+#: post-content.php:181
+msgid "Thanks for testing Gutenberg!"
+msgstr "感謝加入測試 Gutenberg 的行列"
+
+#: post-content.php:173
+msgid "Help build Gutenberg"
+msgstr "協助建置 Gutenberg"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:164
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "如想進一步瞭解如何建置其他區塊的相關資訊，或是有興趣協助這個專案，請造訪 <a href=\"%s\" target=\"_blank\">GitHub 存放庫</a>。"
+
+#: post-content.php:155
+msgid "The WordPress community"
+msgstr "WordPress 社群"
+
+#: post-content.php:155
+msgid "Code is Poetry"
+msgstr "程式碼，如詩"
+
+#: post-content.php:151
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "作者可以使用任何自己喜好的區塊，無論是靜態或動態、具備裝飾樣式或純文字。以下便以重要引述區塊作為示範。"
+
+#: post-content.php:141
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "任何區塊均具備對齊設定，下方嵌入內容的區塊亦同，且嵌入內容後會立即具備回應式設計。"
+
+#: post-content.php:137
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "上方是個只有兩張圖片的圖庫。這是能夠更輕易建立引人注意版面配置的方式，而無需處理其他細節。如有需要，還可以使用區塊切換程式輕鬆地將圖庫轉換成一張張的單張圖片。"
+
+#: post-content.php:126
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "當然，全幅寬度圖片會以相當大的尺寸顯示，但的確適合呈現某些圖片。"
+
+#: post-content.php:122
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "協助工具相當重要 &mdash; 請記得填寫圖片替代文字屬性"
+
+#: post-content.php:118
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "如果目前使用的佈景主題整合了圖庫圖片的 <strong>[寬幅寬度]</strong> 及 <strong>[全幅寬度]</strong> 顯示方式，作者便能非常快速地建立具有多樣化媒體檔案呈現方式的版面配置："
+
+#: post-content.php:114
+msgid "Media Rich"
+msgstr "多樣化的媒體檔案呈現方式"
+
+#: post-content.php:110
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "作者可拖曳位於資訊欄區塊中的滑桿，藉以變更圖庫的內容欄設定。"
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "區塊可以滿足任何寫作需求。舉例來說，作者或許會想要加入低調的引文作為內容的一部份，或是偏好顯示一個大型風格化的引文，而區塊插入器提供了全部相關設定。"
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "與引文來源對應的資訊，是類似圖片下方圖說的個別文字欄位；因此即使進行選取、修改或移除來源，引文結構仍會受到保護，要將它再次加入也非常簡單。"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg 撰於 2017 年"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "透過這個編輯器，便可建立頁面及文章，而這兩者均能輕鬆建置出呈現多樣化內容、具備能使用短代碼、自訂 HTML 或常用嵌入內容區塊的使用體驗。"
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "區塊的明顯優勢就是作者可以就地編輯並直接控制內容。作者可以直接修改內容，而不是透過欄位編輯引文來源或按鈕文字等內容。請試著編輯以下引文："
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "視覺化的編輯方式"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "以及以<strong>清單</strong>區塊所製作的這份範例清單 :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "提供各式版面配置區塊，例如按鈕、宣傳圖片、分隔符號等等。"
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "可嵌入第三方內容，例如 YouTube 影片、Twitter 的推文或其他 WordPress 網站的文章。"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "圖庫"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "圖片及視訊"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "段落及標題"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "請試著插入區塊，便會發現 WordPress 已在內容中加入之前未見過的元件。這是目前這篇示範內容中用到區塊的簡短清單："
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "想像一下，在同一處介面中便可以快速完成 WordPress 可以做的一切，無須瞭解 HTML 標籤、類別或記住複雜的短代碼語法。在編輯器中隨處可見的 <code>(+)</code> 按鈕，可讓作者瀏覽全部可用的內容區塊，並將它們加入內容中，這就是區塊插入器的運作方式。外掛及佈景主題透過註冊，為多樣化的編輯及發佈拓展了各種可能性。"
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "區塊插入器工具"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "請試著選取、移除或編輯圖說，而不必再擔心因為犯錯或毀損內容而必須小心翼翼的選取圖片或文字。"
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "如果使用中的佈景主題支援這項功能，便會在圖片工具列出現 [寬幅寬度] 及 [全幅寬度] 按鈕。請試試這項功能的效果。"
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "以最嚴謹的方式處理圖片及媒體檔案是新版編輯器的主要重點。希望作者們會發現加入圖說或全幅寬度圖片的方式，比以往更容易也更完整。"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "一圖勝千文"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "[標題] 是有助於呈現內容大綱及組織的獨立區塊。"
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "...就如同這個區塊，文字內容為靠右對齊。"
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "目前正在閱讀的是<strong>段落區塊</strong>，這是最基本的區塊；段落區塊有自有的控制項，可隨意移動文字內容位置..."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "開發這款新式編輯器的目標，是為了在 WordPress 加入豐富內容時變得簡單而有趣。使用 Gutengerg 編輯器編輯內容，整篇內容會由類似樂高積木的<strong>塊狀內容</strong>所組成，作者可以移動這些塊狀內容並與之互動。移動游標的同時，應該會注意到不同的區塊會以外框及箭號加以標示；按下箭號即可快速重新排列區塊位置，且不必擔心會因為複製及貼上的操作而遺失內容。"
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "有如山脈般壯觀的印刷機"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "歡迎使用 Gutenberg 編輯器"
+
+#: build/block-library/index.js:14
+msgctxt "block name"
+msgid "More"
+msgstr "閱讀全文"
+
+#: build/block-library/index.js:14
+msgctxt "button to expand options"
+msgid "More"
+msgstr "更多設定"
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unschedule this post?"
+msgstr "確定要取消這篇內容的排程狀態？"
+
+#: build/block-library/index.js:14
+msgid "Alt Text (Alternative Text)"
+msgstr "替代文字"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block"
+msgstr "可重複使用區塊"
+
+#: build/editor/index.js:17
+msgid "Untitled Reusable Block"
+msgstr "未命名的可重複使用區塊"
+
+#: build/block-editor/index.js:55
+msgid "(%s: %s)"
+msgstr "(%s: %s)"
+
+#: build/block-editor/index.js:55
+msgid "Reusable"
+msgstr "可重複使用"
+
+#: build/block-editor/index.js:55
+msgid "(current %s: %s)"
+msgstr "(目前 %s: %s)"
+
+#: build/editor/index.js:17
+msgid "Remove from Reusable Blocks"
+msgstr "從可重複使用區塊中移除"
+
+#: build/editor/index.js:17
+msgid "Add to Reusable Blocks"
+msgstr "新增至可重複使用區塊"
+
+#: build/block-library/index.js:14
+msgid "Keep as HTML"
+msgstr "保留 HTML 程式碼"
+
+#: build/block-library/index.js:14
+msgid "Edit URL"
+msgstr "編輯網址"
+
+#: build/block-library/index.js:14
+msgid "Color Settings"
+msgstr "色彩設定"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block: %s"
+msgstr "可重複使用區塊: %s"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "無效的 JSON 回應。"
+
+#: build/edit-post/index.js:12
+msgid "Editor publish"
+msgstr "編輯器發佈"
+
+#: build/block-library/index.js:14
+msgid "Muted"
+msgstr "靜音"
+
+#: build/block-library/index.js:14
+msgid "Video Settings"
+msgstr "視訊設定"
+
+#: build/block-library/index.js:14
+msgid "recent comments"
+msgstr "近期留言"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments"
+msgstr "最新留言"
+
+#: build/block-library/index.js:14
+msgid "Display Excerpt"
+msgstr "顯示內容摘要"
+
+#: build/block-library/index.js:14
+msgid "Display Date"
+msgstr "顯示日期"
+
+#: build/block-library/index.js:14
+msgid "Display Avatar"
+msgstr "顯示個人頭像"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments Settings"
+msgstr "最新留言設定"
+
+#: build/block-library/index.js:14
+msgid "Number of Comments"
+msgstr "留言顯示數量"
+
+#: build/block-library/index.js:14
+msgid "Background Opacity"
+msgstr "背景不透明度"
+
+#: build/block-library/index.js:14
+msgid "Auto"
+msgstr "自動播放"
+
+#: build/block-library/index.js:14
+msgid "Preload"
+msgstr "預先載入"
+
+#: build/block-library/index.js:14
+msgid "Audio Settings"
+msgstr "音訊設定"
+
+#: build/block-library/index.js:14
+msgid "Display a monthly archive of your posts."
+msgstr "顯示網站文章的每月彙整。"
+
+#: build/block-library/index.js:14
+msgid "Display as Dropdown"
+msgstr "顯示為下拉式選單"
+
+#: build/block-library/index.js:14
+msgid "Show Post Counts"
+msgstr "顯示文章計數"
+
+#: build/block-library/index.js:14
+msgid "Archives Settings"
+msgstr "彙整設定"
+
+#: gutenberg.php:60
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: gutenberg.php:58
+msgid "Support"
+msgstr "技術支援"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "尚無留言可供顯示。"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "「%1$s」在〈%2$s〉發佈留言"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "選取文章"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "選取週次"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "選取日期"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "選取月份"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "選取年份"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:14
+msgid "Archives"
+msgstr "彙整"
+
+#: build/block-editor/index.js:55
+msgid "Very dark gray"
+msgstr "暗灰色"
+
+#: build/block-editor/index.js:55
+msgid "Cyan bluish gray"
+msgstr "青藍灰色"
+
+#: build/block-editor/index.js:55
+msgid "Very light gray"
+msgstr "亮灰色"
+
+#: build/block-editor/index.js:55
+msgid "Vivid cyan blue"
+msgstr "鮮青藍色"
+
+#: build/block-editor/index.js:55
+msgid "Pale cyan blue"
+msgstr "淡青藍色"
+
+#: build/block-editor/index.js:55
+msgid "Vivid green cyan"
+msgstr "鮮綠青色"
+
+#: build/block-editor/index.js:55
+msgid "Light green cyan"
+msgstr "亮綠青色"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid amber"
+msgstr "亮鮮琥珀色"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid orange"
+msgstr "亮鮮橘色"
+
+#: build/block-editor/index.js:55
+msgid "Vivid red"
+msgstr "鮮紅色"
+
+#: build/block-editor/index.js:55
+msgid "Pale pink"
+msgstr "淡粉色"
+
+#: build/format-library/index.js:1
+msgid "Inline Image"
+msgstr "內嵌圖片"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Available block types"
+msgstr "可用的區塊類型"
+
+#: build/edit-post/index.js:12
+msgid "Welcome to the wonderful world of blocks! Click the “+” (“Add block”) button to add a new block. There are blocks available for all kinds of content: you can insert text, headings, images, lists, and lots more!"
+msgstr "歡迎使用精彩及實用兼備的區塊編輯器。點擊 [+] (代表 [新增區塊]) 按鈕，便能插入不同類型的內容區塊。編輯器內建了許多適用於各式內容的區塊，可以插入文字、標題、圖片、清單等等。"
+
+#: build/block-editor/index.js:55
+msgid "Transform To:"
+msgstr "轉換成其他類型區塊:"
+
+#: build/block-editor/index.js:55
+msgid "Remove Block"
+msgstr "移除區塊"
+
+#: build/edit-post/index.js:12
+msgid "Open publish panel"
+msgstr "開啟 [發佈] 面板"
+
+#: build/block-library/index.js:14
+msgid "Dots"
+msgstr "點狀線段"
+
+#: build/block-library/index.js:14
+msgid "Wide Line"
+msgstr "長線段"
+
+#: lib/widgets-page.php:59 build/block-editor/index.js:55
+msgid "Large"
+msgstr "大型尺寸"
+
+#: build/block-library/index.js:14
+msgid "Show Download Button"
+msgstr "顯示下載按鈕"
+
+#: build/block-library/index.js:14
+msgid "Download Button Settings"
+msgstr "下載按鈕設定"
+
+#: build/block-library/index.js:14
+msgid "Link To"
+msgstr "連結目標"
+
+#: build/block-library/index.js:14
+msgid "Text Link Settings"
+msgstr "文字連結設定"
+
+#: build/block-library/index.js:14
+msgid "pdf"
+msgstr "PDF"
+
+#: build/block-library/index.js:14
+msgid "document"
+msgstr "文件"
+
+#: build/block-library/index.js:14
+msgid "Copy URL"
+msgstr "複製網址"
+
+#: build/block-library/index.js:14
+msgid "Write file name…"
+msgstr "輸入檔案名稱..."
+
+#: build/block-library/index.js:14
+msgid "Edit file"
+msgstr "編輯檔案"
+
+#: build/list-reusable-blocks/index.js:1 build/block-library/index.js:14
+msgid "File"
+msgstr "檔案"
+
+#: build/block-library/index.js:14
+msgid "A single column within a columns block."
+msgstr "內容欄區塊中的單一內容欄。"
+
+#: build/block-library/index.js:14
+msgid "Column"
+msgstr "單一內容欄"
+
+#: build/block-library/index.js:14
+msgid "Outline"
+msgstr "外框按鈕"
+
+#: build/block-library/index.js:14
+msgid "Loop"
+msgstr "重複播放"
+
+#: build/block-library/index.js:14
+msgid "Autoplay"
+msgstr "自動播放"
+
+#: build/block-library/index.js:14
+msgid "Playback Controls"
+msgstr "播放控制項"
+
+#: build/components/index.js:19
+msgid "Close dialog"
+msgstr "關閉對話方塊"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "很抱歉，基於安全性考量，系統不接受這個檔案類型。"
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "停用使用提示"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "完全瞭解"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "檢視下一個使用提示"
+
+#: build/editor/index.js:17
+msgid "Finished writing? That’s great, let’s get this published right now. Just click “Publish” and you’re good to go."
+msgstr "內容撰寫完成了嗎？相當不錯，這代表內容可以立即發佈。只要點擊 [發佈] 便能完成內容發佈。"
+
+#: build/editor/index.js:17
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "內容撰寫完成後，請將該篇內容送交審閱，任何一位具有 [編輯] 權限的使用者都能為你的內容進行核准。"
+
+#: build/editor/index.js:17
+msgid "Are you ready to submit for review?"
+msgstr "確定要將這篇內容送交審閱？"
+
+#: build/editor/index.js:17
+msgid "Click “Preview” to load a preview of this page, so you can make sure you’re happy with your blocks."
+msgstr "點擊 [預覽] 便可載入這個頁面的預覽結果，內容作者可透過預覽結果確認使用的區塊是否合宜。"
+
+#: build/block-library/index.js:14
+msgid "Replace image"
+msgstr "取代圖片"
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "上傳 %s 至媒體庫時發生錯誤。"
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "這個檔案超過這個網站的檔案上傳大小限制。"
+
+#: build/editor/index.js:17
+msgid "View the autosave"
+msgstr "檢視自動儲存"
+
+#: build/editor/index.js:17
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "這篇內容的自動儲存版本比目前編輯區的內容更新。"
+
+#: build/editor/index.js:17
+msgid "Autosaving"
+msgstr "正在自動儲存"
+
+#: build/block-library/index.js:14
+msgid "Enter URL here…"
+msgstr "在這裡輸入網址..."
+
+#: build/edit-post/index.js:12
+msgid "Pin to toolbar"
+msgstr "釘選至工具列"
+
+#: build/edit-post/index.js:12
+msgid "Unpin from toolbar"
+msgstr "從工具列取消釘選"
+
+#: build/block-library/index.js:14
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "插入表格是分享圖表及資料的絕佳方式。"
+
+#: build/block-library/index.js:14
+msgid "Fixed width table cells"
+msgstr "固定寬度的表格儲存格"
+
+#: build/block-library/index.js:14
+msgid "Table Settings"
+msgstr "表格設定"
+
+#: build/block-library/index.js:14
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "可輸入完全保持空格及定位點不變的文字內容，但亦可套用若干樣式。"
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent posts."
+msgstr "顯示網站上近期文章的清單。"
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "加入可從 Twitter、Instagram 或 YouTube 等網站擷取並顯示內容的區塊。"
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "新增可顯示多欄內容的區塊，並在個別區塊中的欄位加入各式內容。"
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "載入 [%s] 區塊時發生錯誤"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "未知的錯誤"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "嵌入內容處理常式"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "Remove %s"
+msgstr "移除 [%s]"
+
+#: build/editor/index.js:17
+msgid "Copy the permalink"
+msgstr "複製永久連結"
+
+#: build/editor/index.js:17
+msgid "Permalink copied"
+msgstr "永久連結已複製"
+
+#: build/block-library/index.js:14
+msgid "Height in pixels"
+msgstr "高度 (以像素 px 為單位)"
+
+#: build/block-library/index.js:14
+msgid "Spacer Settings"
+msgstr "空白間隔設定"
+
+#: build/block-library/index.js:14
+msgid "Spacer"
+msgstr "空白間隔"
+
+#: build/block-library/index.js:14
+msgid "Toggle to show a large initial letter."
+msgstr "切換以設定是否顯示首字大寫。"
+
+#: build/block-library/index.js:14
+msgid "Showing large initial letter."
+msgstr "目前設定為顯示首字大寫。"
+
+#: build/block-library/index.js:14
+msgid "Name:"
+msgstr "區塊名稱:"
+
+#: build/components/index.js:19
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (第 %2$s 個，總計 %3$s 個 )"
+
+#: build/components/index.js:19
+msgid "Remove item"
+msgstr "移除項目"
+
+#: build/components/index.js:19
+msgid "Color code: %s"
+msgstr "色彩代碼: %s"
+
+#: build/block-editor/index.js:55
+msgid "Skip to the selected block"
+msgstr "前往所選區塊"
+
+#: build/editor/index.js:17
+msgid "Publish…"
+msgstr "發佈..."
+
+#: build/editor/index.js:17
+msgid "Schedule…"
+msgstr "排程..."
+
+#: build/editor/index.js:17
+msgid "Edit post permalink"
+msgstr "編輯內容永久連結"
+
+#: build/edit-post/index.js:12
+msgid "Show Block Settings"
+msgstr "顯示區塊設定"
+
+#: build/edit-post/index.js:12
+msgid "Hide Block Settings"
+msgstr "隱藏區塊設定"
+
+#: build/edit-post/index.js:12
+msgid "Block settings closed"
+msgstr "區塊設定已關閉"
+
+#: build/edit-post/index.js:12
+msgid "Close plugin"
+msgstr "關閉外掛"
+
+#: build/edit-post/index.js:12
+msgid "Editor settings"
+msgstr "編輯器設定"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Link Settings"
+msgstr "連結設定"
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "取消連結"
+
+#: build/block-library/index.js:14
+msgid "Page break"
+msgstr "分頁符號"
+
+#: build/block-library/index.js:14
+msgid "pagination"
+msgstr "分頁"
+
+#: build/block-library/index.js:14
+msgid "next page"
+msgstr "下一頁"
+
+#: build/block-library/index.js:14
+msgid "Image Size"
+msgstr "圖片尺寸"
+
+#: build/block-library/index.js:14
+msgid "Height"
+msgstr "高度"
+
+#: build/format-library/index.js:1 build/block-library/index.js:14
+msgid "Width"
+msgstr "寬度"
+
+#: build/block-library/index.js:14
+msgid "Image Dimensions"
+msgstr "圖片尺寸"
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are not cropped."
+msgstr "縮圖不進行裁剪。"
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are cropped to align."
+msgstr "縮圖會進行裁剪以便對齊。"
+
+#: build/block-editor/index.js:55
+msgid "Media Library"
+msgstr "媒體庫"
+
+#: build/block-editor/index.js:55
+msgid "Advanced"
+msgstr "進階設定"
+
+#: build/components/index.js:19
+msgid "Add item"
+msgstr "新增項目"
+
+#: build/editor/index.js:17
+msgid "Reset the template"
+msgstr "重設範本"
+
+#: build/editor/index.js:17
+msgid "Keep it as is"
+msgstr "保留原樣"
+
+#: build/editor/index.js:17
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "這篇內容與指派給這個內容類型的範本不相符。"
+
+#: build/editor/index.js:17
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "重設範本有可能會導致內容遺失，要繼續進行操作嗎？"
+
+#: build/editor/index.js:17
+msgid "Document Statistics"
+msgstr "內容統計資料"
+
+#: build/editor/index.js:17
+msgid "is now scheduled. It will go live on"
+msgstr "的內容已排程發佈，上線時間為"
+
+#: build/editor/index.js:17
+msgid "Scheduled"
+msgstr "已排程"
+
+#: build/editor/index.js:17
+msgid "Scheduling…"
+msgstr "正在排程..."
+
+#: build/edit-post/index.js:12
+msgid "Code editor selected"
+msgstr "程式碼編輯器已選取"
+
+#: build/edit-post/index.js:12
+msgid "Visual editor selected"
+msgstr "視覺化編輯器已選取"
+
+#: build/edit-post/index.js:12
+msgid "Plugins"
+msgstr "外掛"
+
+#: build/components/index.js:19
+msgid "Custom Size"
+msgstr "自訂大小"
+
+#: build/blocks/index.js:2
+msgid "Layout Elements"
+msgstr "版面配置元素"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s removed"
+msgstr "[%s] 已移除"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s added"
+msgstr "[%s] 已新增"
+
+#: build/editor/index.js:17
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "預覽"
+
+#: build/editor/index.js:17
+msgid "Block deleted."
+msgstr "區塊已刪除。"
+
+#: build/editor/index.js:17
+msgid "Block updated."
+msgstr "區塊已更新。"
+
+#: build/editor/index.js:17
+msgid "Block created."
+msgstr "區塊已建立。"
+
+#: build/editor/index.js:17
+msgid "Trashing failed"
+msgstr "移至回收桶發生錯誤"
+
+#: build/editor/index.js:17
+msgid "Updating failed."
+msgstr "更新時發生錯誤。"
+
+#: build/editor/index.js:17
+msgid "Scheduling failed."
+msgstr "排程時發生錯誤。"
+
+#: build/editor/index.js:17
+msgid "Publishing failed."
+msgstr "發佈時發生錯誤。"
+
+#: build/edit-post/index.js:12
+msgid "View Post"
+msgstr "檢視文章"
+
+#: build/editor/index.js:17
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "尚未儲存變更。如果繼續進行，將會失去全部變更。"
+
+#: build/editor/index.js:17
+msgid "Document Outline"
+msgstr "內容大綱"
+
+#: build/editor/index.js:17
+msgid "Paragraphs"
+msgstr "段落"
+
+#: build/editor/index.js:17
+msgid "Headings"
+msgstr "標題"
+
+#: build/editor/index.js:17
+msgid "Words"
+msgstr "字數"
+
+#: build/editor/index.js:17
+msgid "Content structure"
+msgstr "內容結構"
+
+#: build/editor/index.js:17
+msgid "Public"
+msgstr "公開"
+
+#: build/editor/index.js:17
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "透過作者輸入的密碼保護文章內容。僅有知悉密碼的人才能檢視這篇內容。"
+
+#: build/editor/index.js:17
+msgid "Password Protected"
+msgstr "密碼保護"
+
+#: build/editor/index.js:17
+msgid "Only visible to site admins and editors."
+msgstr "僅網站管理員及編輯可檢視。"
+
+#: build/editor/index.js:17
+msgid "Private"
+msgstr "私密"
+
+#: build/editor/index.js:17
+msgid "Visible to everyone."
+msgstr "全部網站訪客均可檢視。"
+
+#: build/editor/index.js:17
+msgid "Post Visibility"
+msgstr "內容可見度"
+
+#: build/editor/index.js:17
+msgid "Would you like to privately publish this post now?"
+msgstr "確定要將這篇內容發佈為私密內容？"
+
+#: build/editor/index.js:17
+msgid "Use a secure password"
+msgstr "使用安全的密碼"
+
+#: build/editor/index.js:17
+msgid "Create password"
+msgstr "建立密碼"
+
+#: build/editor/index.js:17
+msgid "Move to Trash"
+msgstr "移至回收桶"
+
+#: build/editor/index.js:17
+msgid "Parent Term"
+msgstr "上層項目"
+
+#: build/editor/index.js:17
+msgid "Parent Category"
+msgstr "上層分類"
+
+#: build/editor/index.js:17
+msgid "Add new term"
+msgstr "新增類別"
+
+#: build/editor/index.js:17
+msgid "Add new category"
+msgstr "新增分類"
+
+#: build/editor/index.js:17
+msgid "Term"
+msgstr "字詞"
+
+#: build/editor/index.js:17
+msgid "Tag"
+msgstr "標籤"
+
+#: build/editor/index.js:17
+msgid "Add New Term"
+msgstr "新增字詞"
+
+#: build/editor/index.js:17
+msgid "Add New Tag"
+msgstr "新增標籤"
+
+#: build/editor/index.js:17
+msgid "Switch to Draft"
+msgstr "重設為草稿"
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unpublish this post?"
+msgstr "確定要取消這篇內容的發佈狀態？"
+
+#: build/editor/index.js:17
+msgid "Immediately"
+msgstr "立即排程"
+
+#: build/editor/index.js:17
+msgid "Save Draft"
+msgstr "儲存草稿"
+
+#: build/editor/index.js:17
+msgid "Saving"
+msgstr "正在儲存"
+
+#: build/editor/index.js:17
+msgid "Publish:"
+msgstr "發佈時間:"
+
+#: build/editor/index.js:17
+msgid "Visibility:"
+msgstr "可見度:"
+
+#: build/editor/index.js:17
+msgid "Are you ready to publish?"
+msgstr "確定要將這篇內容進行發佈？"
+
+#: build/editor/index.js:17
+msgid "Copy Link"
+msgstr "複製連結"
+
+#: build/editor/index.js:17
+msgid "What’s next?"
+msgstr "下一步操作"
+
+#: build/editor/index.js:17
+msgid "is now live."
+msgstr "的內容已上線。"
+
+#: build/editor/index.js:17
+msgid "Published"
+msgstr "已發佈"
+
+#: build/editor/index.js:17
+msgid "Schedule"
+msgstr "排程"
+
+#: build/edit-widgets/index.js:1 build/editor/index.js:17
+msgid "Update"
+msgstr "更新"
+
+#: build/editor/index.js:17
+msgid "Submit for Review"
+msgstr "送交審閱"
+
+#: build/editor/index.js:17
+msgid "Updating…"
+msgstr "正在更新..."
+
+#: build/editor/index.js:17
+msgid "Publishing…"
+msgstr "正在發佈..."
+
+#: build/editor/index.js:17
+msgid "Allow Pingbacks & Trackbacks"
+msgstr "開放自動引用通知及引用通知"
+
+#: build/editor/index.js:17
+msgid "Permalink:"
+msgstr "永久連結:"
+
+#: build/editor/index.js:17
+msgid "Pending Review"
+msgstr "送交審閱"
+
+#: build/editor/index.js:17
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d 份內容修訂"
+
+#: build/editor/index.js:17
+msgid "Suggestion:"
+msgstr "建議樣式:"
+
+#: build/editor/index.js:17
+msgid "Post Format"
+msgstr "文章格式"
+
+#: build/editor/index.js:17
+msgid "Chat"
+msgstr "聊天記錄"
+
+#: build/editor/index.js:17
+msgid "Status"
+msgstr "近況更新"
+
+#: build/editor/index.js:17
+msgid "Standard"
+msgstr "標準"
+
+#: build/editor/index.js:17
+msgid "Aside"
+msgstr "記事"
+
+#: build/editor/index.js:17
+msgid "Set Featured Image"
+msgstr "設定精選圖片"
+
+#: build/editor/index.js:17
+msgid "Learn more about manual excerpts"
+msgstr "進一步瞭解手動輸入內容摘要"
+
+#: build/editor/index.js:17
+msgid "Write an excerpt (optional)"
+msgstr "撰寫內容摘要 (選用)"
+
+#: build/editor/index.js:17
+msgid "Allow Comments"
+msgstr "開放留言"
+
+#: build/editor/index.js:17
+msgid "Template:"
+msgstr "範本:"
+
+#: build/editor/index.js:17
+msgid "no parent"
+msgstr "無上層項目"
+
+#: build/editor/index.js:17
+msgid "no title"
+msgstr "無標題"
+
+#: build/editor/index.js:17
+msgid "Order"
+msgstr "順序"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "No blocks found."
+msgstr "找不到符合條件的區塊。"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "找到 %d 項搜尋結果。"
+
+#: build/editor/index.js:17
+msgid "Saved"
+msgstr "已儲存"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "嵌入內容"
+
+#: build/editor/index.js:17
+msgid "Blocks"
+msgstr "區塊"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Search for a block"
+msgstr "搜尋區塊"
+
+#: build/block-editor/index.js:55
+msgid "Add block"
+msgstr "新增區塊"
+
+#: build/block-editor/index.js:55
+msgid "Add %s"
+msgstr "新增 [%s] 區塊"
+
+#: build/editor/index.js:17
+msgid "Copy Error"
+msgstr "複製錯誤訊息"
+
+#: build/editor/index.js:17
+msgid "Copy Post Text"
+msgstr "複製文章內容"
+
+#: build/editor/index.js:17
+msgid "Attempt Recovery"
+msgstr "嘗試復原"
+
+#: build/editor/index.js:17
+msgid "The editor has encountered an unexpected error."
+msgstr "編輯器發生未知的錯誤。"
+
+#: build/editor/index.js:17
+msgid "Undo"
+msgstr "復原"
+
+#: build/editor/index.js:17
+msgid "Redo"
+msgstr "重做"
+
+#: build/editor/index.js:17
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(不建議在同一篇內容中有多個 H1 標題)"
+
+#: build/editor/index.js:17
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(目前使用的佈景主題已使用 H1 作為文章標題)"
+
+#: build/editor/index.js:17
+msgid "(Incorrect heading level)"
+msgstr "(不正確的標題階層)"
+
+#: build/editor/index.js:17
+msgid "(Empty heading)"
+msgstr "(無標題)"
+
+#: build/block-editor/index.js:55
+msgid "Block Styles"
+msgstr "區塊樣式"
+
+#: build/editor/index.js:17
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"確定要刪除這個可重複使用區塊嗎？\n"
+"\n"
+"這項操作會在全部使用到這個可重複使用區塊的文章或頁面中，將它永久移除。"
+
+#: build/editor/index.js:17
+msgid "Convert to Regular Block"
+msgstr "轉換成一般區塊"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "More options"
+msgstr "更多設定"
+
+#: build/block-editor/index.js:55
+msgid "Edit visually"
+msgstr "視覺化編輯"
+
+#: build/block-editor/index.js:55
+msgid "Duplicate"
+msgstr "再製"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "由於已在內容尾端，區塊無法繼續下移"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "由於已在內容頂端，區塊無法繼續上移"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the beginning of the content and can’t be moved up"
+msgstr "[%s] 區塊位於內容頂端，無法上移"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the end of the content and can’t be moved down"
+msgstr "[%s] 區塊位於內容尾端，無法下移"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "[%s] 區塊是目前內容中唯一的區塊，無法進行移動"
+
+#: build/block-editor/index.js:55
+msgid "Move down"
+msgstr "下移"
+
+#: build/block-editor/index.js:55
+msgid "Move up"
+msgstr "上移"
+
+#: build/block-editor/index.js:55
+msgid "Edit as HTML"
+msgstr "編輯 HTML 程式碼"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Blocks"
+msgstr "轉換成區塊"
+
+#: build/block-editor/index.js:55
+msgid "Block: %s"
+msgstr "區塊: %s"
+
+#: build/block-editor/index.js:55
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "這個區塊發生錯誤，導致無法進行預覽。"
+
+#: build/block-editor/index.js:55
+msgid "No block selected."
+msgstr "未選取任何區塊。"
+
+#: build/edit-post/index.js:12
+msgid "Transform into:"
+msgstr "轉換成其他類型區塊:"
+
+#: build/edit-post/index.js:12
+msgid "Remove"
+msgstr "移除"
+
+#: build/edit-post/index.js:12
+msgid "Find original"
+msgstr "尋找原始內容"
+
+#: build/edit-post/index.js:12
+msgid "Copy All Content"
+msgstr "複製全部內容"
+
+#: build/edit-post/index.js:12 build/editor/index.js:17
+#: build/block-library/index.js:14
+msgid "Copied!"
+msgstr "已完成複製！"
+
+#: build/edit-post/index.js:12
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "在編輯器區塊設定資訊欄提供了其他設定"
+
+#: build/edit-post/index.js:12
+msgid "Visibility"
+msgstr "可見度"
+
+#: build/edit-post/index.js:12
+msgid "Status & Visibility"
+msgstr "狀態及可見度"
+
+#: build/edit-post/index.js:12
+msgid "Page Attributes"
+msgstr "頁面屬性"
+
+#: build/edit-post/index.js:12
+msgid "Block"
+msgstr "區塊"
+
+#: build/edit-post/index.js:12
+msgid "Document"
+msgstr "內容"
+
+#: build/edit-post/index.js:12 build/editor/index.js:17
+msgid "Featured Image"
+msgstr "精選圖片"
+
+#: build/edit-post/index.js:12
+msgid "Close settings"
+msgstr "關閉設定"
+
+#: build/edit-post/index.js:12
+msgid "Editor plugins"
+msgstr "編輯器外掛"
+
+#: build/edit-post/index.js:12
+msgid "Editor content"
+msgstr "編輯器內容"
+
+#: build/edit-post/index.js:12
+msgid "Tools"
+msgstr "工具"
+
+#: build/edit-post/index.js:12
+msgid "Editor"
+msgstr "編輯器"
+
+#: build/edit-post/index.js:12
+msgid "Code Editor"
+msgstr "程式碼編輯器"
+
+#: build/edit-post/index.js:12
+msgid "Visual Editor"
+msgstr "視覺化編輯器"
+
+#: build/edit-post/index.js:12
+msgid "Editor top bar"
+msgstr "編輯器頂端列"
+
+#: build/edit-post/index.js:12
+msgid "Settings"
+msgstr "設定"
+
+#: build/components/index.js:19 build/block-library/index.js:14
+msgid "Reset"
+msgstr "重設"
+
+#: build/components/index.js:19
+msgid "Dismiss this notice"
+msgstr "關閉這項通知"
+
+#: build/components/index.js:19
+msgid "Item removed."
+msgstr "項目已移除。"
+
+#: build/components/index.js:19
+msgid "Item added."
+msgstr "項目已新增。"
+
+#: build/components/index.js:19
+msgid "Drop files to upload"
+msgstr "拖曳檔案以上傳"
+
+#: build/components/index.js:19
+msgid "PM"
+msgstr "下午"
+
+#: build/components/index.js:19
+msgid "AM"
+msgstr "上午"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "發生未知的錯誤。"
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "No results."
+msgstr "找不到符合條件的結果。"
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "找到 %d 個結果，請使用上下方向鍵進行巡覽。"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/edit-post/index.js:12 build/editor/index.js:17
+msgid "(no title)"
+msgstr "(無標題)"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "URL"
+msgstr "網址"
+
+#: build/block-editor/index.js:55
+msgid "Submit"
+msgstr "傳送"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+#: build/components/index.js:19
+msgid "Close"
+msgstr "關閉"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Insert Link"
+msgstr "插入連結"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Edit Link"
+msgstr "編輯連結"
+
+#: build/editor/index.js:17 build/format-library/index.js:1
+#: build/block-library/index.js:14
+msgid "Link"
+msgstr "連結"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "刪除線"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "斜體"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "粗體"
+
+#: build/block-library/index.js:14
+msgid "Remove Link"
+msgstr "移除連結"
+
+#: build/components/index.js:19 build/block-library/index.js:14
+msgid "Number of items"
+msgstr "項目數量"
+
+#: build/components/index.js:19
+msgid "All"
+msgstr "全部分類"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "Category"
+msgstr "分類"
+
+#: build/components/index.js:19
+msgid "Z → A"
+msgstr "標題降冪排序"
+
+#: build/components/index.js:19
+msgid "A → Z"
+msgstr "標題升冪排序"
+
+#: build/components/index.js:19
+msgid "Oldest to Newest"
+msgstr "從最舊到最新排序"
+
+#: build/components/index.js:19
+msgid "Newest to Oldest"
+msgstr "從最新到最舊排序"
+
+#: build/components/index.js:19
+msgid "Order by"
+msgstr "排序方式"
+
+#: build/media-utils/index.js:1
+msgid "Select"
+msgstr "選取"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "選取或上傳媒體檔案"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Video"
+msgstr "視訊"
+
+#: build/block-library/index.js:14
+msgid "Edit video"
+msgstr "編輯視訊"
+
+#: build/block-library/index.js:14
+msgid "Write…"
+msgstr "撰寫..."
+
+#: build/block-library/index.js:14
+msgid "poetry"
+msgstr "詩句"
+
+#: build/block-library/index.js:14
+msgid "Verse"
+msgstr "詩句"
+
+#: build/block-library/index.js:14
+msgid "New Column"
+msgstr "新增文字欄"
+
+#: build/block-library/index.js:14
+msgid "Delete Column"
+msgstr "刪除資料行"
+
+#: build/block-library/index.js:14
+msgid "Add Column After"
+msgstr "在目前位置後方插入資料行"
+
+#: build/block-library/index.js:14
+msgid "Add Column Before"
+msgstr "在目前位置前方插入資料行"
+
+#: build/block-library/index.js:14
+msgid "Delete Row"
+msgstr "刪除資料列"
+
+#: build/block-library/index.js:14
+msgid "Add Row After"
+msgstr "在目前位置下方插入資料列"
+
+#: build/block-library/index.js:14
+msgid "Add Row Before"
+msgstr "在目前位置上方插入資料列"
+
+#: build/block-library/index.js:14
+msgid "Edit table"
+msgstr "編輯表格"
+
+#: build/block-library/index.js:14
+msgid "Table"
+msgstr "表格"
+
+#: build/block-library/index.js:14
+msgid "Write subheading…"
+msgstr "撰寫子標題..."
+
+#: build/block-library/index.js:14
+msgid "Write shortcode here…"
+msgstr "在這裡輸入短代碼..."
+
+#: build/block-library/index.js:14
+msgid "Shortcode"
+msgstr "短代碼"
+
+#: build/block-library/index.js:14
+msgid "divider"
+msgstr "分隔線"
+
+#: build/block-library/index.js:14
+msgid "horizontal-line"
+msgstr "水平線"
+
+#: build/block-library/index.js:14
+msgid "Separator"
+msgstr "分隔符號"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Quote"
+msgstr "引文"
+
+#: build/block-library/index.js:14
+msgid "Write citation…"
+msgstr "撰寫引文..."
+
+#: build/block-library/index.js:14
+msgid "Write quote…"
+msgstr "撰寫重要引述..."
+
+#: build/block-library/index.js:14
+msgid "Pullquote"
+msgstr "重要引述"
+
+#: build/block-library/index.js:14
+msgid "Write preformatted text…"
+msgstr "撰寫未格式化文字..."
+
+#: build/block-library/index.js:14
+msgid "Preformatted"
+msgstr "未格式化文字"
+
+#: build/block-library/index.js:14
+msgid "text"
+msgstr "文字"
+
+#: build/block-library/index.js:14
+msgid "Paragraph"
+msgstr "段落"
+
+#: build/components/index.js:19
+msgid "Font Size"
+msgstr "字型大小"
+
+#: build/block-library/index.js:14
+msgid "Drop Cap"
+msgstr "首字放大"
+
+#: build/block-library/index.js:14
+msgid "Text Settings"
+msgstr "文字設定"
+
+#: build/block-library/index.js:14
+msgid "Read more"
+msgstr "閱讀全文"
+
+#: build/block-library/index.js:14
+msgid "Write list…"
+msgstr "撰寫清單..."
+
+#: build/block-library/index.js:14
+msgid "numbered list"
+msgstr "編號清單"
+
+#: build/block-library/index.js:14
+msgid "ordered list"
+msgstr "排序清單"
+
+#: build/block-library/index.js:14
+msgid "bullet list"
+msgstr "項目符號清單"
+
+#: build/block-editor/index.js:55
+msgid "Indent list item"
+msgstr "增加縮排清單項目"
+
+#: build/block-editor/index.js:55
+msgid "Outdent list item"
+msgstr "減少縮排清單項目"
+
+#: build/block-editor/index.js:55
+msgid "Convert to ordered list"
+msgstr "轉換成排序清單"
+
+#: build/block-editor/index.js:55
+msgid "Convert to unordered list"
+msgstr "轉換成不排序清單"
+
+#: build/block-library/index.js:14
+msgid "List"
+msgstr "清單"
+
+#: build/block-library/index.js:14
+msgid "recent posts"
+msgstr "近期文章"
+
+#: build/block-library/index.js:14
+msgid "No posts found."
+msgstr "找不到符合條件的內容。"
+
+#: build/block-library/index.js:14
+msgid "Latest Posts"
+msgstr "最新文章"
+
+#: build/block-library/index.js:14
+msgid "Display post date"
+msgstr "顯示內容發佈日期"
+
+#: build/block-library/index.js:14
+msgid "Grid View"
+msgstr "格狀檢視"
+
+#: build/block-library/index.js:14
+msgid "List View"
+msgstr "清單檢視"
+
+#: build/format-library/index.js:1 build/block-library/index.js:14
+msgid "photo"
+msgstr "相片"
+
+#: build/block-library/index.js:14
+msgid "Image Settings"
+msgstr "圖片設定"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Image"
+msgstr "圖片"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Preview"
+msgstr "預覽"
+
+#: build/block-library/index.js:14
+msgid "embed"
+msgstr "嵌入"
+
+#: build/block-library/index.js:14
+msgid "Custom HTML"
+msgstr "自訂 HTML"
+
+#: build/block-library/index.js:14
+msgid "subtitle"
+msgstr "子標題"
+
+#: build/block-library/index.js:14
+msgid "title"
+msgstr "標題"
+
+#: build/block-library/index.js:14
+msgid "Heading"
+msgstr "標題"
+
+#: build/block-library/index.js:14
+msgid "Write heading…"
+msgstr "撰寫標題..."
+
+#: build/block-library/index.js:14
+msgid "Heading %d"
+msgstr "標題 %d"
+
+#: build/block-library/index.js:14
+msgid "Level"
+msgstr "標題階層"
+
+#: build/block-library/index.js:14
+msgid "Heading Settings"
+msgstr "標題設定"
+
+#: build/block-library/index.js:14
+msgid "photos"
+msgstr "相片"
+
+#: build/block-library/index.js:14
+msgid "images"
+msgstr "圖片"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Remove Image"
+msgstr "移除圖片"
+
+#: build/block-library/index.js:14
+msgid "None"
+msgstr "不進行連結"
+
+#: build/block-library/index.js:14
+msgid "Media File"
+msgstr "媒體檔案"
+
+#: build/block-library/index.js:14
+msgid "Attachment Page"
+msgstr "附件頁面"
+
+#: build/block-library/index.js:14
+msgid "Crop Images"
+msgstr "裁剪圖片"
+
+#: build/block-library/index.js:14
+msgid "Gallery Settings"
+msgstr "圖庫設定"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Gallery"
+msgstr "圖庫"
+
+#: build/block-library/index.js:14
+msgid "Edit gallery"
+msgstr "編輯圖庫"
+
+#: build/block-library/index.js:14
+msgid "Classic"
+msgstr "傳統編輯器"
+
+#: build/block-library/index.js:14
+msgid "video"
+msgstr "視訊"
+
+#: build/block-library/index.js:14
+msgid "audio"
+msgstr "音訊"
+
+#: build/block-library/index.js:14
+msgid "music"
+msgstr "音樂"
+
+#: build/block-library/index.js:14
+msgid "image"
+msgstr "圖片"
+
+#: build/block-library/index.js:14
+msgid "blog"
+msgstr "部落格"
+
+#: build/block-library/index.js:14
+msgid "post"
+msgstr "文章"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s"
+msgstr "來自 %s 的嵌入內容"
+
+#: build/block-library/index.js:14
+msgid "Enter URL to embed here…"
+msgstr "在這裡輸入網址以嵌入內容..."
+
+#: build/block-library/index.js:14
+msgid "%s URL"
+msgstr "%s 網址"
+
+#: build/block-library/index.js:14
+msgid "Embedding…"
+msgstr "正在嵌入內容..."
+
+#: build/block-library/index.js:14
+msgid "Write title…"
+msgstr "撰寫標題..."
+
+#: build/block-library/index.js:14
+msgid "Text Alignment"
+msgstr "文字對齊方式"
+
+#: build/block-library/index.js:14
+msgid "Fixed Background"
+msgstr "背景固定位置"
+
+#: build/block-library/index.js:14
+msgid "Edit image"
+msgstr "編輯圖片"
+
+#: build/block-library/index.js:14
+msgid "Columns"
+msgstr "內容欄"
+
+#: build/block-library/index.js:14
+msgid "Code"
+msgstr "程式碼"
+
+#: build/block-library/index.js:14
+msgid "Write code…"
+msgstr "撰寫程式碼..."
+
+#: build/block-library/index.js:14
+msgid "Categories"
+msgstr "分類"
+
+#: build/block-library/index.js:14
+msgid "Show Hierarchy"
+msgstr "顯示分類階層"
+
+#: build/block-library/index.js:14
+msgid "Show post counts"
+msgstr "顯示文章數量"
+
+#: build/block-library/index.js:14
+msgid "Categories Settings"
+msgstr "分類設定"
+
+#: build/block-library/index.js:14
+msgid "Add text…"
+msgstr "加入文字..."
+
+#: build/block-library/index.js:14
+msgid "Button"
+msgstr "按鈕"
+
+#: build/block-editor/index.js:55 build/format-library/index.js:1
+msgid "Apply"
+msgstr "套用"
+
+#: build/block-library/index.js:14
+msgid "Text Color"
+msgstr "文字色彩"
+
+#: build/block-library/index.js:14
+msgid "Background Color"
+msgstr "背景色彩"
+
+#: build/block-library/index.js:14
+msgid "Block has been deleted or is unavailable."
+msgstr "區塊已刪除或無法使用。"
+
+#: build/blocks/index.js:2
+msgid "Reusable Blocks"
+msgstr "可重複使用區塊"
+
+#: build/block-editor/index.js:55
+msgid "Cancel"
+msgstr "取消"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Edit"
+msgstr "編輯"
+
+#: build/block-library/index.js:14
+msgid "Edit audio"
+msgstr "編輯音訊"
+
+#: build/block-library/index.js:14
+msgid "Write caption…"
+msgstr "撰寫說明..."
+
+#: build/block-library/index.js:14
+msgid "Use URL"
+msgstr "插入網址"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Audio"
+msgstr "音訊"
+
+#: build/block-editor/index.js:55
+msgid "Upload"
+msgstr "上傳"
+
+#: build/block-editor/index.js:55
+msgid "Additional CSS Class(es)"
+msgstr "附加的 CSS 類別"
+
+#: build/block-editor/index.js:55
+msgid "HTML Anchor"
+msgstr "HTML 錨點"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "這種色彩組合會使讀者難以閱讀，請改用較亮的背景色彩搭配較暗的文字色彩。"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "這種色彩組合會使讀者難以閱讀，請改用較暗的背景色彩搭配較亮的文字色彩。"
+
+#: build/components/index.js:19
+msgid "Clear"
+msgstr "清除"
+
+#: build/components/index.js:19
+msgid "Custom color picker"
+msgstr "自訂色彩選擇器"
+
+#: build/components/index.js:19
+msgid "Color: %s"
+msgstr "色彩: %s"
+
+#: build/block-editor/index.js:55
+msgid "Full Width"
+msgstr "全幅寬度"
+
+#: build/block-editor/index.js:55
+msgid "Wide Width"
+msgstr "寬幅寬度"
+
+#: build/blocks/index.js:2
+msgid "Widgets"
+msgstr "小工具"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "格式設定"
+
+#: build/blocks/index.js:2
+msgid "Common Blocks"
+msgstr "一般區塊"
+
+#: build/block-editor/index.js:55
+msgid "Align Right"
+msgstr "靠右對齊"
+
+#: build/block-editor/index.js:55
+msgid "Align Center"
+msgstr "置中對齊"
+
+#: build/block-editor/index.js:55
+msgid "Align Left"
+msgstr "靠左對齊"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "西方活字印刷術源於 15 世紀，由 Gutenberg 所發明；為紀念這項偉大貢獻，便將為 WordPress 核心程式開發的區塊編輯器命名為 Gutenberg。"
+
+#: build/editor/index.js:17
+msgid "Add title"
+msgstr "新增標題"
+
+#: gutenberg.php:93
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "Gutenberg 開發模式需要特定檔案才能建置。執行 <code>npm install</code> 以安裝相依性元件、執行 <code>npm run build</code> 以建置檔案，或執行 <code>npm run dev</code> 以建置檔案並檢視變更。如需詳細資訊，請參閱〈<a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\" target=\"_blank\">Getting Started</a>〉這份文件。"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg 團隊"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: build/editor/index.js:17
+msgid "Author"
+msgstr "作者"
+
+#: build/edit-post/index.js:12
+msgid "Discussion"
+msgstr "討論"
+
+#: build/edit-post/index.js:12
+msgid "Custom Fields"
+msgstr "自訂欄位"
+
+#: build/edit-post/index.js:12
+msgid "Excerpt"
+msgstr "內容摘要"
+
+#: build/edit-post/index.js:12 build/editor/index.js:17
+msgid "Publish"
+msgstr "發佈"
+
+#: build/block-library/index.js:14
+msgid "Metadata"
+msgstr "中繼資料"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Save"
+msgstr "儲存"
+
+#: lib/class-wp-block-styles-registry.php:50
+msgid "Block style name must be a string."
+msgstr "區塊樣式名稱必須是字串。"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:80
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg 需要 WordPress %s 或更新版本才能正確執行。請在啟用 Gutenberg 前先為 WordPress 進行升級。"
+
+#: gutenberg.php:64
+msgid "Documentation"
+msgstr "線上說明"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "示範內容"
+
+#: build/block-library/blocks/latest-posts.php:37
+#: build/block-library/blocks/rss.php:35 build/block-library/index.js:14
+msgid "(Untitled)"
+msgstr "(未命名)"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "選取分類"

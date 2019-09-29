@@ -1,0 +1,607 @@
+# Translation of Plugins - Full Site Editing - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Full Site Editing - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-16 10:26:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Full Site Editing - Stable (latest release)\n"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/useSiteOptions.js:54
+msgid "Error loading site %s"
+msgstr "Error al cargar el sitio %s"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/useSiteOptions.js:51
+msgid "Unable to load site %s"
+msgstr "No ha sido posible cargar el sitio %s"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/useSiteOptions.js:85
+msgid "Unable to save site %s"
+msgstr "No ha sido posible guardar el sitio %s"
+
+#: full-site-editing/page-fse.php:21
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/site-title/index.js:15
+msgid "Your site title."
+msgstr "Título de tu sitio."
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/site-title/index.js:14
+#: full-site-editing/blocks/site-title/edit.js:45
+#: full-site-editing/blocks/site-title/edit.js:46
+msgid "Site Title"
+msgstr "Título del sitio"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/site-title/edit.js:27
+msgid "Site title loading…"
+msgstr "Título del sitio cargándose…"
+
+#: full-site-editing/dist/full-site-editing.js:12
+msgid "Update"
+msgstr "Actualizar"
+
+#: full-site-editing/plugins/template-update-confirmation/panel.js:34
+#: full-site-editing/dist/full-site-editing.js:12
+msgid "Changes you publish will update all pages with this template part."
+msgstr "Los cambios que publiques actualizarán todas las páginas con esta parte de la plantilla."
+
+#: full-site-editing/plugins/template-update-confirmation/panel.js:32
+#: full-site-editing/dist/full-site-editing.js:12
+msgid "Are you ready to publish?"
+msgstr "¿Estás listo para publicar?"
+
+#: full-site-editing/plugins/template-update-confirmation/panel.js:27
+#: full-site-editing/dist/full-site-editing.js:12
+msgid "Close panel"
+msgstr "Cerrar panel"
+
+#: full-site-editing/plugins/template-update-confirmation/panel.js:18
+#: full-site-editing/dist/full-site-editing.js:12
+msgid "Publish"
+msgstr "Publicar"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/site-logo/index.js:18
+msgid "site"
+msgstr "sitio"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/site-logo/index.js:18
+msgid "icon"
+msgstr "icono"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/site-logo/index.js:18
+msgid "logo"
+msgstr "logo"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/site-logo/edit.js:27
+msgid "Edit Site Logo"
+msgstr "Editar logo del sitio"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/template/edit.js:118
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/template/edit.js:113
+msgid "This block is part of your site template and may appear on multiple pages."
+msgstr "Este bloque es parte de la plantilla de tu sitio y puede aparecer en varias páginas."
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/site-description/index.js:15
+msgid "Site description, also known as the tagline."
+msgstr "Descripción del sitio, también conocida como descripción corta."
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/site-description/index.js:14
+#: full-site-editing/blocks/site-description/edit.js:41
+#: full-site-editing/blocks/site-description/edit.js:42
+msgid "Site Description"
+msgstr "Descripción del sitio"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/site-description/edit.js:22
+msgid "Site description loading…"
+msgstr "Descripción del sitio cargándose…"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/navigation-menu/index.js:22
+msgid "Visual placeholder for site-wide navigation and menus."
+msgstr "Marcador de posición visual para la navegación y menús en todo el sitio."
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/navigation-menu/index.js:21
+msgid "Navigation Menu"
+msgstr "Menú de navegación"
+
+#: starter-page-templates/class-starter-page-templates.php:109
+msgid "No data received from the vertical API. Skipped showing modal window with template selection."
+msgstr "No se han recibido datos de la API vertical. Se ignoró la visualización de la ventana emergente con la selección de la plantilla."
+
+#: starter-page-templates/class-starter-page-templates.php:118
+msgid "No templates available. Skipped showing modal window with template selection."
+msgstr "No hay plantillas disponibles. Se ignoró la visualización de la ventana emergente con la selección de la plantilla."
+
+#: full-site-editing/blocks/site-logo/index.php:50
+msgid "Click on the Edit button to select a Site Logo."
+msgstr "Haz clic en el botón «Editar» para seleccionar un logo del sitio."
+
+#: full-site-editing/blocks/site-logo/index.php:46
+msgid "No Logo Support!"
+msgstr "¡No es compatible con logos!"
+
+#: full-site-editing/blocks/site-logo/index.php:46
+#: full-site-editing/blocks/site-logo/index.php:50
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/site-logo/index.js:14
+#: full-site-editing/blocks/site-logo/index.js:15
+msgid "Site Logo"
+msgstr "Logo del sitio"
+
+#: full-site-editing/class-full-site-editing.php:188
+msgid "Back to template types"
+msgstr "Volver a los tipos de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:187
+msgid "No template types found."
+msgstr "No se han encontrado tipos de plantilla."
+
+#: full-site-editing/class-full-site-editing.php:186
+msgid "Search Template Types"
+msgstr "Buscar tipos de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:185
+msgid "Parent Template Type:"
+msgstr "Tipo de plantilla superior:"
+
+#: full-site-editing/class-full-site-editing.php:184
+msgid "Parent Template Type"
+msgstr "Tipo de plantilla superior"
+
+#: full-site-editing/class-full-site-editing.php:183
+msgid "New Template Type"
+msgstr "Nuevo tipo de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:182
+msgid "Add New Template Type"
+msgstr "Añadir nuevo tipo de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:181
+msgid "Update Template Type"
+msgstr "Actualizar tipo de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:180
+msgid "View Template Type"
+msgstr "Ver tipo de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:179
+msgid "Edit Template Type"
+msgstr "Editar tipo de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:178
+msgid "All Template Types"
+msgstr "Todos los tipos de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:177
+msgctxt "admin menu"
+msgid "Template Types"
+msgstr "Tipos de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:176
+msgctxt "taxonomy singular name"
+msgid "Template Type"
+msgstr "Tipo de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:175
+msgctxt "taxonomy general name"
+msgid "Template Types"
+msgstr "Tipos de plantilla"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/post-content/edit.js:88
+msgid "Edit \"%s\""
+msgstr "Editar \"%s\""
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/post-content/edit.js:79
+msgid "Select something to preview:"
+msgstr "Elige un elemento para obtener una vista previa:"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/post-content/index.js:16
+#: full-site-editing/blocks/post-content/edit.js:76
+msgid "Placeholder for a post or a page."
+msgstr "Marcador de posición de una entrada o página."
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/post-content/edit.js:58
+msgid "Change Preview"
+msgstr "Cambiar vista previa"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/components/post-autocomplete/index.js:92
+msgid "Type to search"
+msgstr "Escribe para buscar"
+
+#: full-site-editing/plugins/template-selector-sidebar/index.js:51
+#: full-site-editing/plugins/template-selector-sidebar/index.js:53
+#: full-site-editing/dist/full-site-editing.js:12
+#: starter-page-templates/dist/starter-page-templates.js:12
+msgid "Template"
+msgstr "Plantilla"
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+msgid "Select Page Template"
+msgstr "Elige una plantilla de página"
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:10
+msgctxt "default vertical name"
+msgid "Business"
+msgstr "Empresa"
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:9
+msgctxt "default company name"
+msgid "Your Company Name"
+msgstr "Nombre de tu empresa"
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:8
+msgctxt "default phone number"
+msgid "555-555-5555"
+msgstr "555-555-5555"
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:7
+msgctxt "default address"
+msgid "123 Main St"
+msgstr "Calle principal, 123"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/template/index.js:17
+msgid "Display a template part."
+msgstr "Muestra una parte de plantilla."
+
+#: full-site-editing/plugins/template-selector-sidebar/index.js:55
+#: full-site-editing/dist/full-site-editing.js:12
+msgid "Select a template"
+msgstr "Elige una plantilla"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/template/index.js:16
+msgid "Template Part"
+msgstr "Parte de plantilla"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/post-content/index.js:15
+#: full-site-editing/blocks/post-content/edit.js:75
+msgid "Content Slot"
+msgstr "Espacio del contenido"
+
+#: full-site-editing/class-full-site-editing.php:228
+msgid "Back to template part types"
+msgstr "Volver a los tipos de parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:227
+msgid "No template part types found."
+msgstr "No se han encontrado tipos de parte de plantilla."
+
+#: full-site-editing/class-full-site-editing.php:226
+msgid "Search Template Part Types"
+msgstr "Buscar tipos de parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:225
+msgid "Parent Template Part Type:"
+msgstr "Tipo de parte de plantilla superior:"
+
+#: full-site-editing/class-full-site-editing.php:224
+msgid "Parent Template Part Type"
+msgstr "Tipo de parte de plantilla superior"
+
+#: full-site-editing/class-full-site-editing.php:223
+msgid "New Template Part Type"
+msgstr "Nuevo tipo de parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:222
+msgid "Add New Template Part Type"
+msgstr "Añadir nuevo tipo de parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:221
+msgid "Update Template Part Type"
+msgstr "Actualizar tipo de parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:220
+msgid "View Template Part Type"
+msgstr "Ver tipo de parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:219
+msgid "Edit Template Part Type"
+msgstr "Editar tipo de parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:218
+msgid "All Template Part Types"
+msgstr "Todos los tipos de parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:217
+msgctxt "admin menu"
+msgid "Template Part Types"
+msgstr "Tipos de parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:216
+msgctxt "taxonomy singular name"
+msgid "Template Part Type"
+msgstr "Tipo de parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:215
+msgctxt "taxonomy general name"
+msgid "Template Part Types"
+msgstr "Tipos de parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:138
+msgid "Template part updated."
+msgstr "Parte de plantilla actualizada."
+
+#: full-site-editing/class-full-site-editing.php:137
+msgid "Template part scheduled."
+msgstr "Parte de plantilla programada."
+
+#: full-site-editing/class-full-site-editing.php:136
+msgid "Template part reverted to draft."
+msgstr "Parte de plantilla guardada como borrador."
+
+#: full-site-editing/class-full-site-editing.php:135
+msgid "Template part published privately."
+msgstr "Parte de plantilla publicada como privada."
+
+#: full-site-editing/class-full-site-editing.php:134
+msgid "Template part published."
+msgstr "Parte de plantilla publicada."
+
+#: full-site-editing/class-full-site-editing.php:133
+msgid "Template parts list"
+msgstr "Lista de partes de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:132
+msgid "Template parts list navigation"
+msgstr "Navegación por la lista de partes de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:131
+msgid "Filter template parts list"
+msgstr "Filtrar lista de partes de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:130
+msgid "No template parts found in Trash."
+msgstr "No se han encontrado partes de plantilla en la papelera."
+
+#: full-site-editing/class-full-site-editing.php:129
+msgid "No template parts found."
+msgstr "No se han encontrado partes de plantilla."
+
+#: full-site-editing/class-full-site-editing.php:128
+msgid "Search Template Parts"
+msgstr "Buscar partes de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:127
+msgid "All Template Parts"
+msgstr "Todas las partes de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:126
+msgid "View Template Part"
+msgstr "Ver parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:125
+msgid "Edit Template Part"
+msgstr "Editar parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:124
+msgid "New Template Part"
+msgstr "Nueva parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:123
+msgid "Add New Template Part"
+msgstr "Añadir nueva parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:122
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "Añadir nueva"
+
+#: full-site-editing/class-full-site-editing.php:121
+msgctxt "add new on admin bar"
+msgid "Template Part"
+msgstr "Parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:120
+msgctxt "admin menu"
+msgid "Template Parts"
+msgstr "Partes de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:119
+msgctxt "post type singular name"
+msgid "Template Part"
+msgstr "Parte de plantilla"
+
+#: full-site-editing/class-full-site-editing.php:63
+msgctxt "post type singular name"
+msgid "Template"
+msgstr "Plantilla"
+
+#: full-site-editing/class-full-site-editing.php:64
+msgctxt "admin menu"
+msgid "Templates"
+msgstr "Plantillas"
+
+#: full-site-editing/class-full-site-editing.php:65
+msgctxt "add new on admin bar"
+msgid "Template"
+msgstr "Plantilla"
+
+#: full-site-editing/class-full-site-editing.php:66
+msgctxt "Template"
+msgid "Add New"
+msgstr "Añadir nueva"
+
+#: full-site-editing/class-full-site-editing.php:67
+msgid "Add New Template"
+msgstr "Añadir nueva plantilla"
+
+#: full-site-editing/class-full-site-editing.php:68
+msgid "New Template"
+msgstr "Nueva plantilla"
+
+#: full-site-editing/class-full-site-editing.php:69
+msgid "Edit Template"
+msgstr "Editar plantilla"
+
+#: full-site-editing/class-full-site-editing.php:70
+msgid "View Template"
+msgstr "Ver plantilla"
+
+#: full-site-editing/class-full-site-editing.php:71
+msgid "All Templates"
+msgstr "Todas las plantillas"
+
+#: full-site-editing/class-full-site-editing.php:72
+msgid "Search Templates"
+msgstr "Buscar plantillas"
+
+#: full-site-editing/class-full-site-editing.php:73
+msgid "No templates found."
+msgstr "No se han encontrado plantillas."
+
+#: full-site-editing/class-full-site-editing.php:74
+msgid "No templates found in Trash."
+msgstr "No se han encontrado plantillas en la papelera."
+
+#: full-site-editing/class-full-site-editing.php:75
+msgid "Filter templates list"
+msgstr "Filtrar lista de plantillas"
+
+#: full-site-editing/class-full-site-editing.php:76
+msgid "Templates list navigation"
+msgstr "Navegación por la lista de plantillas"
+
+#: full-site-editing/class-full-site-editing.php:77
+msgid "Templates list"
+msgstr "Lista de plantillas"
+
+#: full-site-editing/class-full-site-editing.php:78
+msgid "Template published."
+msgstr "Plantilla publicada."
+
+#: full-site-editing/class-full-site-editing.php:79
+msgid "Template published privately."
+msgstr "Plantilla publicada como privada."
+
+#: full-site-editing/class-full-site-editing.php:80
+msgid "Template reverted to draft."
+msgstr "Plantilla guardada como borrador."
+
+#: full-site-editing/class-full-site-editing.php:81
+msgid "Template scheduled."
+msgstr "Plantilla programada."
+
+#: full-site-editing/class-full-site-editing.php:62
+msgctxt "post type general name"
+msgid "Templates"
+msgstr "Plantillas"
+
+#: full-site-editing/class-full-site-editing.php:82
+msgid "Template updated."
+msgstr "Plantilla actualizada."
+
+#: full-site-editing/class-full-site-editing.php:118
+msgctxt "post type general name"
+msgid "Template Parts"
+msgstr "Partes de plantilla"
+
+#: posts-list-block/dist/posts-list-block.js:1
+#: posts-list-block/blocks/posts-list/index.js:53
+msgid "Number of posts"
+msgstr "Número de entradas"
+
+#: posts-list-block/class-posts-list-block.php:144
+msgid "Read more"
+msgstr "Leer más"
+
+#. translators: %s: Name of current post
+#: posts-list-block/class-posts-list-block.php:141
+msgid "Continue reading %s"
+msgstr "Sigue leyendo %s"
+
+#: posts-list-block/templates/post-item.php:36
+msgid "Edit"
+msgstr "Editar"
+
+#: posts-list-block/templates/post-item.php:23
+msgid "Featured"
+msgstr "Destacados"
+
+#: posts-list-block/templates/posts-list.php:30
+msgid "View all posts"
+msgstr "Ver todas las entradas"
+
+#. translators: 1: link to WP admin new post page.
+#: posts-list-block/templates/no-posts.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Todo listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#. Author URI of the plugin
+msgid "https://automattic.com/wordpress-plugins/"
+msgstr "https://automattic.com/wordpress-plugins/"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Enhances your page creation workflow within the Block Editor."
+msgstr "Mejora el flujo de trabajo de creación de páginas dentro del editor de bloques."
+
+#. Plugin Name of the plugin
+msgid "Full Site Editing"
+msgstr "Full Site Editing"
+
+#: posts-list-block/dist/posts-list-block.js:1
+#: posts-list-block/blocks/posts-list/index.js:42
+msgid "Number of posts to show"
+msgstr "Número de entradas a mostrar"
+
+#: posts-list-block/dist/posts-list-block.js:1
+#: posts-list-block/blocks/posts-list/index.js:38
+msgid "Your recent blog posts will be displayed here."
+msgstr "Tus entradas del blog recientes se mostrarán aquí."
+
+#: posts-list-block/dist/posts-list-block.js:1
+#: posts-list-block/blocks/posts-list/index.js:25
+msgid "Displays your latest Blog Posts."
+msgstr "Muestra tus últimas entradas del blog."
+
+#: posts-list-block/dist/posts-list-block.js:1
+#: posts-list-block/blocks/posts-list/index.js:24
+msgid "Blog Posts Listing"
+msgstr "Lista de entradas del blog"
+
+#: posts-list-block/templates/post-item.php:31
+msgctxt "designating the post author (eg: by John Doe"
+msgid "by"
+msgstr "por"
+
+#: posts-list-block/templates/no-posts.php:11
+msgid "There are currently no posts to display."
+msgstr "No hay entradas que mostrar."

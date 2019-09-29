@@ -1,0 +1,203 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Esperanto
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-28 19:26:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: eo\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: lib/register.php:189
+msgid "Author"
+msgstr "Aŭtoro"
+
+#: lib/register.php:185
+msgid "Slug"
+msgstr "Url-nomo"
+
+#: lib/register.php:180
+msgid "Comments"
+msgstr "Komentoj"
+
+#: lib/register.php:167
+msgid "Discussion"
+msgstr "Diskuto"
+
+#: lib/register.php:151
+msgid "Custom Fields"
+msgstr "Propraj kampoj"
+
+#: lib/register.php:147
+msgid "Send Trackbacks"
+msgstr "Sendi respuradojn"
+
+#: lib/register.php:143
+msgid "Excerpt"
+msgstr "Eltiraĵo"
+
+#: lib/register.php:113
+msgctxt "post format"
+msgid "Format"
+msgstr "Afiŝ-tipo"
+
+#: lib/register.php:109
+msgid "Publish"
+msgstr "Publikigi"
+
+#: lib/register.php:106
+msgid "Metadata"
+msgstr "Metadatumoj"
+
+#: lib/register.php:102
+msgid "Save"
+msgstr "Konservi"
+
+#: lib/register.php:95
+msgid "Revisions"
+msgstr "Revizioj"
+
+#: lib/meta-box-partial-page.php:71
+msgid "The `meta_box` parameter should be one of \"side\", \"normal\", or \"advanced\"."
+msgstr "La parametro `meta_box` devus esti unu el \"side\", \"normal\", aŭ \"advanced\"."
+
+#: lib/class-wp-block-type-registry.php:66
+msgid "Block type names must not contain uppercase characters."
+msgstr "Blok-tipaj nomoj ne enhavu majusklajn literojn."
+
+#: gutenberg.php:514
+msgid "Toggle editor selection menu"
+msgstr "Baskuligo de redaktilo-elekta menuo"
+
+#: gutenberg.php:77
+msgid "Documentation"
+msgstr "Dokumentado"
+
+#: lib/class-wp-rest-reusable-blocks-controller.php:298
+msgid "The block's HTML content."
+msgstr "La HTML-enhavo de la bloko."
+
+#: lib/class-wp-rest-reusable-blocks-controller.php:292
+msgid "Name that identifies this reusable block"
+msgstr "Identiga nomo por tiu ree uzebla bloko"
+
+#: lib/class-wp-rest-reusable-blocks-controller.php:230
+msgid "Invalid reusable block content."
+msgstr "Nevalida reuzebla blok-enhavo."
+
+#: lib/class-wp-rest-reusable-blocks-controller.php:221
+msgid "Invalid reusable block name."
+msgstr "Nevalida reuzebla bloknomo."
+
+#: lib/class-wp-rest-reusable-blocks-controller.php:163
+msgid "Sorry, you are not allowed to edit reusable blocks as this user."
+msgstr "Pardonon, vi ne rajtas redakti reuzeblajn blokojn kiel tiu uzanto."
+
+#: lib/class-wp-rest-reusable-blocks-controller.php:144
+msgid "No reusable block with that ID found."
+msgstr "Ne trovis reuzeblan blokon de tiu ID."
+
+#: lib/class-wp-rest-reusable-blocks-controller.php:80
+#: lib/class-wp-rest-reusable-blocks-controller.php:123
+msgid "Sorry, you are not allowed to read reusable blocks as this user."
+msgstr "Pardonon, vi ne rajtas legi reuzeblajn blokojn kiel tiu uzanto."
+
+#: gutenberg.php:71
+msgid "Feedback"
+msgstr "Prijuĝoj"
+
+#. translators: %s: post title
+#: gutenberg.php:360
+msgid "Edit &#8220;%s&#8221; in the classic editor"
+msgstr "Redakti &#8220;%s&#8221; en la tradicia redaktilo"
+
+#: gutenberg.php:363 gutenberg.php:516
+msgid "Classic Editor"
+msgstr "Tradicia redaktilo"
+
+#: blocks/library/categories/index.php:35
+msgid "Select Category"
+msgstr "Elektu kategorion"
+
+#: blocks/library/latest-posts/index.php:28
+msgid "(Untitled)"
+msgstr "(Sentitola)"
+
+#: gutenberg.php:92
+msgid "Gutenberg requires WordPress 4.8 or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg postulas WordPress 4.8 aŭ pli novan por povi funkcii. Bonvole ĝisdatigu la retejon al pli nova WordPress antaŭ aktivigo de Gutenberg."
+
+#: lib/client-assets.php:519
+msgid "Unauthorized post type."
+msgstr "Senrajta afiŝ-tipo."
+
+#: lib/client-assets.php:515
+msgid "Unrecognized post type."
+msgstr "Nekonata afiŝ-tipo."
+
+#: lib/client-assets.php:510
+msgid "Post not found."
+msgstr "Afiŝo ne trovita."
+
+#. Author of the plugin/theme
+msgid "Gutenberg Team"
+msgstr "Teamo de Gutenberg"
+
+#. Description of the plugin/theme
+msgid "Printing since 1440. This is the development plugin for the new block editor in core. <strong>Meant for development, do not run on real sites.</strong>"
+msgstr "Presanta ekde 1440. Jen, la programista kromprogramo por la nova blok-redaktilo en la kerno. <strong>Celita al programado, ne uzu ĉe publikaj, gravaj retejoj.</strong>"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin/theme
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: gutenberg.php:63 gutenberg.php:64
+msgid "Demo"
+msgstr "Demonstraĵo"
+
+#: lib/client-assets.php:116
+msgid "F j, Y g:i a"
+msgstr "j F Y g:i a"
+
+#: lib/client-assets.php:115
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: lib/client-assets.php:114
+msgid "g:i a"
+msgstr "g:i a"
+
+#. translators: %s: duration
+#: lib/client-assets.php:110
+msgid "%s ago"
+msgstr "antaŭ %s"
+
+#. translators: %s: duration
+#: lib/client-assets.php:108
+msgid "%s from now"
+msgstr "%s pli poste"
+
+#. translators: 1: block name
+#: lib/class-wp-block-type-registry.php:111
+msgid "Block type \"%s\" is not registered."
+msgstr "Blok-tipo \"%s\" ne estas registrita."
+
+#. translators: 1: block name
+#: lib/class-wp-block-type-registry.php:80
+msgid "Block type \"%s\" is already registered."
+msgstr "Blok-tipo \"%s\" jam estas registrita."
+
+#: lib/class-wp-block-type-registry.php:73
+msgid "Block type names must contain a namespace prefix. Example: my-plugin/my-custom-block-type"
+msgstr "Nomoj de blok-tipoj devas enhavi prefikson de nomspaco. Ekz: mia-kromprogramo/mia-propra-bloko"
+
+#: lib/class-wp-block-type-registry.php:60
+msgid "Block type names must be strings."
+msgstr "Nomoj de blok-tipoj devas esti tekstaj."

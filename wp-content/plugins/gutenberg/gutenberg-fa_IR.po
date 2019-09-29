@@ -1,0 +1,3898 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-09 15:42:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/components/index.js:19
+msgid "Separate with commas or the Enter key."
+msgstr "جدا کردن با کاما یا کلید Enter."
+
+#: build/components/index.js:19
+msgid "Separate with commas, spaces, or the Enter key."
+msgstr "جدا کردن با کاما، کلید فاصله (space) یا ورود (Enter)."
+
+#: build/block-editor/index.js:55
+msgid "Separate multiple classes with spaces."
+msgstr "کلاس‌های متعدد را با فاصله (space) جدا کنید."
+
+#: build/block-library/index.js:14
+msgid "Move Image Forward"
+msgstr "انتقال تصویر به جلو"
+
+#: build/block-library/index.js:14
+msgid "Move Image Backward"
+msgstr "انتقال تصویر به عقب"
+
+#: lib/class-wp-rest-widget-areas-controller.php:150
+msgid "Sorry, you are not allowed to edit sidebars."
+msgstr "با عرض پوزش، شما اجازه‌ی ویرایش ستون‌کناری را ندارید."
+
+#: lib/class-wp-rest-widget-areas-controller.php:99
+msgid "Sorry, you are not allowed to read sidebars."
+msgstr "با عرض پوزش، شما اجازه‌ی خواندن ستون‌کناری را ندارید."
+
+#: lib/class-wp-rest-widget-areas-controller.php:56
+msgid "Sidebar content."
+msgstr "محتوای نوار کناری."
+
+#: lib/class-wp-rest-widget-areas-controller.php:49
+msgid "The sidebar’s ID."
+msgstr "شناسه نوار کناری."
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:327
+msgid "Displays a set of blocks"
+msgstr "مجموعه‌ای از بلوک‌ها را نمایش می دهد"
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:323
+msgid "Blocks Area "
+msgstr "ناحیه بلوک‌ها"
+
+#: build/server-side-render/index.js:1
+msgid "Block rendered as empty."
+msgstr "بلوک به عنوان خالی ارائه شده است."
+
+#: build/format-library/index.js:12
+msgid "Inline Code"
+msgstr "کد درون‌خطی"
+
+#: build/block-library/index.js:14
+msgid "Footer section"
+msgstr "بخش پانوشت"
+
+#: build/block-library/index.js:14
+msgid "Header section"
+msgstr "بخش سرنوشت"
+
+#: build/block-library/index.js:14
+msgid "Sorting and Filtering"
+msgstr "مرتب‌سازی و صافی کردن"
+
+#: build/block-library/index.js:14
+msgid "Post Meta Settings"
+msgstr "تنظیمات اطلاعات نوشته"
+
+#: build/block-library/index.js:14
+msgid "Post Content"
+msgstr "محتوای نوشته"
+
+#: build/block-library/index.js:14
+msgid "Post Content Settings"
+msgstr "تنظیمات محتوای نوشته"
+
+#: build/block-library/index.js:14
+msgid "Percentage width"
+msgstr "درصد عرض"
+
+#: build/block-library/index.js:14
+msgid "Column Settings"
+msgstr "تنظیمات ستون"
+
+#: build/block-library/blocks/latest-posts.php:70
+msgid "Read More"
+msgstr "بیشتر بخوانید"
+
+#: lib/widgets.php:189
+msgid "Block area updated."
+msgstr "ناحیه بلوک به‌روزرسانی شد."
+
+#: lib/widgets.php:188
+msgid "Block area scheduled."
+msgstr "ناحیه بلوک زمانبندی شد."
+
+#: lib/widgets.php:185
+msgid "Block area published."
+msgstr "ناحیه بلوک منتشر شد."
+
+#: lib/widgets.php:184
+msgid "Block areas list"
+msgstr "فهرست نواحی بلوک"
+
+#: lib/widgets.php:183
+msgid "Block areas list navigation"
+msgstr "فهرست راهبری نواحی بلوک"
+
+#: lib/widgets.php:182
+msgid "Filter block areas list"
+msgstr "صافی لیست مناطق بلوک"
+
+#: lib/widgets.php:180
+msgid "No block area found."
+msgstr "هیچ منطقه بلوکی یافت نشد."
+
+#: lib/widgets.php:179
+msgid "Search Block Areas"
+msgstr "مناطق بلوک جستجو"
+
+#: lib/widgets.php:178
+msgid "All Block Areas"
+msgstr "تمامی مناطق بلوک"
+
+#: lib/widgets.php:177
+msgid "View Block Area"
+msgstr "نمایش منطقه بلوک"
+
+#: lib/widgets.php:176
+msgid "Edit Block Area"
+msgstr "ویرایش بلوک"
+
+#: lib/widgets.php:175
+msgid "New Block Area"
+msgstr "بلوک جدید"
+
+#: lib/widgets.php:174
+msgid "Add New Block Area"
+msgstr "اضافه کردن بلوک جدید"
+
+#: lib/widgets.php:171
+msgctxt "admin menu"
+msgid "Block Areas"
+msgstr "مناطق بلوک"
+
+#: lib/widgets.php:170
+msgctxt "post type singular name"
+msgid "Block Area (Experimental)"
+msgstr "منطقه بلوک (آزمایشی)"
+
+#: lib/widgets.php:169
+msgctxt "post type general name"
+msgid "Block Area (Experimental)"
+msgstr "منطقه بلوک (آزمایشی)"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen content"
+msgstr "محتوای صفحه ابزارک‌ها"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets advanced settings"
+msgstr "تنظیمات پیشرفته ابزارک‌ها"
+
+#: build/edit-widgets/index.js:1
+msgid "(experimental)"
+msgstr "(آزمایشی)"
+
+#: build/edit-widgets/index.js:1
+msgid "Block Areas"
+msgstr "نواحی بلوک"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read."
+msgstr "این ترکیب رنگ ممکن است برای افراد هنگام خواندن سخت باشد."
+
+#: build/block-editor/index.js:55
+msgid "Add Block"
+msgstr "افزودن بلوک"
+
+#: build/block-library/index.js:14
+msgid "There is no poster image currently selected"
+msgstr "در حال حاضر هیچ تصویر پیش‌نمایشی انتخاب نشده است"
+
+#: build/block-library/index.js:14
+msgid "The current poster image url is %s"
+msgstr "نشانی اینترنتی تصویر پیش‌نمایش فعلی %s است."
+
+#: build/block-library/index.js:14
+msgid "section"
+msgstr "بخش"
+
+#: build/block-library/index.js:14
+msgid "row"
+msgstr "ردیف"
+
+#: build/block-library/index.js:14
+msgid "container"
+msgstr "دربردارنده"
+
+#: build/block-library/index.js:14
+msgid "A block that groups other blocks."
+msgstr "یک بلوک که بلوک‌های دیگر را گروه‌بندی می کند."
+
+#: build/block-library/index.js:14
+msgid "Group"
+msgstr "گروه"
+
+#: build/block-library/index.js:14
+msgid "Crop image to fill entire column"
+msgstr "برش تصویر برای پر کردن تمام ستون"
+
+#: build/block-library/index.js:14
+msgid "Drag an image to upload, select a file from your library or add one from an URL."
+msgstr "یک تصویر را برای بارگذاری بکشید، یک پرونده را از کتابخانه خود انتخاب کنید یا یکی را با آدرس اینترنتی اضافه کنید."
+
+#: build/block-library/index.js:14
+msgid "You are now editing the image in the image block."
+msgstr "شما در حال ویرایش تصویر در بلوک تصویر هستید."
+
+#: build/block-library/index.js:14
+msgid "You are now viewing the image in the image block."
+msgstr "شما در حال مشاهده تصویر در بلوک تصویر هستید."
+
+#: build/block-library/index.js:14
+msgid "Leave empty if the image is purely decorative."
+msgstr "اگر تصویر کاملاً جنبه تزئینی دارد، خالی بگذارید."
+
+#: build/block-library/index.js:14
+msgid "Describe the purpose of the image"
+msgstr "هدف این تصویر را شرح دهید"
+
+#: build/block-editor/index.js:55
+msgid "Add a block"
+msgstr "افزودن بلوک"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting label"
+msgid "Change Alignment"
+msgstr "تغییر ترازبندی"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Bottom"
+msgstr "تراز عمودی پایین"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Middle"
+msgstr "تراز عمودی میانه"
+
+#: build/editor/index.js:17
+msgid "Replace Image"
+msgstr "جایگزینی تصویر"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Top"
+msgstr "تراز عمودی بالا"
+
+#: build/block-library/index.js:14
+msgid "Display a legacy widget."
+msgstr "نمایش یک ابزارک پیشین."
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget (Experimental)"
+msgstr "ابزارک پیشین (آزمایشی)"
+
+#: build/block-library/index.js:14
+msgid "Change widget"
+msgstr "تغییر ابزارک"
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget"
+msgstr "ابزارک پیشین"
+
+#: build/block-library/index.js:14
+msgid "You don't have permissions to use widgets on this site."
+msgstr "شما دسترسی لازم برای استفاده ابزارک‌ها در این سایت را ندارید."
+
+#: build/block-library/index.js:14
+msgid "Select a legacy widget to display:"
+msgstr "یک ابزارک جهت نمایش انتخاب نمایید:"
+
+#: build/block-library/index.js:14
+msgid "There are no widgets available."
+msgstr "هیچ ابزارکی دردسترس نیست."
+
+#: build/block-library/index.js:14
+msgid "Not a valid widget."
+msgstr "یک ابزارک معتبر نیست."
+
+#: build/block-editor/index.js:55
+msgid "Change block type or style"
+msgstr "تغییر نوع بلوک یا استایل"
+
+#: build/block-editor/index.js:55
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "فاصله (Space)"
+
+#: build/block-editor/index.js:55
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "فاصله عقب (Backspace)"
+
+#: build/block-editor/index.js:55
+msgid "More Rich Text Controls"
+msgstr "کنترل‌های متن غنی بیشتر"
+
+#: build/editor/index.js:17
+msgid "Search Terms"
+msgstr "واژه‌های جستجو"
+
+#: build/editor/index.js:17
+msgid "Exit the Editor"
+msgstr "خروج از ویرایشگر"
+
+#: build/edit-post/index.js:12
+msgid "Block Manager"
+msgstr "مدیریت بلوک"
+
+#: lib/class-wp-rest-widget-updater-controller.php:101
+msgid "Invalid widget."
+msgstr "ابزارک نامعتبر."
+
+#: lib/class-wp-rest-widget-updater-controller.php:42
+msgid "Class name of the widget."
+msgstr "نام کلاس ابزارک."
+
+#: lib/class-wp-rest-widget-updater-controller.php:69
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "متاسفانه شما اجازه‌ی دسترسی به ابزارک‌های این سایت را ندارید."
+
+#: gutenberg.php:49 gutenberg.php:50
+msgid "Widgets (beta)"
+msgstr "ابزارک‌ها"
+
+#: build/block-library/index.js:14
+msgid "link"
+msgstr "پیوند"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s can't be previewed in the editor."
+msgstr "امکان پیش‌نمایش محتوای جاسازی شده از %s در ویرایشگر وجود ندارد."
+
+#: build/components/index.js:19
+msgid "Custom Color"
+msgstr "رنگ سفارشی"
+
+#: build/block-library/index.js:14
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "بازدید کنندگان را با یک پیوند شبیه دکمه برای اقدام راهنمایی کنید."
+
+#: build/block-library/blocks/tag-cloud.php:33
+msgid "No terms to show."
+msgstr "هیچ موردی برای نمایش وجود ندارد."
+
+#: build/block-library/blocks/rss.php:62
+msgid "by"
+msgstr "توسط"
+
+#: build/block-library/blocks/rss.php:27
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "خطایی رخ داده است، که احتمالاً به این معنی است که خوراک کار نمی‌کند. بعداً دوباره تلاش کنید."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "خطای RSS:"
+
+#: build/block-library/index.js:14 build/block-editor/index.js:55
+msgctxt "block style"
+msgid "Default"
+msgstr "پیش‌فرض"
+
+#: build/editor/index.js:17
+msgid "Stick to the top of the blog"
+msgstr "چسباندن به بالای بلاگ"
+
+#: build/edit-post/index.js:12
+msgid "Read about permalinks"
+msgstr "خواندن درباره پیوندهای یکتا"
+
+#: build/edit-post/index.js:12
+msgid "The last part of the URL. "
+msgstr "آخرین قسمت از نشانی اینترنتی."
+
+#: build/edit-post/index.js:12
+msgid "URL Slug"
+msgstr "نامک نشانی اینترنتی"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode deactivated"
+msgstr "حالت تمام صفحه غیرفعال شده است"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode activated"
+msgstr "حالت تمام صفحه فعال شده است"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode deactivated"
+msgstr "حالت ویژه غیرفعال شده است"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode activated"
+msgstr "حالت ویژه فعال شده است"
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar deactivated"
+msgstr "نوار ابزار بالا غیرفعال شده است"
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar activated"
+msgstr "نوار ابزار بالا فعال شده است"
+
+#: build/edit-post/index.js:12
+msgid "You’ll find more settings for your page and blocks in the sidebar. Click the cog icon to toggle the sidebar open and closed."
+msgstr "تنظیمات بیشتری برای برگه و بلوک‌های خود در نوار کناری خواهید یافت. روی نماد چرخ‌دنده کلیک کنید تا نوار کناری باز و بسته شود."
+
+#: build/edit-post/index.js:12
+msgid "Back"
+msgstr "عقب"
+
+#: build/edit-post/index.js:12
+msgid "Feature activated"
+msgstr "ویژگی فعال شده است"
+
+#: build/edit-post/index.js:12
+msgid "Feature deactivated"
+msgstr "ویژگی غیرفعال شده است"
+
+#: build/components/index.js:19
+msgid "Vertical Pos."
+msgstr "موقعیت عمودی"
+
+#: build/components/index.js:19
+msgid "Horizontal Pos."
+msgstr "موقعیت افقی"
+
+#: build/block-library/index.js:14
+msgid "A cloud of your most used tags."
+msgstr "ابری از برچسب‌هایی که بیشتر استفاده کرده‌اید."
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud"
+msgstr "ابر برچسب"
+
+#: build/block-library/index.js:14
+msgid "Taxonomy"
+msgstr "طبقه‌بندی"
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud Settings"
+msgstr "تنظیمات ابر برچسب"
+
+#: build/block-library/index.js:14
+msgid "- Select -"
+msgstr "- انتخاب نمایید -"
+
+#: build/block-library/index.js:14
+msgid "Default"
+msgstr "پیش‌فرض"
+
+#: build/block-library/index.js:14
+msgid "find"
+msgstr "یافتن"
+
+#: build/block-library/index.js:14
+msgid "Help visitors find your content."
+msgstr "به بازدیدکنندگان کمک کنید محتوای شما را پیدا کنند."
+
+#: build/block-library/blocks/search.php:76
+#: build/block-library/blocks/search.php:84 build/block-library/index.js:14
+msgid "Search"
+msgstr "جستجو"
+
+#: build/block-library/index.js:14
+msgid "Add button text…"
+msgstr "افزودن متن دکمه..."
+
+#: build/block-library/index.js:14
+msgid "Button text"
+msgstr "متن دکمه"
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder…"
+msgstr "عنوان نگه‌دارنده اختیاری..."
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder text"
+msgstr "متن عنوان نگه‌دارنده اختیاری"
+
+#: build/block-library/index.js:14
+msgid "Add label…"
+msgstr "افزودن برچسب..."
+
+#: build/block-library/index.js:14
+msgid "Label text"
+msgstr "متن برچسب"
+
+#: build/block-library/index.js:14
+msgid "feed"
+msgstr "خوراک"
+
+#: build/block-library/index.js:14
+msgid "atom"
+msgstr "atom"
+
+#: build/block-library/index.js:14
+msgid "Display entries from any RSS or Atom feed."
+msgstr "نمایش نوشته‌ها از هر RSS یا خوراک Atom."
+
+#: build/block-library/index.js:14
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/index.js:14
+msgid "Max number of words in excerpt"
+msgstr "حداکثر تعداد کلمات در چکیده"
+
+#: build/block-library/index.js:14
+msgid "Display excerpt"
+msgstr "نمایش چکیده"
+
+#: build/block-library/index.js:14
+msgid "Display date"
+msgstr "نمایش تاریخ"
+
+#: build/block-library/index.js:14
+msgid "Display author"
+msgstr "نمایش نویسنده"
+
+#: build/block-library/index.js:14
+msgid "RSS Settings"
+msgstr "تنظیمات RSS"
+
+#: build/block-library/index.js:14
+msgid "Edit RSS URL"
+msgstr "ویرایش نشانی اینترنتی RSS"
+
+#: build/block-library/index.js:14
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "محتوای قبل از این بلوک در چکیده برگه بایگانی‌های شما نمایش داده خواهد شد."
+
+#: build/block-library/index.js:14
+msgid "Hide the excerpt on the full content page"
+msgstr " مخفی کردن چکیده در محتوای کامل برگه"
+
+#: build/block-library/index.js:14
+msgid "The excerpt is visible."
+msgstr "چکیده قابل مشاهده است."
+
+#: build/block-library/index.js:14
+msgid "The excerpt is hidden."
+msgstr "چکیده پنهان است."
+
+#: build/block-library/index.js:14
+msgid "image %1$d of %2$d in gallery"
+msgstr "تصویر %1$d از %2$d در گالری"
+
+#: build/block-library/index.js:14
+msgid "Sorry, this content could not be embedded."
+msgstr "با عرض پوزش، این محتوا نمی‌تواند جاسازی شود."
+
+#: build/block-library/index.js:14
+msgid "Embed Amazon Kindle content."
+msgstr "جاسازی محتوای Amazon Kindle."
+
+#: build/block-library/index.js:14
+msgid "ebook"
+msgstr "کتاب الکترونیک"
+
+#: build/block-library/index.js:14
+msgid "Embed Crowdsignal (formerly Polldaddy) content."
+msgstr "جاسازی محتوای Crowdsignal (Polldaddy سابق)"
+
+#: build/block-library/index.js:14
+msgid "Focal Point Picker"
+msgstr "انتخابگر نقطه کانونی"
+
+#: build/block-library/index.js:14
+msgid "archive"
+msgstr "بایگانی"
+
+#: build/block-library/index.js:14
+msgid "posts"
+msgstr "نوشته‌ها"
+
+#: build/block-library/index.js:14
+msgid "A calendar of your site’s posts."
+msgstr "یک تقویم از نوشته‌های سایت شما."
+
+#: build/block-library/index.js:14
+msgid "Calendar"
+msgstr "تقویم"
+
+#: build/format-library/index.js:12
+msgid "Underline"
+msgstr "زیر خط دار"
+
+#: build/editor/index.js:17
+msgid "https://codex.wordpress.org/Excerpt"
+msgstr "https://codex.wordpress.org/Excerpt"
+
+#: build/block-editor/index.js:55
+msgid "Attempt Block Recovery"
+msgstr "تلاش برای بازیابی بلوک"
+
+#: build/editor/index.js:17
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "words"
+
+#: build/block-library/index.js:14
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "محتوا..."
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "تبدیل به پیوند"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Try again"
+msgstr "دوباره سعی کنید"
+
+#: build/nux/index.js:1
+msgid "Editor tips"
+msgstr "نکات ویرایشگر"
+
+#: build/components/index.js:19
+msgid "Font size: %s"
+msgstr "اندازه قلم: %s"
+
+#: build/edit-post/index.js:12
+msgid "Block (selected)"
+msgstr "بلوک (انتخاب شده)"
+
+#: build/edit-post/index.js:12
+msgid "Document (selected)"
+msgstr "اسناد (انتخاب شده)"
+
+#: build/block-editor/index.js:55
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d کلمه"
+
+#: build/edit-post/index.js:12
+msgid "Top Toolbar"
+msgstr "نوار ابزار بالا"
+
+#: build/block-library/index.js:14
+msgid "Link Rel"
+msgstr "لینک Rel"
+
+#: build/block-library/index.js:14
+msgid "Link CSS Class"
+msgstr "لینک کلاس CSS"
+
+#: build/block-library/index.js:14
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "تولید محتوا و ذخیره کردن آن در سایت برای استفاده مجدد شما و دیگر نویسندگان، با به‌روز رسانی بلوک، تغییرات در هرجایی که بلوک استفاده شده اعمال می‌شود."
+
+#: build/editor/index.js:17
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "برای ویرایش تصویر شاخص باید اجازه آپلود رسانه‌ها را داشته باشید."
+
+#: build/block-editor/index.js:55
+msgid "To edit this block, you need permission to upload media."
+msgstr "برای ویرایش این بلوک باید اجازه آپلود رسانه‌ها را داشته باشید."
+
+#: build/block-editor/index.js:55
+msgid "(selected block)"
+msgstr "(بلوک انتخاب‌شده)"
+
+#: build/block-editor/index.js:55
+msgid "Block tools"
+msgstr "ابزارهای بلوک"
+
+#: build/edit-post/index.js:12
+msgid "Permalink"
+msgstr "پیوند"
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute"
+msgstr "این تصویر یک مشخصه آلت خالی دارد"
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "این تصویر یک مشخصه آلت خالی دارد؛ نام فایل آن %s است"
+
+#: lib/widgets.php:181
+msgid "No block areas found in Trash."
+msgstr "هیچ نواحی بلوکی در زباله‌دان پیدا نشد."
+
+#: lib/widgets.php:173
+msgctxt "Block"
+msgid "Add New"
+msgstr "افزودن جدید"
+
+#: lib/widgets.php:172
+msgctxt "add new on admin bar"
+msgid "Block Area"
+msgstr "ناحیه بلوک"
+
+#: build/format-library/index.js:12
+msgid "Link inserted."
+msgstr "پیوند درج شد."
+
+#: build/format-library/index.js:12
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "هشدار: این پیوند وارد شده اما ممکن است دچار اشتباه شود. لطفاً آن را امتحان کنید."
+
+#: build/block-editor/index.js:55
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s بلوک‌ها انتخاب شد."
+
+#: build/block-editor/index.js:55
+msgid "Thumbnail"
+msgstr "تصویر بندانگشتی"
+
+#: build/block-editor/index.js:55
+msgid "Full Size"
+msgstr "اندازه کامل"
+
+#: build/block-editor/index.js:55
+msgid "Link selected."
+msgstr "پیوند انتخاب شد."
+
+#: build/editor/index.js:17
+msgid "Start writing with text or HTML"
+msgstr "شروع به نوشتن با متن یا HTML"
+
+#: build/editor/index.js:17
+msgid "Type text or HTML"
+msgstr "تایپ متن یا HTML"
+
+#: build/block-editor/index.js:55
+msgid "Drag an image, upload a new one or select a file from your library."
+msgstr "یک تصویر را برای بارگزاری و قرار دادن در کتابخانه بکشید و یا از کتابخانه انتخاب کنید."
+
+#: build/block-editor/index.js:55
+msgid "Drag an audio, upload a new one or select a file from your library."
+msgstr "یک فایل صوتی را برای بارگزاری و قرار دادن در کتابخانه بکشید و یا از کتابخانه انتخاب کنید."
+
+#: build/block-editor/index.js:55
+msgid "Drag a media file, upload a new one or select a file from your library."
+msgstr "یک سند رسانه  را برای بارگزاری و قرار دادن در کتابخانه بکشید و یا از کتابخانه انتخاب کنید."
+
+#: build/block-editor/index.js:55
+msgid "Block icon"
+msgstr "آیکون بلوک"
+
+#: build/block-editor/index.js:55
+msgid "Align text right"
+msgstr "تراز متن راست"
+
+#: build/block-editor/index.js:55
+msgid "Align text center"
+msgstr "تراز متن وسط"
+
+#: build/block-editor/index.js:55
+msgid "Align text left"
+msgstr "تراز متن چپ"
+
+#: build/block-library/index.js:14 build/block-editor/index.js:55
+msgid "Start writing or type / to choose a block"
+msgstr "شروع به نوشتن یا تایپ / برای انتخاب یک بلوک"
+
+#: build/block-library/index.js:14
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "بلوک خالی؛ شروع به نوشتن یا تایپ به جلو برای انتخاب یک بلوک"
+
+#: build/block-library/index.js:14
+msgid "Paragraph block"
+msgstr "بلوک پاراگراف"
+
+#: build/block-library/index.js:14
+msgid "Page Break"
+msgstr "برش صفحه"
+
+#: build/block-library/index.js:14
+msgid "Stack on mobile"
+msgstr "پشته شدن در موبایل"
+
+#: build/block-library/index.js:14
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "تصاویر را بکشید، موارد جدید بارگذاری نمایید یا فایل‌ها را از کتابخانه خود انتخاب نمایید."
+
+#: build/block-library/index.js:14
+msgid "Drag a file, upload a new one or select a file from your library."
+msgstr "یک فایل را بکشید، یک مورد جدید بارگذاری نمایید یا یک فایل از کتابخانه خود انتخاب نمایید."
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "حاشیه نویسی"
+
+#: build/block-editor/index.js:55
+msgctxt "blocks"
+msgid "Most Used"
+msgstr "بیشترین استفاده"
+
+#: build/block-editor/index.js:55
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "رفع‌کردن"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Huge"
+msgstr "بزرگ"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Large"
+msgstr "بزرگ"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Medium"
+msgstr "متوسط"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Small"
+msgstr "کوچک"
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgctxt "font size name"
+msgid "Normal"
+msgstr "معمولی"
+
+#: build/components/index.js:19
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "وارد"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "وارد كردن"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Download"
+msgstr "دانلود"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Embed"
+msgstr "قراردادن"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Embed"
+msgstr "قراردادن"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Classic"
+msgstr "کلاسیک"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Large"
+msgstr "بزرگ"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Squared"
+msgstr "مربع"
+
+#: build/format-library/index.js:12
+msgid "%s (opens in a new tab)"
+msgstr "%s (در یک زبانه جدید باز می‌شود)"
+
+#: build/format-library/index.js:12
+msgid "Link edited."
+msgstr "پیوند ویرایش شده"
+
+#: build/format-library/index.js:12
+msgid "Link removed."
+msgstr "پیوند حذف شد."
+
+#: build/format-library/index.js:12
+msgid "media"
+msgstr "رسانه"
+
+#: build/editor/index.js:17
+msgid "Double-check your settings before publishing."
+msgstr "قبل از انتشار دوباره تنظیمات خود را بررسی کنید."
+
+#: build/editor/index.js:17
+msgid "Generating preview…"
+msgstr "درحال تولید پیش‌نمایش..."
+
+#: build/editor/index.js:17
+msgid "Edit or update the image"
+msgstr "ویرایش یا بروزرسانی تصویر"
+
+#: build/block-editor/index.js:55
+msgid "Media"
+msgstr "رسانه"
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the nearest toolbar."
+msgstr "حرکت به نزدیکترین نوار ابزار."
+
+#: build/edit-post/index.js:12
+msgid "Document tools"
+msgstr "سند ابزارها"
+
+#: build/edit-post/index.js:12
+msgid "Document and block tools"
+msgstr "ابزارهای بلوک و سند"
+
+#: build/block-library/index.js:14
+msgid "Embed a video from your media library or upload a new one."
+msgstr "یک ویدئو از کتابخانه رسانه‌ای خود قرار دهید یا یک ویدئو جدید آپلود کنید."
+
+#: build/block-library/index.js:14
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "شعری درج نمایید. از قالب‌های فاصله‌گذاری ویژه استفاده نمایید. یا ترانه آهنگی را نقل‌قول نمایید."
+
+#: build/block-library/index.js:14
+msgid "Add white space between blocks and customize its height."
+msgstr "فاصله بین بلوک‌ها را اضافه کنید و ارتفاع آن را سفارشی کنید."
+
+#: build/block-library/index.js:14
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "عناصر سفارشی اضافی را با یک کد کوتاه وردپرس وارد کنید."
+
+#: build/block-library/index.js:14
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "یک تفکیک بین ایده‌ها یا بخش‌ها با جدا کننده افقی ایجاد کنید."
+
+#: build/block-library/index.js:14
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "به متن نقل قول شده تاکید ظاهری بدهید. «در نقل قول کردن دیگران، ما خودمان را نشان می‌دهیم.» - ژولیو کورتازار"
+
+#: build/block-library/index.js:14
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "تاکید ویژه‌ای بر روی یک نقل قول از متن خود داشته باشید."
+
+#: build/block-library/index.js:14
+msgid "Start with the building block of all narrative."
+msgstr "شروع کنید به ساختن بلوک تمامی روایات."
+
+#: build/block-library/index.js:14
+msgid "Separate your content into a multi-page experience."
+msgstr "محتوای خود را در یک تجربه چند صفحه‌ای جدا کنید."
+
+#: build/block-library/index.js:14
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "رسانه‌ها و کلمات رسانه کناری را برای یک چیدمان غنی‌تر تنظیم کنید."
+
+#: build/block-library/index.js:14
+msgid "Media & Text Settings"
+msgstr "تنظیمات رسانه و متن"
+
+#: build/block-library/index.js:14
+msgid "Create a bulleted or numbered list."
+msgstr "ایجاد یک لیست شماره‌بندی شده یا گلوله‌ای."
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent comments."
+msgstr "نمایش فهرستی از آخرین نظرات شما."
+
+#: build/block-library/index.js:14
+msgid "Insert an image to make a visual statement."
+msgstr "یک تصویر برای ایجاد یک بیانیه تصویری قرار دهید."
+
+#: build/block-library/index.js:14
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "افزودن کد HTML سفارشی و پیش‌نمایش آن در حالت ویرایشی."
+
+#: build/block-library/index.js:14
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "بخش‌های جدید را معرفی کرده و برای کمک به بازدیدکنندگان (و موتورهای جستجو) که ساختار محتوای شما را درک کنید."
+
+#: build/block-library/index.js:14
+msgid "Display multiple images in a rich gallery."
+msgstr "نمایش عکس های متعدد در یک گالری بزرگ ."
+
+#: build/block-library/index.js:14
+msgid "Add a link to a downloadable file."
+msgstr "یک لینک به یک فایل قابل دانلود اضافه کنید."
+
+#: build/block-library/index.js:14
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "قراردادن فیلم‌ها، تصاویر، توییت‌ها، صدا و سایر مطالب از منابع خارجی."
+
+#: build/block-library/index.js:14
+msgid "Resize for smaller devices"
+msgstr "تغییر اندازه برای دستگاه های کوچکتر"
+
+#: build/block-library/index.js:14
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "این تعبیه ممکن است نسبت ابعاد آن را هنگام تغییر اندازه مرورگر حفظ نکند."
+
+#: build/block-library/index.js:14
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "این تعبیه با افزایش اندازه مرورگر نسبت ابعاد آن را حفظ خواهد کرد."
+
+#: build/block-library/index.js:14
+msgid "Embed an Animoto video."
+msgstr "قراردادن یک ویدیو متحرک."
+
+#: build/block-library/index.js:14
+msgid "Embed a Vimeo video."
+msgstr "قراردادن یک ویدیو Vimeo."
+
+#: build/block-library/index.js:14
+msgid "Embed Flickr content."
+msgstr "قراردادن محتوای Flickr."
+
+#: build/block-library/index.js:14
+msgid "Embed Spotify content."
+msgstr "قراردادن محتوای Spotify ."
+
+#: build/block-library/index.js:14
+msgid "Embed SoundCloud content."
+msgstr "قراردادن محتوای SoundCloud."
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress post."
+msgstr "قراردادن یک پست وردپرس."
+
+#: build/block-library/index.js:14
+msgid "Embed an Instagram post."
+msgstr "قراردادن یک پست اینستاگرام."
+
+#: build/block-library/index.js:14
+msgid "Embed a Facebook post."
+msgstr "قراردادن یک پست فیسبوک."
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress.tv video."
+msgstr "قراردادن ویدیو WordPress.tv."
+
+#: build/block-library/index.js:14
+msgid "Embed a VideoPress video."
+msgstr "قراردادن یک ویدیو VideoPress."
+
+#: build/block-library/index.js:14
+msgid "Embed a Tumblr post."
+msgstr "قراردادن یک پست Tumblr."
+
+#: build/block-library/index.js:14
+msgid "Embed a TED video."
+msgstr "قراردادن یک ویدیو TED."
+
+#: build/block-library/index.js:14
+msgid "Embed Speaker Deck content."
+msgstr "قراردادن محتوای Speaker Deck."
+
+#: build/block-library/index.js:14
+msgid "Embed a YouTube video."
+msgstr "قراردادن یک ویدیو یوتیوب."
+
+#: build/block-library/index.js:14
+msgid "Embed SmugMug content."
+msgstr "قراردادن محتوای SmugMug."
+
+#: build/block-library/index.js:14
+msgid "Embed Slideshare content."
+msgstr "قراردادن محتوای Slideshare."
+
+#: build/block-library/index.js:14
+msgid "Embed Scribd content."
+msgstr "قراردادن محتوای Scribd."
+
+#: build/block-library/index.js:14
+msgid "Embed Screencast content."
+msgstr "قراردادن محتوای Screencast."
+
+#: build/block-library/index.js:14
+msgid "Embed ReverbNation content."
+msgstr "قراردادن محتوای ReverbNation."
+
+#: build/block-library/index.js:14
+msgid "Embed a Reddit thread."
+msgstr "قراردادن محتوای Reddit."
+
+#: build/block-library/index.js:14
+msgid "Embed Polldaddy content."
+msgstr "قراردادن محتوای Polldaddy."
+
+#: build/block-library/index.js:14
+msgid "Embed Mixcloud content."
+msgstr "قراردادن محتوای Mixcloud ."
+
+#: build/block-library/index.js:14
+msgid "Embed a tweet."
+msgstr "قراردادن یک توییت."
+
+#: build/block-library/index.js:14
+msgid "Embed Meetup.com content."
+msgstr "قراردادن محتوای Meetup.com."
+
+#: build/block-library/index.js:14
+msgid "Embed Kickstarter content."
+msgstr "قراردادن محتوای Kickstarter."
+
+#: build/block-library/index.js:14
+msgid "Embed Issuu content."
+msgstr "قراردادن محتوای Issuu."
+
+#: build/block-library/index.js:14
+msgid "Embed Imgur content."
+msgstr "قراردادن محتویات Imgur."
+
+#: build/block-library/index.js:14
+msgid "Embed Hulu content."
+msgstr "قردادن محتوای Hulu."
+
+#: build/block-library/index.js:14
+msgid "Embed a Dailymotion video."
+msgstr "قراردادن یک ویدئوی Dailymotion."
+
+#: build/block-library/index.js:14
+msgid "Embed CollegeHumor content."
+msgstr "قراردادن محتوای CollegeHumor."
+
+#: build/block-library/index.js:14
+msgid "Embed Cloudup content."
+msgstr "قراردادن محتوای Cloudup."
+
+#: build/block-library/index.js:14
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "یک تصویر یا ویدئو را با یک پوشش متن اضافه کنید - عالی برای سربرگ‌ها."
+
+#: build/block-library/index.js:14
+msgid "Drag an image or a video, upload a new one or select a file from your library."
+msgstr "یک تصویر یا یک ویدیو بکشید، یک فایل جدید آپلود کنید یا یک فایل را از کتابخانه خود انتخاب کنید."
+
+#: build/block-library/index.js:14
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "نمایش قطعه کدهایی که به فاصله ها و تب ها رجوع میکند."
+
+#: build/block-library/index.js:14
+msgid "Use the classic WordPress editor."
+msgstr "از ویرایشگر کلاسیک وردپرس استفاده کنید."
+
+#: build/block-library/index.js:14
+msgid "Display a list of all categories."
+msgstr "نمایش یک لیست از همه دسته ها."
+
+#: build/block-library/index.js:14
+msgid "Embed a simple audio player."
+msgstr "قراردادن یک پخش کننده صوتی ساده"
+
+#: build/edit-post/index.js:12
+msgctxt "noun"
+msgid "View"
+msgstr "نمایش"
+
+#: build/components/index.js:19
+msgctxt "font size name"
+msgid "Custom"
+msgstr "دلخواه"
+
+#: build/block-library/index.js:14
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "چپ به راست"
+
+#: build/editor/index.js:17
+msgid "Save as Pending"
+msgstr "ذخیره به عنوان در انتظار"
+
+#: build/editor/index.js:17
+msgid "%s address"
+msgstr "%s آدرس"
+
+#: build/block-editor/index.js:55
+msgid "Paste or type URL"
+msgstr "چسباندن یا نوشتن URL"
+
+#: build/block-editor/index.js:55
+msgid "Insert from URL"
+msgstr "گنجاندن از URL"
+
+#: build/block-editor/index.js:55
+msgid "Block Navigation"
+msgstr "کنترل بلوک"
+
+#: build/block-editor/index.js:55
+msgid "Styles"
+msgstr "شیوه‌نامه ها"
+
+#: build/edit-post/index.js:12
+msgid "Click to change"
+msgstr "برای تغییر کلیک کنید"
+
+#: build/edit-post/index.js:12
+msgid "Advanced Panels"
+msgstr "پنل‌های پیشرفته"
+
+#: build/edit-post/index.js:12
+msgid "Document Panels"
+msgstr "پنل‌های اسناد"
+
+#: build/edit-post/index.js:12
+msgid "Enable Tips"
+msgstr "نکات را فعال کنید"
+
+#: build/edit-post/index.js:12
+msgid "General"
+msgstr "عمومی"
+
+#: build/edit-post/index.js:12
+msgid "Open the block navigation menu."
+msgstr "منوی کنترل بلوک را باز کنید"
+
+#: build/edit-post/index.js:12
+msgid "Work without distraction"
+msgstr "کار بدون حواس پرتی"
+
+#: build/edit-post/index.js:12
+msgid "Focus on one block at a time"
+msgstr "تمرکز بر روی یک بلوک در لحظه"
+
+#: build/edit-post/index.js:12
+msgid "Access all block and document tools in a single place"
+msgstr "دسترسی به تمام ابزارهای بلوک و سند بصورت واحد"
+
+#: build/edit-post/index.js:12
+msgid "Options"
+msgstr "گزینه ها"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "(opens in a new tab)"
+msgstr "(در یک برگه جدید باز می شود)"
+
+#: build/components/index.js:19
+msgid "Minutes"
+msgstr "دقیقه ها"
+
+#: build/components/index.js:19
+msgid "Hours"
+msgstr "ساعت ها"
+
+#: build/components/index.js:19
+msgid "Time"
+msgstr "زمان"
+
+#: build/components/index.js:19
+msgid "Year"
+msgstr "سال"
+
+#: build/components/index.js:19
+msgid "Day"
+msgstr "روز"
+
+#: build/components/index.js:19
+msgid "December"
+msgstr "دسامبر"
+
+#: build/components/index.js:19
+msgid "November"
+msgstr "نوامبر"
+
+#: build/components/index.js:19
+msgid "October"
+msgstr "اوکتبر"
+
+#: build/components/index.js:19
+msgid "September"
+msgstr "سپتامبر"
+
+#: build/components/index.js:19
+msgid "August"
+msgstr "آگوست"
+
+#: build/components/index.js:19
+msgid "July"
+msgstr "جولای"
+
+#: build/components/index.js:19
+msgid "June"
+msgstr "ژوئن"
+
+#: build/components/index.js:19
+msgid "May"
+msgstr "مه"
+
+#: build/components/index.js:19
+msgid "April"
+msgstr "آپریل"
+
+#: build/components/index.js:19
+msgid "March"
+msgstr "مارچ"
+
+#: build/components/index.js:19
+msgid "February"
+msgstr "فوریه"
+
+#: build/components/index.js:19
+msgid "January"
+msgstr "ژانویه"
+
+#: build/components/index.js:19
+msgid "Month"
+msgstr "ماه"
+
+#: build/components/index.js:19
+msgid "Date"
+msgstr "تاریخ"
+
+#: build/components/index.js:19
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "برو به اولین (خانه) یا آخرین (پایان) روز در هفته."
+
+#: build/components/index.js:19
+msgid "Home/End"
+msgstr "خانه / پایان"
+
+#: build/components/index.js:19
+msgid "Home and End"
+msgstr "خانه و پایان"
+
+#: build/components/index.js:19
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "حرکت به عقب (PgUp) یا جلو (PgDn) در یک ماه."
+
+#: build/components/index.js:19
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: build/components/index.js:19
+msgid "Page Up and Page Down"
+msgstr "بالای صفحه و پایین صفحه"
+
+#: build/components/index.js:19
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "حرکت به عقب (بالا) و جلو (پایین) در هفته."
+
+#: build/components/index.js:19
+msgid "Up and Down Arrows"
+msgstr "پیکان‌های بالا و پایین"
+
+#: build/components/index.js:19
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "حرکت به عقب (چپ) یا به جلو (راست) تا یک روز."
+
+#: build/components/index.js:19
+msgid "Left and Right Arrows"
+msgstr "پیکان‌های چپ و راست"
+
+#: build/components/index.js:19
+msgid "Select the date in focus."
+msgstr "تاریخ دقیق را انتخاب کنید."
+
+#: build/components/index.js:19
+msgid "Navigating with a keyboard"
+msgstr "هدایت بوسیله صفحه کلید"
+
+#: build/components/index.js:19
+msgid "Click the desired day to select it."
+msgstr "برای انتخاب روز دلخواه روی آن کلیک کنید."
+
+#: build/components/index.js:19
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "برای انتخاب ماه های دیگر در گذشته و یا آینده بر روی راست و چپ کلیک کنید "
+
+#: build/components/index.js:19
+msgid "Click to Select"
+msgstr "برای انتخاب کلیک کنید"
+
+#: build/components/index.js:19
+msgid "Calendar Help"
+msgstr "راهنمای تقویم"
+
+#: build/components/index.js:19
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to decrease saturation, and right to increase saturation."
+msgstr "از کلید‌های جهت‌نما برای تغییر رنگ پایه استفاده کنید. حرکت به بالا برای روشن‌تر شدن رنگ، به پایین برای تیره‌تر شدن، سمت چپ برای افزایش اشباع رنگ، و سمت راست برای کاهش اشباع رنگ."
+
+#: build/components/index.js:19
+msgid "Choose a shade"
+msgstr "یک سایه انتخاب کنید"
+
+#: build/components/index.js:19
+msgid "Change color format"
+msgstr "تغییر سیستم رنگی"
+
+#: build/components/index.js:19
+msgid "Color value in HSL"
+msgstr "کد رنگ در سیستم HSL"
+
+#: build/components/index.js:19
+msgid "Color value in RGB"
+msgstr "کد رنگ در سیستم RGB"
+
+#: build/components/index.js:19
+msgid "Color value in hexadecimal"
+msgstr "کد رنگ در سیستم 16تایی"
+
+#: build/components/index.js:19
+msgid "RGB mode active"
+msgstr "حالت RGB فعال است"
+
+#: build/components/index.js:19
+msgid "Hex color mode active"
+msgstr "حالت رنگ 16تایی فعال است"
+
+#: build/components/index.js:19
+msgid "Hue/saturation/lightness mode active"
+msgstr "حالت رنگ / اشباع / سبک بودن فعال است"
+
+#: build/components/index.js:19
+msgid "Move the arrow left or right to change hue."
+msgstr "برای تغییر رنگ فلش را به چپ و یا راست حرکت دهید."
+
+#: build/components/index.js:19
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "مقدار رنگ در درجه از 0 تا 359."
+
+#: build/components/index.js:19
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "مقدار آلفا از ۰ (شفاف)تا ۱ (کاملا کدر)."
+
+#: build/block-library/index.js:14
+msgid "Stripes"
+msgstr "نوارها"
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for this block."
+msgstr "سایت شما شامل پشتیبانی از این بلوک نمی‌شود."
+
+#: build/block-library/index.js:14
+msgid "Unrecognized Block"
+msgstr "بلاک ناشناخته"
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "سایت شما شامل پشتیبانی از بلوک \"%s\" نمی‌شود. شما می‌توانید این بلوک را دست‌نخورده باقی بگذارید و یا به طور کامل حذف کنید."
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "سایت شما شامل پشتیبانی از بلوک \"%s\" نمی‌شود. شما می توانید این بلوک را دست نخورده باقی بگذارید، محتوای آن را به یک بلوک سفارشی HTML تبدیل کنید یا آن را کاملا حذف کنید."
+
+#: build/block-library/index.js:14
+msgid "Media area"
+msgstr "ناحیه رسانه"
+
+#: build/block-library/index.js:14
+msgid "Media & Text"
+msgstr "رسانه و متن"
+
+#: build/block-library/index.js:14
+msgid "Show media on right"
+msgstr "نمایش رسانه در راست"
+
+#: build/block-library/index.js:14
+msgid "Show media on left"
+msgstr "نمایش رسانه در چپ"
+
+#: build/block-library/index.js:14 build/format-library/index.js:12
+msgid "Open in New Tab"
+msgstr "باز کردن در زبانه جدید"
+
+#: build/block-library/index.js:14
+msgid "Cover"
+msgstr "رویه"
+
+#: build/block-library/index.js:14
+msgid "Cover Settings"
+msgstr "تنظیمات رویه"
+
+#: build/block-library/index.js:14
+msgid "Edit media"
+msgstr "ویرایش رسانه"
+
+#: build/block-editor/index.js:55
+msgid "Medium"
+msgstr "میانه"
+
+#: build/block-editor/index.js:55
+msgid "Paste URL or type to search"
+msgstr "URL را بچسبانید یا تایپ کنید تا جستجو شود"
+
+#: build/editor/index.js:17
+msgid "Terms"
+msgstr "کلمات"
+
+#: build/editor/index.js:17
+msgid "Your work will be published at the specified date and time."
+msgstr "نوشته‌ی شما در تاریخ و ساعت مشخص شده منتشر خواهد شد."
+
+#: build/editor/index.js:17
+msgid "Are you ready to schedule?"
+msgstr "آیا شما برای زمان‌بندی آماده هستید؟"
+
+#: build/editor/index.js:17
+msgid "Always show pre-publish checks."
+msgstr "همیشه بررسی پیش از انتشار نمایش داده می‌شود."
+
+#: build/editor/index.js:17
+msgid "Take Over"
+msgstr "به‌عهده گرفتن"
+
+#: build/editor/index.js:17
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "در حال حاضر یک کاربر دیگر در حال کار کردن روی این نوشته است، ابن یعنی شما نمیتوانید تغییری ایجاد کنید مگر اینکه آن را به عهده بگیرید."
+
+#: build/editor/index.js:17
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "در حال حاضر %s در حال کار کردن روی این نوشته است، ابن یعنی شما نمیتوانید تغییری ایجاد کنید مگر اینکه آن را به عهده بگیرید."
+
+#: build/editor/index.js:17
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "یک کاربر دیگر کنترل ویرایش این پست را دارد. نگران نباشید تغییرات شما تا این لحظه ذخیره شده است."
+
+#: build/editor/index.js:17
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "در حال حاضر %s کنترل این پست را دارد. نگران نباشید، تغییرات شما تا این لحظه ذخیره شده‌است."
+
+#: build/editor/index.js:17
+msgid "Avatar"
+msgstr "آواتار"
+
+#: build/editor/index.js:17
+msgid "This post is already being edited."
+msgstr "این نوشته هم‌اکنون در حال ویرایش است"
+
+#: build/editor/index.js:17
+msgid "Someone else has taken over this post."
+msgstr "شخص دیگری این نوشته را دست گرفته است"
+
+#: build/block-editor/index.js:55
+msgid "This block contains unexpected or invalid content."
+msgstr "این بلاک حاوی محتوای غیرمنطقی یا نامعتبر است."
+
+#: build/block-editor/index.js:55
+msgid "Resolve Block"
+msgstr "رفع کردن بلوک"
+
+#: build/block-editor/index.js:55
+msgid "Convert to HTML"
+msgstr "تبدیل به HTML"
+
+#: build/edit-post/index.js:12
+msgid "Enable Pre-publish Checks"
+msgstr "بررسی پیش انتشار را فعال کنید"
+
+#: build/edit-post/index.js:12
+msgid "This block can only be used once."
+msgstr "این بلوک تنها می تواند یکبار استفاده شود."
+
+#: build/edit-post/index.js:12
+msgid "Exit Code Editor"
+msgstr "خروج از ویرایشگر کد"
+
+#: build/edit-post/index.js:12
+msgid "Editing Code"
+msgstr "ویرایش کد"
+
+#: build/components/index.js:19
+msgid "Custom font size"
+msgstr "اندازه فونت سفارشی"
+
+#: build/block-library/index.js:14
+msgid "Solid Color"
+msgstr "رنگ توپُر"
+
+#: build/block-library/index.js:14
+msgid "Main Color"
+msgstr "رنگ اصلی"
+
+#: build/block-library/index.js:14
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:14
+msgid "Write HTML…"
+msgstr "نوشتن HTML ..."
+
+#: build/block-library/index.js:14
+msgid "Media Settings"
+msgstr "تنظیمات رسانه"
+
+#: build/block-library/index.js:14
+msgid "Overlay Color"
+msgstr "پوشش رنگ"
+
+#: build/block-library/index.js:14
+msgid "Overlay"
+msgstr "پوشش"
+
+#: build/block-library/index.js:14
+msgid "Insert Media"
+msgstr "درج رسانه"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "بلاک بازکاربردپذیر باموفقیت درون‌ریزی شد!"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "پرونده JSON بلاک بازکاربردپذیر نامعتبر است"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "پرونده JSON نامعتبر"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "درون‌ریزی از JSON"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "پشتی"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "دوره زمانی"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "کاما"
+
+#: build/block-editor/index.js:55
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "تغییر نوع بلوک %d"
+
+#: build/block-editor/index.js:55
+msgid "Current"
+msgstr "جاری"
+
+#: build/block-editor/index.js:55
+msgid "After Conversion"
+msgstr "پس از تبدیل"
+
+#: build/block-editor/index.js:55
+msgid "Change Alignment"
+msgstr "تغییر ترازبندی"
+
+#: build/block-editor/index.js:55
+msgid "Change Text Alignment"
+msgstr "تغییر ترازبندی متن"
+
+#: build/block-library/index.js:14
+msgid "Template block used as a container."
+msgstr "بلاک قالب، به‌عنوان یک نگهدارنده، به کار رفته است."
+
+#: build/block-library/index.js:14
+msgid "Reusable Template"
+msgstr "قالب بازکاربردپذیر"
+
+#: build/block-editor/index.js:55
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "بلوک(های) %d"
+
+#: build/edit-post/index.js:12
+msgid "Escape"
+msgstr "پرش (اسکیپ)"
+
+#: build/edit-post/index.js:12
+msgid "Forward-slash"
+msgstr "جلو-عقب"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "بایگانی برای نمایش وجود ندارد"
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "این فایل خالی است."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "متاسفانه، این نوع فایل در اینجا پشتیبانی نمی شود."
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Manage All Reusable Blocks"
+msgstr "مدیریت تمام بلوک های قابل استفاده مجدد"
+
+#: build/editor/index.js:17
+msgid "Title"
+msgstr "عنوان"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen Mode"
+msgstr "حالت تمام صفحه"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "منظره زیبا"
+
+#: build/editor/index.js:17
+msgid "Close panel"
+msgstr "بستن پنل"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Classic Block"
+msgstr "تبدیل به بلوک کلاسیک"
+
+#: build/block-library/index.js:14
+msgid "Remove Poster Image"
+msgstr "حذف پوستر تصویر"
+
+#: build/block-library/index.js:14
+msgid "Select Poster Image"
+msgstr "تصویر پوستر را انتخاب کنید"
+
+#: build/block-library/index.js:14
+msgid "Poster Image"
+msgstr "تصویر پوستر"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "این بلاک قدیمی شده. لطفا از بلاک ستون‌ها استفاده کنید."
+
+#: build/block-library/index.js:14
+msgid "Text Columns (deprecated)"
+msgstr "متن ستونی (قدیمی شده)"
+
+#: build/block-library/index.js:14
+msgid "Row Count"
+msgstr "تعداد ردیف"
+
+#: build/block-library/index.js:14
+msgid "Column Count"
+msgstr "تعداد ستون"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "این بلوک منقضی شده است لطفا به جای آن از بلوک پاراگراف استفاده کنید."
+
+#: build/block-library/index.js:14
+msgid "Subheading (deprecated)"
+msgstr "زیرعنوان (منسوخ)"
+
+#: build/block-library/index.js:14
+msgid "blockquote"
+msgstr "نقل قول"
+
+#: build/edit-post/index.js:12
+msgid "Change the block type after adding a new paragraph."
+msgstr "بعد از اضافه کردن یک پاراگراف جدید نوع بلوک را تغییر دهید."
+
+#: build/edit-post/index.js:12
+msgid "Spotlight Mode"
+msgstr "حالت ویژه(خاص)"
+
+#: build/editor/index.js:17
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "برچسب ها به کاربران و موتورهای جستجو کمک می کنند به سایت شما هدایت شوند و محتوای شما را پیدا کنند. چند کلمه کلیدی برای توصیف پست خود اضافه کنید."
+
+#: build/editor/index.js:17
+msgid "Add tags"
+msgstr "افزودن برچسب"
+
+#: build/editor/index.js:17
+msgid "Apply the \"%1$s\" format."
+msgstr "درخواست \"%1$s\" فرمت."
+
+#: build/editor/index.js:17
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "موضوع شما از فرمت های ارسالی برای برجسته کردن انواع مختلف محتوا مانند تصاویر و ویدیوها استفاده می کند. یک قالب ارسالی برای مشاهده این ظاهر خاص وارد کنید."
+
+#: build/editor/index.js:17
+msgid "Use a post format"
+msgstr "از فرمت نوشته استفاده کنید"
+
+#: build/block-editor/index.js:55
+msgid "Insert After"
+msgstr "پس از وارد کردن"
+
+#: build/block-editor/index.js:55
+msgid "Insert Before"
+msgstr "قبل از وارد کردن"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "حرکت‌دادنِ %1$d بلاک از جایگاه %2$d به‌اندازه‌ی یک بلاک به پایین"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "حرکت‌دادنِ %1$d بلاک از جایگاه %2$d به‌اندازه‌ی یک بلاک به بالا"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "حرکت دادن بلوک %1$s از موقعیت %2$d تا موقعیت %3$d"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "حرکت‌دادنِ بلاک %1$s از جایگاه %2$d به جایگاه %3$d در پایین"
+
+#: build/block-library/index.js:14
+msgid "movie"
+msgstr "فیلم"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block before the selected block(s)."
+msgstr "بلاکی تازه قبل از بلاک(های) انتخاب‌شده درج کنید."
+
+#: build/edit-post/index.js:12
+msgid "Remove the selected block(s)."
+msgstr "حذف بلوک(های) انتخاب‌شده."
+
+#: build/edit-post/index.js:12
+msgid "Duplicate the selected block(s)."
+msgstr "تکثیر بلوک(های) انتخاب‌شده."
+
+#: build/edit-post/index.js:12
+msgid "Block shortcuts"
+msgstr "میانبرهای بلوک"
+
+#: build/edit-post/index.js:12
+msgid "Clear selection."
+msgstr "حذف انتخاب"
+
+#: build/edit-post/index.js:12
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "هنگام تایپ تمام متن را انتخاب کنید برای انتخاب تمام بلوک ها دوباره فشار دهید."
+
+#: build/edit-post/index.js:12
+msgid "Selection shortcuts"
+msgstr "میانبرهای منتخب"
+
+#: build/edit-post/index.js:12
+msgid "Switch between Visual Editor and Code Editor."
+msgstr "تغییر بین ویرایشگر دیداری و متنی."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor (alternative)."
+msgstr "حرکت به بخش قبلی ویرایشگر (جایگزین)."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor (alternative)."
+msgstr "حرکت به بخش بعدی ویرایشگر (جایگزین)."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor."
+msgstr "حرکت به بخش قبلی ویرایشگر."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor."
+msgstr "حرکت به بخش بعدی ویرایشگر."
+
+#: build/edit-post/index.js:12
+msgid "Show or hide the settings sidebar."
+msgstr "نوار کناری تنظیمات را نمایش داده یا پنهان کنید."
+
+#: build/edit-post/index.js:12
+msgid "Redo your last undo."
+msgstr "انجام دوباره آخرین لغو انجام‌شده شما."
+
+#: build/edit-post/index.js:12
+msgid "Undo your last changes."
+msgstr "لغوانجام آخرین تغییرات شما."
+
+#: build/edit-post/index.js:12
+msgid "Save your changes."
+msgstr "تغییرات خود را ذخیره کنید."
+
+#: build/edit-post/index.js:12
+msgid "Display this help."
+msgstr "این راهنما را نمایش دهید."
+
+#: build/edit-post/index.js:12
+msgid "Global shortcuts"
+msgstr "میانبرهای عمومی"
+
+#: build/edit-post/index.js:12
+msgid "Remove a link."
+msgstr "حذف یک لینک."
+
+#: build/edit-post/index.js:12
+msgid "Convert the selected text into a link."
+msgstr "تبدیل متن انتخاب شده به یک لینک."
+
+#: build/edit-post/index.js:12
+msgid "Underline the selected text."
+msgstr "زیرخط دار کردن متن انتخاب‌شده."
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text italic."
+msgstr "کج‌کردن متن انتخاب‌شده."
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text bold."
+msgstr "ضخیم‌کردن متن انتخاب‌شده."
+
+#: build/edit-post/index.js:12
+msgid "Text formatting"
+msgstr "فرمت متن"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block after the selected block(s)."
+msgstr "بعد از بلوک (های) انتخاب شده، یک بلوک جدید وارد کنید."
+
+#: build/edit-post/index.js:12
+msgid "Keyboard Shortcuts"
+msgstr "میان‌برهای صفحه‌کلید"
+
+#: post-content.php:181
+msgid "Thanks for testing Gutenberg!"
+msgstr "تشکر برای آزمایش گوتنبرگ!"
+
+#: post-content.php:173
+msgid "Help build Gutenberg"
+msgstr "راهنما ساختن گوتنبرگ"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:164
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "اگر می‌خواهید درباره نحوه ساخت بلوک‌های اضافی بیشتر بدانید، یا اگر به کمک به پروژه علاقه‌مند هستید به <a href=\"%s\">مخزن GitHub</a> سر بزنید."
+
+#: post-content.php:155
+msgid "The WordPress community"
+msgstr "جامعه وردپرس"
+
+#: post-content.php:155
+msgid "Code is Poetry"
+msgstr "کد شعر است"
+
+#: post-content.php:151
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "شما می‌توانید هر بلوکی که دوست دارید ایجاد کنید، استاتیک یا پویا، تزئینی یا ساده. در اینجا یک بلوک بالایی است:"
+
+#: post-content.php:141
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "هر بلوک می‌تواند به این ترازوها برسد. بلوک جاسازی نیز آنها را دارد و از جعبه پاسخگو است:"
+
+#: post-content.php:137
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "عکس بالا یک گالری با دو تصویر است. این یک روش ساده‌تر برای ایجاد طرح‌های جذاب بصری است، بدون این که مجبور باشید با شناور شدن سر و کار داشته باشید. همچنین می‌توانید به راحتی گالری را با استفاده از تعویض بلوک به تصاویر انفرادی تبدیل کنید."
+
+#: post-content.php:126
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "مطمئنا، تصویر تمام عیار می تواند بسیار بزرگ باشد. اما گاهی اوقات تصویر ارزشش را دارد."
+
+#: post-content.php:122
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "قابلیت دسترسی مهم است & mdash؛ ویژگی alt تصویر را فراموش نکن"
+
+#: post-content.php:118
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "اگر شما ترکیب جدید <strong> گسترده </strong> و <strong> تمام عیار </strong> با گالری‌ها را ترکیب کنید، می‌توانید طرح بسیار غنی از رسانه‌ها را بسیار سریع ایجاد کنید:"
+
+#: post-content.php:114
+msgid "Media Rich"
+msgstr "رسانه غنی"
+
+#: post-content.php:110
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "شما می‌توانید با کشیدن یک اسلایدر در نوار کناری مقدار ستون‌ها را در گالری‌های خود تغییر دهید."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "بلوک می‌تواند هر چیزی که نیاز دارید باشد به عنوان مثال، ممکن است بخواهید یک نقل قول ضعیف را به عنوان بخشی از متن متن خود اضافه کنید، یا ممکن است ترجیح دهید یک نمایشگر غول پیکر تلقی کنید. همه این گزینه‌ها در داخل درج شده است."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "اطلاعات مربوط به منبع نقل قول یک فیلد متنی جداگانه است، شبیه به زیرنویس‌ها در زیر تصاویر، بنابراین ساختار نقل قول محافظت می‌شود حتی اگر شما انتخاب، اصلاح و یا حذف منبع. همیشه آسان است برای اضافه کردن آن به عقب."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "مزیت بزرگی از بلوک‌ها این است که شما می توانید آنها را در جای خود ویرایش کنید و محتوای خود را به طور مستقیم دستکاری کنید. به جای داشتن زمینه‌هایی برای ویرایش چیزهایی مانند منبع نقل قول یا متن یک دکمه، می‌توانید محتوای آن را به طور مستقیم تغییر دهید. سعی کنید که نقل قول زیر را ویرایش کنید:"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "ویرایش دیداری"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "و <em> لیست‌ها </em> البته مانند این یکی :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "طرح بندی بلوک‌ها، شبهه دکمه‌ها، تصاویر شاخص، جداکننده‌ها و غیره."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "قراردادن، مانند یوتیوب، تویت‌ها، و یا سایر پست‌های وردپرس."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "گالریها"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "فیلم و تصاویر"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "متن و عنوان"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "تصور کنید همه چیزهایی که وردپرس می تواند انجام دهد به شما در سرعت و در همان مکان در رابط کاربری در دسترس است. بدون نیاز به تشخیص تگ های HTML، کلاس ها، و یا به یاد داشته باشید نحو مختصر کوتاه. این روح پشت ورودی است - دکمه  <code>(+)</code>که در اطراف ویرایشگر مشاهده می کنید، که به شما اجازه می دهد تمام بلوک های موجود در لیست را مرور کنید و آنها را در پست خود اضافه کنید. پلاگین ها و تم ها قادر به ثبت نام خود، باز کردن همه نوع از امکانات برای ویرایش و ویرایش غنی است."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "ابزار <em>درج کننده</em>"
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "اگر پوسته شما از آن پشتیبانی کند دکمه \"عریض\" را در نوار ابزار تصویر مشاهده خواهید کرد. آن را امتحان کنید."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "یک تصویر ارزش هزار کلمه دارد"
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... مانند این یکی، که راست چین شده است."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "آنچه که در حال خواندن هستید <strong>text block</strong> است که پایه اصلی همه است. بلوک متن دارای کنترل های خاصی است که به طور آزادانه در اطراف پست منتقل می شود ..."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "هدف این ویرایشگر جدید افزودن محتوای غنی به وردپرس ساده و لذت بخش است. این پست کامل شامل  <em>pieces of content</em> است - تا حدودی شبیه به آجر LEGO - که میتوانید با آن حرکت کنید و با آن ارتباط برقرار کنید. حرکت مکان نما خود را در اطراف و شما متوجه بلوک های مختلف نور با خطوط و فلش. فلش را فشار دهید تا بلوک را به سرعت تغییر دهید، بدون اینکه ترس از دست دادن چیزهایی را در روند کپی و چسباندن داشته باشید."
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "به ویرایشگر گوتنبرگ خوش آمدید"
+
+#: build/block-library/index.js:14
+msgctxt "block name"
+msgid "More"
+msgstr "بیشتر"
+
+#: build/block-library/index.js:14
+msgctxt "button to expand options"
+msgid "More"
+msgstr "بیشتر"
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unschedule this post?"
+msgstr "آیا مطمئن هستید که میخواهید این پست را غیرقابل برنامه ریزی کنید؟"
+
+#: build/block-library/index.js:14
+msgid "Alt Text (Alternative Text)"
+msgstr "متن آلت (متن جایگزین)"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block"
+msgstr "بلوک قابل استفاده مجدد"
+
+#: build/editor/index.js:17
+msgid "Untitled Reusable Block"
+msgstr "بلاک بازکاربردپذیر بدون عنوان"
+
+#: build/block-editor/index.js:55
+msgid "(%s: %s)"
+msgstr "(%s: %s)"
+
+#: build/block-editor/index.js:55
+msgid "Reusable"
+msgstr "بازکاربردپذیر"
+
+#: build/block-editor/index.js:55
+msgid "(current %s: %s)"
+msgstr "(فعلی %s: %s)"
+
+#: build/editor/index.js:17
+msgid "Remove from Reusable Blocks"
+msgstr "حذف از بلاک‌های بازکاربردپذیر"
+
+#: build/editor/index.js:17
+msgid "Add to Reusable Blocks"
+msgstr "افزودن به بلاک‌های بازکاربردپذیر"
+
+#: build/block-library/index.js:14
+msgid "Keep as HTML"
+msgstr "نگه داشتن بعنوان HTML"
+
+#: build/block-library/index.js:14
+msgid "Edit URL"
+msgstr "ویرایش لینک"
+
+#: build/block-library/index.js:14
+msgid "Color Settings"
+msgstr "تنظیمات رنگ"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block: %s"
+msgstr "بلوک قابل استفاده مجدد: %s"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "جواب پاسخ جیسون معتبر نیست."
+
+#: build/edit-post/index.js:12
+msgid "Editor publish"
+msgstr "ویرایشگر عمومی"
+
+#: build/block-library/index.js:14
+msgid "Muted"
+msgstr "سکوت"
+
+#: build/block-library/index.js:14
+msgid "Video Settings"
+msgstr "تنظیمات ویدئو"
+
+#: build/block-library/index.js:14
+msgid "recent comments"
+msgstr "دیدگاههای اخیر"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments"
+msgstr "آخرین نظرات"
+
+#: build/block-library/index.js:14
+msgid "Display Excerpt"
+msgstr "نمایش چکیده"
+
+#: build/block-library/index.js:14
+msgid "Display Date"
+msgstr "تاریخ نمایش"
+
+#: build/block-library/index.js:14
+msgid "Display Avatar"
+msgstr "نمایش آواتار"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments Settings"
+msgstr "تنظیمات آخرین دیدگاه‌ها"
+
+#: build/block-library/index.js:14
+msgid "Number of Comments"
+msgstr "تعداد دیدگاه‌ها"
+
+#: build/block-library/index.js:14
+msgid "Background Opacity"
+msgstr "وضوح پس زمینه"
+
+#: build/block-library/index.js:14
+msgid "Auto"
+msgstr "خودکار"
+
+#: build/block-library/index.js:14
+msgid "Preload"
+msgstr "پیش‌بارگذاری"
+
+#: build/block-library/index.js:14
+msgid "Audio Settings"
+msgstr "تنظیمات صوتی"
+
+#: build/block-library/index.js:14
+msgid "Display a monthly archive of your posts."
+msgstr "نمایش یک آرشیو ماهانه از پست‌های خود."
+
+#: build/block-library/index.js:14
+msgid "Display as Dropdown"
+msgstr "نمایش به عنوان فهرست بازشو"
+
+#: build/block-library/index.js:14
+msgid "Show Post Counts"
+msgstr "نمایش تعداد نوشته‌ها"
+
+#: build/block-library/index.js:14
+msgid "Archives Settings"
+msgstr "تنظیمات بایگانی"
+
+#: gutenberg.php:60
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: gutenberg.php:58
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "تعداد دیدگاه جهت نمایش."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s در %2$s"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "انتخاب نوشته"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "انتخاب هفته"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "انتخاب روز"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "انتخاب ماه"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "انتخاب سال"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:14
+msgid "Archives"
+msgstr "بایگانی ها"
+
+#: build/block-editor/index.js:55
+msgid "Very dark gray"
+msgstr "طوسی خیلی تیره"
+
+#: build/block-editor/index.js:55
+msgid "Cyan bluish gray"
+msgstr "خاکستری مایل به آبی"
+
+#: build/block-editor/index.js:55
+msgid "Very light gray"
+msgstr "طوسی خیلی روشن"
+
+#: build/block-editor/index.js:55
+msgid "Vivid cyan blue"
+msgstr "آبی فیروزه‌ای زنده"
+
+#: build/block-editor/index.js:55
+msgid "Pale cyan blue"
+msgstr "آبی فیروزه‌ای کم رنگ"
+
+#: build/block-editor/index.js:55
+msgid "Vivid green cyan"
+msgstr "سبز فیروزه‌ای زنده"
+
+#: build/block-editor/index.js:55
+msgid "Light green cyan"
+msgstr "سبز روشن"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid amber"
+msgstr "کهربایی روشن درخشان"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid orange"
+msgstr "نارنجی روشن درخشان"
+
+#: build/block-editor/index.js:55
+msgid "Vivid red"
+msgstr "قرمز روشن"
+
+#: build/block-editor/index.js:55
+msgid "Pale pink"
+msgstr "صورتی کم‌رنگ"
+
+#: build/format-library/index.js:12
+msgid "Inline Image"
+msgstr "تصویر درونی"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Available block types"
+msgstr "انواع بلوک موجود"
+
+#: build/edit-post/index.js:12
+msgid "Welcome to the wonderful world of blocks! Click the “+” (“Add block”) button to add a new block. There are blocks available for all kinds of content: you can insert text, headings, images, lists, and lots more!"
+msgstr "به دنیای شگفت انگیز بلوک خوش آمدید برای اضافه کردن یک بلوک جدید بر روی دکمه \"+\" (\"اضافه کردن بلوک\") کلیک کنید. بلوک های موجود برای همه نوع محتوا وجود دارد: شما می‌توانید متن، عنوان، تصاویر، لیست‌ها، و موارد دیگر را وارد کنید!"
+
+#: build/block-editor/index.js:55
+msgid "Transform To:"
+msgstr "تبدیل به:"
+
+#: build/block-editor/index.js:55
+msgid "Remove Block"
+msgstr "حذف بلوک"
+
+#: build/edit-post/index.js:12
+msgid "Open publish panel"
+msgstr "باز کردن پنل انتشار"
+
+#: build/block-library/index.js:14
+msgid "Dots"
+msgstr "نقطه چین"
+
+#: build/block-library/index.js:14
+msgid "Wide Line"
+msgstr "خط ممتد"
+
+#: build/block-editor/index.js:55
+msgid "Large"
+msgstr "بزرگ"
+
+#: build/block-library/index.js:14
+msgid "Link URL"
+msgstr "آدرس لینک"
+
+#: build/block-library/index.js:14
+msgid "Custom URL"
+msgstr "URL سفارشی"
+
+#: build/block-library/index.js:14
+msgid "Show Download Button"
+msgstr "نمایش دکمه دانلود"
+
+#: build/block-library/index.js:14
+msgid "Download Button Settings"
+msgstr "تنظیمات دکمه دانلود"
+
+#: build/block-library/index.js:14
+msgid "Link To"
+msgstr "لینک به"
+
+#: build/block-library/index.js:14
+msgid "Text Link Settings"
+msgstr "تنظیمات لینک متن"
+
+#: build/block-library/index.js:14
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:14
+msgid "document"
+msgstr "سند"
+
+#: build/block-library/index.js:14
+msgid "Copy URL"
+msgstr "کپی آدرس"
+
+#: build/block-library/index.js:14
+msgid "Write file name…"
+msgstr "نام پرونده را بنویسید..."
+
+#: build/block-library/index.js:14
+msgid "Edit file"
+msgstr "ویرایش فایل"
+
+#: build/block-library/index.js:14 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "فایل"
+
+#: build/block-library/index.js:14
+msgid "A single column within a columns block."
+msgstr "یک ستون تنها در داخل یک بلوک ستون."
+
+#: build/block-library/index.js:14
+msgid "Column"
+msgstr "ستون"
+
+#: build/block-library/index.js:14
+msgid "Outline"
+msgstr "خارج خط"
+
+#: build/block-library/index.js:14
+msgid "Loop"
+msgstr "حلقه"
+
+#: build/block-library/index.js:14
+msgid "Autoplay"
+msgstr "پخش خودکار"
+
+#: build/block-library/index.js:14
+msgid "Playback Controls"
+msgstr "کنترل پخش"
+
+#: build/components/index.js:19
+msgid "Close dialog"
+msgstr "بستن گفتگو"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "با عرض پوزش، این نوع پرونده به دلایل امنیتی مجاز نیست."
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "غیر فعال کردن راهنمایی ها"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "فهمیدم"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "دیدن نکته بعدی"
+
+#: build/editor/index.js:17
+msgid "Finished writing? That’s great, let’s get this published right now. Just click “Publish” and you’re good to go."
+msgstr "نوشتن به پایان رسید؟ بسیار خوب است، اجازه دهید هم‌اکنون منتشرش کنیم. فقط با فشردن دکمه‌ی \"انتشار\" این کار را انجام دهید."
+
+#: build/editor/index.js:17
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "وقتی آماده هستید، کار خود را برای بررسی ارسال کنید، و یک ویرایشگر قادر خواهد بود آن را برای شما تأیید کند."
+
+#: build/editor/index.js:17
+msgid "Are you ready to submit for review?"
+msgstr "آیا آماده ارسال برای بازبینی هستید؟"
+
+#: build/editor/index.js:17
+msgid "Click “Preview” to load a preview of this page, so you can make sure you’re happy with your blocks."
+msgstr "روی «پیش نمایش» کلیک کنید تا یک پیش نمایش از این صفحه بارگیری شود بنابراین میتوانید مطمئن باشید که از بلوک‌هایتان راضی هستید."
+
+#: build/block-library/index.js:14
+msgid "Replace image"
+msgstr "جایگزینی تصویر"
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "خطا هنگام بارگزاری فایل %s به کتابخانه رسانه."
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "این فایل بیش از حداکثر اندازه آپلود برای این سایت است."
+
+#: build/editor/index.js:17
+msgid "View the autosave"
+msgstr "نمایش ذخیره خودکار"
+
+#: build/editor/index.js:17
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "یک ذخیره خودکار از این پست وجود دارد که جدیدتر از نسخه زیر است."
+
+#: build/editor/index.js:17
+msgid "Autosaving"
+msgstr "ذخیره خودکار"
+
+#: build/block-editor/index.js:55
+msgid "Drag a video, upload a new one or select a file from your library."
+msgstr "یک ویدیو بکشید، یک فایل جدید آپلود کنید یا یک فایل را از کتابخانه خود انتخاب کنید."
+
+#: build/block-library/index.js:14
+msgid "Enter URL here…"
+msgstr "URL را اینجا وارد کنید..."
+
+#: build/edit-post/index.js:12
+msgid "Pin to toolbar"
+msgstr "چسباندن به نوار ابزار"
+
+#: build/edit-post/index.js:12
+msgid "Unpin from toolbar"
+msgstr "برداشتن از نوار ابزار"
+
+#: build/block-library/index.js:14
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "جدول را وارد کنید - مناسب برای به اشتراک گذاری نمودارها و داده ها."
+
+#: build/block-library/index.js:14
+msgid "Fixed width table cells"
+msgstr "سلول‌های جدول با پهنای ثابت"
+
+#: build/block-library/index.js:14
+msgid "Table Settings"
+msgstr "تنظیمات جدول"
+
+#: build/block-library/index.js:14
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "متنی اضافه کنید که به فواصل و تب ها  احترام بگذارد و همچنین اجازه طراحی ظاهر را بدهد."
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent posts."
+msgstr "نمایش یک لیست از آخرین پست های شما."
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "یک بلوک را که محتوای دیگر سایت‌ها مانند توئیتر، اینستاگرام یا یوتوب را نمایش میدهد، اضافه کنید."
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "یک بلوک را که محتوا را در چندین ستون نمایش می دهد اضافه کنید، سپس هر نوع بلوک محتوایی را که دوست دارید اضافه کنید."
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "خطا در بارگیری بلوک: %s"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "ارور ناشناخته"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "جاسازی نگهدارنده"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "Remove %s"
+msgstr "حذف %s"
+
+#: build/editor/index.js:17
+msgid "Copy the permalink"
+msgstr "کپی پیوند یکتا"
+
+#: build/editor/index.js:17
+msgid "Permalink copied"
+msgstr "پیوند یکتا کپی شد"
+
+#: build/block-library/index.js:14
+msgid "Height in pixels"
+msgstr "ارتفاع در پیکسل"
+
+#: build/block-library/index.js:14
+msgid "Spacer Settings"
+msgstr "تنظیمات فاصله"
+
+#: build/block-library/index.js:14
+msgid "Spacer"
+msgstr "فاصله"
+
+#: build/block-library/index.js:14
+msgid "Toggle to show a large initial letter."
+msgstr "تغییر وضعیت برای نمایش بزرگ حرف اول."
+
+#: build/block-library/index.js:14
+msgid "Showing large initial letter."
+msgstr "نمایش بزرگ حرف شروع."
+
+#: build/block-library/index.js:14
+msgid "Name:"
+msgstr "نام:"
+
+#: build/components/index.js:19
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s of %3$s)"
+
+#: build/components/index.js:19
+msgid "Remove item"
+msgstr "حذف آیتم"
+
+#: build/components/index.js:19
+msgid "Color code: %s"
+msgstr "کد رنگ: %s"
+
+#: build/block-editor/index.js:55
+msgid "Skip to the selected block"
+msgstr "رفتن به بلوک انتخاب شده"
+
+#: build/editor/index.js:17
+msgid "Publish…"
+msgstr "انتشار..."
+
+#: build/editor/index.js:17
+msgid "Schedule…"
+msgstr "زمان‌بندی..."
+
+#: build/editor/index.js:17
+msgid "Change Permalinks"
+msgstr "تغییر پیوند یکتا"
+
+#: build/editor/index.js:17
+msgid "Edit post permalink"
+msgstr "ویرایش پیوند یکتای نوشته"
+
+#: build/edit-post/index.js:12
+msgid "Show Block Settings"
+msgstr "نمایش تنظیمات بلاک"
+
+#: build/edit-post/index.js:12
+msgid "Hide Block Settings"
+msgstr "مخفی کردن تنظیمات بلوک"
+
+#: build/edit-post/index.js:12
+msgid "Block settings closed"
+msgstr "تنظیمات بلوک بسته شد"
+
+#: build/edit-post/index.js:12
+msgid "Close plugin"
+msgstr "بستن افزونه"
+
+#: build/edit-post/index.js:12
+msgid "Editor settings"
+msgstr "تنظیمات ویرایشگر"
+
+#: build/block-library/index.js:14 build/block-editor/index.js:55
+msgid "Link Settings"
+msgstr "تنظیمات لینک"
+
+#: build/format-library/index.js:12
+msgid "Unlink"
+msgstr "بدون لینک"
+
+#: build/block-library/index.js:14
+msgid "Page break"
+msgstr "برش صفحه"
+
+#: build/block-library/index.js:14
+msgid "pagination"
+msgstr "صفحه‌بندی"
+
+#: build/block-library/index.js:14
+msgid "next page"
+msgstr "صفحه بعدی"
+
+#: build/block-library/index.js:14
+msgid "Image Size"
+msgstr "اندازه تصویر"
+
+#: build/block-library/index.js:14
+msgid "Height"
+msgstr "طول"
+
+#: build/block-library/index.js:14 build/format-library/index.js:12
+msgid "Width"
+msgstr "عرض"
+
+#: build/block-library/index.js:14
+msgid "Image Dimensions"
+msgstr "ابعاد تصویر"
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are not cropped."
+msgstr "تصاویر بندانگشتی بریده نمی‌شوند."
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are cropped to align."
+msgstr "تصاویر بندانگشتی به هم چسبیده می شوند."
+
+#: build/block-editor/index.js:55
+msgid "Media Library"
+msgstr "کتابخانه رسانه"
+
+#: build/block-editor/index.js:55
+msgid "Advanced"
+msgstr "موارد بیشتر"
+
+#: build/components/index.js:19
+msgid "Add item"
+msgstr "این مورد را اضافه کنید"
+
+#: build/editor/index.js:17
+msgid "Reset the template"
+msgstr "الگو را بازنشانی کنید"
+
+#: build/editor/index.js:17
+msgid "Keep it as is"
+msgstr "آن را حفظ کنید"
+
+#: build/editor/index.js:17
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "محتوای نوشته شما مطابق با الگوی اختصاص یافته به نوع نوشته شما نیست."
+
+#: build/editor/index.js:17
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "بازنشانی الگو ممکن است منجر به از دست دادن محتوای شود، آیا می خواهید ادامه دهید؟"
+
+#: build/editor/index.js:17
+msgid "Document Statistics"
+msgstr "آمار سند"
+
+#: build/editor/index.js:17
+msgid "is now scheduled. It will go live on"
+msgstr "اکنون برنامه ریزی شده است ادامه خواهد داد"
+
+#: build/editor/index.js:17
+msgid "Scheduled"
+msgstr "زمان‌بندی‌شده"
+
+#: build/editor/index.js:17
+msgid "Scheduling…"
+msgstr "در حال زمانبندی…"
+
+#: build/edit-post/index.js:12
+msgid "Code editor selected"
+msgstr "ویرایشگر کد انتخاب شده است"
+
+#: build/edit-post/index.js:12
+msgid "Visual editor selected"
+msgstr "ویرایشگر ظاهریانتخاب شده است"
+
+#: build/edit-post/index.js:12
+msgid "Plugins"
+msgstr "افزونه‌ها"
+
+#: build/components/index.js:19
+msgid "Custom Size"
+msgstr "انداره سفارشی"
+
+#: build/blocks/index.js:2
+msgid "Layout Elements"
+msgstr "عناصر طرح"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s حذف شد"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s added"
+msgstr "%s افزوده شد"
+
+#: build/editor/index.js:17
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "پیش‌نمایش"
+
+#: build/editor/index.js:17
+msgid "Block deleted."
+msgstr "بلاک حذف شد."
+
+#: build/editor/index.js:17
+msgid "Block updated."
+msgstr "بلاک بروزرسانی شد."
+
+#: build/editor/index.js:17
+msgid "Block created."
+msgstr "بلاک ایجاد شد."
+
+#: build/editor/index.js:17
+msgid "Trashing failed"
+msgstr "حذف کردن ناموفق"
+
+#: build/editor/index.js:17
+msgid "Updating failed"
+msgstr "بروزرسانی ناموفق"
+
+#: build/editor/index.js:17
+msgid "Scheduling failed"
+msgstr "زمانبندی ناموفق"
+
+#: build/editor/index.js:17
+msgid "Publishing failed"
+msgstr "انتشار ناموفق"
+
+#: build/editor/index.js:17
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "شما تغییرات ذخیره نشده دارید اگر ادامه دهید، آنها از دست خواهند رفت."
+
+#: build/editor/index.js:17
+msgid "Document Outline"
+msgstr "طرح اسناد"
+
+#: build/editor/index.js:17
+msgid "Paragraphs"
+msgstr "پاراگراف‌ها"
+
+#: build/editor/index.js:17
+msgid "Headings"
+msgstr "تیترها"
+
+#: build/editor/index.js:17
+msgid "Words"
+msgstr "واژه‌ها"
+
+#: build/editor/index.js:17
+msgid "Content structure"
+msgstr "ساختار محتوا"
+
+#: build/editor/index.js:17
+msgid "Public"
+msgstr "عمومی"
+
+#: build/editor/index.js:17
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "حفاظت شده با کلمه عبور را انتخاب کردید. تنها کسانی که کلمه عبور را داشته باشند می توانند نوشته را ببینند."
+
+#: build/editor/index.js:17
+msgid "Password Protected"
+msgstr "حفاظت شده با کلمه عبور"
+
+#: build/editor/index.js:17
+msgid "Only visible to site admins and editors."
+msgstr "فقط برای مدیر سایت و ویرایشگر قابل مشاهده."
+
+#: build/editor/index.js:17
+msgid "Private"
+msgstr "خصوصی"
+
+#: build/editor/index.js:17
+msgid "Visible to everyone."
+msgstr "برای همه قابل مشاهده."
+
+#: build/editor/index.js:17
+msgid "Post Visibility"
+msgstr "قابل مشاهده بودن نوشته"
+
+#: build/editor/index.js:17
+msgid "Would you like to privately publish this post now?"
+msgstr "آیا می خواهید این نوشته را بصورت خصوصی منتشر کنید؟"
+
+#: build/editor/index.js:17
+msgid "Use a secure password"
+msgstr "استفاده از کلمه عبور من"
+
+#: build/editor/index.js:17
+msgid "Create password"
+msgstr "ایجاد کلمه عبور"
+
+#: build/editor/index.js:17
+msgid "Move to Trash"
+msgstr "انتقال به زباله‌دان"
+
+#: build/editor/index.js:17
+msgid "Parent Term"
+msgstr "شرط والد"
+
+#: build/editor/index.js:17
+msgid "Parent Category"
+msgstr "دسته والد"
+
+#: build/editor/index.js:17
+msgid "Add new term"
+msgstr "افزودن شرط جدید"
+
+#: build/editor/index.js:17
+msgid "Add new category"
+msgstr "افزودن دسته جدید"
+
+#: build/editor/index.js:17
+msgid "Term"
+msgstr "شرط"
+
+#: build/editor/index.js:17
+msgid "Tag"
+msgstr "برچسب"
+
+#: build/editor/index.js:17
+msgid "Add New Term"
+msgstr "افزودن شرط جدید"
+
+#: build/editor/index.js:17
+msgid "Add New Tag"
+msgstr "افزودن برچسب جدید"
+
+#: build/editor/index.js:17
+msgid "Switch to Draft"
+msgstr "تغییر به پیش‌نویس"
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unpublish this post?"
+msgstr "آیا مطمئنید می خواهید این نوشته را از حالت انتشار خارج نمائید؟"
+
+#: build/editor/index.js:17
+msgid "Immediately"
+msgstr "بلافاصله"
+
+#: build/editor/index.js:17
+msgid "Save Draft"
+msgstr "ذخيره پیش‌نویس"
+
+#: build/editor/index.js:17
+msgid "Saving"
+msgstr "ذخیره‌سازی"
+
+#: build/editor/index.js:17
+msgid "Publish:"
+msgstr "انتشار:"
+
+#: build/editor/index.js:17
+msgid "Visibility:"
+msgstr "قابلیت مشاهده: "
+
+#: build/editor/index.js:17
+msgid "Are you ready to publish?"
+msgstr "آیا آماده انتشار هستید؟"
+
+#: build/editor/index.js:17
+msgid "Copy Link"
+msgstr "کپی پیوند"
+
+#: build/editor/index.js:17
+msgid "What’s next?"
+msgstr "گام بعدی چیست؟"
+
+#: build/editor/index.js:17
+msgid "is now live."
+msgstr "اکنون زنده است."
+
+#: build/editor/index.js:17
+msgid "Published"
+msgstr "منتشر شده"
+
+#: build/editor/index.js:17
+msgid "Schedule"
+msgstr "زمان بندی کردن"
+
+#: build/editor/index.js:17 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: build/editor/index.js:17
+msgid "Submit for Review"
+msgstr "ارسال برای بازبینی"
+
+#: build/editor/index.js:17
+msgid "Updating…"
+msgstr "در حال بروز رسانی…"
+
+#: build/editor/index.js:17
+msgid "Publishing…"
+msgstr "درحال انتشار…"
+
+#: build/editor/index.js:17
+msgid "Allow Pingbacks & Trackbacks"
+msgstr "اجازه Pingbacks و Trackbacks"
+
+#: build/editor/index.js:17
+msgid "Permalink:"
+msgstr "پیوندیکتا:"
+
+#: build/editor/index.js:17
+msgid "Pending Review"
+msgstr "درانتظار بررسی"
+
+#: build/editor/index.js:17
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d بازبینی"
+
+#: build/editor/index.js:17
+msgid "Suggestion:"
+msgstr "پیشنهادی:"
+
+#: build/editor/index.js:17
+msgid "Post Format"
+msgstr "نوع نوشته"
+
+#: build/editor/index.js:17
+msgid "Chat"
+msgstr "چت"
+
+#: build/editor/index.js:17
+msgid "Status"
+msgstr "وضعیت"
+
+#: build/editor/index.js:17
+msgid "Standard"
+msgstr "استاندارد"
+
+#: build/editor/index.js:17
+msgid "Aside"
+msgstr "کنارهم"
+
+#: build/editor/index.js:17
+msgid "Set Featured Image"
+msgstr "تنظیم تصویر ویژه"
+
+#: build/editor/index.js:17
+msgid "Learn more about manual excerpts"
+msgstr "یادگیری بیشتر درباره خلاصه دستی"
+
+#: build/editor/index.js:17
+msgid "Write an excerpt (optional)"
+msgstr "نوشتن خلاصه (اختیاری)"
+
+#: build/editor/index.js:17
+msgid "Allow Comments"
+msgstr "پذیرفتن دیدگاه"
+
+#: build/editor/index.js:17
+msgid "Template:"
+msgstr "قالب:"
+
+#: build/editor/index.js:17
+msgid "no parent"
+msgstr "بدون والد"
+
+#: build/editor/index.js:17
+msgid "no title"
+msgstr "بدون عنوان"
+
+#: build/editor/index.js:17
+msgid "Order"
+msgstr "سفارش"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "No blocks found."
+msgstr "بلاکی یافت نشد."
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d نتیجه یافت شد."
+
+#: build/editor/index.js:17
+msgid "Saved"
+msgstr "ذخیره شد"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "جاسازی‌ها"
+
+#: build/editor/index.js:17
+msgid "Blocks"
+msgstr "بلوک‌ها"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Search for a block"
+msgstr "جستجو برای بلوک"
+
+#: build/block-editor/index.js:55
+msgid "Add block"
+msgstr "افزودن بلوک"
+
+#: build/block-editor/index.js:55
+msgid "Add %s"
+msgstr "افزودن %s"
+
+#: build/editor/index.js:17
+msgid "Copy Error"
+msgstr "کپی خطا"
+
+#: build/editor/index.js:17
+msgid "Copy Post Text"
+msgstr "کپی متن نوشته"
+
+#: build/editor/index.js:17
+msgid "Attempt Recovery"
+msgstr "تلاش برای بازیابی"
+
+#: build/editor/index.js:17
+msgid "The editor has encountered an unexpected error."
+msgstr "ویرایشگر با یک خطای نابهنگام مواجه شد."
+
+#: build/editor/index.js:17
+msgid "Undo"
+msgstr "بازگردانی"
+
+#: build/editor/index.js:17
+msgid "Redo"
+msgstr "بازانجام"
+
+#: build/editor/index.js:17
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(استفاده چندگانه از H1 توصیه نمی شود)"
+
+#: build/editor/index.js:17
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(قالب شما شاید از H1 برای عنوان متن استفاده می کند)"
+
+#: build/editor/index.js:17
+msgid "(Incorrect heading level)"
+msgstr "(سطح تیتر اشتباه)"
+
+#: build/editor/index.js:17
+msgid "(Empty heading)"
+msgstr "(تیتر خالی)"
+
+#: build/block-editor/index.js:55
+msgid "Block Styles"
+msgstr "استایلهای بلاک"
+
+#: build/editor/index.js:17
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"آیا مطمئنید می خواهید بلاک اشتراک گذاری شده را حذف کنید؟\n"
+"\n"
+"ان بصورت کلی تمام نوشته‌ها و برگه‌هایی که از آن استفاده شده است حذف می کند."
+
+#: build/editor/index.js:17
+msgid "Convert to Regular Block"
+msgstr "تبدیل به بلاک معمولی"
+
+#: build/block-editor/index.js:55
+msgid "More options"
+msgstr "تنظیمات بیشتر"
+
+#: build/block-editor/index.js:55
+msgid "Edit visually"
+msgstr "ویرایش بصری"
+
+#: build/block-editor/index.js:55
+msgid "Duplicate"
+msgstr "تکثیر"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "بلاک‌هایی که نمی توانند به پایین منتقل شوند از انجا که خودشان پایین هستند"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "بلاک‌هایی که نمی توانند به بالا منتقل شوند از آنجا که خودشان در بالا هستند"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the beginning of the content and can’t be moved up"
+msgstr "بلاک %s در ابتدای متن است و نمی تواند به پایین منتقل شود"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the end of the content and can’t be moved down"
+msgstr "بلاک %s در انتهای متن است و نمی تواند به پایین منتقل شود"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "بلاک %s تنها یک بلاک است، و نمی تواند منتقل شود"
+
+#: build/block-editor/index.js:55
+msgid "Move down"
+msgstr "حرکت به پایین"
+
+#: build/block-editor/index.js:55
+msgid "Move up"
+msgstr "حرکت به بالا"
+
+#: build/block-editor/index.js:55
+msgid "Edit as HTML"
+msgstr "ویرایش به عنوان HTML"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Blocks"
+msgstr "تبدیل به بلاک‌ها"
+
+#: build/block-editor/index.js:55
+msgid "Block: %s"
+msgstr "بلوک: %s"
+
+#: build/block-editor/index.js:55
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "این بلاک دارای خطایی است و نمی تواند پیش نمایش داشته باشد."
+
+#: build/block-editor/index.js:55
+msgid "No block selected."
+msgstr "بلوکی انتخاب نشده است."
+
+#: build/edit-post/index.js:12
+msgid "Transform into:"
+msgstr "تبدیل شدن به:"
+
+#: build/edit-post/index.js:12
+msgid "Remove"
+msgstr "حذف کردن"
+
+#: build/edit-post/index.js:12
+msgid "Find original"
+msgstr "یافتن اصلی"
+
+#: build/edit-post/index.js:12
+msgid "Copy All Content"
+msgstr "کپی همه محتوا"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+#: build/edit-post/index.js:12
+msgid "Copied!"
+msgstr "کپی شد!"
+
+#: build/edit-post/index.js:12
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "تنظیمات اضافی در نوار کناری تنظیمات پیشرفته ویرایشگر موجود است"
+
+#: build/edit-post/index.js:12
+msgid "Visibility"
+msgstr "قابل مشاهده بودن"
+
+#: build/edit-post/index.js:12
+msgid "Status & Visibility"
+msgstr "وضعیت و قابل مشاهده بودن"
+
+#: build/edit-post/index.js:12
+msgid "Page Attributes"
+msgstr "ویژگی‌های برگه"
+
+#: build/edit-post/index.js:12
+msgid "Block"
+msgstr "بلوک"
+
+#: build/edit-post/index.js:12
+msgid "Document"
+msgstr "سند"
+
+#: build/editor/index.js:17 build/edit-post/index.js:12
+msgid "Featured Image"
+msgstr "تصویر شاخص"
+
+#: build/edit-post/index.js:12
+msgid "Close settings"
+msgstr "تنظیمات بستن"
+
+#: build/edit-post/index.js:12
+msgid "Editor plugins"
+msgstr "افزونه‌های ویرایشگر"
+
+#: build/edit-post/index.js:12
+msgid "Editor content"
+msgstr "محتوای ویرایشگر"
+
+#: build/edit-post/index.js:12
+msgid "Tools"
+msgstr "ابزارها"
+
+#: build/edit-post/index.js:12
+msgid "Editor"
+msgstr "ویرایشگر"
+
+#: build/edit-post/index.js:12
+msgid "Code Editor"
+msgstr "ویرایشگر کد"
+
+#: build/edit-post/index.js:12
+msgid "Visual Editor"
+msgstr "ویرایشگر دیداری"
+
+#: build/edit-post/index.js:12
+msgid "Editor top bar"
+msgstr "نوارابزار ویرایشگر"
+
+#: build/edit-post/index.js:12
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: build/block-library/index.js:14 build/components/index.js:19
+msgid "Reset"
+msgstr "بازنشانی"
+
+#: build/components/index.js:19
+msgid "Dismiss this notice"
+msgstr "نادیده گرفتن این اعلان"
+
+#: build/components/index.js:19
+msgid "Item removed."
+msgstr "مورد حذف شد."
+
+#: build/components/index.js:19
+msgid "Item added."
+msgstr "مورد افزوده شد."
+
+#: build/components/index.js:19
+msgid "Drop files to upload"
+msgstr "برای بارگذاری پرونده بکشید و رها کنید"
+
+#: build/components/index.js:19
+msgid "PM"
+msgstr "بعدازظهر"
+
+#: build/components/index.js:19
+msgid "AM"
+msgstr "ق.ظ"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "خطای ناشناخته ای رخ داد."
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "No results."
+msgstr "بدون نتیجه."
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "%d نتیجه یافت شد، از نشانه‌گر بالا و پایین برای سیر در آن استفاده کنید."
+
+#: build/block-library/blocks/latest-comments.php:31 build/editor/index.js:17
+#: build/edit-post/index.js:12
+msgid "(no title)"
+msgstr "(بدون عنوان)"
+
+#: build/block-library/index.js:14 build/block-editor/index.js:55
+msgid "URL"
+msgstr "لینک "
+
+#: build/block-editor/index.js:55
+msgid "Submit"
+msgstr "ارسال"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+#: build/components/index.js:19
+msgid "Close"
+msgstr "بسته"
+
+#: build/block-editor/index.js:55
+msgid "Insert Link"
+msgstr "افزودن پیوند"
+
+#: build/block-editor/index.js:55
+msgid "Edit Link"
+msgstr "ویرایش پیوند"
+
+#: build/editor/index.js:17 build/format-library/index.js:12
+msgid "Link"
+msgstr "پیوند"
+
+#: build/format-library/index.js:12
+msgid "Strikethrough"
+msgstr "از بین بردن"
+
+#: build/format-library/index.js:12
+msgid "Italic"
+msgstr "کج"
+
+#: build/format-library/index.js:12
+msgid "Bold"
+msgstr "ضخیم"
+
+#: build/block-library/index.js:14 build/components/index.js:19
+msgid "Number of items"
+msgstr "تعداد موارد"
+
+#: build/components/index.js:19
+msgid "All"
+msgstr "همه"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "Category"
+msgstr "دسته"
+
+#: build/components/index.js:19
+msgid "Z → A"
+msgstr "Z \t A"
+
+#: build/components/index.js:19
+msgid "A → Z"
+msgstr "A \t Z"
+
+#: build/components/index.js:19
+msgid "Oldest to Newest"
+msgstr "قدیم به جدید"
+
+#: build/components/index.js:19
+msgid "Newest to Oldest"
+msgstr "جدید به قدیم"
+
+#: build/components/index.js:19
+msgid "Order by"
+msgstr "مرتب‌سازی براساس"
+
+#: build/media-utils/index.js:1
+msgid "Select"
+msgstr "انتخاب"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "انتخاب یا بارگذاری چندرسانه"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+#: build/block-editor/index.js:55
+msgid "Video"
+msgstr "ویدئو"
+
+#: build/block-library/index.js:14
+msgid "Edit video"
+msgstr "ویرایش ویدئو"
+
+#: build/block-library/index.js:14
+msgid "Write…"
+msgstr "نوشتن…"
+
+#: build/block-library/index.js:14
+msgid "poetry"
+msgstr "شعر"
+
+#: build/block-library/index.js:14
+msgid "Verse"
+msgstr "شعر"
+
+#: build/block-library/index.js:14
+msgid "New Column"
+msgstr "ستون جدید"
+
+#: build/block-library/index.js:14
+msgid "Delete Column"
+msgstr "حذف ستون"
+
+#: build/block-library/index.js:14
+msgid "Add Column After"
+msgstr "افزودن ستون به بعد"
+
+#: build/block-library/index.js:14
+msgid "Add Column Before"
+msgstr "افزودن ستون به قبل"
+
+#: build/block-library/index.js:14
+msgid "Delete Row"
+msgstr "حذف ردیف"
+
+#: build/block-library/index.js:14
+msgid "Add Row After"
+msgstr "افزودن ردیف به بعد"
+
+#: build/block-library/index.js:14
+msgid "Add Row Before"
+msgstr "افزودن ردیف به قبل"
+
+#: build/block-library/index.js:14
+msgid "Edit table"
+msgstr "ویرایش جدول"
+
+#: build/block-library/index.js:14
+msgid "Table"
+msgstr "جدول"
+
+#: build/block-library/index.js:14
+msgid "Write subheading…"
+msgstr "نوشتن توضیحات برای عنوان"
+
+#: build/block-library/index.js:14
+msgid "Write shortcode here…"
+msgstr "نوشت کدکوتاه اینجا…"
+
+#: build/block-library/index.js:14
+msgid "Shortcode"
+msgstr "کدکوتاه"
+
+#: build/block-library/index.js:14
+msgid "divider"
+msgstr "تقسیم کننده"
+
+#: build/block-library/index.js:14
+msgid "horizontal-line"
+msgstr "خط جداکننده افقی"
+
+#: build/block-library/index.js:14
+msgid "Separator"
+msgstr "جداکننده"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Quote"
+msgstr "نقل قول"
+
+#: build/block-library/index.js:14
+msgid "Write citation…"
+msgstr "نوشتن استناد…"
+
+#: build/block-library/index.js:14
+msgid "Write quote…"
+msgstr "نوشتن نقل قول…"
+
+#: build/block-library/index.js:14
+msgid "Pullquote"
+msgstr "کشیدن نقل قول"
+
+#: build/block-library/index.js:14
+msgid "Write preformatted text…"
+msgstr "نوشتن متن پیش فرمت شده…"
+
+#: build/block-library/index.js:14
+msgid "Preformatted"
+msgstr "پیش فرمت شده"
+
+#: build/block-library/index.js:14
+msgid "text"
+msgstr "متن"
+
+#: build/block-library/index.js:14
+msgid "Paragraph"
+msgstr "پاراگراف"
+
+#: build/components/index.js:19
+msgid "Font Size"
+msgstr "اندازه فونت"
+
+#: build/block-library/index.js:14
+msgid "Drop Cap"
+msgstr "راس افتادن"
+
+#: build/block-library/index.js:14
+msgid "Text Settings"
+msgstr "تنظیمات متن"
+
+#: build/block-library/index.js:14
+msgid "Read more"
+msgstr "ادامه مطلب"
+
+#: build/block-library/index.js:14
+msgid "Write list…"
+msgstr "نوشتن لیست…"
+
+#: build/block-library/index.js:14
+msgid "numbered list"
+msgstr "لیست عددی"
+
+#: build/block-library/index.js:14
+msgid "ordered list"
+msgstr "لیست مرتب شده"
+
+#: build/block-library/index.js:14
+msgid "bullet list"
+msgstr "لیست نقطه‌ای"
+
+#: build/block-editor/index.js:55
+msgid "Indent list item"
+msgstr "مورد لیست فرورفته"
+
+#: build/block-editor/index.js:55
+msgid "Outdent list item"
+msgstr "مورد لیست فرونرفته"
+
+#: build/block-editor/index.js:55
+msgid "Convert to ordered list"
+msgstr "تبدیل به لیست مرتب"
+
+#: build/block-editor/index.js:55
+msgid "Convert to unordered list"
+msgstr "تبدیل به لیست بدون ترتیب"
+
+#: build/block-library/index.js:14
+msgid "List"
+msgstr "لیست"
+
+#: build/block-library/index.js:14
+msgid "recent posts"
+msgstr "نوشته‌های اخیر"
+
+#: build/block-library/index.js:14
+msgid "No posts found."
+msgstr "نوشته ای یافت نشد."
+
+#: build/block-library/index.js:14
+msgid "Latest Posts"
+msgstr "نوشته‌های اخیر"
+
+#: build/block-library/index.js:14
+msgid "Display post date"
+msgstr "نمایش تاریخ نوشته"
+
+#: build/block-library/index.js:14
+msgid "Grid View"
+msgstr "نمای جدولی"
+
+#: build/block-library/index.js:14
+msgid "List View"
+msgstr "آخرین مشاهده"
+
+#: build/block-library/index.js:14 build/format-library/index.js:12
+msgid "photo"
+msgstr "تصویر"
+
+#: build/block-library/index.js:14
+msgid "Image Settings"
+msgstr "تنظیمات تصویر"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+#: build/block-editor/index.js:55
+msgid "Image"
+msgstr "تصویر"
+
+#: build/block-library/index.js:14 build/edit-post/index.js:12
+#: build/block-editor/index.js:55
+msgid "Preview"
+msgstr "پیش‌نمایش"
+
+#: build/block-library/index.js:14
+msgid "embed"
+msgstr "جاسازی"
+
+#: build/block-library/index.js:14
+msgid "Custom HTML"
+msgstr "کد سفارشی HTML"
+
+#: build/block-library/index.js:14
+msgid "subtitle"
+msgstr "زیرعنوان"
+
+#: build/block-library/index.js:14
+msgid "title"
+msgstr "عنوان"
+
+#: build/block-library/index.js:14
+msgid "Heading"
+msgstr "تیتر"
+
+#: build/block-library/index.js:14
+msgid "Write heading…"
+msgstr "نوشتن عنوان…"
+
+#: build/block-library/index.js:14
+msgid "Heading %d"
+msgstr "تیتر %s"
+
+#: build/block-library/index.js:14
+msgid "Level"
+msgstr "سطح"
+
+#: build/block-library/index.js:14
+msgid "Heading Settings"
+msgstr "تنظیمات تیتر"
+
+#: build/block-library/index.js:14
+msgid "photos"
+msgstr "تصاویر"
+
+#: build/block-library/index.js:14
+msgid "images"
+msgstr "تصاویر"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Remove Image"
+msgstr "حذف تصویر"
+
+#: build/block-library/index.js:14
+msgid "None"
+msgstr "هیچ‌یک"
+
+#: build/block-library/index.js:14
+msgid "Media File"
+msgstr "پرونده چندرسانه"
+
+#: build/block-library/index.js:14
+msgid "Attachment Page"
+msgstr "پیوست برگه"
+
+#: build/block-library/index.js:14
+msgid "Crop Images"
+msgstr "برش تصاویر"
+
+#: build/block-library/index.js:14
+msgid "Gallery Settings"
+msgstr "تنظیمات گالری"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Gallery"
+msgstr "گالری"
+
+#: build/block-library/index.js:14
+msgid "Edit gallery"
+msgstr "ویرایش گالری"
+
+#: build/block-library/index.js:14
+msgid "Classic"
+msgstr "کلاسیک"
+
+#: build/block-library/index.js:14
+msgid "video"
+msgstr "ویدئو"
+
+#: build/block-library/index.js:14
+msgid "audio"
+msgstr "صوت"
+
+#: build/block-library/index.js:14
+msgid "music"
+msgstr "موسیقی"
+
+#: build/block-library/index.js:14
+msgid "image"
+msgstr "تصویر"
+
+#: build/block-library/index.js:14
+msgid "blog"
+msgstr "بلاگ"
+
+#: build/block-library/index.js:14
+msgid "post"
+msgstr "نوشته"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s"
+msgstr "جاسازی کردن محتوا از %s"
+
+#: build/block-library/index.js:14
+msgid "Enter URL to embed here…"
+msgstr "آدرس پیوند را برای جاسازی وارد کنید…"
+
+#: build/block-library/index.js:14
+msgid "%s URL"
+msgstr "%s آدرس اینترنتی"
+
+#: build/block-library/index.js:14
+msgid "Embedding…"
+msgstr "جاسازی…"
+
+#: build/block-library/index.js:14
+msgid "Write title…"
+msgstr "نوشتن عنوان…"
+
+#: build/block-library/index.js:14
+msgid "Text Alignment"
+msgstr "موقعیت متن"
+
+#: build/block-library/index.js:14
+msgid "Fixed Background"
+msgstr "پس زمینه ثابت"
+
+#: build/block-library/index.js:14
+msgid "Edit image"
+msgstr "ویرایش تصویر"
+
+#: build/block-library/index.js:14
+msgid "Columns"
+msgstr "ستون‌ها"
+
+#: build/block-library/index.js:14
+msgid "Code"
+msgstr "کد"
+
+#: build/block-library/index.js:14
+msgid "Write code…"
+msgstr "نوشتن کد…"
+
+#: build/block-library/index.js:14
+msgid "Categories"
+msgstr "دسته‌ها"
+
+#: build/block-library/index.js:14
+msgid "Show Hierarchy"
+msgstr "نمایش سلسله مراتبی"
+
+#: build/block-library/index.js:14
+msgid "Show post counts"
+msgstr "نمایش تعداد نوشته‌ها"
+
+#: build/block-library/index.js:14
+msgid "Categories Settings"
+msgstr "تنظیمات دسته‌ها"
+
+#: build/block-library/index.js:14
+msgid "Add text…"
+msgstr "افزودن متن…"
+
+#: build/block-library/index.js:14
+msgid "Button"
+msgstr "دکمه"
+
+#: build/block-library/index.js:14 build/block-editor/index.js:55
+#: build/format-library/index.js:12
+msgid "Apply"
+msgstr "اعمال کردن"
+
+#: build/block-library/index.js:14
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: build/block-library/index.js:14
+msgid "Background Color"
+msgstr "رنگ پس‌زمینه"
+
+#: build/block-library/index.js:14
+msgid "Block has been deleted or is unavailable."
+msgstr "بلاک حذف شده یا دردسترس نمی باشد."
+
+#: build/blocks/index.js:2
+msgid "Reusable Blocks"
+msgstr "بلوک‌های قابل استفاده دوباره"
+
+#: build/block-editor/index.js:55
+msgid "Cancel"
+msgstr "لغو"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+#: build/format-library/index.js:12
+msgid "Edit"
+msgstr "ویرایش"
+
+#: build/block-library/index.js:14
+msgid "Edit audio"
+msgstr "ویرایش صدا"
+
+#: build/block-library/index.js:14
+msgid "Write caption…"
+msgstr "نوشتن عنوان…"
+
+#: build/block-library/index.js:14
+msgid "Use URL"
+msgstr "بکارگیری URL"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+#: build/block-editor/index.js:55
+msgid "Audio"
+msgstr "صدا"
+
+#: build/block-editor/index.js:55
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: build/block-editor/index.js:55
+msgid "Additional CSS Class(es)"
+msgstr "کلاس‌(های) CSS اضافی"
+
+#: build/block-editor/index.js:55
+msgid "Anchors lets you link directly to a section on a page."
+msgstr "لنگرها اجازه می دهد مستقیم پیوند ایجاد کنید به بخشی از برگه."
+
+#: build/block-editor/index.js:55
+msgid "HTML Anchor"
+msgstr "لنگر HTML"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "این ترکیب رنگ ممکن است برای افراد هنگام خواندن مشکل ایجاد کند. پشت زمینه روشنتر یا رنگ متن تاریکتر انتخاب کنید."
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "این ترکیب رنگ ممکن است برای افراد هنگام خواندن مشکل ایجاد کند. پشت زمینه تاریکتر یا رنگ متن را روشنتر انتخاب کنید."
+
+#: build/components/index.js:19
+msgid "Clear"
+msgstr "پاک کردن"
+
+#: build/components/index.js:19
+msgid "Custom color picker"
+msgstr "مجموعه سفارشی رنگ"
+
+#: build/components/index.js:19
+msgid "Color: %s"
+msgstr "رنگ: %s"
+
+#: build/block-editor/index.js:55
+msgid "Full width"
+msgstr "عرض کامل"
+
+#: build/block-editor/index.js:55
+msgid "Wide width"
+msgstr "عرض گسترده"
+
+#: build/blocks/index.js:2
+msgid "Widgets"
+msgstr "ابزارک‌ها"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "فرمت کردن"
+
+#: build/blocks/index.js:2
+msgid "Common Blocks"
+msgstr "بلوک‌های مشترک"
+
+#: build/block-editor/index.js:55
+msgid "Align right"
+msgstr "راست چین"
+
+#: build/block-editor/index.js:55
+msgid "Align center"
+msgstr "وسط چین"
+
+#: build/block-editor/index.js:55
+msgid "Align left"
+msgstr "چپ چین"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "پرینت گرفتن از 1440. این افزونه در حال توسعه برای ویرایشگر جدید بلاک در هسته است."
+
+#: build/editor/index.js:17
+msgid "Add title"
+msgstr "افزودن عنوان"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "تیم گوتنبرگ"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "گوتنبرگ"
+
+#: build/editor/index.js:17
+msgid "Author"
+msgstr "نویسنده"
+
+#: build/edit-post/index.js:12
+msgid "Discussion"
+msgstr "گفتگو"
+
+#: build/edit-post/index.js:12
+msgid "Custom Fields"
+msgstr "فیلدهای سفارشی"
+
+#: build/edit-post/index.js:12
+msgid "Excerpt"
+msgstr "چکیده"
+
+#: build/editor/index.js:17 build/edit-post/index.js:12
+msgid "Publish"
+msgstr "انتشار"
+
+#: build/block-library/index.js:14
+msgid "Metadata"
+msgstr "داده متا"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Save"
+msgstr "ذخیره"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:80
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "گوتنبرگ به وردپرس %s یا جدیدتر برای عملکرد صحیح نیاز دارد. لطفا قبل از فعالسازی گوتنبرگ وردپرس را ارتقاء دهید."
+
+#: gutenberg.php:64
+msgid "Documentation"
+msgstr "مستندات"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "پیشنمایش"
+
+#: build/block-library/blocks/latest-posts.php:37
+#: build/block-library/blocks/rss.php:35 build/block-library/index.js:14
+msgid "(Untitled)"
+msgstr "(بدون عنوان)"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "انتخاب دسته"

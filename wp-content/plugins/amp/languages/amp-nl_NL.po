@@ -1,0 +1,127 @@
+# Translation of Plugins - AMP - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - AMP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-26 18:19:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - AMP - Stable (latest release)\n"
+
+#: includes/class-amp-content.php:102
+msgid "Sanitizer (%s) class does not exist"
+msgstr "Sanitizer (%s) klasse bestaat niet"
+
+#: templates/meta-taxonomy.php:17
+msgid "Tags: %s"
+msgstr "Tags: %s"
+
+#: templates/meta-taxonomy.php:4
+msgid "Categories: %s"
+msgstr "Categorieën: %s"
+
+#: templates/footer.php:7
+msgid "Back to top"
+msgstr "Terug naar boven"
+
+#: templates/footer.php:5
+msgid "Powered by %s"
+msgstr "Mogelijk gemaakt door %s"
+
+#: templates/footer.php:5
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: includes/settings/class-amp-customizer-design-settings.php:113
+msgid "Dark"
+msgstr "Donker"
+
+#: includes/settings/class-amp-customizer-design-settings.php:112
+msgid "Light"
+msgstr "Licht"
+
+#: includes/settings/class-amp-customizer-design-settings.php:75
+msgid "Color Scheme"
+msgstr "Kleurschema"
+
+#: includes/settings/class-amp-customizer-design-settings.php:66
+msgid "Header Background & Link Color"
+msgstr "Kopachtergrond & linkkleur"
+
+#: includes/settings/class-amp-customizer-design-settings.php:56
+msgid "Header Text Color"
+msgstr "Koptekstkleur"
+
+#: includes/settings/class-amp-customizer-design-settings.php:48
+msgid "Design"
+msgstr "Ontwerp"
+
+#: includes/class-amp-post-template.php:213
+msgid "View Comments"
+msgstr "Bekijk reacties"
+
+#: includes/class-amp-post-template.php:212
+msgid "Leave a Comment"
+msgstr "Plaats een reactie"
+
+#: includes/admin/class-amp-customizer.php:114
+msgid "<a href=\"%s\" target=\"_blank\">The AMP Project</a> is a Google-led initiative that dramatically improves loading speeds on phones and tablets. You can use the Customizer to preview changes to your AMP template before publishing them."
+msgstr "<a href=\"%s\" target=\"_blank\">Het AMP Project </a> is een Google-geleid initiatief dat de laadsnelheden op telefoons en tablets drastisch verbetert. Je kunt de Customizer gebruiken om wijzigingen in je AMP template te bekijken voordat je ze publiceert."
+
+#: includes/amp-post-template-actions.php:83
+msgid "Analytics entry for %s is missing one of the following keys: `type`, `attributes`, or `config_data` (array keys: %s)"
+msgstr "Analytics item voor %s mist één van de volgende sleutels: `type`, `attributes` of `config_data` (array keys: %s)"
+
+#. Author URI of the plugin/theme
+msgid "https://automattic.com"
+msgstr "https://automattic.com"
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin/theme
+msgid "Add AMP support to your WordPress site."
+msgstr "AMP ondersteuning toevoegen aan je WordPress site."
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/automattic/amp-wp"
+msgstr "https://github.com/automattic/amp-wp"
+
+#. #-#-#-#-#  tmp-amp.pot (AMP 0.4.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin/class-amp-customizer.php:113 includes/admin/functions.php:38
+#: includes/admin/functions.php:39
+msgid "AMP"
+msgstr "AMP"
+
+#: back-compat/templates-v0-3/meta-time.php:6 templates/meta-time.php:6
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "%s geleden"
+
+#: back-compat/templates-v0-3/meta-taxonomy.php:1
+#: back-compat/templates-v0-3/meta-taxonomy.php:9 templates/meta-taxonomy.php:1
+#: templates/meta-taxonomy.php:11
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: includes/class-amp-post-template.php:384
+msgid "Path validation for template (%s) failed. Path cannot traverse and must be located in `%s`."
+msgstr "Validatie van het pad voor het template (%s) is niet geslaagd. Het pad moet zich bevinden binnen `%s`."
+
+#: includes/class-amp-post-template.php:98
+msgid "Called for non-existant key (\"%s\")."
+msgstr "Aanroep voor een niet-bestaande sleutel (\"%s\")."
+
+#: includes/class-amp-content.php:109
+msgid "Sanitizer (%s) must extend `AMP_Base_Sanitizer`"
+msgstr "Sanitizer (%s) moet `AMP_Base_Sanitizer` uitbreiden"
+
+#: includes/class-amp-content.php:66
+msgid "Embed Handler (%s) must extend `AMP_Embed_Handler`"
+msgstr "Embed Handler (%s) moet `AMP_Embed_Handler` uitbreiden"

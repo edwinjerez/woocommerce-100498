@@ -1,0 +1,227 @@
+# Translation of WordPress.com - Themes - Dara in Turkish
+# This file is distributed under the same license as the WordPress.com - Themes - Dara package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-04 22:09:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: WordPress.com - Themes - Dara\n"
+
+#: functions.php:84
+msgid "White"
+msgstr "Beyaz"
+
+#: functions.php:89
+msgid "Blue"
+msgstr "Mavi"
+
+#: functions.php:94
+msgid "Dark Blue"
+msgstr "Lacivert"
+
+#: functions.php:79
+msgid "Light Gray"
+msgstr "Açık gri"
+
+#: functions.php:69
+msgid "Dark Gray"
+msgstr "Koyu gri"
+
+#: functions.php:64
+msgid "Black"
+msgstr "Siyah"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; için bir yorum"
+msgstr[1] "&ldquo;%2$s&rdquo; için %1$s yorum"
+
+#: inc/woocommerce.php:270
+msgid "View your shopping cart"
+msgstr "Alışveriş sepetinizi görüntüleyin"
+
+#: inc/wpcom-colors.php:21
+msgid "Headings"
+msgstr "Başlıklar"
+
+#: inc/wpcom-colors.php:66
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: functions.php:309
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Okumaya devam et <span class=\"screen-reader-text\">%1$s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid "Tagged"
+msgstr "Etiketler"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/dara/style.css
+msgid "With bold featured images and bright, cheerful colors, Dara is ready to get to work for your business."
+msgstr "Güçlü öne çıkarılmış resimler ve parlak, neşeli renkleriyle Dara işiniz için işe koyulmaya hazır."
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/dara/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Tam genislik, kenar cubugu yok"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/dara/templates/grid-page.php
+msgid "Grid Page"
+msgstr "Izgara Sayfa"
+
+#: single.php:20
+msgid "Previous post"
+msgstr "Önceki Yazı"
+
+#: single.php:20
+msgid "Next post"
+msgstr "Sonraki Yazı"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Arama sonuçları: %s"
+
+#: inc/template-tags.php:62
+msgid "% Comments"
+msgstr "% Yorum"
+
+#: inc/template-tags.php:62
+msgid "1 Comment"
+msgstr "1 Yorum"
+
+#: inc/template-tags.php:62
+msgid "Leave a comment"
+msgstr "Yorum bırakın"
+
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Tema Seçenekleri"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: functions.php:250
+msgid "Footer 3"
+msgstr "Alt Bölme 3"
+
+#: functions.php:242
+msgid "Footer 2"
+msgstr "Alt Bölme 2"
+
+#: functions.php:226
+msgid "Sidebar"
+msgstr "Yan Menü"
+
+#: functions.php:234
+msgid "Footer 1"
+msgstr "Alt Bölme 1"
+
+#: functions.php:103
+msgid "Header"
+msgstr "Üst Kısım"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:193
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "açık"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aradığınız sayfa bulunamadı. Belki arama kutusu aradığınızı bulma konusunda yardımcı olabilir."
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:49
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Okumaya devam et %s <span class=\"meta-nav\">\t</span>"
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka kriterler ile tekrar deneyin."
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "İlk yazınızı yayınlamaya hazır mısınız? <a href=\"%1$s\">Buradan başlayın</a>."
+
+#: components/post/content-author.php:34
+msgid "View all posts by %s"
+msgstr "%s tarafından yazılan tüm yazılar"
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunmadı"
+
+#: components/post/content-author.php:28
+msgid "Published by %s"
+msgstr "%s tarafından yayımlandı"
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:31
+#: components/testimonials/content-testimonial.php:25 inc/template-tags.php:38
+msgid "Edit %s"
+msgstr "%s Yazısını Düzenle"
+
+#: components/page/content-page.php:21 components/post/content.php:54
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Menü"
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "%s gururla sunar"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Yorumlar kapatıldı."
+
+#: comments.php:56 comments.php:76
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: comments.php:57 comments.php:77
+msgid "Newer Comments"
+msgstr "Yeni yorumlar"
+
+#: comments.php:53 comments.php:73
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Burada bir şey bulamadık. Bir de aramayı denemek ister misiniz?"
+
+#: archive-jetpack-testimonial.php:28
+msgid "Testimonials"
+msgstr "Görüşler"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Off! Bu sayfa bulunamadı."

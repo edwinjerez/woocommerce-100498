@@ -1,0 +1,431 @@
+# Translation of Plugins - Full Site Editing - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Full Site Editing - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-10 21:59:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Full Site Editing - Stable (latest release)\n"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/plugins/template-selector-sidebar/index.js:55
+msgid "Select a template"
+msgstr "Выберите шаблон"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/template/index.js:17
+msgid "Display a template part."
+msgstr "Отображение части шаблона."
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/template/edit.js:72
+msgid "Select a template part to display"
+msgstr "Выберите часть шаблона для отображения"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/template/index.js:16
+#: full-site-editing/blocks/template/edit.js:71
+msgid "Template Part"
+msgstr "Часть шаблона"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/template/edit.js:56
+msgid "Change Template Part"
+msgstr "Изменение части шаблона"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/template/edit.js:82
+#: full-site-editing/blocks/post-content/edit.js:88
+msgid "Edit \"%s\""
+msgstr "Изменить \"%s\""
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/post-content/edit.js:80
+msgid "Select something to preview:"
+msgstr "Выберите что-нибудь для предварительного просмотра:"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/post-content/index.js:17
+#: full-site-editing/blocks/post-content/edit.js:77
+msgid "Placeholder for a post or a page."
+msgstr "Заполнитель для записи или страницы."
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/post-content/index.js:16
+#: full-site-editing/blocks/post-content/edit.js:76
+msgid "Content Slot"
+msgstr "Слот содержимого"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/blocks/post-content/edit.js:61
+msgid "Change Preview"
+msgstr "Сменить предварительный просмотр"
+
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/components/post-autocomplete/index.js:92
+msgid "Type to search"
+msgstr "Введите строку поиска"
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+#: starter-page-templates/page-template-modal/index.js:94
+#: full-site-editing/dist/full-site-editing.js:12
+#: full-site-editing/plugins/template-selector-sidebar/index.js:51
+#: full-site-editing/plugins/template-selector-sidebar/index.js:53
+msgid "Template"
+msgstr "Шаблон"
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+#: starter-page-templates/page-template-modal/index.js:87
+msgid "You can customize each Template to meet your needs."
+msgstr "Вы можете настроить каждый шаблон по своему вкусу и требованиям."
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+#: starter-page-templates/page-template-modal/index.js:81
+msgid "Pick a Template that matches the purpose of your page."
+msgstr "Выберите шаблон соответствующий назначению страницы."
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+#: starter-page-templates/page-template-modal/index.js:72
+msgid "Select Page Template"
+msgstr "Выберите шаблон страницы"
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:10
+msgctxt "default vertical name"
+msgid "Business"
+msgstr "Бизнес"
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:9
+msgctxt "default company name"
+msgid "Your Company Name"
+msgstr "Название вашей организации"
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:8
+msgctxt "default phone number"
+msgid "555-555-5555"
+msgstr "555-555-5555"
+
+#: starter-page-templates/dist/starter-page-templates.js:12
+#: starter-page-templates/page-template-modal/utils/replace-placeholders.js:7
+msgctxt "default address"
+msgid "123 Main St"
+msgstr "улица Лизюкова 1"
+
+#: full-site-editing/class-full-site-editing.php:177
+msgid "Back to template part types"
+msgstr "Назад к типам частей шаблона"
+
+#: full-site-editing/class-full-site-editing.php:176
+msgid "No template part types found."
+msgstr "Типов частей шаблонов не найдено."
+
+#: full-site-editing/class-full-site-editing.php:175
+msgid "Search Template Part Types"
+msgstr "Поиск типов частей шаблонов"
+
+#: full-site-editing/class-full-site-editing.php:174
+msgid "Parent Template Part Type:"
+msgstr "Родительский тип части шаблона:"
+
+#: full-site-editing/class-full-site-editing.php:173
+msgid "Parent Template Part Type"
+msgstr "Родительский тип части шаблона"
+
+#: full-site-editing/class-full-site-editing.php:172
+msgid "New Template Part Type"
+msgstr "Новый тип части шаблона"
+
+#: full-site-editing/class-full-site-editing.php:171
+msgid "Add New Template Part Type"
+msgstr "Добавить новый тип части шаблона"
+
+#: full-site-editing/class-full-site-editing.php:170
+msgid "Update Template Part Type"
+msgstr "Обновить тип части шаблона"
+
+#: full-site-editing/class-full-site-editing.php:169
+msgid "View Template Part Type"
+msgstr "Просмотр типа части шаблона"
+
+#: full-site-editing/class-full-site-editing.php:168
+msgid "Edit Template Part Type"
+msgstr "Изменить тип части шаблона"
+
+#: full-site-editing/class-full-site-editing.php:167
+msgid "All Template Part Types"
+msgstr "Все типы частей шаблона"
+
+#: full-site-editing/class-full-site-editing.php:166
+msgctxt "admin menu"
+msgid "Template Part Types"
+msgstr "Типы частей шаблона"
+
+#: full-site-editing/class-full-site-editing.php:165
+msgctxt "taxonomy singular name"
+msgid "Template Part Type"
+msgstr "Тип части шаблона"
+
+#: full-site-editing/class-full-site-editing.php:164
+msgctxt "taxonomy general name"
+msgid "Template Part Types"
+msgstr "Типы частей шаблона"
+
+#: full-site-editing/class-full-site-editing.php:127
+msgid "Template part updated."
+msgstr "Часть шаблона обновлена."
+
+#: full-site-editing/class-full-site-editing.php:126
+msgid "Template part scheduled."
+msgstr "Часть шаблона запланирована."
+
+#: full-site-editing/class-full-site-editing.php:125
+msgid "Template part reverted to draft."
+msgstr "Часть шаблона возвращена в черновики."
+
+#: full-site-editing/class-full-site-editing.php:124
+msgid "Template part published privately."
+msgstr "Часть шаблона опубликована как личная."
+
+#: full-site-editing/class-full-site-editing.php:123
+msgid "Template part published."
+msgstr "Часть шаблона опубликована."
+
+#: full-site-editing/class-full-site-editing.php:122
+msgid "Template parts list"
+msgstr "Список частей шаблона"
+
+#: full-site-editing/class-full-site-editing.php:121
+msgid "Template parts list navigation"
+msgstr "Навигация по списку частей шаблона"
+
+#: full-site-editing/class-full-site-editing.php:120
+msgid "Filter template parts list"
+msgstr "Фильтр списка частей шаблона"
+
+#: full-site-editing/class-full-site-editing.php:119
+msgid "No template parts found in Trash."
+msgstr "Нет частей шаблона в корзине."
+
+#: full-site-editing/class-full-site-editing.php:118
+msgid "No template parts found."
+msgstr "Частей шаблона не найдено."
+
+#: full-site-editing/class-full-site-editing.php:117
+msgid "Search Template Parts"
+msgstr "Поиск частей шаблона"
+
+#: full-site-editing/class-full-site-editing.php:116
+msgid "All Template Parts"
+msgstr "Все части шаблона"
+
+#: full-site-editing/class-full-site-editing.php:115
+msgid "View Template Part"
+msgstr "Просмотр части шаблона"
+
+#: full-site-editing/class-full-site-editing.php:114
+msgid "Edit Template Part"
+msgstr "Изменить часть шаблона"
+
+#: full-site-editing/class-full-site-editing.php:113
+msgid "New Template Part"
+msgstr "Новая часть шаблона"
+
+#: full-site-editing/class-full-site-editing.php:112
+msgid "Add New Template Part"
+msgstr "Добавить новую часть шаблона"
+
+#: full-site-editing/class-full-site-editing.php:111
+msgctxt "Template Part"
+msgid "Add New"
+msgstr "Добавить новую"
+
+#: full-site-editing/class-full-site-editing.php:110
+msgctxt "add new on admin bar"
+msgid "Template Part"
+msgstr "Часть шаблона"
+
+#: full-site-editing/class-full-site-editing.php:109
+msgctxt "admin menu"
+msgid "Template Parts"
+msgstr "Части шаблона"
+
+#: full-site-editing/class-full-site-editing.php:108
+msgctxt "post type singular name"
+msgid "Template Part"
+msgstr "Часть шаблона"
+
+#: full-site-editing/class-full-site-editing.php:107
+msgctxt "post type general name"
+msgid "Template Parts"
+msgstr "Части шаблона"
+
+#: full-site-editing/class-full-site-editing.php:71
+msgid "Template updated."
+msgstr "Шаблон обновлен."
+
+#: full-site-editing/class-full-site-editing.php:70
+msgid "Template scheduled."
+msgstr "Шаблон запланирован."
+
+#: full-site-editing/class-full-site-editing.php:69
+msgid "Template reverted to draft."
+msgstr "Шаблон возвращен в черновики."
+
+#: full-site-editing/class-full-site-editing.php:68
+msgid "Template published privately."
+msgstr "Шаблон опубликован как личный."
+
+#: full-site-editing/class-full-site-editing.php:67
+msgid "Template published."
+msgstr "Шаблон опубликован."
+
+#: full-site-editing/class-full-site-editing.php:66
+msgid "Templates list"
+msgstr "Список шаблонов"
+
+#: full-site-editing/class-full-site-editing.php:65
+msgid "Templates list navigation"
+msgstr "Навигация по списку шаблонов"
+
+#: full-site-editing/class-full-site-editing.php:64
+msgid "Filter templates list"
+msgstr "Фильтр списка шаблонов"
+
+#: full-site-editing/class-full-site-editing.php:63
+msgid "No templates found in Trash."
+msgstr "Нет шаблонов в корзине."
+
+#: full-site-editing/class-full-site-editing.php:62
+msgid "No templates found."
+msgstr "Шаблонов не найдено."
+
+#: full-site-editing/class-full-site-editing.php:61
+msgid "Search Templates"
+msgstr "Поиск шаблонов"
+
+#: full-site-editing/class-full-site-editing.php:60
+msgid "All Templates"
+msgstr "Все шаблоны"
+
+#: full-site-editing/class-full-site-editing.php:59
+msgid "View Template"
+msgstr "Просмотр шаблона"
+
+#: full-site-editing/class-full-site-editing.php:58
+msgid "Edit Template"
+msgstr "Изменить шаблон"
+
+#: full-site-editing/class-full-site-editing.php:57
+msgid "New Template"
+msgstr "Новый шаблон"
+
+#: full-site-editing/class-full-site-editing.php:56
+msgid "Add New Template"
+msgstr "Добавить новый шаблон"
+
+#: full-site-editing/class-full-site-editing.php:55
+msgctxt "Template"
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: full-site-editing/class-full-site-editing.php:54
+msgctxt "add new on admin bar"
+msgid "Template"
+msgstr "Шаблон"
+
+#: full-site-editing/class-full-site-editing.php:53
+msgctxt "admin menu"
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: full-site-editing/class-full-site-editing.php:52
+msgctxt "post type singular name"
+msgid "Template"
+msgstr "Шаблон"
+
+#: full-site-editing/class-full-site-editing.php:51
+msgctxt "post type general name"
+msgid "Templates"
+msgstr "Шаблоны"
+
+#: posts-list-block/dist/posts-list-block.js:1
+#: posts-list-block/blocks/posts-list/index.js:53
+msgid "Number of posts"
+msgstr "Число записей"
+
+#: posts-list-block/dist/posts-list-block.js:1
+#: posts-list-block/blocks/posts-list/index.js:42
+msgid "Number of posts to show"
+msgstr "Число отображаемых записей"
+
+#: posts-list-block/dist/posts-list-block.js:1
+#: posts-list-block/blocks/posts-list/index.js:38
+msgid "Your recent blog posts will be displayed here."
+msgstr "Ваши последние записи блога будут отображаться здесь."
+
+#: posts-list-block/dist/posts-list-block.js:1
+#: posts-list-block/blocks/posts-list/index.js:25
+msgid "Displays your latest Blog Posts."
+msgstr "Показывает ваши последние записи в блоге."
+
+#: posts-list-block/dist/posts-list-block.js:1
+#: posts-list-block/blocks/posts-list/index.js:24
+msgid "Blog Posts Listing"
+msgstr "Список записей блога"
+
+#: posts-list-block/class-posts-list-block.php:144
+msgid "Read more"
+msgstr "Читать далее"
+
+#. translators: %s: Name of current post
+#: posts-list-block/class-posts-list-block.php:141
+msgid "Continue reading %s"
+msgstr "Читать далее %s"
+
+#: posts-list-block/templates/post-item.php:35
+msgid "Edit"
+msgstr "Изменить"
+
+#: posts-list-block/templates/post-item.php:31
+msgctxt "designating the post author (eg: by John Doe"
+msgid "by"
+msgstr "от"
+
+#: posts-list-block/templates/post-item.php:23
+msgid "Featured"
+msgstr "Рекомендуется"
+
+#: posts-list-block/templates/posts-list.php:30
+msgid "View all posts"
+msgstr "Просмотреть все записи"
+
+#. translators: 1: link to WP admin new post page.
+#: posts-list-block/templates/no-posts.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: posts-list-block/templates/no-posts.php:11
+msgid "There are currently no posts to display."
+msgstr "Пока ещё нет записей для отображения."
+
+#. Author URI of the plugin
+msgid "https://automattic.com/wordpress-plugins/"
+msgstr "https://automattic.com/wordpress-plugins/"
+
+#. Author of the plugin
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the plugin
+msgid "Enhances your page creation workflow within the Block Editor."
+msgstr "Улучшает процесс создания страниц в редакторе блоков."
+
+#. Plugin Name of the plugin
+msgid "Full Site Editing"
+msgstr "Full Site Editing"

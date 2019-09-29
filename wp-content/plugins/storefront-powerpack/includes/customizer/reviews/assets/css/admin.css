@@ -1,0 +1,6 @@
+i.sr-icon:before {
+  content: "\f459";
+  display: inline-block;
+  -webkit-font-smoothing: antialiased;
+  font: normal 16px/1 'dashicons';
+  vertical-align: top; }

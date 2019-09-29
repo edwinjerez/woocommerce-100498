@@ -1,0 +1,950 @@
+# Translation of Plugins - WooCommerce PayPal Express Checkout Payment Gateway - Stable (latest release) in Esperanto
+# This file is distributed under the same license as the Plugins - WooCommerce PayPal Express Checkout Payment Gateway - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-28 13:06:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: eo\n"
+"Project-Id-Version: Plugins - WooCommerce PayPal Express Checkout Payment Gateway - Stable (latest release)\n"
+
+#: includes/class-wc-gateway-ppec-privacy.php:268
+msgid "PayPal Express Checkout Order Data Erased."
+msgstr "Forviŝis mendajn datumojn de Rapida pago de PayPal."
+
+#: includes/class-wc-gateway-ppec-privacy.php:245
+msgid "PayPal Express Checkout Subscriptions Data Erased."
+msgstr "Forviŝis abonajn datumojn de Rapida pago de PayPal."
+
+#: includes/class-wc-gateway-ppec-privacy.php:230
+msgid "Order ID %d contains an active Subscription"
+msgstr "Menda ID %d enhavas aktivan abonon"
+
+#: includes/class-wc-gateway-ppec-privacy.php:141
+msgid "Subscriptions"
+msgstr "Abonoj"
+
+#: includes/class-wc-gateway-ppec-privacy.php:84
+#: includes/class-wc-gateway-ppec-privacy.php:149
+msgid "PPEC Billing agreement id"
+msgstr "ID de PPEC faktura konsento"
+
+#: includes/class-wc-gateway-ppec-privacy.php:80
+#: includes/class-wc-gateway-ppec-privacy.php:145
+msgid "PPEC Refundable transaction data"
+msgstr "Datumoj pri repagebla transakcio de PPEC"
+
+#: includes/class-wc-gateway-ppec-privacy.php:76
+msgid "Orders"
+msgstr "Mendoj"
+
+#: includes/class-wc-gateway-ppec-privacy.php:53
+msgid "By using this extension, you may be storing personal data or sharing data with an external service. <a href=\"%s\" target=\"_blank\">Learn more about how this works, including what you may want to include in your privacy policy.</a>"
+msgstr "Per uzo de tiu ĉi etendaĵo, vi eble tenas personajn informojn aŭ kunhavigas informojn kun ekstera liveranto. <a href=\"%s\" target=\"_blank\">Lernu pli pri kiel tio funkcias, inkluzive kion vi eble volos inkluzivi en via privateca politiko.</a>"
+
+#: includes/class-wc-gateway-ppec-privacy.php:19
+msgid "WooCommerce PPEC Data"
+msgstr "PPEC-datumoj de WooCommerce"
+
+#: includes/class-wc-gateway-ppec-privacy.php:16
+msgid "WooCommerce PPEC Subscriptions Data"
+msgstr "PPEC-datumoj pri abonoj de WooCommerce"
+
+#: includes/class-wc-gateway-ppec-privacy.php:14
+msgid "WooCommerce PPEC Order Data"
+msgstr "PPEC-datumoj pri mendoj de WooCommerce"
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:566
+msgid "Remove image"
+msgstr "Forviŝi bildon"
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:555
+#: includes/abstracts/abstract-wc-gateway-ppec.php:558
+msgid "Add image"
+msgstr "Aldoni bildon"
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:554
+msgid "Use this image"
+msgstr "Uzi tiun bildon"
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:553
+msgid "Select a image to upload"
+msgstr "Elektu bildon por alŝuti"
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:545
+msgid "Already using URL as image: %s"
+msgstr "Jam uzas URL kiel bildon: %s"
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:263
+msgid "Phone:"
+msgstr "Telefonnumero:"
+
+#: includes/settings/settings-ppec.php:369
+msgid "Require buyer to enter their telephone number during checkout if none is provided by PayPal"
+msgstr "Postuli, ke aĉetanto enigu telefonnumeron dum la pagprocezo se neniu estas donita de PayPal"
+
+#: includes/settings/settings-ppec.php:365
+#: includes/settings/settings-ppec.php:367
+msgid "Require Phone Number"
+msgstr "Devigi telefonnumeron"
+
+#: includes/settings/settings-ppec.php:362
+msgid "PayPal only returns a shipping address back to the website. To make sure billing address is returned as well, please enable this functionality on your PayPal account by calling %1$sPayPal Technical Support%2$s."
+msgstr "PayPal liveras nur sendadreson reen al la retejo. Por certigi liveron ankaŭ de la faktura adreso, bonvole ebligu tiun funkciadon ĉe via PayPal-konto per telefonvoko al %1$sPayPal Technical Support%2$s."
+
+#: includes/settings/settings-ppec.php:334
+msgid "Enable Express checkout on Single Product view."
+msgstr "Ebligi Rapidan pagprocezon por rigardo al unuopa varo."
+
+#: includes/settings/settings-ppec.php:330
+#: includes/settings/settings-ppec.php:332
+msgid "Checkout on Single Product"
+msgstr "Pagprocezo por unuopa varo"
+
+#: includes/settings/settings-ppec.php:272
+msgid "This shows or hides the PayPal checkout button on the cart page."
+msgstr "Tio montras aŭ kaŝas la butonon PayPal-pagado ĉe la korbopaĝo."
+
+#: includes/settings/settings-ppec.php:271
+msgid "Enable PayPal checkout on the cart page"
+msgstr "Ebligi pagprocezon de PayPal ĉe la korbopaĝo"
+
+#: includes/settings/settings-ppec.php:269
+msgid "Checkout on cart page"
+msgstr "Pagprocezo ĉe la korbopaĝo"
+
+#: includes/class-wc-gateway-ppec-cart-handler.php:56
+#: includes/class-wc-gateway-ppec-cart-handler.php:107
+msgid "Cheatin&#8217; huh?"
+msgstr "Ruzas, ĉu?"
+
+#. Author of the plugin/theme
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/settings/settings-ppec.php:327
+msgid "This enables PayPal Credit, which displays a PayPal Credit button next to the Express Checkout button. PayPal Express Checkout lets you give customers access to financing through PayPal Credit® - at no additional cost to you. You get paid up front, even though customers have more time to pay. A pre-integrated payment button shows up next to the PayPal Button, and lets customers pay quickly with PayPal Credit®."
+msgstr "Tio ebligas Krediton de PayPal, kiu montras butonon Kredito de PayPal apud la butono Rapida pago. Rapida pago per PayPal permesas al vi doni al klientoj eblon ricevi financadon per PayPal Credit® - je neniu aldona kosto al vi. Vi ricevas pagon de la komenco, kvankam la klientoj ricevas tempon por pagi. Jam integrita paga butono aperas apud la PayPal-butono kaj permesas klientojn pagi rapide per PayPal Credit®."
+
+#: includes/settings/settings-ppec.php:317
+msgctxt "Type of PayPal page"
+msgid "Login (PayPal account login)"
+msgstr "Ensaluti (al konto ĉe PayPal)"
+
+#: includes/settings/settings-ppec.php:316
+msgctxt "Type of PayPal page"
+msgid "Billing (Non-PayPal account)"
+msgstr "Fakturado (konto Ne ĉe PayPal)"
+
+#: includes/settings/settings-ppec.php:312
+msgid "Type of PayPal page to display."
+msgstr "Tipo de paĝo de PayPal por montri."
+
+#: includes/settings/settings-ppec.php:309
+msgid "Landing Page"
+msgstr "Envena paĝo"
+
+#: includes/settings/settings-ppec.php:303
+msgid "Optionally enter the name of the page style you wish to use. These are defined within your PayPal account."
+msgstr "Laŭvole, enigu la nomon de la dezirata paĝ-stilo. Tiuj estas difinitaj en via konto ĉe PayPal."
+
+#: includes/settings/settings-ppec.php:301
+msgid "Page Style"
+msgstr "Paĝa stilo"
+
+#: includes/settings/settings-ppec.php:295
+msgid "If you want PayPal to co-brand the checkout page with your header, enter the URL of your header image here.<br/>The image must be no larger than 750x90, GIF, PNG, or JPG format, and should be served over HTTPS."
+msgstr "Se vi volas, ke PayPal metu la kapon de via marko ankaŭ sur la paga paĝo, enigu la URL al la kapo-bildo tie ĉi. <br/>La bildo ne estu pli granda ol 750x90, en la formo GIF, PNG, aŭ JPG kaj devas esti liverita per HTTPS."
+
+#: includes/settings/settings-ppec.php:293
+msgid "Header Image (750×90)"
+msgstr "Kapo-bildo (750×90)"
+
+#: includes/settings/settings-ppec.php:285
+msgid "Logo Image (190×60)"
+msgstr "Bildo de emblemo (190×60)"
+
+#: includes/settings/settings-ppec.php:251
+msgid "A label that overrides the business name in the PayPal account on the PayPal hosted checkout pages."
+msgstr "Etikedo kiu superas al la firmaa nomo en la konto ĉe PayPal sur la pagprocezaj paĝoj gastigitaj de PayPal."
+
+#: includes/settings/settings-ppec.php:249
+msgid "Brand Name"
+msgstr "Marko-nomo"
+
+#: includes/settings/settings-ppec.php:246
+msgid "Customize the appearance of Express Checkout in your store."
+msgstr "Proprigi la aspekton de Rapida pago en via vendejo."
+
+#: includes/settings/settings-ppec.php:244
+msgid "Display Settings"
+msgstr "Agordoj de montrado"
+
+#: includes/settings/settings-ppec.php:142
+msgid "Account Settings"
+msgstr "Agordoj de konto"
+
+#: includes/settings/settings-ppec.php:138
+msgid "Pay via PayPal; you can pay with your credit card if you don't have a PayPal account."
+msgstr "Pagi per PayPal; vi povas pagi per via kreditkarto se vi ne havas konton ĉe PayPal."
+
+#: includes/settings/settings-ppec.php:48
+msgid "This option is disabled. Currently PayPal Credit only available for U.S. merchants."
+msgstr "Tiu opcio estas malebligita. Nune, Kredito de PayPal haveblas nur por usonaj vendistoj."
+
+#: includes/settings/settings-ppec.php:46
+#: includes/settings/settings-ppec.php:321
+msgid "Enable PayPal Credit"
+msgstr "Ebligi Krediton de PayPal"
+
+#: includes/settings/settings-ppec.php:43
+msgid "Reset current sandbox credentials"
+msgstr "Restarigi nunajn akreditaĵojn de la provejo"
+
+#: includes/settings/settings-ppec.php:43
+msgid "Your account setting is set to sandbox, no real charging takes place. To accept live payments, switch your environment to live and connect your PayPal account. To reset current credentials and use other sandbox account <a href=\"%1$s\" title=\"%2$s\">click here</a>."
+msgstr "Via kont-agordo estas fiksita al provejo, neniu vera debetado okazas. Por akcepti verajn pagojn, ŝanĝu vian medion al Vera kaj konektu vian PayPal-konton. Por restarigi nunajn akreditaĵojn kaj uzi alian provejan konton <a href=\"%1$s\" title=\"%2$s\">alklaku tie ĉi</a>."
+
+#: includes/settings/settings-ppec.php:27
+msgid "Reset current credentials"
+msgstr "Restarigi nunajn akreditaĵojn"
+
+#: includes/settings/settings-ppec.php:27
+msgid "To reset current credentials and use other account <a href=\"%1$s\" title=\"%2$s\">click here</a>."
+msgstr "Pro restarigi nunajn akreditaĵojn kaj uzi alian konton <a href=\"%1$s\" title=\"%2$s\">alklaku tie ĉi</a>."
+
+#: includes/exceptions/class-wc-gateway-ppec-missing-session-exception.php:19
+msgid "The buyer's session information could not be found."
+msgstr "La seancaj informoj de la aĉetanto ne povis esti trovita."
+
+#. translators: placeholders are error code and message from PayPal
+#: includes/exceptions/class-wc-gateway-ppec-api-exception.php:64
+msgid "PayPal error (%1$s): %2$s"
+msgstr "Eraro de PayPal (%1$s): %2$s"
+
+#: includes/exceptions/class-wc-gateway-ppec-api-exception.php:40
+#: includes/exceptions/class-wc-gateway-ppec-api-exception.php:68
+msgid "An error occurred while calling the PayPal API."
+msgstr "Eraro okazis dum voko de la PayPal-API."
+
+#: includes/class-wc-gateway-ppec-with-paypal-addons.php:180
+msgid "PayPal payment declined"
+msgstr "Pago per PayPal malakceptita"
+
+#: includes/class-wc-gateway-ppec-with-paypal-addons.php:176
+msgid "PayPal payment approved (ID: %s)"
+msgstr "Pago per PayPal akceptita (ID: %s)"
+
+#. translators: placeholder is pending reason from PayPal API.
+#: includes/class-wc-gateway-ppec-with-paypal-addons.php:165
+msgid "PayPal transaction held: %s"
+msgstr "Transakcio de PayPal suspendita: %s"
+
+#: includes/class-wc-gateway-ppec-with-paypal-addons.php:157
+msgid "PayPal API error"
+msgstr "Eraro de PayPal-API"
+
+#: includes/class-wc-gateway-ppec-plugin.php:417
+msgid "Docs"
+msgstr "Dokumentoj"
+
+#: includes/class-wc-gateway-ppec-plugin.php:414
+msgid "Settings"
+msgstr "Agordoj"
+
+#: includes/class-wc-gateway-ppec-plugin.php:293
+msgid "PayPal Express Checkout is almost ready. To get started, <a href=\"%s\">connect your PayPal account</a>."
+msgstr "Rapida pago per PayPal estas preskaŭ preta. Por komenciĝi, <a href=\"%s\">konektu vian konton ĉe PayPal</a>."
+
+#. translators: placeholder is blogname
+#: includes/class-wc-gateway-ppec-client.php:394
+msgctxt "data sent to PayPal"
+msgid "Orders with %s"
+msgstr "Mendoj de %s"
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:305
+msgid "Create an account by entering the information below. If you are a returning customer please login at the top of the page."
+msgstr "Kreu konton per enigo de subaj informoj. Se vi estas ekzistanta kliento, bonvole ensalutu ĉe la supro de la paĝo."
+
+#: includes/class-wc-gateway-ppec-cart-handler.php:177
+msgid "Pay with PayPal Credit"
+msgstr "Pagi per Kredito de PayPal"
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:296
+msgid "Create an account?"
+msgstr "Ĉu krei konton?"
+
+#. Author URI of the plugin/theme
+msgid "https://woocommerce.com"
+msgstr "https://woocommerce.com"
+
+#. Description of the plugin/theme
+msgid "A payment gateway for PayPal Express Checkout (https://www.paypal.com/us/webapps/mpp/express-checkout)."
+msgstr "Pagoservo por Rapida pago per PayPal (https://www.paypal.com/us/webapps/mpp/express-checkout)."
+
+#. Plugin URI of the plugin/theme
+msgid "https://woocommerce.com/products/woocommerce-gateway-paypal-express-checkout/"
+msgstr "https://woocommerce.com/products/woocommerce-gateway-paypal-express-checkout/"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce PayPal Express Checkout Gateway"
+msgstr "Rapida pago per PayPal-servo por WooCommerce"
+
+#: includes/settings/settings-ppec.php:400
+msgid "Do not send line items to PayPal"
+msgstr "Ne sendi unuliniajn erojn al PayPal"
+
+#: includes/settings/settings-ppec.php:399
+msgid "Add another line item"
+msgstr "Aldoni plian unulinian eron"
+
+#: includes/settings/settings-ppec.php:395
+msgid "Internally, WC calculates line item prices and taxes out to four decimal places; however, PayPal can only handle amounts out to two decimal places (or, depending on the currency, no decimal places at all). Occasionally, this can cause discrepancies between the way WooCommerce calculates prices versus the way PayPal calculates them. If a mismatch occurs, this option controls how the order is dealt with so payment can still be taken."
+msgstr "Interne, WC kalkulas prezojn de unuliniaj eroj kaj impostoj ĝis kvar frakciaj ciferoj; tamen, PayPal povas trakti nur kvantojn ĝis du frakciaj ciferoj (aŭ, depende de la valuto, neniu frakcia cifero). Foje, tio povas kaŭzi malsamecon inter la maniero kalkuli prezojn de WooCommerce, kaj la maniero en kiu PayPal kalkulas ilin. Se miskongruo okazos, tiu ĉi opcio regas trakton de tio, por ke pago povas esti akceptita, malgraŭe."
+
+#: includes/settings/settings-ppec.php:392
+msgid "Subtotal Mismatch Behavior"
+msgstr "Miskongrua konduto de nefina sumo"
+
+#: includes/settings/settings-ppec.php:287
+msgid "If you want PayPal to co-brand the checkout page with your logo, enter the URL of your logo image here.<br/>The image must be no larger than 190x60, GIF, PNG, or JPG format, and should be served over HTTPS."
+msgstr "Se vi volas, ke PayPal donu vian markon ankaŭ al la pagproceza paĝo, tie ĉi enigu la URL al via emblema bildo.<br/>La bildo estu ne pli granda ol 190x60, formo de GIF, PNG, aŭ JPG kaj devus esti liverita de HTTPS."
+
+#: includes/settings/settings-ppec.php:389
+msgid "If you enable this setting, PayPal will be instructed not to allow the buyer to use funding sources that take additional time to complete (for example, eChecks). Instead, the buyer will be required to use an instant funding source, such as an instant transfer, a credit/debit card, or PayPal Credit."
+msgstr "Se vi ebligos tiun agordon, PayPal estos instrukciita ne permesi al la aĉetanto uzi fontojn de mono kiuj postulas aldonan tempon por kompletiĝi (ekzemple, ret-ĉekoj). Anstataŭe, la aĉetanto devos uzi tujan fonton de mono, kiel tujan ĝiron, kreditan/debetan karton aŭ Krediton de PayPal."
+
+#: includes/settings/settings-ppec.php:386
+msgid "Require Instant Payment"
+msgstr "Devigi tujan pagon"
+
+#: includes/settings/settings-ppec.php:384
+msgid "Instant Payments"
+msgstr "Tujaj pagoj"
+
+#: includes/settings/settings-ppec.php:380
+msgid "Authorize"
+msgstr "Rajtigi"
+
+#: includes/settings/settings-ppec.php:379
+msgid "Sale"
+msgstr "Vendo"
+
+#: includes/settings/settings-ppec.php:375
+msgid "Choose whether you wish to capture funds immediately or authorize payment only."
+msgstr "Elektu ĉu vi volas tuj kapti pagon aŭ nur rajtigi pagon."
+
+#: includes/settings/settings-ppec.php:372
+msgid "Payment Action"
+msgstr "Pago-ago"
+
+#: includes/settings/settings-ppec.php:360
+msgid "Require Billing Address"
+msgstr "Devigi fakturan adreson"
+
+#: includes/settings/settings-ppec.php:358
+msgid "Billing Addresses"
+msgstr "Fakturaj adresoj"
+
+#: includes/settings/settings-ppec.php:353
+msgid "Please enter a prefix for your invoice numbers. If you use your PayPal account for multiple stores ensure this prefix is unique as PayPal will not allow orders with the same invoice number."
+msgstr "Bonvole enigu prefikson por viaj fakturaj numeroj. Se vi uzas vian konton ĉe PayPal por pluraj vendejoj, certigu unikan prefikson, ĉar PayPal ne permesas mendojn kun la sama faktura numero."
+
+#: includes/settings/settings-ppec.php:351
+msgid "Invoice Prefix"
+msgstr "Prefikso de fakturoj"
+
+#: includes/settings/settings-ppec.php:348
+msgid "Log PayPal events, such as IPN requests."
+msgstr "Protokoli eventojn de PayPal, kiel IPN-petojn."
+
+#: includes/settings/settings-ppec.php:345
+msgid "Enable Logging"
+msgstr "Ebligi protokoladon"
+
+#: includes/settings/settings-ppec.php:343
+msgid "Debug Log"
+msgstr "Senerariga protokolo"
+
+#: includes/settings/settings-ppec.php:338
+msgid "Advanced Settings"
+msgstr "Altnivelaj agordoj"
+
+#: includes/settings/settings-ppec.php:235
+msgid "Sandbox API Subject"
+msgstr "Temo de Proveja API"
+
+#: includes/settings/settings-ppec.php:228
+msgid "Sandbox API Certificate"
+msgstr "Atestilo de Proveja API"
+
+#: includes/settings/settings-ppec.php:221
+msgid "Sandbox API Signature"
+msgstr "Subskribo de Proveja API"
+
+#: includes/settings/settings-ppec.php:214
+msgid "Sandbox API Password"
+msgstr "Pasvorto de Proveja API"
+
+#: includes/settings/settings-ppec.php:207
+msgid "Sandbox API Username"
+msgstr "Uzantnomo de Proveja API"
+
+#: includes/settings/settings-ppec.php:202
+msgid "Sandbox API Credentials"
+msgstr "Akreditaĵoj de Proveja API"
+
+#: includes/settings/settings-ppec.php:198
+#: includes/settings/settings-ppec.php:240
+#: includes/settings/settings-ppec.php:290
+#: includes/settings/settings-ppec.php:298
+#: includes/settings/settings-ppec.php:306
+msgid "Optional"
+msgstr "Nedevige"
+
+#: includes/settings/settings-ppec.php:195
+#: includes/settings/settings-ppec.php:237
+msgid "If you're processing transactions on behalf of someone else's PayPal account, enter their email address or Secure Merchant Account ID (also known as a Payer ID) here. Generally, you must have API permissions in place with the other account in order to process anything other than \"sale\" transactions for them."
+msgstr "Se vi pritraktas transakciojn por la konto de iu alia ĉe PayPal, enigu la retpoŝtadreson de tiu persono aŭ la ID de Sekura Vendisto (Secure Merchant Account, ankaŭ konata kiel Pagisto-ID) tie ĉi. Ĝenerale, vi devas havi API-permesojn jam, ĉe la alia konto, por povi pritrakti ion escepte transakciojn \"vendo\" por tiu."
+
+#: includes/settings/settings-ppec.php:193
+msgid "Live API Subject"
+msgstr "Temo de vera API"
+
+#: includes/settings/settings-ppec.php:187
+msgid "Live API Certificate"
+msgstr "Atestilo de vera API"
+
+#: includes/settings/settings-ppec.php:184
+msgid "Optional if you provide a certificate below"
+msgstr "Nedeviga se vi donas atestilon sube"
+
+#: includes/settings/settings-ppec.php:179
+msgid "Live API Signature"
+msgstr "Subskribo de vera API"
+
+#: includes/settings/settings-ppec.php:172
+msgid "Live API Password"
+msgstr "Pasvorto de vera API"
+
+#: includes/settings/settings-ppec.php:167
+#: includes/settings/settings-ppec.php:174
+#: includes/settings/settings-ppec.php:181
+#: includes/settings/settings-ppec.php:209
+#: includes/settings/settings-ppec.php:216
+#: includes/settings/settings-ppec.php:223
+#: includes/settings/settings-ppec.php:230
+msgid "Get your API credentials from PayPal."
+msgstr "Akiru viajn API-akreditaĵojn de PayPal."
+
+#: includes/settings/settings-ppec.php:165
+msgid "Live API Username"
+msgstr "Uzantnomo de vera API"
+
+#: includes/settings/settings-ppec.php:160
+msgid "API Credentials"
+msgstr "API-akreditaĵoj"
+
+#: includes/settings/settings-ppec.php:137
+msgid "This controls the description which the user sees during checkout."
+msgstr "Tio regas la priskribon kiun vidas la uzanto dum la pagprocezo."
+
+#: includes/settings/settings-ppec.php:134
+msgid "Description"
+msgstr "Priskribo"
+
+#: includes/settings/settings-ppec.php:129
+msgid "This controls the title which the user sees during checkout."
+msgstr "Tio regas la titolon kiun vidas la uzanto dum la pagprocezo."
+
+#: includes/settings/settings-ppec.php:127
+msgid "Title"
+msgstr "Titolo"
+
+#: includes/settings/settings-ppec.php:280
+msgid "This enables the PayPal mark, which can be shown on regular WooCommerce checkout to use PayPal Express Checkout like a regular WooCommerce gateway."
+msgstr "Tio ebligas la markon de PayPal, kiu povas esti montrita ĉe la ordinara pagprocezo de WooCommerce por uzi Rapidan pagon de PayPal kiel ordinaran pagoservon de WooCommerce."
+
+#: includes/settings/settings-ppec.php:279
+msgid "Enable the PayPal Mark on regular checkout"
+msgstr "Ebligi la markon de PayPal ĉe ordinara pagprocezo"
+
+#: includes/settings/settings-ppec.php:277
+msgid "PayPal Mark"
+msgstr "Marko de PayPal"
+
+#: includes/settings/settings-ppec.php:155
+msgid "Sandbox"
+msgstr "Provejo"
+
+#: includes/settings/settings-ppec.php:154
+msgid "Live"
+msgstr "Vera"
+
+#: includes/settings/settings-ppec.php:150
+msgid "This setting specifies whether you will process live transactions, or whether you will process simulated transactions using the PayPal Sandbox."
+msgstr "Tiu agordo specifas, ĉu vi pritraktos verajn transakciojn aŭ ĉu vi pritraktos ŝajnajn transakciojn per la Provejo de PayPal."
+
+#: includes/settings/settings-ppec.php:147
+msgid "Environment"
+msgstr "Medio"
+
+#: includes/settings/settings-ppec.php:265
+msgid "Large"
+msgstr "Granda"
+
+#: includes/settings/settings-ppec.php:264
+msgid "Medium"
+msgstr "Mezgranda"
+
+#: includes/settings/settings-ppec.php:263
+msgid "Small"
+msgstr "Malgranda"
+
+#: includes/settings/settings-ppec.php:259
+msgid "PayPal offers different sizes of the \"PayPal Checkout\" buttons, allowing you to select a size that best fits your site's theme. This setting will allow you to choose which size button(s) appear on your cart page."
+msgstr "PayPal donas malsamajn grandojn de la butonoj \"Pagu per PayPal\", kiu donas al vi eblon elekti grandecon plej taŭgan al la etoso de via retejo. Tiu agordo permesas vin elekti grandecon de butono(j) en la korbo-paĝo."
+
+#: includes/settings/settings-ppec.php:256
+msgid "Button Size"
+msgstr "Grando de butono"
+
+#: includes/settings/settings-ppec.php:121
+msgid "This enables PayPal Express Checkout which allows customers to checkout directly via PayPal from your cart page."
+msgstr "Tiu ebligas pagprocezon de Rapida pago per PayPal, kiu permesas klientojn pagi per PayPal rekte de via korbopaĝo."
+
+#: includes/settings/settings-ppec.php:120
+msgid "Enable PayPal Express Checkout"
+msgstr "Ebligi Rapidan pagon per PayPal"
+
+#: includes/settings/settings-ppec.php:118
+msgid "Enable/Disable"
+msgstr "(Mal)ebligi"
+
+#: includes/settings/settings-ppec.php:32
+msgid "%s or <a href=\"#\" class=\"ppec-toggle-sandbox-settings\">click here to toggle manual API credential input</a>."
+msgstr "%s aŭ <a href=\"#\" class=\"ppec-toggle-sandbox-settings\">alklaku al tie ĉi por baskuligi permanan enigon de API-akreditaĵo</a>."
+
+#: includes/settings/settings-ppec.php:31
+msgid "Setup or link an existing PayPal Sandbox account"
+msgstr "Agordi aŭ ligi ekzistantan konton de Provejo de PayPal"
+
+#: includes/settings/settings-ppec.php:16
+msgid "%s or <a href=\"#\" class=\"ppec-toggle-settings\">click here to toggle manual API credential input</a>."
+msgstr "%s aŭ <a href=\"#\" class=\"ppec-toggle-settings\">alklaku al tie ĉi por baskuligi permanan enigon de API-akreditaĵo</a>."
+
+#: includes/settings/settings-ppec.php:15
+msgid "Setup or link an existing PayPal account"
+msgstr "Agordi aŭ ligi ekzistantan konton de PayPal"
+
+#: includes/class-wc-gateway-ppec-with-paypal-credit.php:15
+msgid "PayPal Credit"
+msgstr "Kredito de PayPal"
+
+#: includes/class-wc-gateway-ppec-plugin.php:266
+msgid "WooCommerce Gateway PayPal Express Checkout requires OpenSSL >= 1.0.1 to be installed on your server"
+msgstr "Rapida pago per PayPal-servo por WooCommerce postulas OpenSSL >= 1.0.1 por esti instalita al via servilo"
+
+#: includes/class-wc-gateway-ppec-plugin.php:263
+msgid "WooCommerce Gateway PayPal Express Checkout requires cURL to be installed on your server"
+msgstr "Rapida pago per PayPal-servo por WooCommerce postulas  instalon de cURL al via servilo"
+
+#: includes/class-wc-gateway-ppec-plugin.php:259
+msgid "WooCommerce Gateway PayPal Express Checkout requires WooCommerce version 2.5 or greater"
+msgstr "Rapida pago per PayPal-servo por WooCommerce postulas version 2.5 aŭ pli novan de WooCommerce"
+
+#: includes/class-wc-gateway-ppec-plugin.php:255
+msgid "WooCommerce Gateway PayPal Express Checkout requires WooCommerce to be activated"
+msgstr "Rapida pago per PayPal-servo por WooCommerce postulas aktivan WooCommerce"
+
+#: includes/class-wc-gateway-ppec-plugin.php:156
+msgid "%s in WooCommerce Gateway PayPal Express Checkout plugin can only be called once"
+msgstr "%s en la kromprogramo Rapida pago de PayPal-servo de WooCommerce povas esti vokita nur unufoje"
+
+#: includes/class-wc-gateway-ppec-ips-handler.php:182
+msgid "Success!  Your PayPal account has been set up successfully."
+msgstr "Sukceso! Via konto ĉe PayPal estis sukcese agordita."
+
+#: includes/class-wc-gateway-ppec-ips-handler.php:177
+msgid "Easy Setup was able to obtain your API credentials, but an error occurred while trying to verify that they work correctly.  Please try Easy Setup again."
+msgstr "Afabla agordo povis akiri viajn API-akreditaĵojn, sed eraro okazis dum provo konfirmi ĝustan funkciadon. Bonvole provu la Afablan agordon denove."
+
+#: includes/class-wc-gateway-ppec-ips-handler.php:173
+msgid "Easy Setup was able to obtain your API credentials, but was unable to verify that they work correctly.  Please make sure your PayPal account is set up properly and try Easy Setup again."
+msgstr "Afabla agordo povis akiri viajn API-akreditaĵojn, sed ne povis konfirmi, ke ili funkcias ĝuste. Bonvole kontrolu, ke via konto ĉe PayPal estas ĝuste agordita kaj post tio, provu Afablan agordon denove."
+
+#: includes/class-wc-gateway-ppec-ips-handler.php:150
+#: includes/class-wc-gateway-ppec-ips-handler.php:158
+msgid "Sorry, Easy Setup encountered an error.  Please try again."
+msgstr "Pardonon, Afabla agordo renkontis eraron. Bonvole provu denove."
+
+#: includes/class-wc-gateway-ppec-ips-handler.php:140
+msgid "Invalid connection request"
+msgstr "Nevalida konekto-peto"
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:291
+msgid "Order #%1$s has had a reversal cancelled. Please check the status of payment and update the order status accordingly here: %2$s"
+msgstr "Malfaro estis nuligita por mendo #%1$s. Bonvole kontrolu la staton de pago kaj ĝisdatigu la mendo-staton laŭe, tie ĉi: %2$s"
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:290
+msgid "Reversal cancelled for order #%s"
+msgstr "Malfaro nuligita por mendo #%s"
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:277
+msgid "Order #%1$s has been marked on-hold due to a reversal - PayPal reason code: %2$s"
+msgstr "Mendo #%1$s estis markita Suspendita pro malfaro - Kialokodo de PayPal: %2$s"
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:276
+msgid "Payment for order %s reversed"
+msgstr "Pago por mendo %s malfarita"
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:261
+msgid "Order #%1$s has been marked as refunded - PayPal reason code: %2$s"
+msgstr "Mendo #%1$s estis markita Repagita - Kialokodo de PayPal: %2$s"
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:260
+msgid "Payment for order %s refunded"
+msgstr "Pago por mendo %s repagita"
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:214
+#: includes/class-wc-gateway-ppec-ipn-handler.php:258
+#: includes/class-wc-gateway-ppec-ipn-handler.php:274
+msgid "Payment %s via IPN."
+msgstr "Pago %s per IPN."
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:182
+msgid "IPN payment completed"
+msgstr "IPN-pago finfarita"
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:157
+msgid "Validation error: PayPal amounts do not match (gross %s)."
+msgstr "Validiga eraro: kvantoj de PayPal ne kongruas (malneto %s)."
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:142
+msgid "Validation error: PayPal currencies do not match (code %s)."
+msgstr "Validiga eraro: valutoj de PayPal ne kongruas (kodo %s)."
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:41
+msgid "PayPal IPN Request Failure"
+msgstr "Malsukceso de IPN-peto de PayPal"
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:38
+msgid "Invalid IPN request."
+msgstr "Nevalida IPN-peto."
+
+#: includes/class-wc-gateway-ppec-ipn-handler.php:29
+msgid "Empty POST data."
+msgstr "Malplena datumo de POST."
+
+#: includes/class-wc-gateway-ppec-client.php:197
+msgid "Malformed response received from PayPal"
+msgstr "Misformita respondo ricevita de PayPal"
+
+#: includes/class-wc-gateway-ppec-client.php:191
+msgid "An error occurred while trying to connect to PayPal: %s"
+msgstr "Eraro okazis dum provo konektiĝi al PayPal: %s"
+
+#: includes/class-wc-gateway-ppec-client.php:174
+msgid "Invalid environment"
+msgstr "Nevalida medio"
+
+#: includes/class-wc-gateway-ppec-client.php:170
+msgid "Invalid credential object"
+msgstr "Nevalida akredita objekto"
+
+#: includes/class-wc-gateway-ppec-client.php:166
+msgid "Missing credential"
+msgstr "mankas akreditaĵo"
+
+#: includes/class-wc-gateway-ppec-client-credential-certificate.php:117
+msgid "Failed to export PKCS12 file during cURL configuration"
+msgstr "Malsukcesis eksporti PKCS12-dosieron dum agordo de cURL"
+
+#: includes/class-wc-gateway-ppec-client-credential-certificate.php:113
+msgid "Failed to retrieve private key during cURL configuration"
+msgstr "Malsukcesis akiri privatan ŝlosilon dum agordo de cURL"
+
+#: includes/class-wc-gateway-ppec-client-credential-certificate.php:87
+#: includes/class-wc-gateway-ppec-client-credential-certificate.php:133
+msgid "Unable to write certificate file %s during cURL configuration"
+msgstr "Ne povis skribi atestilan dosieron %s dum agordo de cURL"
+
+#: includes/class-wc-gateway-ppec-client-credential-certificate.php:70
+msgid "Unable to accept certificate password during cURL configuration"
+msgstr "Ne povis akcepti pasvorton de atestilo dum agordo de cURL"
+
+#: includes/class-wc-gateway-ppec-client-credential-certificate.php:66
+msgid "Unable to accept certificate during cURL configuration"
+msgstr "Ne povis akcepti atestilon dum agordo de cURL"
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:901
+#: includes/class-wc-gateway-ppec-ipn-handler.php:192
+msgid "Payment pending (%s)."
+msgstr "Pago pritraktota (%s)."
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:899
+#: includes/class-wc-gateway-ppec-ipn-handler.php:190
+msgid "Payment authorized. Change payment status to processing or complete to capture funds."
+msgstr "Pago rajtigita. Ŝanĝu staton de pago al Pritraktanta aŭ Finfarita por kapti pagon."
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:543
+msgid "You have cancelled Checkout with PayPal. Please try to process your order again."
+msgstr "Vi nuligis Pagon per PayPal. Bonvole provu denove por fari vian mendon."
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:529
+msgid "Cancel"
+msgstr "Rezigni"
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:467
+msgid "Sorry, an error occurred while trying to retrieve your information from PayPal. Please try again."
+msgstr "Pardonon, eraro okazis dum provo preni viajn informojn de PayPal. Bonvole provu denove."
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:432
+#: includes/class-wc-gateway-ppec-checkout-handler.php:472
+msgid "Your PayPal checkout session has expired. Please check out again."
+msgstr "Via seanco ĉe PayPal eksvalidiĝis. Bonvole provu pagi denove."
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:345
+msgid "Shipping details"
+msgstr "Sendo-detaloj"
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:259
+msgid "Email:"
+msgstr "Retpoŝtadreso:"
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:255
+msgid "Name:"
+msgstr "Nomo:"
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:253
+msgid "Address:"
+msgstr "Adreso:"
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:250
+msgid "Billing details"
+msgstr "Fakturaj detaloj"
+
+#: includes/class-wc-gateway-ppec-checkout-handler.php:79
+msgid "Confirm your PayPal order"
+msgstr "Konfirmu vian mendon ĉe PayPal"
+
+#: includes/class-wc-gateway-ppec-cart-handler.php:141
+#: includes/class-wc-gateway-ppec-cart-handler.php:172
+#: includes/class-wc-gateway-ppec-cart-handler.php:198
+msgid "Check out with PayPal"
+msgstr "Pagi per PayPal"
+
+#: includes/class-wc-gateway-ppec-cart-handler.php:167
+msgid "&mdash; or &mdash;"
+msgstr "&mdash; aŭ &mdash;"
+
+#: includes/class-wc-gateway-ppec-api-error.php:55
+msgid "An error (%s) occurred while processing your PayPal payment.  Please contact the store owner for assistance."
+msgstr "Eraro okazis (%s) dum pritrakto de via pago per PayPal. Bonvole kontaktu la posedanton de la vendejo por helpo."
+
+#: includes/class-wc-gateway-ppec-api-error.php:54
+msgid "Your funding instrument is invalid.  Please check out again and select a new funding source."
+msgstr "Via financa instrumento ne estas valida. Bonvole iru al la pagprocezo denove kaj elektu malsaman fonton por pagi."
+
+#: includes/class-wc-gateway-ppec-api-error.php:51
+msgid "The redemption code(s) you entered on PayPal cannot be used at this time.  Please return to PayPal and remove them."
+msgstr "La apliko-kodo(j) enigita(j) ĉe PayPal de vi ne povas esti uzita(j) nune. Bonvole revenu al PayPal kaj forviŝu ilin."
+
+#: includes/class-wc-gateway-ppec-api-error.php:49
+msgid "Your PayPal payment could not be processed.  Please contact PayPal for assistance."
+msgstr "Via pago per PayPal ne povis esti pritraktita. Bonvole kontaktu PayPal por helpo."
+
+#: includes/class-wc-gateway-ppec-api-error.php:47
+msgid "PayPal rejected your shipping address because the city, state, and/or ZIP code are incorrect.  Please double-check that they are all spelled correctly and try again."
+msgstr "PayPal malakceptis vian sendadreson ĉar la urbo, ŝtato kaj/aŭ poŝtkodo estas malĝustaj. Bonvole kontrolu, ke ili estas ĝuste literumitaj kaj provu denove."
+
+#: includes/class-wc-gateway-ppec-api-error.php:45
+msgid "The ZIP code or postal code in your shipping address is not valid.  Please double-check your shipping address and try again."
+msgstr "La poŝtkodo en via sendadreso ne estas valida. Bonvole kontrolu vian sendadreson kaj provu denove."
+
+#: includes/class-wc-gateway-ppec-api-error.php:44
+msgid "The state in your shipping address is not valid.  Please double-check your shipping address and try again."
+msgstr "La ŝtato en via sendadreso ne estas valida. Bonvole kontrolu vian sendadreson kaj provu denove."
+
+#: includes/class-wc-gateway-ppec-api-error.php:43
+msgid "The city in your shipping address is not valid.  Please double-check your shipping address and try again."
+msgstr "La urbo en via sendadreso ne estas valida. Bonvole kontrolu vian sendadreson kaj provu denove."
+
+#: includes/class-wc-gateway-ppec-api-error.php:42
+msgid "The street address in your shipping address is not valid.  Please double-check your shipping address and try again."
+msgstr "La strat-adreso en via sendadreso ne estas valida. Bonvole kontrolu vian sendadreson kaj provu denove."
+
+#: includes/class-wc-gateway-ppec-api-error.php:41
+#: includes/class-wc-gateway-ppec-api-error.php:46
+msgid "The country in your shipping address is not valid.  Please double-check your shipping address and try again."
+msgstr "La lando en via sendadreso ne estas valida. Bonvole kontrolu vian sendadreson kaj provu denove."
+
+#: includes/class-wc-gateway-ppec-api-error.php:40
+msgid "Your transaction was declined.  Please contact the store owner for assistance."
+msgstr "Via transakcio estis malakceptita. Bonvole kontaktu la posedanton de la vendejo por helpo."
+
+#: includes/class-wc-gateway-ppec-api-error.php:38
+msgid "The transaction is over the threshold allowed by this store.  Please contact the store owner for assistance."
+msgstr "La transakcio estas pli ol la kvanto permesita de la vendejo. Bonvole kontaktu la posedanton de la vendejo por helpo."
+
+#: includes/class-wc-gateway-ppec-api-error.php:37
+msgid "This store does not accept transactions from buyers in your country.  Please contact the store owner for assistance."
+msgstr "Tiu ĉi vendejo ne akceptas transakciojn de klientoj en via lando. Bonvole kontaktu la posedanton de la vendejo por helpo."
+
+#: includes/class-wc-gateway-ppec-api-error.php:36
+msgid "Your shipping address may not be in a different country than your country of residence.  Please double-check your shipping address and try again."
+msgstr "Via sendadreso ne rajtas esti en malsama lando ol via loĝ-lando. Bonvole kontrolu vian sendadreson kaj provu denove."
+
+#: includes/class-wc-gateway-ppec-api-error.php:35
+msgid "You have not approved this transaction on the PayPal website.  Please check out again and be sure to complete all steps of the PayPal checkout process."
+msgstr "Vi ne aprobis tiun transakcion ĉe la retejo de PayPal. Bonvole pagu denove kaj estu certa, ke vi plenumos ĉiujn paŝojn de la pagprocezo de PayPal."
+
+#: includes/class-wc-gateway-ppec-api-error.php:33
+msgid "Your PayPal payment could not be processed.  Please return to PayPal and select a new method of payment."
+msgstr "Via pago per PayPal ne povis esti pritraktita. Bonvole revenu al PayPal kaj elektu novan metodon de pago."
+
+#: includes/class-wc-gateway-ppec-api-error.php:31
+msgid "Your PayPal payment could not be processed.  Please select an alternative method of payment or contact PayPal for assistance."
+msgstr "Via pago per PayPal ne povis esti pritraktita. Bonvole elektu alternativan metodon de pago aŭ kontaktu PayPal por helpo."
+
+#: includes/class-wc-gateway-ppec-api-error.php:30
+msgid "Your PayPal payment could not be processed.  Please check out again or contact PayPal for assistance."
+msgstr "Via pago per PayPal ne povis esti pritraktita. Bonvole iru denove al la pagprocezo aŭ kontaktu PayPal por helpo."
+
+#: includes/class-wc-gateway-ppec-api-error.php:29
+msgid "Your PayPal payment has already been completed.  Please contact the store owner for more information."
+msgstr "Via pago per PayPal jam estas farita. Bonvole kontaktu la posedanton de la vendejo por pliaj informoj."
+
+#: includes/class-wc-gateway-ppec-api-error.php:27
+msgid "Your PayPal checkout session has expired.  Please check out again."
+msgstr "Via pago-seanco ĉe PayPal eksvalidiĝis. Bonvole iru denove al la pagprocezo."
+
+#: includes/class-wc-gateway-ppec-api-error.php:26
+msgid "Your PayPal checkout session is invalid.  Please check out again."
+msgstr "Via pagproceza seanco ĉe PayPal ne estas valida. Bonvole iru denove al la pagprocezo."
+
+#: includes/class-wc-gateway-ppec-api-error.php:23
+msgid "PayPal rejected your email address because it is not valid.  Please double-check your email address and try again."
+msgstr "PayPal malakceptis vian retpoŝtadreson ĉar ĝi ne estas valida. Bonvole kontrolu vian retpoŝtadreson kaj provu denove."
+
+#: includes/class-wc-gateway-ppec-api-error.php:22
+msgid "Unable to communicate with PayPal.  Please try your payment again."
+msgstr "Ne povis komuniki kun PayPal. Bonvole provu vian pagon denove."
+
+#: includes/class-wc-gateway-ppec-admin-handler.php:220
+msgid "PayPal Express Checkout charge voided (Charge ID: %s)"
+msgstr "Debeto de Rapida pago per PayPal estis nuligita (Debeta ID: %s)"
+
+#: includes/class-wc-gateway-ppec-admin-handler.php:218
+msgid "Unable to void charge!"
+msgstr "Ne povis nuligi la debeton!"
+
+#: includes/class-wc-gateway-ppec-admin-handler.php:176
+msgid "PayPal Express Checkout charge complete (Charge ID: %s)"
+msgstr "Debeto de Rapida pago per PayPal estas finfarita (Debeta ID: %s)"
+
+#: includes/class-wc-gateway-ppec-admin-handler.php:168
+msgid "Unable to capture charge!"
+msgstr "Ne povis kapti pagon!"
+
+#: includes/class-wc-gateway-ppec-admin-handler.php:79
+msgid "NOTE: PayPal does not accept decimal places for the currency in which you are transacting.  The \"Number of Decimals\" option in WooCommerce has automatically been set to 0 for you."
+msgstr "NOTU: PayPal ne akceptas frakciajn partojn por la valuto en kiu vi faras transakcion. La opcio \"Nombro da frakciaj partoj\" en WooCommerce estis aŭtomate fiksita al 0 por vi."
+
+#: includes/class-wc-gateway-ppec-admin-handler.php:55
+msgid "Capture Charge"
+msgstr "Kapti pagon"
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:429
+msgid "Refund Error: The requested refund amount is too large. The refund amount must be less than or equal to %s."
+msgstr "Repaga eraro: la petita repaga kvanto estas tro granda. La kvanto da repago devas esti malpli ol aŭ egala al %s."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:427
+msgid "Refund Error: All transactions have been fully refunded. There is no amount left to refund"
+msgstr "Repaga eraro: ĉiuj transakcioj estis plene repagitaj. Estas neniu restanta kvanto por esti repagita"
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:380
+#: includes/abstracts/abstract-wc-gateway-ppec.php:403
+#: includes/abstracts/abstract-wc-gateway-ppec.php:453
+msgid "PayPal refund completed; transaction ID = %s"
+msgstr "Repago per PayPal finfarita: transakcia ID = %s"
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:360
+msgid "Refund Error: You need to specify a refund amount."
+msgstr "Repaga eraro: vi bezonas specifi kvanton da repago."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:341
+msgid "The \"require billing address\" option is not enabled by your account and has been disabled."
+msgstr "La opcio \"devigi fakturan adreson\" ne estas ebligita de via konto kaj estis malebligita."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:323
+msgid "Error: You must provide API signature or certificate."
+msgstr "Eraro: vi devas doni API-subskribon aŭ atestilon."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:305
+msgid "Error: The API username does not match the name in the API certificate.  Make sure that you have the correct API certificate."
+msgstr "Eraro: la API-uzantnomo ne kongruas kun la nomo en la API-atestilo. Certigu, ke vi havas la ĝustan API-atestilon."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:300
+msgid "Error: The API certificate has expired."
+msgstr "Eraro: la API-atestilo estas eksvalida."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:292
+msgid "Error: The API certificate is not valid."
+msgstr "Eraro: la API-atestilo ne estas valida."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:285
+#: includes/abstracts/abstract-wc-gateway-ppec.php:318
+msgid "An error occurred while trying to validate your API credentials.  Unable to verify that your API credentials are correct."
+msgstr "Eraro okazis dum provo konfirmi viajn API-akreditaĵojn. Ne povis konfirmi ke viaj API-akreditaĵoj estas ĝustaj."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:280
+#: includes/abstracts/abstract-wc-gateway-ppec.php:314
+msgid "Error: The API credentials you provided are not valid.  Please double-check that you entered them correctly and try again."
+msgstr "Eraro: la API-akreditaĵoj donitaj de vi ne estas validaj. Bonvole kontrolu, ke vi enigis ilin ĝuste kaj provu denove."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:269
+msgid "Error: You must enter API password."
+msgstr "Eraro: vi devas enigi API-pasvorton."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:214
+msgid "The certificate on file is not valid."
+msgstr "La atestilo en tenejo ne estas valida."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:212
+msgid "Certificate belongs to API username %1$s; %2$s"
+msgstr "Atestilo apartenas al API-uzantnomo %1$s; %2$s"
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:205
+#: includes/abstracts/abstract-wc-gateway-ppec.php:208
+msgid "expires on %s"
+msgstr "eksvalidiĝos en la %s"
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:202
+msgid "expired on %s"
+msgstr "eksvalidiĝis en la %s"
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:190
+msgid "No API certificate on file."
+msgstr "Neniu API-atestilo en la tenejo."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:158
+msgid "Sorry, an error occurred while trying to process your payment. Please try again."
+msgstr "Pardonon, eraro okazis dum provo pritrakti vian pagon. Bonvole provu denove."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:22
+msgid "Continue to payment"
+msgstr "Daŭrigi al pago"
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:19
+msgid "Allow customers to conveniently checkout directly with PayPal."
+msgstr "Permesi klientojn afable pagi rekte per PayPal."
+
+#: includes/abstracts/abstract-wc-gateway-ppec.php:18
+#: includes/class-wc-gateway-ppec-privacy.php:12
+#: includes/settings/settings-ppec.php:130
+msgid "PayPal Express Checkout"
+msgstr "Rapida pago per PayPal"

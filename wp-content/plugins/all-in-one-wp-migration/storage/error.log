@@ -1,0 +1,9 @@
+Sep 29 2019 00:59:42
+{"Number":2,"Message":"Use of undefined constant DB_CHARSET - assumed 'DB_CHARSET' (this will throw an Error in a future version of PHP)","File":"\/nas\/content\/live\/infusiv\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/export\/class-ai1wm-export-config.php","Line":138}
+
+Sep 29 2019 00:59:42
+{"Number":2,"Message":"Use of undefined constant DB_COLLATE - assumed 'DB_COLLATE' (this will throw an Error in a future version of PHP)","File":"\/nas\/content\/live\/infusiv\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/export\/class-ai1wm-export-config.php","Line":138}
+
+Sep 29 2019 00:59:46
+{"Number":2,"Message":"fopen(\/nas\/content\/live\/infusiv\/wp-content\/mysql.sql): failed to open stream: Permission denied","File":"\/nas\/content\/live\/infusiv\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-compressor.php","Line":72}
+

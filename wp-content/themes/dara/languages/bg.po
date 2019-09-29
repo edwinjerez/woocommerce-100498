@@ -1,0 +1,251 @@
+# Translation of WordPress.com - Themes - Dara in Bulgarian
+# This file is distributed under the same license as the WordPress.com - Themes - Dara package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-15 10:07:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: bg\n"
+"Project-Id-Version: WordPress.com - Themes - Dara\n"
+
+#: functions.php:94
+msgid "Dark Blue"
+msgstr "Тъмно синьо"
+
+#: functions.php:89
+msgid "Blue"
+msgstr "Синьо"
+
+#: functions.php:84
+msgid "White"
+msgstr "Бяла"
+
+#: functions.php:79
+msgid "Light Gray"
+msgstr "Светлосив"
+
+#: functions.php:74
+msgid "Medium Gray"
+msgstr "Нормално сиво"
+
+#: functions.php:69
+msgid "Dark Gray"
+msgstr "Тъмносив"
+
+#: functions.php:64
+msgid "Black"
+msgstr "Черна"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Един коментар към &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s коментара към &ldquo;%2$s&rdquo;"
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:272
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d елемент"
+msgstr[1] "%d елемента"
+
+#: inc/woocommerce.php:270
+msgid "View your shopping cart"
+msgstr "Преглед на количката"
+
+#: inc/wpcom-colors.php:66
+msgid "Links"
+msgstr "Връзки"
+
+#: inc/wpcom-colors.php:21
+msgid "Headings"
+msgstr "Заглавия"
+
+#: functions.php:309
+msgid "Continue reading <span class=\"screen-reader-text\">%1$s</span>"
+msgstr "Продължете да четете <span class=\"screen-reader-text\">%1$s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:57
+msgid "Tagged"
+msgstr "Маркиран"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/dara/templates/grid-page.php
+msgid "Grid Page"
+msgstr "Шаблон решетка"
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/pub/dara/templates/full-width-page.php
+msgid "Full Width, No Sidebar"
+msgstr "Пълна широчина, без странична лента"
+
+#: single.php:20
+msgid "Next post"
+msgstr "Следваща публикация"
+
+#: single.php:20
+msgid "Previous post"
+msgstr "Предишна публикация"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Резултати от търсене за: %s"
+
+#: inc/template-tags.php:62
+msgid "% Comments"
+msgstr "% Коментари"
+
+#: inc/template-tags.php:62
+msgid "1 Comment"
+msgstr "има 1 коментар"
+
+#: inc/template-tags.php:62
+msgid "Leave a comment"
+msgstr "Вашият коментар"
+
+#: inc/template-tags.php:57
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:65
+msgid "Front Page: Featured Page Three"
+msgstr "Заглавна страница: Препоръчана страница три"
+
+#: inc/customizer.php:53
+msgid "Front Page: Featured Page Two"
+msgstr "Заглавна страница: Препоръчана страница две"
+
+#: inc/customizer.php:41
+msgid "Front Page: Featured Page One"
+msgstr "Заглавна страница: Препоръчана страница едно"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Допълнителни настройки"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Към съдържанието"
+
+#: functions.php:250
+msgid "Footer 3"
+msgstr "Футър 3"
+
+#: functions.php:242
+msgid "Footer 2"
+msgstr "Футър 2"
+
+#: functions.php:234
+msgid "Footer 1"
+msgstr "Футър 1"
+
+#: functions.php:226
+msgid "Sidebar"
+msgstr "Странична лента"
+
+#. translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:193
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:103
+msgid "Header"
+msgstr "Заглавна картинка"
+
+#. translators: %s: Name of current post.
+#: components/post/content.php:49
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Има още <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Страницата не съществува. Пробвайте да потърсите каквото ви трябва."
+
+#: components/post/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Няма резултати, отговарящи на вашето търсене. Опитайте отново с други ключови думи. "
+
+#: components/post/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Време е за първата ви публикация. <a href=\"%1$s\">Започнете от тук</a>."
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr "Нищо не е открито"
+
+#: components/post/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Всички публикации от %s"
+
+#: components/post/content-author.php:28
+msgid "Published by %s"
+msgstr "Публикувано от %s "
+
+#. translators: %s: Name of current post
+#: components/page/content-page.php:31
+#: components/testimonials/content-testimonial.php:25 inc/template-tags.php:38
+msgid "Edit %s"
+msgstr "Редактиране %s"
+
+#: components/page/content-page.php:21 components/post/content.php:54
+msgid "Pages:"
+msgstr "Страници:"
+
+#: components/navigation/navigation-top.php:2
+msgid "Menu"
+msgstr "Меню"
+
+#: components/footer/site-info.php:4
+msgid "Theme: %1$s by %2$s."
+msgstr "Тема: %1$s от %2$s."
+
+#: components/footer/site-info.php:2
+msgid "Proudly powered by %s"
+msgstr "Създаден с %s"
+
+#: components/footer/site-info.php:2
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Коментарите са затворени."
+
+#: comments.php:57 comments.php:77
+msgid "Newer Comments"
+msgstr "По-нови коментари"
+
+#: comments.php:56 comments.php:76
+msgid "Older Comments"
+msgstr "По-стари коментари"
+
+#: comments.php:53 comments.php:73
+msgid "Comment navigation"
+msgstr "Навигация в коментарите"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Един коментар за &ldquo;%s&rdquo;"
+
+#: archive-jetpack-testimonial.php:28
+msgid "Testimonials"
+msgstr "Препоръки"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Тук няма нищо. Опитайте с търсене?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Страницата не е открита."

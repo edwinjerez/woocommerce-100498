@@ -1,0 +1,99 @@
+# Translation of Plugins - Gutenberg - Development (trunk) in Afrikaans
+# This file is distributed under the same license as the Plugins - Gutenberg - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-23 20:10:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: af_ZA\n"
+"Project-Id-Version: Plugins - Gutenberg - Development (trunk)\n"
+
+#: lib/init-checks.php:19
+msgid "Gutenberg requires WordPress 4.8 or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg vereis WordPress 4.8 of later om ordentlik te kan werk. Opgradeer asseblief WordPress voordat jy Gutenberg aktiveer. "
+
+#: lib/client-assets.php:352
+msgid "Unauthorized post type."
+msgstr "Ongemagtigde artikel tipe."
+
+#: lib/client-assets.php:348
+msgid "Unrecognized post type."
+msgstr "Onherkenbare artikel tipe."
+
+#: lib/client-assets.php:343
+msgid "Post not found."
+msgstr "Artikel nie gevind."
+
+#. Author of the plugin/theme
+msgid "Gutenberg Team"
+msgstr "Gutenberg Span"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. #-#-#-#-#  gutenberg-code.pot (Gutenberg 0.5.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: lib/register.php:105
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: lib/register.php:56 lib/register.php:57
+msgid "Demo"
+msgstr "Demo"
+
+#: lib/register.php:47 lib/register.php:48
+msgid "New Post"
+msgstr "Nuwe artikel"
+
+#: lib/client-assets.php:78
+msgid "F j, Y g:i a"
+msgstr "F j, Y g:i a"
+
+#: lib/client-assets.php:77
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: lib/client-assets.php:76
+msgid "g:i a"
+msgstr "g:i a"
+
+#. translators: %s: duration
+#: lib/client-assets.php:72
+msgid "%s ago"
+msgstr "%s terug"
+
+#. translators: %s: duration
+#: lib/client-assets.php:70
+msgid "%s from now"
+msgstr "%s van nou"
+
+#. Description of the plugin/theme
+msgid "Printing since 1440. This is the development plugin for the new block editor in core. <strong>Meant for development, do not run on real sites.</strong>"
+msgstr "Print vanaf 1440. Hierdie is die ontwikkelings Plugin vir die nuwe skryfpaneel van die kern. <strong>Op hierdie stadium gebruik dit net vir toets, nie vir regte webwerwe nie.</strong>"
+
+#. translators: %s: post title
+#: lib/register.php:102
+msgid "Edit &#8220;%s&#8221; in the Gutenberg editor"
+msgstr "Wysig &#8220;%s&#8221; in die Gutenberg skryfpaneel"
+
+#. translators: 1: block name
+#: lib/blocks.php:40
+msgid "Block \"%s\" is already registered."
+msgstr "Blok \"%s\" is al klaar geregistreer."
+
+#. translators: 1: block name
+#: lib/blocks.php:62
+msgid "Block \"%s\" is not registered."
+msgstr "Blok \"%s\" is nie geregistreer nie."
+
+#: lib/blocks.php:33
+msgid "Block names must contain a namespace prefix. Example: my-plugin/my-custom-block"
+msgstr "Blok name moet 'n naamspasie voorvoegsel bevat. Byvoorbeeld: my-plugin/my-unieke-blok"
+
+#: lib/blocks.php:26
+msgid "Block names must be strings."
+msgstr "Blok name moet 'n woord wees."

@@ -1,0 +1,1179 @@
+# Translation of Plugins - WooCommerce Stripe Payment Gateway - Stable (latest release) in Catalan
+# This file is distributed under the same license as the Plugins - WooCommerce Stripe Payment Gateway - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-22 10:15:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ca\n"
+"Project-Id-Version: Plugins - WooCommerce Stripe Payment Gateway - Stable (latest release)\n"
+
+#: includes/payment-methods/class-wc-stripe-payment-request.php:808
+msgid "Product with the ID (%d) cannot be found."
+msgstr "No s’ha trobat el producte amb l’ID (%d)."
+
+#. translators: 1) int version 2) int version
+#: includes/admin/class-wc-stripe-admin-notices.php:125
+msgid "WooCommerce Stripe - We recently made changes to Stripe that may impact the appearance of your checkout. If your checkout has changed unexpectedly, please follow these <a href=\"https://docs.woocommerce.com/document/stripe/#section-45\" target=\"_blank\">instructions</a> to fix."
+msgstr "WooCommerce Stripe - Recentment hem realitzat canvis a Stripe que poden afectar l'aparença de la compra. Si la comanda ha canviat de manera inesperada, seguiu aquestes <a href=\"https://docs.woocommerce.com/document/stripe/#section-45\" target=\"_blank\">instruccions</a> per a solucionar-les."
+
+#: includes/class-wc-gateway-stripe.php:487
+#: includes/class-wc-gateway-stripe.php:702
+msgid "Sorry, we're not accepting prepaid cards at this time. Your credit card has not been charged. Please try with alternative payment method."
+msgstr "En aquests moments no acceptem targetes de prepagament. No s’ha carregat a la targeta de crèdit. Proveu amb un mètode de pagament alternatiu."
+
+#: includes/compat/class-wc-stripe-subs-compat.php:97
+#: includes/compat/class-wc-stripe-sepa-subs-compat.php:97
+msgid "Update the Payment Method used for all of my active subscriptions (optional)."
+msgstr "Actualitza el mètode de pagament utilitzat per a totes les meves subscripcions actives (opcional)."
+
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:967
+msgid "There was a problem adding the payment method."
+msgstr "S'ha produït un problema en afegir el mètode de pagament."
+
+#. translators: 1: product name 2: quantity in stock
+#: includes/payment-methods/class-wc-stripe-payment-request.php:835
+msgid "You cannot add that amount of \"%1$s\"; to the cart because there is not enough stock (%2$s remaining)."
+msgstr "No podeu afegir aquesta quantitat de \"%1$s\"; al carretó perquè no hi ha prou estoc (%2$s en queden)."
+
+#: includes/payment-methods/class-wc-gateway-stripe-sepa.php:228
+msgid "IBAN."
+msgstr "IBAN."
+
+#: includes/class-wc-gateway-stripe.php:508
+msgid "Billing First Name and Last Name are required."
+msgstr "El nom i cognom de facturació són necessaris."
+
+#: includes/class-wc-stripe-customer.php:119
+msgid "Username"
+msgstr "Nom d'usuari"
+
+#: includes/class-wc-stripe-customer.php:119
+msgid "Name"
+msgstr "Nom"
+
+#. translators: %d Order ID
+#: includes/admin/class-wc-stripe-privacy.php:350
+msgid "Order ID %d contains an active Subscription. Personal data retained. (Stripe)"
+msgstr "L'identificador de comanda %d conté una subscripció activa. Es retenen les dades personals. (Stripe)"
+
+#. translators: %d Order ID
+#: includes/admin/class-wc-stripe-privacy.php:345
+#: includes/admin/class-wc-stripe-privacy.php:382
+msgid "Order ID %d is less than set retention days. Personal data retained. (Stripe)"
+msgstr "L’identificador de comanda %d és inferior als dies de retenció establerts. S'han retingut les dades personals. (Stripe)"
+
+#: includes/admin/class-wc-stripe-privacy.php:38
+msgid "Retains any Stripe data such as Stripe customer ID, source ID."
+msgstr "Reté qualsevol dada d'Stripe com ara l'identificador del client, l'identificador de l'origen."
+
+#: includes/admin/class-wc-stripe-privacy.php:37
+msgid "Retain Stripe Data"
+msgstr "Reté dades d'Stripe"
+
+#. translators: 1) link
+#: includes/admin/class-wc-stripe-admin-notices.php:195
+msgid "Stripe is enabled, but a SSL certificate is not detected. Your checkout may not be secure! Please ensure your server has a valid <a href=\"%1$s\" target=\"_blank\">SSL certificate</a>"
+msgstr "Stripe està habilitat, però no es detecta un certificat SSL. El procés de compra pot no ser segur! Assegureu-vos que el servidor té un <a href=\"%1$s\" target=\"_blank\">certificat SSL</a> vàlid"
+
+#: includes/admin/class-wc-stripe-privacy.php:393
+msgid "Stripe personal data erased."
+msgstr "S'han esborrat les dades personals d'Stripe."
+
+#: includes/admin/class-wc-stripe-privacy.php:365
+msgid "Stripe Subscription Data Erased."
+msgstr "S'han esborrat les dades de subscripció d'Stripe."
+
+#: includes/admin/class-wc-stripe-privacy.php:269
+msgid "Stripe User Data Erased."
+msgstr "S'han esborrat les dades d'usuari d'Stripe."
+
+#: includes/admin/class-wc-stripe-privacy.php:223
+msgid "Customer Data"
+msgstr "Dades del client"
+
+#: includes/admin/class-wc-stripe-privacy.php:183
+msgid "Subscriptions"
+msgstr "Subscripcions"
+
+#: includes/admin/class-wc-stripe-privacy.php:126
+#: includes/admin/class-wc-stripe-privacy.php:191
+#: includes/admin/class-wc-stripe-privacy.php:231
+msgid "Stripe customer id"
+msgstr "Identificador de client d'Stripe"
+
+#: includes/admin/class-wc-stripe-privacy.php:122
+#: includes/admin/class-wc-stripe-privacy.php:187
+#: includes/admin/class-wc-stripe-privacy.php:227
+msgid "Stripe payment id"
+msgstr "Identificador de pagament d'Stripe"
+
+#: includes/admin/class-wc-stripe-privacy.php:118
+msgid "Orders"
+msgstr "Comandes"
+
+#. translators: %s URL to docs
+#: includes/admin/class-wc-stripe-privacy.php:95
+msgid "By using this extension, you may be storing personal data or sharing data with an external service. <a href=\"%s\" target=\"_blank\">Learn more about how this works, including what you may want to include in your privacy policy.</a>"
+msgstr "En usar aquesta extensió, és possible que estigueu emmagatzemant dades personals o compartint dades amb un servei extern. <a href=\"%s\" target=\"_blank\">Obtingueu més informació sobre com funciona això, incloent el que voleu incloure a la política de privadesa.</a>"
+
+#: includes/admin/class-wc-stripe-privacy.php:23
+msgid "WooCommerce Stripe Data"
+msgstr "Dades d'Stripe de WooCommerce"
+
+#: includes/admin/class-wc-stripe-privacy.php:20
+#: includes/admin/class-wc-stripe-privacy.php:22
+msgid "WooCommerce Stripe Customer Data"
+msgstr "Dades de clients d'Stripe de WooCommerce"
+
+#: includes/admin/class-wc-stripe-privacy.php:17
+msgid "WooCommerce Stripe Subscriptions Data"
+msgstr "Dades de subscripcions d'Stripe de WooCommerce"
+
+#: includes/admin/class-wc-stripe-privacy.php:14
+msgid "WooCommerce Stripe Order Data"
+msgstr "Dades de comanda d'Stripe de WooCommerce"
+
+#: includes/admin/stripe-settings.php:106
+msgid "If enabled, this option shows a \"pay\" button and modal credit card form on the checkout, instead of credit card fields directly on the page. We recommend you leave this disabled and use the embedded form as that is the preferred method."
+msgstr "Quan està habilitada, aquesta opció mostra un botó de \"pagament\" i un formulari de targeta de crèdit en el procés de compra, en lloc dels camps de la targeta de crèdit directament a la pàgina. Us recomanem que deixeu això desactivat i utilitzeu el formulari incrustat, ja que aquest és el mètode preferit."
+
+#: includes/admin/stripe-settings.php:103
+msgid "Stripe Modal Checkout"
+msgstr "Procés de compra amb finestra emergent d'Stripe"
+
+#. translators: 1. URL link.
+#: woocommerce-gateway-stripe.php:32
+msgid "Stripe requires WooCommerce to be installed and active. You can download %s here."
+msgstr "Stripe requereix el WooCommerce instal·lat i actiu. Podeu descarregar-lo %s aquí."
+
+#. translators: partial captured amount
+#: includes/class-wc-stripe-webhook-handler.php:309
+msgid "This charge was partially captured via Stripe Dashboard in the amount of: %s"
+msgstr "Aquest càrrec va ser capturat parcialment mitjançant el quadre de comandament d'Stripe en la quantitat de: %s"
+
+#: includes/payment-methods/class-wc-gateway-stripe-multibanco.php:366
+msgid "Awaiting Multibanco payment"
+msgstr "En espera del pagament de Multibanco"
+
+#: includes/payment-methods/class-wc-gateway-stripe-multibanco.php:250
+#: includes/payment-methods/class-wc-gateway-stripe-multibanco.php:265
+msgid "Referencia:"
+msgstr "Referència:"
+
+#: includes/payment-methods/class-wc-gateway-stripe-multibanco.php:247
+#: includes/payment-methods/class-wc-gateway-stripe-multibanco.php:261
+msgid "Entidade:"
+msgstr "Entitat:"
+
+#: includes/payment-methods/class-wc-gateway-stripe-multibanco.php:244
+#: includes/payment-methods/class-wc-gateway-stripe-multibanco.php:257
+msgid "Montante:"
+msgstr "Import:"
+
+#: includes/payment-methods/class-wc-gateway-stripe-multibanco.php:242
+#: includes/payment-methods/class-wc-gateway-stripe-multibanco.php:254
+msgid "MULTIBANCO INFORMAÇÕES DE ENCOMENDA:"
+msgstr "INFORMACIÓ DE COMANDA DE MULTIBANCO:"
+
+#: woocommerce-gateway-stripe.php:254
+#: includes/payment-methods/class-wc-gateway-stripe-multibanco.php:60
+msgid "Stripe Multibanco"
+msgstr "Stripe Multibanco"
+
+#: woocommerce-gateway-stripe.php:249
+#: includes/payment-methods/class-wc-gateway-stripe-eps.php:60
+msgid "Stripe EPS"
+msgstr "Stripe EPS"
+
+#. translators: 1) last 4 digits of SEPA Direct Debit
+#: includes/compat/class-wc-stripe-sepa-subs-compat.php:479
+msgid "Via SEPA Direct Debit ending in %1$s"
+msgstr "A través de SEPA Direct Debit acabada en %1$s"
+
+#. translators: 1) dollar amount 2) transaction id 3) refund message
+#: includes/class-wc-stripe-webhook-handler.php:486
+msgid "Refunded %1$s - Refund ID: %2$s - %3$s"
+msgstr "Devolució %1$s - Identificador de devolució: %2$s - %3$s"
+
+#: includes/class-wc-gateway-stripe.php:927
+msgid "Stripe Payout:"
+msgstr "Pagament d'Stripe:"
+
+#: includes/class-wc-gateway-stripe.php:926
+msgid "This represents the net total that will be credited to your Stripe bank account. This may be in the currency that is set in your Stripe account."
+msgstr "Això representa el total net que s’abonarà al vostre compte bancari de Stripe. Pot ser que estigui en la moneda que estigui establerta al vostre compte de Stripe."
+
+#: includes/class-wc-gateway-stripe.php:890
+msgid "Stripe Fee:"
+msgstr "Tarifa d'Stripe:"
+
+#: includes/class-wc-gateway-stripe.php:889
+msgid "This represents the fee Stripe collects for the transaction."
+msgstr "Això representa la tarifa que Stripe recull per a la transacció."
+
+#: includes/compat/class-wc-stripe-subs-compat.php:253
+#: includes/compat/class-wc-stripe-sepa-subs-compat.php:272
+#: includes/class-wc-stripe-order-handler.php:162
+#: includes/class-wc-gateway-stripe.php:812
+#: includes/class-wc-stripe-webhook-handler.php:206
+#: includes/payment-methods/class-wc-gateway-stripe-sepa.php:373
+msgid "Sorry, we are unable to process your payment at this time. Please retry later."
+msgstr "No som capaços de processar el pagament en aquest moment. Torneu-ho a intentar més tard."
+
+#: includes/class-wc-gateway-stripe.php:592
+msgid "Place Order"
+msgstr "Realitza la comanda"
+
+#: includes/class-wc-gateway-stripe.php:291
+msgid "Change Payment Method"
+msgstr "Canvia el mètode de pagament"
+
+#. translators: 1) Opening anchor tag 2) closing anchor tag
+#: includes/class-wc-gateway-stripe.php:224
+msgid "If your billing address has been changed for saved payment methods, be sure to remove any %1$ssaved payment methods%2$s on file and re-add them."
+msgstr "Si la vostra adreça de facturació s’ha canviat en els mètodes de pagament guardats assegureu-vos d’eliminar qualsevol %1$smètode de pagament guardat%2$s en els registres i de tornar a afegir-lo."
+
+#: includes/admin/stripe-multibanco-settings.php:35
+msgid "You will be redirected to Multibanco."
+msgstr "Sereu redirigits a Multibanco."
+
+#: includes/admin/stripe-multibanco-settings.php:28
+msgid "Multibanco"
+msgstr "Multibanco"
+
+#: includes/admin/stripe-multibanco-settings.php:19
+msgid "Enable Stripe Multibanco"
+msgstr "Habilita Stripe Multibanco"
+
+#: includes/admin/stripe-multibanco-settings.php:10
+msgid "Relevant Payer Geography: Portugal"
+msgstr "Geografia rellevant del pagador: Portugal"
+
+#: includes/admin/stripe-eps-settings.php:39
+msgid "Webhook Enpoints"
+msgstr "Webhook Enpoints"
+
+#: includes/admin/stripe-eps-settings.php:35
+msgid "You will be redirected to EPS."
+msgstr "Se vos redirigirà a l'EPS."
+
+#: includes/admin/stripe-eps-settings.php:28
+msgid "EPS"
+msgstr "EPS"
+
+#: includes/admin/stripe-eps-settings.php:19
+msgid "Enable Stripe EPS"
+msgstr "Habilita Stripe EPS"
+
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:39
+msgid "Save payment information to my account for future purchases."
+msgstr "Desa la informació de pagament al compte per a futures compres."
+
+#: includes/admin/stripe-eps-settings.php:10
+msgid "Relevant Payer Geography: Austria"
+msgstr "Geografia rellevant del pagador: Àustria"
+
+#: includes/admin/stripe-settings.php:120
+msgid "Shows a description of your store on Stripe Modal Checkout."
+msgstr "Mostra una descripció de la botiga al procés de compra de finestra emergent d'Stripe."
+
+#: includes/admin/stripe-settings.php:118
+msgid "Stripe Checkout Description"
+msgstr "Descripció del procés de compra Stripe"
+
+#. translators: 1) The reason type.
+#: includes/class-wc-stripe-webhook-handler.php:532
+msgid "The opened review for this order is now closed. Reason: (%s)"
+msgstr "La revisió oberta d’aquesta comanda s’ha tancat. Motiu: (%s)"
+
+#. translators: 1) The URL to the order. 2) The reason type.
+#: includes/class-wc-stripe-webhook-handler.php:508
+msgid "A review has been opened for this order. Action is needed. Please go to your <a href=\"%1$s\" title=\"Stripe Dashboard\" target=\"_blank\">Stripe Dashboard</a> to review the issue. Reason: (%2$s)"
+msgstr "S'ha obert una revisió d'aquesta comanda. És necessària una acció. Aneu <a href=\"%1$s\" title=\"Tauler de control d'Stripe\" target=\"_blank\">tauler de control d'Stripe</a> per a revisar el problema. Raó: (%2$s)"
+
+#. translators: 1) The URL to the order.
+#: includes/class-wc-stripe-webhook-handler.php:264
+msgid "A dispute was created for this order. Response is needed. Please go to your <a href=\"%s\" title=\"Stripe Dashboard\" target=\"_blank\">Stripe Dashboard</a> to review this dispute."
+msgstr "S'ha creat una disputa per aquesta comanda. Cal respondre. Aneu al <a href=\"%s\" title=\"Tauler de control d'Stripe\" target=\"_blank\">tauler de control d'Stripe</a> a revisar aquesta disputa."
+
+#. translators: 1) dollar amount 2) transaction id 3) refund message
+#: includes/class-wc-stripe-webhook-handler.php:458
+#: includes/class-wc-stripe-webhook-handler.php:486
+msgid "Pre-Authorization Released via Stripe Dashboard"
+msgstr "S'ha publicat una autorització prèvia mitjançant el tauler de control d'Stripe"
+
+#. translators: 1) dollar amount 2) transaction id 3) refund message
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:949
+msgid "Pre-Authorization Released"
+msgstr "S'ha publicat una autorització prèvia"
+
+#. translators: 1) link
+#: includes/admin/class-wc-stripe-admin-notices.php:177
+msgid "Stripe is in test mode however your test keys may not be valid. Test keys start with pk_test and sk_test or rk_test. Please go to your settings and, <a href=\"%s\">set your Stripe account keys</a>."
+msgstr "Stripe està en mode de prova però les claus de prova poden no ser vàlides. Les claus de prova comencen per pk_test i sk_test o rk_test. Aneu a la configuració i <a href=\"%s\">establiu les claus d'Stripe</a>."
+
+#: includes/compat/class-wc-stripe-subs-compat.php:418
+#: includes/compat/class-wc-stripe-sepa-subs-compat.php:406
+msgid "Invalid source ID. A valid source \"Stripe Source ID\" must begin with \"src_\" or \"card_\"."
+msgstr "L'identificador d'origen no és vàlid. Una font vàlida \"Identificador d'origen d'Stripe\" ha de començar amb \"src_\" o \"card_\"."
+
+#: includes/compat/class-wc-stripe-subs-compat.php:409
+#: includes/compat/class-wc-stripe-sepa-subs-compat.php:397
+msgid "Invalid customer ID. A valid \"Stripe Customer ID\" must begin with \"cus_\"."
+msgstr "L'identificador de client no és vàlid. Un \"Identificador de client d'Stripe\" vàlid ha de començar amb \"cus_\"."
+
+#: includes/compat/class-wc-stripe-subs-compat.php:407
+#: includes/compat/class-wc-stripe-sepa-subs-compat.php:395
+msgid "A \"Stripe Customer ID\" value is required."
+msgstr "Un valor de l'\"Identificador de client d'Stripe\" és necessari."
+
+#: includes/class-wc-stripe-helper.php:225
+msgid "The billing country is not accepted by SOFORT. Please try another country."
+msgstr "El país de facturació no és acceptat per SOFORT. Proveu un altre país."
+
+#: includes/class-wc-gateway-stripe.php:390
+msgid "Card Code (CVC)"
+msgstr "Codi de targeta (CVC)"
+
+#: includes/class-wc-gateway-stripe.php:382
+msgid "Expiry Date"
+msgstr "Data de caducitat"
+
+#: includes/class-wc-gateway-stripe.php:371
+msgid "Card Number"
+msgstr "Número de targeta"
+
+#: includes/class-wc-stripe-helper.php:220
+msgid "The card's expiration year is in the past"
+msgstr "L'any de caducitat de la targeta és anterior"
+
+#: includes/class-wc-stripe-helper.php:216
+msgid "The card's expiration date is incomplete."
+msgstr "La data de caducitat de la targeta està incompleta."
+
+#: includes/class-wc-stripe-helper.php:215
+msgid "The card's security code is incomplete."
+msgstr "El codi de seguretat de la targeta està incomplet."
+
+#: includes/class-wc-stripe-helper.php:214
+msgid "The card number is incomplete."
+msgstr "El número de targeta està incomplet."
+
+#: includes/admin/stripe-settings.php:137
+msgid "Select the button type you would like to show."
+msgstr "Seleccioneu el tipus de botó que voleu mostrar."
+
+#: includes/admin/class-wc-stripe-admin-notices.php:233
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Ha fallat l'acció. Refresqueu la pàgina i proveu de nou."
+
+#: includes/payment-methods/class-wc-stripe-payment-request.php:632
+msgid "OR"
+msgstr "O"
+
+#: includes/payment-methods/class-wc-stripe-payment-request.php:284
+#: includes/payment-methods/class-wc-stripe-payment-request.php:867
+msgid "Pending"
+msgstr "Pendent"
+
+#: woocommerce-gateway-stripe.php:247
+#: includes/payment-methods/class-wc-gateway-stripe-sofort.php:60
+msgid "Stripe SOFORT"
+msgstr "Stripe SOFORT"
+
+#: includes/payment-methods/class-wc-gateway-stripe-sepa.php:269
+msgid "TEST MODE ENABLED. In test mode, you can use IBAN number DE89370400440532013000."
+msgstr "MODE DE PROVA ACTIVAT. En mode de prova, podeu utilitzar el número d'IBAN DE89370400440532013000."
+
+#: woocommerce-gateway-stripe.php:253
+#: includes/payment-methods/class-wc-gateway-stripe-sepa.php:75
+msgid "Stripe SEPA Direct Debit"
+msgstr "Domiciliació directa SEPA d'Stripe"
+
+#: woocommerce-gateway-stripe.php:251
+#: includes/payment-methods/class-wc-gateway-stripe-p24.php:60
+msgid "Stripe P24"
+msgstr "Stripe P24"
+
+#: woocommerce-gateway-stripe.php:250
+#: includes/payment-methods/class-wc-gateway-stripe-ideal.php:60
+msgid "Stripe iDeal"
+msgstr "Stripe iDeal"
+
+#: woocommerce-gateway-stripe.php:248
+#: includes/payment-methods/class-wc-gateway-stripe-giropay.php:60
+msgid "Stripe Giropay"
+msgstr "Stripe Giropay"
+
+#: woocommerce-gateway-stripe.php:246
+#: includes/payment-methods/class-wc-gateway-stripe-bancontact.php:60
+msgid "Stripe Bancontact"
+msgstr "Stripe Bancontact"
+
+#: includes/payment-methods/class-wc-gateway-stripe-p24.php:180
+#: includes/payment-methods/class-wc-gateway-stripe-sofort.php:179
+#: includes/payment-methods/class-wc-gateway-stripe-giropay.php:179
+#: includes/payment-methods/class-wc-gateway-stripe-ideal.php:179
+#: includes/payment-methods/class-wc-gateway-stripe-alipay.php:186
+#: includes/payment-methods/class-wc-gateway-stripe-eps.php:179
+#: includes/payment-methods/class-wc-gateway-stripe-multibanco.php:183
+#: includes/payment-methods/class-wc-gateway-stripe-bancontact.php:179
+msgid "Add Payment"
+msgstr "Afegeix un mètode de pagament"
+
+#. translators: %1$s Payment method, %2$s List of supported currencies
+#: includes/admin/class-wc-stripe-admin-notices.php:219
+msgid "%1$s is enabled - it requires store currency to be set to %2$s"
+msgstr "%1$s està actiu - es requereix que es fixi la moneda de la botiga a %2$s"
+
+#. translators: link
+#: includes/payment-methods/class-wc-gateway-stripe-p24.php:62
+#: includes/payment-methods/class-wc-gateway-stripe-sofort.php:62
+#: includes/payment-methods/class-wc-gateway-stripe-giropay.php:62
+#: includes/payment-methods/class-wc-gateway-stripe-ideal.php:62
+#: includes/payment-methods/class-wc-gateway-stripe-alipay.php:62
+#: includes/payment-methods/class-wc-gateway-stripe-sepa.php:77
+#: includes/payment-methods/class-wc-gateway-stripe-eps.php:62
+#: includes/payment-methods/class-wc-gateway-stripe-multibanco.php:62
+#: includes/payment-methods/class-wc-gateway-stripe-bancontact.php:62
+msgid "All other general Stripe settings can be adjusted <a href=\"%s\">here</a>."
+msgstr "Es poden configurar tots els altres paràmetres d'Stripe <a href=\"%s\">aquí</a>."
+
+#: woocommerce-gateway-stripe.php:252
+#: includes/payment-methods/class-wc-gateway-stripe-alipay.php:60
+msgid "Stripe Alipay"
+msgstr "Stripe Alipay"
+
+#. translators: 1) card brand 2) last 4 digits
+#: includes/compat/class-wc-stripe-subs-compat.php:484
+#: includes/compat/class-wc-stripe-subs-compat.php:499
+#: includes/compat/class-wc-stripe-sepa-subs-compat.php:472
+#: includes/admin/class-wc-stripe-privacy.php:41
+msgid "N/A"
+msgstr "N/D"
+
+#: includes/class-wc-stripe-webhook-handler.php:458
+msgid "Refunded via Stripe Dashboard"
+msgstr "Devolucions mitjançant el tauler de control d'Stripe"
+
+#: includes/class-wc-stripe-webhook-handler.php:423
+msgid "This payment has cancelled."
+msgstr "S'ha canceŀlat aquest pagament."
+
+#: includes/class-wc-stripe-webhook-handler.php:390
+msgid "This payment failed to clear."
+msgstr "El pagament no s'ha pogut netejar."
+
+#. translators: last 4 digits of IBAN account
+#: includes/class-wc-stripe-sepa-payment-token.php:41
+msgid "SEPA IBAN ending in %s"
+msgstr "IBAN SEPA que acaba en %s"
+
+#: includes/class-wc-stripe-payment-tokens.php:175
+msgid "SEPA IBAN"
+msgstr "IBAN SEPA"
+
+#. translators: error message
+#: includes/class-wc-stripe-order-handler.php:194
+msgid "Stripe payment failed: %s"
+msgstr "El pagament amb Stripe ha fallat: %s"
+
+#: includes/class-wc-stripe-order-handler.php:95
+#: includes/class-wc-stripe-helper.php:224
+msgid "Unable to process this payment, please try again or use alternative method."
+msgstr "No es pot processar aquest pagament, torneu-ho a provar o utilitzeu un mètode de pagament alternatiu."
+
+#: includes/class-wc-stripe-customer.php:203
+msgid "Unable to add payment source."
+msgstr "No es pot afegir l'origen de pagament."
+
+#: includes/class-wc-stripe-api.php:138 includes/class-wc-stripe-api.php:172
+msgid "There was a problem connecting to the Stripe API endpoint."
+msgstr "S'ha produït un problema en connectar amb l'API d'Stripe."
+
+#: includes/class-wc-gateway-stripe.php:489
+msgid "Please enter your IBAN account number."
+msgstr "Introduïu el número de compte d'IBAN."
+
+#: includes/class-wc-gateway-stripe.php:488
+msgid "Please enter your IBAN account name."
+msgstr "Introduïu el nom de compte IBAN."
+
+#: includes/compat/class-wc-stripe-subs-compat.php:140
+msgid "Sorry, we're not accepting prepaid cards at this time. Your credit card has not been charge. Please try with alternative payment method."
+msgstr "Ho sentim, en aquests moments no acceptem targetes de prepagament. La vostra targeta de crèdit no s’ha carregat. Proveu amb un mètode de pagament alternatiu."
+
+#: includes/class-wc-gateway-stripe.php:363
+msgid "Credit or debit card"
+msgstr "Targeta de crèdit o dèbit"
+
+#: includes/admin/stripe-sofort-settings.php:39
+msgid "You will be redirected to SOFORT."
+msgstr "Sereu redirigits a SOFORT."
+
+#: includes/admin/stripe-sofort-settings.php:32
+msgid "SOFORT"
+msgstr "SOFORT"
+
+#: includes/admin/stripe-sofort-settings.php:23
+msgid "Enable Stripe SOFORT"
+msgstr "Habilita Stripe SOFORT"
+
+#: includes/admin/stripe-sofort-settings.php:14
+msgid "<a href=\"https://stripe.com/payments/payment-methods-guide#sofort\" target=\"_blank\">Payment Method Guide</a>"
+msgstr "<a href=\"https://stripe.com/payments/payment-methods-guide#sofort\" target=\"_blank\">Guia de mètodes de pagament</a>"
+
+#: includes/admin/stripe-sofort-settings.php:10
+msgid "Relevant Payer Geography: Germany, Austria"
+msgstr "Geografia rellevant del pagador: Alemania, Àustria"
+
+#: includes/admin/stripe-settings.php:163
+msgid "Enter the height you would like the button to be in pixels. Width will always be 100%."
+msgstr "Introduïu l’alçada en píxels que voleu pel botó. L’amplada sempre serà del 100%."
+
+#: includes/admin/stripe-settings.php:161
+msgid "Button Height"
+msgstr "Alçada del botó"
+
+#: includes/admin/stripe-settings.php:160
+msgid "Payment Request Button Height"
+msgstr "Alçada del botó de la petició de pagament"
+
+#: includes/admin/stripe-settings.php:156
+msgid "Light-Outline"
+msgstr "Contorn lleu"
+
+#: includes/admin/stripe-settings.php:155
+msgid "Light"
+msgstr "Clar"
+
+#: includes/admin/stripe-settings.php:154
+msgid "Dark"
+msgstr "Fosc"
+
+#: includes/admin/stripe-settings.php:148
+msgid "Button Theme"
+msgstr "Tema del botó"
+
+#: includes/admin/stripe-settings.php:147
+msgid "Payment Request Button Theme"
+msgstr "Estil del botó de sol·licitud de pagament"
+
+#: includes/admin/stripe-settings.php:143
+msgid "Donate"
+msgstr "Dona"
+
+#: includes/admin/stripe-settings.php:142
+msgid "Buy"
+msgstr "Compra"
+
+#: includes/admin/stripe-settings.php:141
+msgid "Default"
+msgstr "Predeterminat"
+
+#: includes/admin/stripe-settings.php:135
+msgid "Button Type"
+msgstr "Tipus de botó"
+
+#: includes/admin/stripe-settings.php:134
+msgid "Payment Request Button Type"
+msgstr "Tipus de botó de la soŀlicitud de pagament"
+
+#: includes/admin/stripe-settings.php:125
+msgid "Payment Request Buttons"
+msgstr "Botons de petició de pagament"
+
+#: includes/admin/stripe-settings.php:96
+msgid "Require 3D Secure when applicable"
+msgstr "Requereix 3D Secure quan correspongui"
+
+#: includes/admin/stripe-settings.php:95
+msgid "3D Secure"
+msgstr "3D Secure"
+
+#: includes/admin/stripe-settings.php:73
+msgid "Inline Credit Card Form"
+msgstr "Formulari de targeta de crèdit en línia"
+
+#: includes/admin/stripe-sepa-settings.php:39
+msgid "Mandate Information."
+msgstr "Informació del mandat."
+
+#: includes/admin/stripe-sepa-settings.php:32
+msgid "SEPA Direct Debit"
+msgstr "SEPA Direct Debit (Càrrec per domiciliació)"
+
+#: includes/admin/stripe-sepa-settings.php:23
+msgid "Enable Stripe SEPA Direct Debit"
+msgstr "Habilita la domiciliació directa SEPA d'Stripe"
+
+#: includes/admin/stripe-sepa-settings.php:14
+msgid "<a href=\"https://stripe.com/payments/payment-methods-guide#sepa-direct-debit\" target=\"_blank\">Payment Method Guide</a>"
+msgstr "<a href=\"https://stripe.com/payments/payment-methods-guide#sepa-direct-debit\" target=\"_blank\">Guia de mètodes de pagament</a>"
+
+#: includes/admin/stripe-sepa-settings.php:10
+msgid "Relevant Payer Geography: France, Germany, Spain, Belgium, Netherlands, Luxembourg, Italy, Portugal, Austria, Ireland"
+msgstr "Geografia rellevant del pagador: França, Alemanya, Espanya, Bèlgica, Països Baixos, Luxemburg, Itàlia, Portugal, Àustria, Irlanda"
+
+#: includes/admin/stripe-p24-settings.php:35
+msgid "You will be redirected to P24."
+msgstr "Sereu redirigits a P24."
+
+#: includes/admin/stripe-p24-settings.php:28
+msgid "Przelewy24 (P24)"
+msgstr "Przelewy24 (P24)"
+
+#: includes/admin/stripe-p24-settings.php:19
+msgid "Enable Stripe P24"
+msgstr "Habilita Stripe P24"
+
+#: includes/admin/stripe-p24-settings.php:10
+msgid "Relevant Payer Geography: Poland"
+msgstr "Geografia rellevant del pagador: Polònia"
+
+#: includes/admin/stripe-ideal-settings.php:39
+msgid "You will be redirected to iDeal."
+msgstr "Sereu redirigits a iDeal."
+
+#: includes/admin/stripe-ideal-settings.php:32
+msgid "iDeal"
+msgstr "iDeal"
+
+#: includes/admin/stripe-ideal-settings.php:23
+msgid "Enable Stripe iDeal"
+msgstr "Habilita Stripe iDeal"
+
+#: includes/admin/stripe-ideal-settings.php:14
+msgid "<a href=\"https://stripe.com/payments/payment-methods-guide#ideal\" target=\"_blank\">Payment Method Guide</a>"
+msgstr "<a href=\"https://stripe.com/payments/payment-methods-guide#ideal\" target=\"_blank\">Guia de mètodes de pagament</a>"
+
+#: includes/admin/stripe-ideal-settings.php:10
+msgid "Relevant Payer Geography: The Netherlands"
+msgstr "Geografia rellevant del pagador: Països Baixos"
+
+#: includes/admin/stripe-giropay-settings.php:39
+msgid "You will be redirected to Giropay."
+msgstr "Sereu redirigits a Giropay."
+
+#: includes/admin/stripe-giropay-settings.php:32
+msgid "Giropay"
+msgstr "Giropay"
+
+#: includes/admin/stripe-giropay-settings.php:23
+msgid "Enable Stripe Giropay"
+msgstr "Habilita Stripe Giropay"
+
+#: includes/admin/stripe-giropay-settings.php:14
+msgid "<a href=\"https://stripe.com/payments/payment-methods-guide#giropay\" target=\"_blank\">Payment Method Guide</a>"
+msgstr "<a href=\"https://stripe.com/payments/payment-methods-guide#giropay\" target=\"_blank\">Guia de mètodes de pagament</a>"
+
+#: includes/admin/stripe-giropay-settings.php:10
+msgid "Relevant Payer Geography: Germany"
+msgstr "Geografia rellevant del pagador: Alemanya"
+
+#: includes/admin/stripe-bancontact-settings.php:39
+msgid "You will be redirected to Bancontact."
+msgstr "Sereu redirigits a Bancontact."
+
+#: includes/admin/stripe-bancontact-settings.php:32
+msgid "Bancontact"
+msgstr "Bancontact"
+
+#: includes/admin/stripe-bancontact-settings.php:23
+msgid "Enable Stripe Bancontact"
+msgstr "Habilita Stripe Bancontact"
+
+#: includes/admin/stripe-bancontact-settings.php:14
+msgid "<a href=\"https://stripe.com/payments/payment-methods-guide#bancontact\" target=\"_blank\">Payment Method Guide</a>"
+msgstr "<a href=\"https://stripe.com/payments/payment-methods-guide#bancontact\" target=\"_blank\">Guia de mètode de pagament</a>"
+
+#: includes/admin/stripe-bancontact-settings.php:10
+msgid "Relevant Payer Geography: Belgium"
+msgstr "Geografia rellevant del pagador: Bèlgica"
+
+#: includes/admin/stripe-sepa-settings.php:43
+#: includes/admin/stripe-p24-settings.php:39
+#: includes/admin/stripe-ideal-settings.php:43
+#: includes/admin/stripe-bancontact-settings.php:43
+#: includes/admin/stripe-alipay-settings.php:43
+#: includes/admin/stripe-multibanco-settings.php:39
+#: includes/admin/stripe-settings.php:31
+#: includes/admin/stripe-giropay-settings.php:43
+#: includes/admin/stripe-sofort-settings.php:43
+msgid "Webhook Endpoints"
+msgstr "Extrems del Webhook"
+
+#: includes/admin/stripe-alipay-settings.php:39
+msgid "You will be redirected to Alipay."
+msgstr "Sereu redirigits a Alipay."
+
+#: includes/admin/stripe-alipay-settings.php:32
+msgid "Alipay"
+msgstr "Alipay"
+
+#: includes/admin/stripe-alipay-settings.php:23
+msgid "Enable Stripe Alipay"
+msgstr "Habilita Stripe Alipay"
+
+#: includes/admin/stripe-sepa-settings.php:18
+#: includes/admin/stripe-p24-settings.php:14
+#: includes/admin/stripe-ideal-settings.php:18
+#: includes/admin/stripe-bancontact-settings.php:18
+#: includes/admin/stripe-alipay-settings.php:18
+#: includes/admin/stripe-multibanco-settings.php:14
+#: includes/admin/stripe-eps-settings.php:14
+#: includes/admin/stripe-giropay-settings.php:18
+#: includes/admin/stripe-sofort-settings.php:18
+msgid "Must be activated from your Stripe Dashboard Settings <a href=\"https://dashboard.stripe.com/account/payments/settings\" target=\"_blank\">here</a>"
+msgstr "S'ha d'activar des del tauler de configuració d'Stripe <a href=\"https://dashboard.stripe.com/account/payments/settings\" target=\"_blank\">aquí</a>"
+
+#: includes/admin/stripe-alipay-settings.php:14
+msgid "<a href=\"https://stripe.com/payments/payment-methods-guide#alipay\" target=\"_blank\">Payment Method Guide</a>"
+msgstr "<a href=\"https://stripe.com/payments/payment-methods-guide#alipay\" target=\"_blank\">Guia de mètode de pagament</a>"
+
+#: includes/admin/stripe-alipay-settings.php:10
+msgid "Relevant Payer Geography: China"
+msgstr "Geografia rellevant del pagador: Xina"
+
+#: includes/compat/class-wc-stripe-subs-compat.php:145
+#: includes/compat/class-wc-stripe-sepa-subs-compat.php:182
+#: includes/class-wc-gateway-stripe.php:707
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:455
+msgid "Payment processing failed. Please retry."
+msgstr "Ha fallat el processament del pagament. Torneu-ho a provar."
+
+#. translators: transaction id
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:443
+msgid "Stripe charge awaiting payment: %s."
+msgstr "Càrrecs d'Stripe en espera de pagament: %s."
+
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:368
+msgid "customer_name"
+msgstr "nom_del_client"
+
+#. translators: 1) link to Stripe register page 2) link to Stripe api keys page
+#: includes/class-wc-gateway-stripe.php:118
+msgid "Stripe works by adding payment fields on the checkout and then sending the details to Stripe for verification. <a href=\"%1$s\" target=\"_blank\">Sign up</a> for a Stripe account, and <a href=\"%2$s\" target=\"_blank\">get your Stripe account keys</a>."
+msgstr "Stripe funciona afegint camps de pagament al procés de compra i després enviant els detalls a Stripe per verificar-los. <a href=\"%1$s\" target=\"_blank\">Creeu un compte</a> a Stripe i <a href=\"%2$s\" target=\"_blank\">obteniu les claus del compte</a>."
+
+#: includes/admin/stripe-settings.php:150
+msgid "Select the button theme you would like to show."
+msgstr "Seleccioneu l'estil del botó que voleu mostrar."
+
+#: includes/admin/stripe-settings.php:129
+msgid "If enabled, users will be able to pay using Apple Pay or Chrome Payment Request if supported by the browser."
+msgstr "Si està habilitat, els usuaris podran pagar mitjançant l’aplicació Apple Pay o Chrome Payment Request si el navegador l’admet."
+
+#: includes/admin/stripe-settings.php:80
+msgid "Statement Descriptor"
+msgstr "Descriptor de la sentència"
+
+#: includes/payment-methods/class-wc-stripe-payment-request.php:989
+msgid "Empty cart"
+msgstr "Carretó buit"
+
+#. translators: Do not translate the [option] placeholder
+#: includes/payment-methods/class-wc-stripe-payment-request.php:506
+msgid "Unknown shipping option \"[option]\"."
+msgstr "Opció d'enviament desconegut \"[option]\"."
+
+#: includes/payment-methods/class-wc-stripe-payment-request.php:1164
+msgid "Discount"
+msgstr "Descompte"
+
+#: includes/payment-methods/class-wc-stripe-payment-request.php:277
+#: includes/payment-methods/class-wc-stripe-payment-request.php:860
+#: includes/payment-methods/class-wc-stripe-payment-request.php:1157
+msgid "Shipping"
+msgstr "Enviament"
+
+#: includes/payment-methods/class-wc-stripe-payment-request.php:269
+#: includes/payment-methods/class-wc-stripe-payment-request.php:852
+#: includes/payment-methods/class-wc-stripe-payment-request.php:1150
+msgid "Tax"
+msgstr "Impostos"
+
+#: includes/payment-methods/class-wc-stripe-payment-request.php:726
+#: includes/payment-methods/class-wc-stripe-payment-request.php:739
+msgid "Unable to find shipping method for address."
+msgstr "No s’ha pogut trobar el mètode d’enviament de l’adreça."
+
+#: includes/admin/class-wc-stripe-admin-notices.php:237
+msgid "Cheatin&#8217; huh?"
+msgstr "Fent trampes, eh?"
+
+#. translators: 1) dollar amount 2) transaction id 3) refund message
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:949
+msgid "Refunded %1$s - Refund ID: %2$s - Reason: %3$s"
+msgstr "Devolució %1$s - Identificador de devolució: %2$s - Raó: %3$s"
+
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:369
+msgid "customer_email"
+msgstr "correu_del_client"
+
+#. translators: 1) blog name 2) order number
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:341
+msgid "%1$s - Order %2$s"
+msgstr "%1$s - Comanda %2$s"
+
+#: includes/class-wc-stripe-apple-pay-registration.php:189
+msgid "Unable to copy domain association file to domain root."
+msgstr "No es pot copiar el fitxer d’associació de domini a l’arrel del domini."
+
+#: includes/class-wc-stripe-apple-pay-registration.php:183
+msgid "Unable to create domain association folder to domain root."
+msgstr "No es pot crear la carpeta d’associació de dominis a l’arrel del domini."
+
+#. translators: error message
+#: includes/class-wc-stripe-apple-pay-registration.php:151
+#: includes/class-wc-stripe-apple-pay-registration.php:160
+msgid "Unable to verify domain - %s"
+msgstr "No es pot verificar el domini - %s"
+
+#: includes/class-wc-stripe-apple-pay-registration.php:127
+msgid "Unable to verify domain - missing secret key."
+msgstr "No es pot verificar el domini - falta la clau secreta."
+
+#. Author of the plugin
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Author URI of the plugin
+msgid "https://woocommerce.com/"
+msgstr "https://woocommerce.com/"
+
+#: includes/admin/class-wc-stripe-admin-notices.php:156
+msgid "WooCommerce Stripe - cURL is not installed."
+msgstr "WooCommerce Stripe - cURL no està instaŀlat."
+
+#. translators: 1) int version 2) int version
+#: includes/admin/class-wc-stripe-admin-notices.php:146
+msgid "WooCommerce Stripe - The minimum WooCommerce version required for this plugin is %1$s. You are running %2$s."
+msgstr "WooCommerce Stripe - La versió de WooCommerce mínima requerida per aquesta extensió és %1$s. Esteu executant la %2$s."
+
+#. translators: 1) int version 2) int version
+#: includes/admin/class-wc-stripe-admin-notices.php:135
+msgid "WooCommerce Stripe - The minimum PHP version required for this plugin is %1$s. You are running %2$s."
+msgstr "WooCommerce Stripe - la versió PHP mínima requerida per aquesta extensió és %1$s. Esteu executant la %2$s."
+
+#: includes/class-wc-stripe-helper.php:223
+msgid "An error occurred while processing the card."
+msgstr "S'ha produït un error mentre es processava la targeta."
+
+#: includes/class-wc-stripe-helper.php:222
+msgid "There is no card on a customer that is being charged."
+msgstr "No hi ha cap targeta en un client al qual s'està carregant."
+
+#: includes/class-wc-stripe-helper.php:221
+msgid "The card was declined."
+msgstr "La targeta ha estat rebutjada."
+
+#: includes/class-wc-stripe-helper.php:219
+msgid "The card's zip code failed validation."
+msgstr "Ha fallat la validació del codi postal de la targeta."
+
+#: includes/class-wc-stripe-helper.php:218
+msgid "The card's security code is incorrect."
+msgstr "El codi de seguretat de la targeta és incorrecte."
+
+#: includes/class-wc-stripe-helper.php:217
+msgid "The card has expired."
+msgstr "La targeta ha caducat."
+
+#: includes/class-wc-stripe-helper.php:213
+msgid "The card number is incorrect."
+msgstr "El número de targeta és incorrecte."
+
+#: includes/class-wc-stripe-helper.php:212
+msgid "The card's security code is invalid."
+msgstr "El codi de seguretat de la targeta no és vàlid."
+
+#: includes/class-wc-stripe-helper.php:211
+msgid "The card's expiration year is invalid."
+msgstr "L'any de caducitat de la targeta no és vàlid."
+
+#: includes/class-wc-stripe-helper.php:210
+msgid "The card's expiration month is invalid."
+msgstr "El mes de caducitat de la targeta no és vàlid."
+
+#: includes/class-wc-stripe-helper.php:209
+msgid "The card number is not a valid credit card number."
+msgstr "El número de targeta no és un número de targeta de crèdit vàlid."
+
+#: includes/payment-methods/class-wc-stripe-payment-request.php:504
+msgid "Sorry, we're not accepting prepaid cards at this time."
+msgstr "Ho sentim, en aquests moments no acceptem targetes de prepagament."
+
+#. Description of the plugin
+msgid "Take credit card payments on your store using Stripe."
+msgstr "Accepta pagaments amb targeta de crèdit a la botiga utilitzant Stripe."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/woocommerce-gateway-stripe/"
+msgstr "https://wordpress.org/plugins/woocommerce-gateway-stripe/"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Stripe Gateway"
+msgstr "Passareŀla de pagament Stripe de WooCommerce"
+
+#. translators: transaction id
+#: includes/class-wc-stripe-order-handler.php:267
+#: includes/class-wc-stripe-webhook-handler.php:314
+#: includes/class-wc-stripe-webhook-handler.php:361
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:450
+msgid "Stripe charge complete (Charge ID: %s)"
+msgstr "Càrrec completat a Stripe (ID del càrrec: %s)"
+
+#. translators: error message
+#: includes/class-wc-stripe-order-handler.php:245
+#: includes/class-wc-stripe-order-handler.php:257
+msgid "Unable to capture charge! %s"
+msgstr "No s'ha pogut capturar el càrrec! %s"
+
+#: woocommerce-gateway-stripe.php:195
+msgid "Support"
+msgstr "Suport"
+
+#: woocommerce-gateway-stripe.php:194
+msgid "Docs"
+msgstr "Documents"
+
+#: woocommerce-gateway-stripe.php:193
+msgid "Settings"
+msgstr "Configuració"
+
+#. translators: 1) link
+#: includes/admin/class-wc-stripe-admin-notices.php:166
+msgid "Stripe is almost ready. To get started, <a href=\"%s\">set your Stripe account keys</a>."
+msgstr "Stripe està quasi llest. Per començar, <a href=\"%s\">definiu les claus del compte d'Stripe</a>."
+
+#: includes/admin/stripe-settings.php:179
+msgid "Save debug messages to the WooCommerce System Status log."
+msgstr "Guardeu els missatges de depuració al registre d'estat del sistema WooCommerce."
+
+#: includes/admin/stripe-settings.php:177
+msgid "Log debug messages"
+msgstr "Registre dels missatges de depuració"
+
+#: includes/admin/stripe-settings.php:176
+msgid "Logging"
+msgstr "Registres"
+
+#: includes/admin/stripe-settings.php:171
+msgid "If enabled, users will be able to pay with a saved card during checkout. Card details are saved on Stripe servers, not on your store."
+msgstr "Si està activat, els usuaris seran capaços de pagar amb una targeta desada durant el procés de pagament. Les dades de la targeta es desen als servidors d'Stripe, no a la botiga."
+
+#: includes/admin/stripe-settings.php:169
+msgid "Enable Payment via Saved Cards"
+msgstr "Habilita el pagament mitjançant les targetes desades"
+
+#: includes/admin/stripe-settings.php:168
+msgid "Saved Cards"
+msgstr "Targetes desades"
+
+#: includes/admin/stripe-settings.php:112
+msgid "Optionally enter the URL to a 128x128px image of your brand or product. e.g. <code>https://yoursite.com/wp-content/uploads/2013/09/yourimage.jpg</code>"
+msgstr "Opcionalment, introduïu l’URL a una imatge de 128x128px de la vostra marca o producte. Per exemple <code>https://yoursite.com/wp-content/uploads/2013/09/yourimage.jpg</code>"
+
+#: includes/admin/stripe-settings.php:111
+msgid "Stripe Checkout Image"
+msgstr "Imatge del procés de pagament d'Stripe"
+
+#: includes/admin/stripe-settings.php:104
+msgid "Enable Stripe Checkout"
+msgstr "Activa el procés de pagament d'Stripe"
+
+#: includes/admin/stripe-settings.php:90
+msgid "Whether or not to immediately capture the charge. When unchecked, the charge issues an authorization and will need to be captured later. Uncaptured charges expire in 7 days."
+msgstr "Si voleu o no capturar immediatament la càrrega. Quan no estigui marcat, la càrrega emetrà una autorització i haurà de ser capturada més endavant. Els càrrecs no capturats caduquen en 7 dies."
+
+#: includes/admin/stripe-settings.php:88
+msgid "Capture charge immediately"
+msgstr "Captura el càrrec immediatament"
+
+#: includes/admin/stripe-settings.php:87
+msgid "Capture"
+msgstr "Captura"
+
+#: includes/admin/stripe-settings.php:45
+msgid "Test Publishable Key"
+msgstr "Prova de la clau pública"
+
+#: includes/admin/stripe-settings.php:52
+msgid "Test Secret Key"
+msgstr "Prova de la clau secreta"
+
+#: includes/admin/stripe-settings.php:59
+msgid "Live Publishable Key"
+msgstr "Entorn real de la clau pública"
+
+#: includes/admin/stripe-settings.php:47 includes/admin/stripe-settings.php:54
+#: includes/admin/stripe-settings.php:61 includes/admin/stripe-settings.php:68
+msgid "Get your API keys from your stripe account."
+msgstr "Obtingueu les vostres claus de l'API al vostre compte de Stripe."
+
+#: includes/admin/stripe-settings.php:66
+msgid "Live Secret Key"
+msgstr "Entorn real de la clau secreta"
+
+#: includes/admin/stripe-settings.php:40
+msgid "Place the payment gateway in test mode using test API keys."
+msgstr "Col·loqueu la passarel·la de pagament en mode de prova mitjançant les claus de l’API de prova."
+
+#: includes/admin/stripe-settings.php:38
+msgid "Enable Test Mode"
+msgstr "Habilita el mode de prova"
+
+#: includes/admin/stripe-settings.php:37
+msgid "Test mode"
+msgstr "Mode de prova"
+
+#: includes/admin/stripe-settings.php:27
+msgid "Pay with your credit card via Stripe."
+msgstr "Paga amb la targeta de crèdit mitjançant Stripe."
+
+#: includes/admin/stripe-sepa-settings.php:38
+#: includes/admin/stripe-p24-settings.php:34
+#: includes/admin/stripe-ideal-settings.php:38
+#: includes/admin/stripe-bancontact-settings.php:38
+#: includes/admin/stripe-alipay-settings.php:38
+#: includes/admin/stripe-multibanco-settings.php:34
+#: includes/admin/stripe-settings.php:26
+#: includes/admin/stripe-eps-settings.php:34
+#: includes/admin/stripe-giropay-settings.php:38
+#: includes/admin/stripe-sofort-settings.php:38
+msgid "This controls the description which the user sees during checkout."
+msgstr "Això controla la descripció que l'usuari veurà durant el procés de compra."
+
+#: includes/admin/stripe-sepa-settings.php:36
+#: includes/admin/stripe-p24-settings.php:32
+#: includes/admin/stripe-ideal-settings.php:36
+#: includes/admin/stripe-bancontact-settings.php:36
+#: includes/admin/stripe-alipay-settings.php:36
+#: includes/admin/stripe-multibanco-settings.php:32
+#: includes/admin/stripe-settings.php:24
+#: includes/admin/stripe-eps-settings.php:32
+#: includes/admin/stripe-giropay-settings.php:36
+#: includes/admin/stripe-sofort-settings.php:36
+msgid "Description"
+msgstr "Descripció"
+
+#: includes/admin/stripe-settings.php:20
+msgid "Credit Card (Stripe)"
+msgstr "Targeta de crèdit (Stripe)"
+
+#: includes/admin/stripe-sepa-settings.php:31
+#: includes/admin/stripe-p24-settings.php:27
+#: includes/admin/stripe-ideal-settings.php:31
+#: includes/admin/stripe-bancontact-settings.php:31
+#: includes/admin/stripe-alipay-settings.php:31
+#: includes/admin/stripe-multibanco-settings.php:27
+#: includes/admin/stripe-settings.php:19
+#: includes/admin/stripe-eps-settings.php:27
+#: includes/admin/stripe-giropay-settings.php:31
+#: includes/admin/stripe-sofort-settings.php:31
+msgid "This controls the title which the user sees during checkout."
+msgstr "Això controla el títol que l'usuari veu durant la finalització de la comanda."
+
+#: includes/admin/stripe-sepa-settings.php:29
+#: includes/admin/stripe-p24-settings.php:25
+#: includes/admin/stripe-ideal-settings.php:29
+#: includes/admin/stripe-bancontact-settings.php:29
+#: includes/admin/stripe-alipay-settings.php:29
+#: includes/admin/stripe-multibanco-settings.php:25
+#: includes/admin/stripe-settings.php:17
+#: includes/admin/stripe-eps-settings.php:25
+#: includes/admin/stripe-giropay-settings.php:29
+#: includes/admin/stripe-sofort-settings.php:29
+msgid "Title"
+msgstr "Títol"
+
+#: includes/admin/stripe-settings.php:11
+msgid "Enable Stripe"
+msgstr "Habilita Stripe"
+
+#: includes/admin/stripe-sepa-settings.php:22
+#: includes/admin/stripe-p24-settings.php:18
+#: includes/admin/stripe-ideal-settings.php:22
+#: includes/admin/stripe-bancontact-settings.php:22
+#: includes/admin/stripe-alipay-settings.php:22
+#: includes/admin/stripe-multibanco-settings.php:18
+#: includes/admin/stripe-settings.php:10
+#: includes/admin/stripe-eps-settings.php:18
+#: includes/admin/stripe-giropay-settings.php:22
+#: includes/admin/stripe-sofort-settings.php:22
+msgid "Enable/Disable"
+msgstr "Activa/Desactiva"
+
+#. translators: transaction id
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:467
+msgid "Stripe charge authorized (Charge ID: %s). Process order to take payment, or cancel to remove the pre-authorization."
+msgstr "S'ha autoritzat el càrrec d'Stripe (Identificador del càrrec: %s). Processa la comanda per acceptar el pagament, o canceŀla para esborrar l'autorització prèvia."
+
+#: includes/class-wc-stripe-order-handler.php:144
+#: includes/class-wc-gateway-stripe.php:793
+#: includes/class-wc-stripe-webhook-handler.php:187
+#: includes/payment-methods/class-wc-gateway-stripe-sepa.php:353
+msgid "This card is no longer available and has been removed."
+msgstr "Aquesta targeta ja no està disponible i s'ha eliminat."
+
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:698
+msgid "Invalid payment method. Please input a new card number."
+msgstr "Mètode de pagament no vàlid. Introduïu un número de targeta nou."
+
+#: includes/class-wc-gateway-stripe.php:467
+msgid "Please fill in required checkout fields first"
+msgstr "Empleneu els camps obligatoris abans"
+
+#: includes/class-wc-gateway-stripe.php:466
+msgid "Please accept the terms and conditions first"
+msgstr "Accepteu els termes i condicions primer"
+
+#: includes/class-wc-gateway-stripe.php:285
+msgid "Add Card"
+msgstr "Afegeix una targeta"
+
+#. translators: link to Stripe testing page
+#: includes/class-wc-gateway-stripe.php:318
+msgid "TEST MODE ENABLED. In test mode, you can use the card number 4242424242424242 with any CVC and a valid expiration date or check the <a href=\"%s\" target=\"_blank\">Testing Stripe documentation</a> for more card numbers."
+msgstr "MODE DE PROVA ACTIU. En el mode de prova pot utilitzar el número de targeta 4242424242424242 amb qualsevol CVC i una data de caducitat vàlida o comprovar la <a href=\"%s\" target=\"_blank\">documentació de proves d'Stripe</a> per més números de targetes."
+
+#: includes/class-wc-gateway-stripe.php:162
+msgid "Continue to payment"
+msgstr "Continua al pagament"
+
+#: includes/class-wc-gateway-stripe.php:116
+#: includes/admin/class-wc-stripe-privacy.php:12
+msgid "Stripe"
+msgstr "Stripe"
+
+#. translators: 1) card brand 2) last 4 digits
+#: includes/compat/class-wc-stripe-subs-compat.php:499
+msgid "Via %1$s card ending in %2$s"
+msgstr "Mitjançant la targeta %1$s que acaba en %2$s"
+
+#. translators: error message
+#: includes/compat/class-wc-stripe-pre-orders-compat.php:120
+msgid "Stripe Transaction Failed (%s)"
+msgstr "Ha fallat la transacció d'Stripe (%s)"
+
+#: includes/compat/class-wc-stripe-pre-orders-compat.php:61
+msgid "Unable to store payment details. Please try again."
+msgstr "No es pot emmagatzemar els detall del pagament. Proveu-ho de nou."
+
+#: includes/compat/class-wc-stripe-subs-compat.php:216
+#: includes/compat/class-wc-stripe-sepa-subs-compat.php:235
+msgid "Customer not found"
+msgstr "No s'ha trobat el client"
+
+#. translators: minimum amount
+#. translators: 1) dollar amount
+#: includes/compat/class-wc-stripe-subs-compat.php:206
+#: includes/compat/class-wc-stripe-sepa-subs-compat.php:225
+#: includes/abstracts/abstract-wc-stripe-payment-gateway.php:245
+msgid "Sorry, the minimum allowed order total is %1$s to use this payment method."
+msgstr "El total de la comanda mínim permès és %1$s per utilitzar aquest mètode de pagament."

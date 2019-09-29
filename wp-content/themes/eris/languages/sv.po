@@ -1,0 +1,365 @@
+# Translation of WordPress.com - Themes - Eris in Swedish
+# This file is distributed under the same license as the WordPress.com - Themes - Eris package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-27 15:12:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: WordPress.com - Themes - Eris\n"
+
+#: inc/wpcom-colors.php:33
+msgid "Menus & Headings"
+msgstr "Menyer och rubriker"
+
+#: inc/wpcom-colors.php:50
+msgid "Links"
+msgstr "Länkar"
+
+#: inc/customizer/settings/customizer-layout.php:35
+msgid "Four-column layout"
+msgstr "Layout för fyra kolumner"
+
+#: inc/customizer/settings/customizer-layout.php:34
+msgid "Three-column layout"
+msgstr "Layout för tre kolumner"
+
+#: templates/template-parts/content-search.php:17
+msgid "portfolio"
+msgstr "portfölj"
+
+#. translators: %s: Name of current post
+#: templates/template-parts/content-page.php:33
+msgid "Edit %s"
+msgstr "Redigera %s"
+
+#: templates/template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Tyvärr, men inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#. Template Name of the plugin/theme
+#: wp-content/themes/premium/eris/templates/portfolio-page.php
+msgid "Portfolio"
+msgstr "Portfölj"
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/eris/style.css
+msgid "Eris is a crisp and elegant portfolio theme. You can use showcase all your different projects as a unified and beautiful story."
+msgstr "Eris är ett skarpt och elegant portföljtema. Du kan använda presentationer till alla dina olika projekt som en enhetlig och vacker historia."
+
+#: templates/template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Är du redo att publicera ditt första inlägg? <a href=\"%1$s\">Kom igång här</a>."
+
+#: templates/template-parts/content-author.php:22
+msgid "Posted by:"
+msgstr "Publicerat av:"
+
+#. translators: %s: Name of current post.
+#: templates/template-parts/content-link.php:35
+#: templates/template-parts/content-quote.php:35
+#: templates/template-parts/content-single.php:21
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsätt läsa %s <span class=\"meta-nav\">\t</span>"
+
+#: templates/template-parts/content-link.php:40
+#: templates/template-parts/content-page.php:22
+#: templates/template-parts/content-quote.php:40
+#: templates/template-parts/content-single.php:26
+#: templates/template-parts/content.php:30
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: taxonomy-jetpack-portfolio-type.php:51 templates/portfolio-page.php:101
+msgid "Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr "Redo att publicera ditt första projekt? <a href=\"%1$s\">Börja här</a>."
+
+#: taxonomy-jetpack-portfolio-type.php:55 templates/portfolio-page.php:105
+#: templates/template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar inte som om vi kan hitta det du letar efter. Kanske kan en sökning hjälpa."
+
+#: searchform.php:14
+msgid "Search"
+msgstr "Sök"
+
+#: sidebar.php:19
+msgid "close sidebar"
+msgstr "stäng sidopanel"
+
+#: searchform.php:12
+msgid "Start Searching"
+msgstr "Börja söka"
+
+#: taxonomy-jetpack-portfolio-type.php:46 templates/portfolio-page.php:96
+#: templates/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Inget hittat"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Sök efter:"
+
+#: inc/template-tags.php:390
+msgid "All"
+msgstr "Alla"
+
+#: inc/template-tags.php:427
+msgid "Follow"
+msgstr "Följ"
+
+#: inc/template-tags.php:552
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:359
+msgid "Page navigation"
+msgstr "Sidnavigering"
+
+#: inc/template-tags.php:347 templates/portfolio-page.php:84
+msgid "Next"
+msgstr "Nästa"
+
+#: inc/template-tags.php:346 templates/portfolio-page.php:83
+msgid "Prev"
+msgstr "Föregående"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:129
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:131
+msgid "Archives"
+msgstr "Arkiv"
+
+#: inc/template-tags.php:118
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusar"
+
+#: inc/template-tags.php:120
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Ljud"
+
+#: inc/template-tags.php:122
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chat"
+
+#: inc/template-tags.php:125
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:110
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/template-tags.php:112
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:114
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citat"
+
+#: inc/template-tags.php:116
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Länkar"
+
+#: inc/template-tags.php:103
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#: inc/template-tags.php:106
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Noteringar"
+
+#: inc/template-tags.php:108
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier "
+
+#: inc/template-tags.php:101
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:103
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:99
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:101
+msgid "Month: %s"
+msgstr "Månad: %s"
+
+#: inc/template-tags.php:95 tag.php:18
+msgid "Tag: %s"
+msgstr "Etikett: %s"
+
+#: inc/template-tags.php:99
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:97
+msgid "Author; %s"
+msgstr "Författare: %s"
+
+#: inc/template-tags.php:71
+msgid "Tagged %1$s"
+msgstr "Taggad %1$s"
+
+#: inc/template-tags.php:93
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:60
+msgid "Posted in %1$s"
+msgstr "Publicerat i %1$s"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:278
+msgid "Read more %s"
+msgstr "Läs mer %s"
+
+#: inc/customizer/settings/customizer-layout.php:28
+msgid "Portfolio layout"
+msgstr "Portföljlayout"
+
+#: inc/customizer/settings/customizer-header.php:12
+msgid "Header Settings"
+msgstr "Rubrikinställningar"
+
+#: inc/customizer/customizer.php:29
+msgid "Eris Theme Options"
+msgstr "Alternativ för temat Eris"
+
+#: inc/customizer/customizer.php:28
+msgid "Theme Options"
+msgstr "Temainställningar"
+
+#: header.php:66
+msgid "close search form"
+msgstr "stäng sökformulär"
+
+#: header.php:70
+msgid "open search form"
+msgstr "öppna sökformulär"
+
+#: header.php:78
+msgid "open sidebar"
+msgstr "öppna sidopanel"
+
+#: header.php:88
+msgid "back to top"
+msgstr "tillbaka till toppen"
+
+#: header.php:54
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: header.php:58
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:54
+msgid "menu"
+msgstr "Meny"
+
+#: functions.php:58
+msgid "Social menu"
+msgstr "Social meny"
+
+#: functions.php:117
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: functions.php:118
+msgid "Footer Widgets 1"
+msgstr "Sidfot widget 1"
+
+#: functions.php:119
+msgid "Footer Widgets 2"
+msgstr "Sifot widget 2"
+
+#: functions.php:127
+msgid "Widget area for %s"
+msgstr "Widgetområde för %s"
+
+#: functions.php:57
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: footer.php:36
+msgid "Proudly powered by %s"
+msgstr "Drivs med %s"
+
+#: footer.php:38
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s av %2$s."
+
+#: footer.php:36
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: comments.php:46 comments.php:68
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr "Kommentarsfältet är stängt."
+
+#: comments.php:42 comments.php:64
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#: comments.php:45 comments.php:67
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#: 404.php:24 header.php:64 taxonomy-jetpack-portfolio-type.php:57
+#: templates/portfolio-page.php:107
+#: templates/template-parts/content-none.php:27
+#: templates/template-parts/content-none.php:33
+msgid "Press Enter / Return to begin your search."
+msgstr "Tryck enter/retur för att börja din sökning."
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try to search for what you are looking for?"
+msgstr "Det verkar som om inget hittades på denna plats. Kanske prova att söka efter det du letar efter?"
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on %2$s"
+msgid_plural "%1$s thoughts on %2$s"
+msgstr[0] "En tanke på %2$s"
+msgstr[1] "%1$s tankar på %2$s"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Sidan kunde inte hittas."

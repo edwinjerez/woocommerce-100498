@@ -1,0 +1,3967 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-19 15:35:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/editor/index.js:17
+msgctxt "verb"
+msgid "Group"
+msgstr "Seskupit"
+
+#: build/editor/index.js:17
+msgctxt "Ungrouping blocks from within a Group block back into individual blocks within the Editor "
+msgid "Ungroup"
+msgstr "Rozdělit"
+
+#: build/block-library/index.js:14
+msgid "Insert a table for sharing data."
+msgstr "Vložte tabulku pro sdílení dat."
+
+#: build/block-library/index.js:14
+msgid "Create Table"
+msgstr "Vytvořit"
+
+#: build/edit-post/index.js:12
+msgid "More tools & options"
+msgstr "Více možností a nástrojů"
+
+#: build/block-editor/index.js:55
+msgid "Separate multiple classes with spaces."
+msgstr "Oddělte více tříd mezerami."
+
+#: build/components/index.js:19
+msgid "Separate with commas or the Enter key."
+msgstr "Oddělte je čárkami nebo klávesou ENTER."
+
+#: build/components/index.js:19
+msgid "Separate with commas, spaces, or the Enter key."
+msgstr "Oddělte je čárkami, mezerami nebo klávesou ENTER."
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:323
+msgid "Blocks Area "
+msgstr "Oblast bloků"
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:327
+msgid "Displays a set of blocks"
+msgstr "Zobrazí se jako sadu bloků"
+
+#: build/block-library/index.js:14
+msgid "Move Image Backward"
+msgstr "Přesunout obrázek dozadu"
+
+#: build/block-library/index.js:14
+msgid "Move Image Forward"
+msgstr "Posunout obrázek dopředu"
+
+#: lib/class-wp-rest-widget-areas-controller.php:56
+msgid "Sidebar content."
+msgstr "Obsah postranního panelu"
+
+#: lib/class-wp-rest-widget-areas-controller.php:150
+msgid "Sorry, you are not allowed to edit sidebars."
+msgstr "Nemáte oprávnění k úpravám postranních panelů."
+
+#: lib/class-wp-rest-widget-areas-controller.php:99
+msgid "Sorry, you are not allowed to read sidebars."
+msgstr "Nemáte oprávnění číst postranní panely."
+
+#: lib/class-wp-rest-widget-areas-controller.php:49
+msgid "The sidebar’s ID."
+msgstr "ID postranního panelu."
+
+#: lib/widgets.php:188
+msgid "Block area scheduled."
+msgstr "Oblast bloku byla naplánována."
+
+#: lib/widgets.php:189
+msgid "Block area updated."
+msgstr "Oblast bloku byla aktualizována."
+
+#: build/server-side-render/index.js:1
+msgid "Block rendered as empty."
+msgstr "Blok je vykreslen jako prázdný."
+
+#: build/block-library/index.js:14
+msgid "Column Settings"
+msgstr "Nastavení sloupců"
+
+#: build/block-library/index.js:14
+msgid "Footer section"
+msgstr "Sekce zápatí"
+
+#: build/block-library/index.js:14
+msgid "Header section"
+msgstr "Sekce záhlaví"
+
+#: build/format-library/index.js:12
+msgid "Inline Code"
+msgstr "Vložený kód"
+
+#: build/block-library/index.js:14
+msgid "Note: Autoplaying audio may cause usability issues for some visitors."
+msgstr "Poznámka: Automatické přehrávání zvuku může u některých návštěvníků způsobit problémy s použitelností."
+
+#: build/block-library/index.js:14
+msgid "Note: Autoplaying videos may cause usability issues for some visitors."
+msgstr "Poznámka: Automatické přehrávání videa může u některých návštěvníků způsobit problémy s použitelností."
+
+#: build/block-library/index.js:14
+msgid "Percentage width"
+msgstr "Šířka v procentech"
+
+#: build/block-library/index.js:14
+msgid "Post Content"
+msgstr "Obsah příspěvku"
+
+#: build/block-library/index.js:14
+msgid "Post Content Settings"
+msgstr "Nastavení obsahu příspěvku"
+
+#: build/block-library/index.js:14
+msgid "Post Meta Settings"
+msgstr "Nastavení dalších informací příspěvku"
+
+#: build/block-library/blocks/latest-posts.php:70
+msgid "Read More"
+msgstr "Pokračovat ve čtení"
+
+#: build/block-library/index.js:14
+msgid "Sorting and Filtering"
+msgstr "Filtry a řazení"
+
+#: lib/widgets.php:174
+msgid "Add New Block Area"
+msgstr "Přidat novou oblast bloku"
+
+#: lib/widgets.php:178
+msgid "All Block Areas"
+msgstr "Všechny oblasti bloků"
+
+#: lib/widgets.php:185
+msgid "Block area published."
+msgstr "Oblast bloku byla publikována."
+
+#: lib/widgets.php:184
+msgid "Block areas list"
+msgstr "Seznam oblastí bloků"
+
+#: lib/widgets.php:183
+msgid "Block areas list navigation"
+msgstr "Navigace v seznamu oblastí bloků"
+
+#: lib/widgets.php:176
+msgid "Edit Block Area"
+msgstr "Upravit oblast bloku"
+
+#: lib/widgets.php:167
+msgid "Experimental custom post type that will store block areas referenced by themes."
+msgstr "Experimentální vlastní typ obsahu, který bude ukládat oblasti bloků odkazované šablonami."
+
+#: lib/widgets.php:182
+msgid "Filter block areas list"
+msgstr "Filtrovat seznam oblasti bloků"
+
+#: lib/widgets.php:175
+msgid "New Block Area"
+msgstr "Nová oblast bloku"
+
+#: lib/widgets.php:180
+msgid "No block area found."
+msgstr "Nebyla nalezena žádná oblast bloku."
+
+#: lib/widgets.php:179
+msgid "Search Block Areas"
+msgstr "Hledat oblasti bloků"
+
+#: lib/widgets.php:177
+msgid "View Block Area"
+msgstr "Zobrazit oblast bloku"
+
+#: lib/widgets.php:171
+msgctxt "admin menu"
+msgid "Block Areas"
+msgstr "Oblasti bloků"
+
+#: lib/widgets.php:169
+msgctxt "post type general name"
+msgid "Block Area (Experimental)"
+msgstr "Oblast bloků (experimentální)"
+
+#: lib/widgets.php:170
+msgctxt "post type singular name"
+msgid "Block Area (Experimental)"
+msgstr "Oblast bloku (experimentální)"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets advanced settings"
+msgstr "Pokročilé nastavení widgetů"
+
+#: build/edit-widgets/index.js:1
+msgid "(experimental)"
+msgstr "(experimentální)"
+
+#: build/edit-widgets/index.js:1
+msgid "Block Areas"
+msgstr "Oblasti bloků"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read."
+msgstr "Tato barevná kombinace může být hůře čitelná."
+
+#: build/block-editor/index.js:55
+msgid "Add Block"
+msgstr "Přidat blok"
+
+#: build/block-library/index.js:14
+msgid "row"
+msgstr "řádek"
+
+#: build/block-library/index.js:14
+msgid "section"
+msgstr "sekce"
+
+#: build/block-library/index.js:14
+msgid "container"
+msgstr "kontejner"
+
+#: build/block-library/index.js:14
+msgid "wrapper"
+msgstr "wrapper"
+
+#: build/block-library/index.js:14
+msgid "Crop image to fill entire column"
+msgstr "Oříznout obrázek, aby vyplnil celý sloupec"
+
+#: build/block-library/index.js:14
+msgid "Group"
+msgstr "Skupina"
+
+#: build/block-library/index.js:14
+msgid "A block that groups other blocks."
+msgstr "Blok, který seskupuje jiné bloky."
+
+#: build/block-library/index.js:14
+msgid "The current poster image url is %s"
+msgstr "Aktuální URL náhledového obrázku je %s"
+
+#: build/block-library/index.js:14
+msgid "There is no poster image currently selected"
+msgstr "Náhledový obrázek aktuálně není vybrán"
+
+#: build/block-library/index.js:14
+msgid "You are now editing the image in the image block."
+msgstr "Nyní upravujete obrázek v bloku obrázek."
+
+#: build/block-library/index.js:14
+msgid "You are now viewing the image in the image block."
+msgstr "Aktuálně prohlížíte obrázek v bloku obrázek."
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen content"
+msgstr "Obsah obrazovky widgetů"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen top bar"
+msgstr "Horní lišta obrazovky widgetů"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Top"
+msgstr "Zarovnat nahoru"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Middle"
+msgstr "Zarovnat doprostřed"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Bottom"
+msgstr "Zarovnat dolů"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting label"
+msgid "Change Alignment"
+msgstr "Změnit zarovnání"
+
+#: build/block-editor/index.js:55
+msgid "Add a block"
+msgstr "Přidat blok"
+
+#: build/block-library/index.js:14
+msgid "Describe the purpose of the image"
+msgstr "Popište smysl obrázku"
+
+#: build/block-library/index.js:14
+msgid "Leave empty if the image is purely decorative."
+msgstr "Nevyplňujte jestli je obrázek čistě dekorativní."
+
+#: build/block-library/index.js:14
+msgid "Play inline"
+msgstr "Přehrávat uvnitř obsahu stránky"
+
+#: build/editor/index.js:17
+msgid "Replace Image"
+msgstr "Nahradit obrázek"
+
+#: build/block-library/index.js:14
+msgid "Change widget"
+msgstr "Změnit widget"
+
+#: build/block-library/index.js:14
+msgid "Display a legacy widget."
+msgstr "Zobrazí původní WordPress widget."
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget"
+msgstr "Starší verze widgetu"
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget (Experimental)"
+msgstr "Starší verze widgetu (experimentální)"
+
+#: build/block-library/index.js:14
+msgid "Not a valid widget."
+msgstr "Nejedná se o platný widget."
+
+#: build/block-library/index.js:14
+msgid "There are no widgets available."
+msgstr "Nejsou k dispozici žádné widgety."
+
+#: build/block-library/index.js:14
+msgid "You don't have permissions to use widgets on this site."
+msgstr "Nemáte dostatečné oprávnění pro používání widgetů na tomto webu."
+
+#: build/block-editor/index.js:55
+msgid "Change block type or style"
+msgstr "Změnit typ nebo styl bloku"
+
+#: build/block-library/index.js:14
+msgid "Select a legacy widget to display:"
+msgstr "Vyberte starší verzi widgetu, který chcete zobrazit:"
+
+#: build/edit-post/index.js:12
+msgid "Block Manager"
+msgstr "Správce bloků"
+
+#: lib/class-wp-rest-widget-updater-controller.php:42
+msgid "Class name of the widget."
+msgstr "Název třídy widgetu."
+
+#: build/editor/index.js:17
+msgid "Exit the Editor"
+msgstr "Ukončit editor"
+
+#: lib/class-wp-rest-widget-updater-controller.php:101
+msgid "Invalid widget."
+msgstr "Neplatný widget."
+
+#: build/block-editor/index.js:55
+msgid "More Rich Text Controls"
+msgstr "Další prvky formátovaného textu"
+
+#: build/editor/index.js:17
+msgid "Search Terms"
+msgstr "Hledané výrazy"
+
+#: lib/class-wp-rest-widget-updater-controller.php:69
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "Nemáte dostatečné oprávnění pro přístup k widgetům na tomto webu."
+
+#: build/block-editor/index.js:55
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "Backspace"
+
+#: build/block-editor/index.js:55
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "Mezerník"
+
+#: build/components/index.js:19
+msgid "Custom Color"
+msgstr "Vlastní barva"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s can't be previewed in the editor."
+msgstr "Vložený obsah z %s nelze v editoru zobrazit."
+
+#: build/block-library/index.js:14
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "Vyzvěte návštěvníky k provedení akce pomocí odkazu ve stylu tlačítka."
+
+#: gutenberg.php:49 gutenberg.php:50
+msgid "Widgets (beta)"
+msgstr "Widgety (beta)"
+
+#: build/block-library/index.js:14
+msgid "link"
+msgstr "odkaz"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode activated"
+msgstr "Režim nevyrušovaného psaní byl aktivován"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode deactivated"
+msgstr "Režim nevyrušovaného psaní byl deaktivován"
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "Chyba RSS:"
+
+#: build/block-library/index.js:14 build/block-editor/index.js:55
+msgctxt "block style"
+msgid "Default"
+msgstr "Výchozí"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode activated"
+msgstr "Celoobrazovkový režim byl aktivován"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode deactivated"
+msgstr "Celoobrazovkový režim byl deaktivován"
+
+#: build/edit-post/index.js:12
+msgid "Read about permalinks"
+msgstr "Více o trvalých odkazech (anglicky)"
+
+#: build/editor/index.js:17
+msgid "Stick to the top of the blog"
+msgstr "Zvýraznit tento příspěvek"
+
+#: build/edit-post/index.js:12
+msgid "The last part of the URL. "
+msgstr "Poslední část URL adresy. "
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar activated"
+msgstr "Horní panel nástrojů byl aktivován"
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar deactivated"
+msgstr "Horní panel nástrojů byl deaktivován"
+
+#: build/edit-post/index.js:12
+msgid "URL Slug"
+msgstr "Název v URL"
+
+#: build/edit-post/index.js:12
+msgid "You’ll find more settings for your page and blocks in the sidebar. Click the cog icon to toggle the sidebar open and closed."
+msgstr "Další nastavení stránky a bloků najdete v postranním panelu. Pro otevření a zavření postranního panelu klikněte na ikonu se symbolem ozubeného kola."
+
+#: build/block-library/blocks/rss.php:62
+msgid "by"
+msgstr "od"
+
+#: build/block-library/blocks/rss.php:27
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Objevila se nečekaná chyba, RSS zdroj je pravděpodobně mimo provoz. Zkuste to prosím později."
+
+#: build/edit-post/index.js:12
+msgid "Back"
+msgstr "Zpět"
+
+#: build/block-library/index.js:14
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/index.js:14
+msgid "RSS Settings"
+msgstr "Nastavení RSS"
+
+#: build/block-library/index.js:14
+msgid "Edit RSS URL"
+msgstr "Upravit URL RSS"
+
+#: build/block-library/index.js:14
+msgid "- Select -"
+msgstr "- Vybrat -"
+
+#: build/block-library/index.js:14
+msgid "A calendar of your site’s posts."
+msgstr "Kalendář publikovaných příspěvků."
+
+#: build/block-library/index.js:14
+msgid "A cloud of your most used tags."
+msgstr "Nejpoužívanější štítky (či další volitelné taxonomie) zobrazené ve formě přehledného shluku."
+
+#: build/block-library/index.js:14
+msgid "Add button text…"
+msgstr "Přidat text tlačítka…"
+
+#: build/block-library/index.js:14
+msgid "Add label…"
+msgstr "Přidat popisek…"
+
+#: build/block-library/index.js:14
+msgid "Button text"
+msgstr "Text tlačítka"
+
+#: build/block-library/index.js:14
+msgid "Calendar"
+msgstr "Kalendář"
+
+#: build/block-library/index.js:14
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "Obsah nad tímto blokem se v archivu zobrazí jako stručný výpis příspěvku."
+
+#: build/block-library/index.js:14
+msgid "Default"
+msgstr "Výchozí"
+
+#: build/block-library/index.js:14
+msgid "Display author"
+msgstr "Zobrazit autora"
+
+#: build/block-library/index.js:14
+msgid "Display date"
+msgstr "Zobrazit datum"
+
+#: build/block-library/index.js:14
+msgid "Display entries from any RSS or Atom feed."
+msgstr "Zobrazí položky z libovolného informačního RSS nebo Atom kanálu."
+
+#: build/block-library/index.js:14
+msgid "Display excerpt"
+msgstr "Zobrazit stručný výpis"
+
+#: build/block-library/index.js:14
+msgid "Embed Amazon Kindle content."
+msgstr "Vložte obsah z Amazon Kindle."
+
+#: build/block-library/index.js:14
+msgid "Embed Crowdsignal (formerly Polldaddy) content."
+msgstr "Vložte obsah z Crowdsignalu (dříve PollDaddy)."
+
+#: build/edit-post/index.js:12
+msgid "Feature activated"
+msgstr "Prvek byl aktivován"
+
+#: build/edit-post/index.js:12
+msgid "Feature deactivated"
+msgstr "Prvek byl deaktivován"
+
+#: build/block-library/index.js:14
+msgid "Focal Point Picker"
+msgstr "Výběr ústředního bodu"
+
+#: build/block-library/index.js:14
+msgid "Help visitors find your content."
+msgstr "Pomozte návštěvníkům najít váš obsah."
+
+#: build/components/index.js:19
+msgid "Horizontal Pos."
+msgstr "Vodorovná poz."
+
+#: build/block-library/index.js:14
+msgid "Label text"
+msgstr "Text popisku"
+
+#: build/block-library/index.js:14
+msgid "Max number of words in excerpt"
+msgstr "Maximální počet slov ve stručném výpisu"
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder text"
+msgstr "Volitelný zástupný text"
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder…"
+msgstr "Volitelný zástupný text…"
+
+#: build/block-library/index.js:14
+msgid "Sorry, this content could not be embedded."
+msgstr "Tento obsah nemohl být vložen."
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud"
+msgstr "Štítky"
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud Settings"
+msgstr "Nastavení štítků"
+
+#: build/block-library/index.js:14
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: build/block-library/index.js:14
+msgid "The excerpt is hidden."
+msgstr "Stručný výpis příspěvku je skrytý."
+
+#: build/block-library/index.js:14
+msgid "The excerpt is visible."
+msgstr "Stručný výpis příspěvku je viditelný."
+
+#: build/components/index.js:19
+msgid "Vertical Pos."
+msgstr "Vertikální poz."
+
+#: build/block-library/index.js:14
+msgid "archive"
+msgstr "archiv"
+
+#: build/block-library/index.js:14
+msgid "atom"
+msgstr "atom"
+
+#: build/block-library/index.js:14
+msgid "ebook"
+msgstr "ebook"
+
+#: build/block-library/index.js:14
+msgid "feed"
+msgstr "RSS"
+
+#: build/block-library/index.js:14
+msgid "find"
+msgstr "hledat"
+
+#: build/block-library/index.js:14
+msgid "image %1$d of %2$d in gallery"
+msgstr "%1$d. obrázek z %2$d v galerii"
+
+#: build/block-library/index.js:14
+msgid "posts"
+msgstr "příspěvky"
+
+#: build/block-library/blocks/search.php:76
+#: build/block-library/blocks/search.php:84 build/block-library/index.js:14
+msgid "Search"
+msgstr "Hledat"
+
+#: build/block-library/index.js:14
+msgid "Hide the excerpt on the full content page"
+msgstr "Nezobrazovat stručný výpis při zobrazení celého příspěvku"
+
+#: build/editor/index.js:17
+msgid "https://codex.wordpress.org/Excerpt"
+msgstr "https://codex.wordpress.org/Excerpt"
+
+#: build/format-library/index.js:12
+msgid "Underline"
+msgstr "Podtržení"
+
+#: build/block-editor/index.js:55
+msgid "Attempt Block Recovery"
+msgstr "Pokusit se o obnovení bloku"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Try again"
+msgstr "Zkusit znovu"
+
+#: build/editor/index.js:17
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "words"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "Převést na odkaz"
+
+#: build/components/index.js:19
+msgid "Font size: %s"
+msgstr "Velikost písma: %s"
+
+#: build/nux/index.js:1
+msgid "Editor tips"
+msgstr "Tipy editoru"
+
+#: build/block-library/index.js:14
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "Text…"
+
+#: build/edit-post/index.js:12
+msgid "Block (selected)"
+msgstr "Blok (vybráno)"
+
+#: build/edit-post/index.js:12
+msgid "Document (selected)"
+msgstr "Dokument (vybráno)"
+
+#: build/block-editor/index.js:55
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d slovo"
+msgstr[1] "%d slova"
+msgstr[2] "%d slov"
+
+#: build/edit-post/index.js:12
+msgid "Top Toolbar"
+msgstr "Horní panel nástrojů"
+
+#: build/block-library/index.js:14
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Vytvořte obsah a uložte jej pro opakované použití v rámci webu. Při aktualizaci bloku se změny projeví všude, kde se daný blok používá."
+
+#: build/block-library/index.js:14
+msgid "Link CSS Class"
+msgstr "Připojit třídu CSS"
+
+#: build/block-library/index.js:14
+msgid "Link Rel"
+msgstr "Relativní odkaz"
+
+#: build/block-editor/index.js:55
+msgid "(selected block)"
+msgstr "(vybraný blok)"
+
+#: build/edit-post/index.js:12
+msgid "Permalink"
+msgstr "Trvalý odkaz"
+
+#: build/block-editor/index.js:55
+msgid "Block tools"
+msgstr "Nástroje bloku"
+
+#: build/editor/index.js:17
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "Pro úpravu náhledového obrázku potřebujete oprávnění k nahrávání mediálních souborů."
+
+#: build/block-editor/index.js:55
+msgid "To edit this block, you need permission to upload media."
+msgstr "Chcete-li tento blok upravit, potřebujete oprávnění k nahrávání mediálních souborů."
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute"
+msgstr "Tento obrázek nemá vyplněný atribut alt."
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "Tento obrázek nemá vyplněný atribut alt; název souboru je %s."
+
+#: build/block-library/index.js:14
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Přetáhněte obrázky, nahrajte nové nebo vyberte soubory z knihovny."
+
+#: lib/widgets.php:173
+msgctxt "Block"
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: build/block-editor/index.js:55
+msgid "Thumbnail"
+msgstr "Náhled"
+
+#: build/block-library/index.js:14
+msgid "Paragraph block"
+msgstr "Blok odstavce"
+
+#: lib/widgets.php:181
+msgid "No block areas found in Trash."
+msgstr "V koši nebyly nalezeny žádné bloky."
+
+#: build/editor/index.js:17
+msgid "Type text or HTML"
+msgstr "Zadejte text nebo HTML"
+
+#: build/block-editor/index.js:55
+msgid "Block icon"
+msgstr "Ikona bloku"
+
+#: build/block-library/index.js:14
+msgid "Page Break"
+msgstr "Rozdělení stránky"
+
+#: build/block-editor/index.js:55
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "Je vybrán %s blok."
+msgstr[1] "Jsou vybrány %s bloky."
+msgstr[2] "Je vybráno %s bloků."
+
+#: build/block-editor/index.js:55
+msgid "Align text center"
+msgstr "Zarovnat na střed"
+
+#: build/block-editor/index.js:55
+msgid "Align text left"
+msgstr "Zarovnat doleva"
+
+#: build/block-editor/index.js:55
+msgid "Align text right"
+msgstr "Zarovnat doprava"
+
+#: build/block-editor/index.js:55
+msgid "Full Size"
+msgstr "Původní velikost"
+
+#: build/format-library/index.js:12
+msgid "Link inserted."
+msgstr "Odkaz byl vložen."
+
+#: build/block-editor/index.js:55
+msgid "Link selected."
+msgstr "Odkaz byl vybrán."
+
+#: build/block-library/index.js:14
+msgid "Stack on mobile"
+msgstr "Seskupit na mobilu"
+
+#: build/block-library/index.js:14 build/block-editor/index.js:55
+msgid "Start writing or type / to choose a block"
+msgstr "Začněte psát nebo napište / pro zvolení bloku"
+
+#: build/editor/index.js:17
+msgid "Start writing with text or HTML"
+msgstr "Začněte psát text nebo kód HTML"
+
+#: build/format-library/index.js:12
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "Upozornění: Právě vložený odkaz může obsahovat chyby, raději ho prosím vyzkoušejte."
+
+#: lib/widgets.php:187
+msgid "Block area reverted to draft."
+msgstr "Blok byl převeden zpět na koncept."
+
+#: lib/widgets.php:186
+msgid "Block area published privately."
+msgstr "Blok byl publikován soukromě."
+
+#: build/block-library/index.js:14
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "Prázdný blok; začněte psát nebo zadejte lomítko pro zvolení bloku"
+
+#: lib/widgets.php:172
+msgctxt "add new on admin bar"
+msgid "Block Area"
+msgstr "Oblast bloků"
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "Anotace"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Střední"
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Normální"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Download"
+msgstr "Stáhnout"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Embed"
+msgstr "Vložit"
+
+#: build/edit-post/index.js:12
+msgid "Document tools"
+msgstr "Nástroje dokumentu"
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the nearest toolbar."
+msgstr "Přejít na nejbližší panel nástrojů."
+
+#: build/format-library/index.js:12
+msgid "%s (opens in a new tab)"
+msgstr "%s (otevře se na nové záložce)"
+
+#: build/edit-post/index.js:12
+msgid "Document and block tools"
+msgstr "Nástroje pro dokument a bloky"
+
+#: build/editor/index.js:17
+msgid "Double-check your settings before publishing."
+msgstr "Před publikováním si zkontrolujte nastavení."
+
+#: build/editor/index.js:17
+msgid "Edit or update the image"
+msgstr "Upravte nebo aktualizujte obrázek"
+
+#: build/editor/index.js:17
+msgid "Generating preview…"
+msgstr "Generování náhledu…"
+
+#: build/block-library/index.js:14
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Napište báseň, nebo citujte text písně. Používejte speciální formát mezer."
+
+#: build/format-library/index.js:12
+msgid "Link edited."
+msgstr "Odkaz byl upraven."
+
+#: build/format-library/index.js:12
+msgid "Link removed."
+msgstr "Odkaz byl odebrán."
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Large"
+msgstr "Velké"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Squared"
+msgstr "Čtvercové"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Classic"
+msgstr "Klasický editor"
+
+#: build/block-editor/index.js:55
+msgctxt "blocks"
+msgid "Most Used"
+msgstr "Nejpoužívanější"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "Importovat"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Obrovské"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Large"
+msgstr "Velké"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Small"
+msgstr "Malé"
+
+#: build/block-editor/index.js:55
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Opravit"
+
+#: build/components/index.js:19
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Enter"
+
+#: build/format-library/index.js:12
+msgid "media"
+msgstr "mediální soubor"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Embed"
+msgstr "Vložení"
+
+#: build/block-library/index.js:14
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Vložte video z knihovny médií, nebo nahrajte nové."
+
+#: build/block-editor/index.js:55
+msgid "Media"
+msgstr "Média"
+
+#: build/block-library/index.js:14
+msgid "Add a link to a downloadable file."
+msgstr "Přidejte odkaz na soubor ke stažení."
+
+#: build/block-library/index.js:14
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Přidejte vlastní kód HTML a zobrazte jeho náhled při úpravách."
+
+#: build/block-library/index.js:14
+msgid "Add white space between blocks and customize its height."
+msgstr "Přidejte mezeru mezi bloky a upravte její výšku."
+
+#: build/block-library/index.js:14
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Oddělte jednotlivé nápady nebo oddíly vodorovnou čarou."
+
+#: build/block-library/index.js:14
+msgid "Create a bulleted or numbered list."
+msgstr "Vytvořte odrážkový nebo číslovaný seznam."
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent comments."
+msgstr "Zobrazte seznam nejnovějších komentářů."
+
+#: build/block-library/index.js:14
+msgid "Display multiple images in a rich gallery."
+msgstr "Zobrazte více obrázků v galerii."
+
+#: build/block-library/index.js:14
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "Vkládejte videa, obrázky, tweety, audio a další obsah z externích zdrojů."
+
+#: build/block-library/index.js:14
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Zvýrazněte citovaný text. „Při citování ostatních, citujeme sami sebe.“ — Julio Cortázar"
+
+#: build/block-library/index.js:14
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "Zvýrazněte vlastní citovaný text."
+
+#: build/block-library/index.js:14
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Vložte další vlastní prvky pomoci zkráceného zápisu (shortcode)."
+
+#: build/block-library/index.js:14
+msgid "Insert an image to make a visual statement."
+msgstr "Vložte obrázek pro vytvoření vizuálního prvku."
+
+#: build/block-library/index.js:14
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Uveďte nové oddíly a uspořádejte návštěvníkům (a vyhledávačům) obsah tak, aby pochopili strukturu textu."
+
+#: build/block-library/index.js:14
+msgid "Separate your content into a multi-page experience."
+msgstr "Rozdělte obsah na více stránek."
+
+#: build/block-library/index.js:14
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "Umístěte vedle sebe text a mediální soubor, pro zajímavější rozložení."
+
+#: build/block-library/index.js:14
+msgid "Start with the building block of all narrative."
+msgstr "Začněte základem všech vyprávění."
+
+#: build/block-library/index.js:14
+msgid "Media & Text Settings"
+msgstr "Nastavení médií a textu"
+
+#: build/block-library/index.js:14
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Přidejte obrázek nebo video překryté textem – skvělé pro záhlaví."
+
+#: build/block-library/index.js:14
+msgid "Display a list of all categories."
+msgstr "Zobrazte seznam všech rubrik."
+
+#: build/block-library/index.js:14
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Zobrazte kód, který respektuje vaši strukturu."
+
+#: build/block-library/index.js:14
+msgid "Embed Cloudup content."
+msgstr "Vložte obsah z Cloudupu."
+
+#: build/block-library/index.js:14
+msgid "Embed CollegeHumor content."
+msgstr "Vložte obsah z CollegeHumor."
+
+#: build/block-library/index.js:14
+msgid "Embed Flickr content."
+msgstr "Vložte obsah z Flickru."
+
+#: build/block-library/index.js:14
+msgid "Embed Hulu content."
+msgstr "Vložte obsah z Hulu."
+
+#: build/block-library/index.js:14
+msgid "Embed Imgur content."
+msgstr "Vložte obsah z Imgur."
+
+#: build/block-library/index.js:14
+msgid "Embed Issuu content."
+msgstr "Vložte obsah z Issuu."
+
+#: build/block-library/index.js:14
+msgid "Embed Kickstarter content."
+msgstr "Vložte obsah z Kickstarteru."
+
+#: build/block-library/index.js:14
+msgid "Embed Meetup.com content."
+msgstr "Vložte obsah z Meetup.com."
+
+#: build/block-library/index.js:14
+msgid "Embed Mixcloud content."
+msgstr "Vložte obsah z Mixcloudu."
+
+#: build/block-library/index.js:14
+msgid "Embed Polldaddy content."
+msgstr "Vložte obsah z PollDaddy."
+
+#: build/block-library/index.js:14
+msgid "Embed ReverbNation content."
+msgstr "Vložte obsah z ReverbNation."
+
+#: build/block-library/index.js:14
+msgid "Embed Screencast content."
+msgstr "Vložte obsah ze Screencastu."
+
+#: build/block-library/index.js:14
+msgid "Embed Scribd content."
+msgstr "Vložte obsah ze Scribd."
+
+#: build/block-library/index.js:14
+msgid "Embed Slideshare content."
+msgstr "Vložte obsah ze SlideShare."
+
+#: build/block-library/index.js:14
+msgid "Embed SmugMug content."
+msgstr "Vložte obsah ze SmugMug."
+
+#: build/block-library/index.js:14
+msgid "Embed SoundCloud content."
+msgstr "Vložte obsah ze SoundCloudu."
+
+#: build/block-library/index.js:14
+msgid "Embed Speaker Deck content."
+msgstr "Vložte obsah ze Speaker Deck."
+
+#: build/block-library/index.js:14
+msgid "Embed Spotify content."
+msgstr "Vložte obsah ze Spotify."
+
+#: build/block-library/index.js:14
+msgid "Embed a Dailymotion video."
+msgstr "Vložte video z Dailymotion."
+
+#: build/block-library/index.js:14
+msgid "Embed a Facebook post."
+msgstr "Vložte příspěvek z Facebooku."
+
+#: build/block-library/index.js:14
+msgid "Embed a Reddit thread."
+msgstr "Vložte vlákno z Redditu."
+
+#: build/block-library/index.js:14
+msgid "Embed a TED video."
+msgstr "Vložte video z TEDu."
+
+#: build/block-library/index.js:14
+msgid "Embed a Tumblr post."
+msgstr "Vložte příspěvek z Tumblr."
+
+#: build/block-library/index.js:14
+msgid "Embed a VideoPress video."
+msgstr "Vložte video z VideoPressu."
+
+#: build/block-library/index.js:14
+msgid "Embed a Vimeo video."
+msgstr "Vložte video z Vimea."
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress post."
+msgstr "Vložte příspěvek z WordPressu."
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress.tv video."
+msgstr "Vložte video z WordPress.tv."
+
+#: build/block-library/index.js:14
+msgid "Embed a YouTube video."
+msgstr "Vložte video z YouTube."
+
+#: build/block-library/index.js:14
+msgid "Embed a simple audio player."
+msgstr "Vložte jednoduchý audio přehrávač."
+
+#: build/block-library/index.js:14
+msgid "Embed a tweet."
+msgstr "Vložte tweet."
+
+#: build/block-library/index.js:14
+msgid "Embed an Animoto video."
+msgstr "Vložte video z Animoto."
+
+#: build/block-library/index.js:14
+msgid "Embed an Instagram post."
+msgstr "Vložte příspěvek z Instagramu."
+
+#: build/block-library/index.js:14
+msgid "Resize for smaller devices"
+msgstr "Přizpůsobit velikost pro menší zařízení"
+
+#: build/block-library/index.js:14
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "Tento embed nemusí zachovat svůj poměr stran při změně velikosti okna."
+
+#: build/block-library/index.js:14
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "Tento embed zachová svůj poměr stran i při změně velikosti okna."
+
+#: build/block-library/index.js:14
+msgid "Use the classic WordPress editor."
+msgstr "Použijte klasický WordPress Editor."
+
+#: build/block-editor/index.js:55
+msgid "Styles"
+msgstr "Styly"
+
+#: build/components/index.js:19
+msgid "Minutes"
+msgstr "Minuty"
+
+#: build/components/index.js:19
+msgid "Hours"
+msgstr "Hodiny"
+
+#: build/components/index.js:19
+msgid "Time"
+msgstr "Čas"
+
+#: build/components/index.js:19
+msgid "Year"
+msgstr "Rok"
+
+#: build/components/index.js:19
+msgid "Day"
+msgstr "Den"
+
+#: build/components/index.js:19
+msgid "December"
+msgstr "Prosinec"
+
+#: build/components/index.js:19
+msgid "November"
+msgstr "Listopad"
+
+#: build/components/index.js:19
+msgid "October"
+msgstr "Říjen"
+
+#: build/components/index.js:19
+msgid "September"
+msgstr "Září"
+
+#: build/components/index.js:19
+msgid "August"
+msgstr "Srpen"
+
+#: build/components/index.js:19
+msgid "July"
+msgstr "Červenec"
+
+#: build/components/index.js:19
+msgid "June"
+msgstr "Červen"
+
+#: build/components/index.js:19
+msgctxt "font size name"
+msgid "Custom"
+msgstr "Vlastní"
+
+#: build/block-library/index.js:14
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "Zleva doprava"
+
+#: build/components/index.js:19
+msgid "May"
+msgstr "Květen"
+
+#: build/components/index.js:19
+msgid "April"
+msgstr "Duben"
+
+#: build/components/index.js:19
+msgid "March"
+msgstr "Březen"
+
+#: build/components/index.js:19
+msgid "February"
+msgstr "Únor"
+
+#: build/components/index.js:19
+msgid "January"
+msgstr "Leden"
+
+#: build/components/index.js:19
+msgid "Month"
+msgstr "Měsíc"
+
+#: build/components/index.js:19
+msgid "Date"
+msgstr "Datum"
+
+#: build/edit-post/index.js:12
+msgid "Advanced Panels"
+msgstr "Pokročilé panely"
+
+#: build/edit-post/index.js:12
+msgid "Document Panels"
+msgstr "Panely dokumentu"
+
+#: build/components/index.js:19
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: build/edit-post/index.js:12
+msgid "Enable Tips"
+msgstr "Povolit tipy"
+
+#: build/edit-post/index.js:12
+msgid "Open the block navigation menu."
+msgstr "Otevřít navigační menu bloku."
+
+#: build/edit-post/index.js:12
+msgid "Options"
+msgstr "Možnosti"
+
+#: build/edit-post/index.js:12
+msgid "General"
+msgstr "Obecné"
+
+#: build/block-editor/index.js:55
+msgid "Block Navigation"
+msgstr "Navigace v dokumentu"
+
+#: build/components/index.js:19
+msgid "Calendar Help"
+msgstr "Nápověda kalendáře"
+
+#: build/components/index.js:19
+msgid "Home/End"
+msgstr "Home/End"
+
+#: build/components/index.js:19
+msgid "Navigating with a keyboard"
+msgstr "Navigace pomocí klávesnice"
+
+#: build/block-library/index.js:14
+msgid "Unrecognized Block"
+msgstr "Nerozpoznaný blok"
+
+#: build/editor/index.js:17
+msgid "%s address"
+msgstr "%s URL"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "(opens in a new tab)"
+msgstr "(otevře se na nové záložce)"
+
+#: build/edit-post/index.js:12
+msgid "Access all block and document tools in a single place"
+msgstr "Mějte veškeré nástroje dokumentu a aktivního bloku na jednom místě"
+
+#: build/components/index.js:19
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Hodnota alfa od 0 (průhledná) do 1 (zcela neprůhledné)."
+
+#: build/components/index.js:19
+msgid "Change color format"
+msgstr "Změnit formát barvy"
+
+#: build/components/index.js:19
+msgid "Choose a shade"
+msgstr "Vyberte odstín"
+
+#: build/components/index.js:19
+msgid "Click the desired day to select it."
+msgstr "Klikněte na požadovaný den pro jeho výběr."
+
+#: build/components/index.js:19
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "Kliknutím na šipku vlevo nebo vpravo vyberete předchozí nebo následujíc měsíc."
+
+#: build/components/index.js:19
+msgid "Click to Select"
+msgstr "Kliknutí pro výběr"
+
+#: build/edit-post/index.js:12
+msgid "Click to change"
+msgstr "Klikněte pro změnu"
+
+#: build/components/index.js:19
+msgid "Color value in HSL"
+msgstr "Hodnota barvy v HSL"
+
+#: build/components/index.js:19
+msgid "Color value in RGB"
+msgstr "Hodnota barvy v RGB"
+
+#: build/components/index.js:19
+msgid "Color value in hexadecimal"
+msgstr "Hodnota barvy v šestnáctkové soustavě"
+
+#: build/components/index.js:19
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Přejít na první (Home) nebo poslední (End) den v týdnu."
+
+#: build/components/index.js:19
+msgid "Hex color mode active"
+msgstr "Šestnáctkový barevný režim je aktivní"
+
+#: build/components/index.js:19
+msgid "Home and End"
+msgstr "Home a end"
+
+#: build/components/index.js:19
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "Hodnota odstínu ve stupních, od 0 do 359."
+
+#: build/components/index.js:19
+msgid "Hue/saturation/lightness mode active"
+msgstr "Režim odstín/sytost/světlost je aktivní"
+
+#: build/block-editor/index.js:55
+msgid "Insert from URL"
+msgstr "Vložit z URL adresy"
+
+#: build/components/index.js:19
+msgid "Left and Right Arrows"
+msgstr "Šipky vlevo a vpravo"
+
+#: build/block-library/index.js:14
+msgid "Media & Text"
+msgstr "Média a text"
+
+#: build/block-library/index.js:14
+msgid "Media area"
+msgstr "Oblast média"
+
+#: build/components/index.js:19
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Posunout o jeden měsíc zpět (PgUp) nebo vpřed (PgDn)."
+
+#: build/components/index.js:19
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Posunout o jeden den zpět (vlevo) nebo vpřed (vpravo)."
+
+#: build/components/index.js:19
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Posunout o jeden týden nazpět (nahoru) nebo vpřed (dolů)."
+
+#: build/components/index.js:19
+msgid "Move the arrow left or right to change hue."
+msgstr "Pro změnu odstínu, použijte šipky doleva nebo doprava."
+
+#: build/block-library/index.js:14 build/format-library/index.js:12
+msgid "Open in New Tab"
+msgstr "Otevírat v nové záložce"
+
+#: build/components/index.js:19
+msgid "Page Up and Page Down"
+msgstr "Page Up a Page Down"
+
+#: build/block-editor/index.js:55
+msgid "Paste or type URL"
+msgstr "Vložte nebo napište adresu URL"
+
+#: build/editor/index.js:17
+msgid "Save as Pending"
+msgstr "Uložit do fronty na schválení"
+
+#: build/components/index.js:19
+msgid "Select the date in focus."
+msgstr "Zvolit datum, které je označeno."
+
+#: build/block-library/index.js:14
+msgid "Show media on left"
+msgstr "Zobrazit média vlevo"
+
+#: build/block-library/index.js:14
+msgid "Show media on right"
+msgstr "Zobrazit média vpravo"
+
+#: build/block-library/index.js:14
+msgid "Stripes"
+msgstr "Pruhy"
+
+#: build/components/index.js:19
+msgid "Up and Down Arrows"
+msgstr "Šipky nahoru a dolů"
+
+#: build/edit-post/index.js:12
+msgid "Work without distraction"
+msgstr "Nenechte se při psaní rušit"
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "Váš web neobsahuje podporu pro blok „%s“. Tento blok můžete ponechat nedotčený, nebo jej zcela odstranit."
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "Váš web neobsahuje podporu pro blok „%s“. Tento blok můžete ponechat beze změny, převést jeho obsah na vlastní HTML blok nebo jej zcela odebrat."
+
+#: build/edit-post/index.js:12
+msgctxt "noun"
+msgid "View"
+msgstr "Zobrazení"
+
+#: build/components/index.js:19
+msgid "RGB mode active"
+msgstr "RGB režim je aktivní"
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for this block."
+msgstr "Tento web neobsahuje podporu pro tento blok."
+
+#: build/edit-post/index.js:12
+msgid "Focus on one block at a time"
+msgstr "Zaměřte se vždy jen na jeden blok"
+
+#: build/components/index.js:19
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to decrease saturation, and right to increase saturation."
+msgstr "Pomocí kláves šipek změňte základní barvu. Šipkou nahoru barvu zesvětlíte, šipkou dolů ztmavíte, šipkou vlevo snížíte sytost, a šipkou vpravo sytost zvýšíte."
+
+#: build/block-library/index.js:14
+msgid "Cover"
+msgstr "Úvodní obrázek"
+
+#: build/block-library/index.js:14
+msgid "Cover Settings"
+msgstr "Nastavení úvodního obrázku"
+
+#: build/block-library/index.js:14
+msgid "Edit media"
+msgstr "Upravit mediální soubor"
+
+#: build/block-editor/index.js:55
+msgid "Medium"
+msgstr "Střední"
+
+#: build/editor/index.js:17
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "Uživatel %s momentálně upravuje tento příspěvek. Dokud nad příspěvkem nepřevezmete kontrolu, nemůžete v něm provádět změny."
+
+#: build/editor/index.js:17
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "Uživatel %s nyní provádí úpravy tohoto příspěvku. Vaše doteď provedené změny byly uloženy."
+
+#: build/editor/index.js:17
+msgid "Always show pre-publish checks."
+msgstr "Vždy zobrazit kontrolu před publikováním."
+
+#: build/editor/index.js:17
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "Jiný uživatel momentálně upravuje tento příspěvek. Dokud nad příspěvkem nepřevezmete kontrolu, nemůžete v něm provádět změny."
+
+#: build/editor/index.js:17
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "Jiný uživatel nyní provádí úpravy tohoto příspěvku. Vaše doteď provedené změny byly uloženy."
+
+#: build/editor/index.js:17
+msgid "Are you ready to schedule?"
+msgstr "Jste připraveni k naplánování?"
+
+#: build/editor/index.js:17
+msgid "Take Over"
+msgstr "Převzít kontrolu"
+
+#: build/editor/index.js:17
+msgid "Terms"
+msgstr "Položky"
+
+#: build/editor/index.js:17
+msgid "Your work will be published at the specified date and time."
+msgstr "Vaše práce bude zveřejněna v zadaném datu a čase."
+
+#: build/block-editor/index.js:55
+msgid "Paste URL or type to search"
+msgstr "Vložte URL adresu, nebo zadejte hledaný výraz"
+
+#: build/block-library/index.js:14
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:14
+msgid "Media Settings"
+msgstr "Nastavení médií"
+
+#: build/editor/index.js:17
+msgid "Avatar"
+msgstr "Avatar"
+
+#: build/block-editor/index.js:55
+msgid "Convert to HTML"
+msgstr "Převést na HTML"
+
+#: build/block-library/index.js:14
+msgid "Main Color"
+msgstr "Hlavní barva"
+
+#: build/components/index.js:19
+msgid "Custom font size"
+msgstr "Vlastní velikost písma"
+
+#: build/block-editor/index.js:55
+msgid "This block contains unexpected or invalid content."
+msgstr "Tento blok obsahuje neočekávaný nebo neplatný obsah."
+
+#: build/block-library/index.js:14
+msgid "Overlay Color"
+msgstr "Barva překrytí"
+
+#: build/block-library/index.js:14
+msgid "Overlay"
+msgstr "Překrytí"
+
+#: build/edit-post/index.js:12
+msgid "Editing Code"
+msgstr "Upravujete kód"
+
+#: build/edit-post/index.js:12
+msgid "Enable Pre-publish Checks"
+msgstr "Povolit kontrolu před publikováním"
+
+#: build/edit-post/index.js:12
+msgid "Exit Code Editor"
+msgstr "Ukončit HTML editor"
+
+#: build/block-library/index.js:14
+msgid "Insert Media"
+msgstr "Vložte mediální soubor"
+
+#: build/block-editor/index.js:55
+msgid "Resolve Block"
+msgstr "Převod bloku"
+
+#: build/block-library/index.js:14
+msgid "Solid Color"
+msgstr "Plná barva"
+
+#: build/edit-post/index.js:12
+msgid "This block can only be used once."
+msgstr "Tento blok lze použít jen jednou."
+
+#: build/editor/index.js:17
+msgid "This post is already being edited."
+msgstr "Tento příspěvek právě upravuje někdo jiný."
+
+#: build/block-library/index.js:14
+msgid "Write HTML…"
+msgstr "Začněte psát HTML…"
+
+#: build/editor/index.js:17
+msgid "Someone else has taken over this post."
+msgstr "Někdo jiný převzal tento příspěvek."
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "Čárka"
+
+#: build/block-editor/index.js:55
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d blok"
+msgstr[1] "%d bloky"
+msgstr[2] "%d bloků"
+
+#: build/edit-post/index.js:12
+msgid "Escape"
+msgstr "Esc"
+
+#: build/block-editor/index.js:55
+msgid "After Conversion"
+msgstr "Po převodu"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "Zpětný apostrof"
+
+#: build/block-editor/index.js:55
+msgid "Change Text Alignment"
+msgstr "Změnit zarovnání textu"
+
+#: build/block-editor/index.js:55
+msgid "Current"
+msgstr "Aktuálně"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "Neplatný soubor JSON"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "Tečka"
+
+#: build/block-library/index.js:14
+msgid "Reusable Template"
+msgstr "Opakovatelná šablona"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "Opakovatelný blok byl úspěšně importován!"
+
+#: build/block-library/index.js:14
+msgid "Template block used as a container."
+msgstr "Blok šablony je použitý jako kontejner."
+
+#: build/block-editor/index.js:55
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "Změnit typ %d bloku"
+msgstr[1] "Změnit typ %d bloků"
+msgstr[2] "Změnit typ %d bloků"
+
+#: build/edit-post/index.js:12
+msgid "Forward-slash"
+msgstr "/"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "Importovat z JSON"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "Neplatný soubor JSON opakovatelného bloku"
+
+#: build/block-editor/index.js:55
+msgid "Change Alignment"
+msgstr "Změnit zarovnání"
+
+#: build/editor/index.js:17
+msgid "Title"
+msgstr "Název"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Manage All Reusable Blocks"
+msgstr "Spravovat všechny opakovatelné bloky"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "Žádné archivy k zobrazení. "
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "Tento typ souboru zde není podporován."
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen Mode"
+msgstr "Režim celé obrazovky"
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "Soubor je prázdny."
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Nádherné hory"
+
+#: build/editor/index.js:17
+msgid "Close panel"
+msgstr "Zavřít panel"
+
+#: build/block-library/index.js:14
+msgid "Row Count"
+msgstr "Počet řádků"
+
+#: build/block-library/index.js:14
+msgid "Column Count"
+msgstr "Počet sloupců"
+
+#: build/block-library/index.js:14
+msgid "blockquote"
+msgstr "citace"
+
+#: build/block-library/index.js:14
+msgid "Subheading (deprecated)"
+msgstr "Podnadpis (zastaralé)"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Classic Block"
+msgstr "Převést na klasický blok"
+
+#: build/block-library/index.js:14
+msgid "Poster Image"
+msgstr "Náhledový obrázek"
+
+#: build/block-library/index.js:14
+msgid "Text Columns (deprecated)"
+msgstr "Textové sloupce (zastaralé)"
+
+#: build/block-library/index.js:14
+msgid "Remove Poster Image"
+msgstr "Odstranit náhledový obrázek"
+
+#: build/block-library/index.js:14
+msgid "Select Poster Image"
+msgstr "Zvolit náhledový obrázek"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Tento blok je zastaralý. Použijte místo něj blok sloupců."
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "Tento blok je zastaralý. Místo něj použijte blok odstavce."
+
+#: build/edit-post/index.js:12
+msgid "Change the block type after adding a new paragraph."
+msgstr "Změnit typ bloku po přidání nového odstavce."
+
+#: build/edit-post/index.js:12
+msgid "Spotlight Mode"
+msgstr "Režim nevyrušovaného psaní"
+
+#: build/editor/index.js:17
+msgid "Add tags"
+msgstr "Přidat štítky"
+
+#: build/edit-post/index.js:12
+msgid "Remove a link."
+msgstr "Odstranit odkaz."
+
+#: build/edit-post/index.js:12
+msgid "Text formatting"
+msgstr "Formátování textu"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block after the selected block(s)."
+msgstr "Vložit nový blok za vybrané bloky."
+
+#: build/edit-post/index.js:12
+msgid "Keyboard Shortcuts"
+msgstr "Klávesové zkratky"
+
+#: build/edit-post/index.js:12
+msgid "Global shortcuts"
+msgstr "Obecné zkratky"
+
+#: build/edit-post/index.js:12
+msgid "Selection shortcuts"
+msgstr "Zkratky výběru textu"
+
+#: build/edit-post/index.js:12
+msgid "Display this help."
+msgstr "Zobrazit tuto nápovědu."
+
+#: build/edit-post/index.js:12
+msgid "Save your changes."
+msgstr "Uložit změny."
+
+#: build/edit-post/index.js:12
+msgid "Undo your last changes."
+msgstr "Vrátit poslední změny."
+
+#: build/edit-post/index.js:12
+msgid "Redo your last undo."
+msgstr "Provést znovu změny."
+
+#: build/edit-post/index.js:12
+msgid "Show or hide the settings sidebar."
+msgstr "Zobrazit nebo skrýt postranní panel nastavení."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor."
+msgstr "Přejít na další část editoru."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor."
+msgstr "Přejít na předchozí část editoru."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor (alternative)."
+msgstr "Přejít na další část editoru (alternativní)."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor (alternative)."
+msgstr "Přejít na předchozí část editoru (alternativní)."
+
+#: build/edit-post/index.js:12
+msgid "Switch between Visual Editor and Code Editor."
+msgstr "Přepnout mezi vizuálním editorem a HTML editorem."
+
+#: build/edit-post/index.js:12
+msgid "Clear selection."
+msgstr "Zrušit výběr."
+
+#: build/edit-post/index.js:12
+msgid "Block shortcuts"
+msgstr "Práce s bloky"
+
+#: build/edit-post/index.js:12
+msgid "Duplicate the selected block(s)."
+msgstr "Duplikovat vybrané bloky."
+
+#: build/edit-post/index.js:12
+msgid "Remove the selected block(s)."
+msgstr "Odstranit vybrané bloky."
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block before the selected block(s)."
+msgstr "Vložit nový blok před vybrané bloky."
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text bold."
+msgstr "Tučně"
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text italic."
+msgstr "Kurzíva"
+
+#: build/edit-post/index.js:12
+msgid "Underline the selected text."
+msgstr "Podtržení"
+
+#: build/editor/index.js:17
+msgid "Apply the \"%1$s\" format."
+msgstr "Použít formát „%1$s“."
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "Přesunout %1$d blok z %2$d. pozice o jednu pozici níže"
+msgstr[1] "Přesunout %1$d bloky z %2$d. pozice o jednu pozici níže"
+msgstr[2] "Přesunout %1$d bloků z %2$d. pozice o jednu pozici níže"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "Přesunout %1$s blok z %2$d. pozice, dolů až na %3$d. pozici"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "Přesunout %1$s blok z %2$d. pozice, nahoru až na %3$d. pozici"
+
+#: build/edit-post/index.js:12
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "Při psaní označí veškerý text. Další stisknutí označí všechny bloky."
+
+#: build/editor/index.js:17
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "Štítky pomáhají uživatelům a vyhledávačům v orientaci na webu. Přidejte několik klíčových slov, která vystihují tento příspěvek."
+
+#: build/editor/index.js:17
+msgid "Use a post format"
+msgstr "Použijte formát příspěvku"
+
+#: build/block-library/index.js:14
+msgid "movie"
+msgstr "film"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "Přesunout %1$d blok z %2$d. pozice o jednu pozici výše"
+msgstr[1] "Přesunout %1$d bloky z %2$d. pozice o jednu pozici výše"
+msgstr[2] "Přesunout %1$d bloků z %2$d. pozice o jednu pozici výše"
+
+#: build/edit-post/index.js:12
+msgid "Convert the selected text into a link."
+msgstr "Převede označený text na odkaz."
+
+#: build/editor/index.js:17
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "Tato šablona používá formáty příspěvku ke zvýraznění různých druhů obsahu, jako jsou obrázky nebo videa. Pro zobrazení tohoto speciálního stylu, vyberte konkrétní formát příspěvku."
+
+#: build/block-editor/index.js:55
+msgid "Insert Before"
+msgstr "Vložit nad"
+
+#: build/block-editor/index.js:55
+msgid "Insert After"
+msgstr "Vložit pod"
+
+#: post-content.php:181
+msgid "Thanks for testing Gutenberg!"
+msgstr "Děkujeme za testování Gutenbergu!"
+
+#: post-content.php:155
+msgid "Code is Poetry"
+msgstr "Code is Poetry"
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:114
+msgid "Media Rich"
+msgstr "Bohaté na média"
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "Informace příslušné ke zdroji citace jsou v odděleném textovém poli, podobně jako jsou odděleny popisky obrázků. Struktura citace je tak chráněna i když vyberete, upravíte nebo odstraníte zdroj. Je vždy jednoduché jej přidat zpět."
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "Editor se pokusí vytvářet lepší zkušenosti při tvorbě nových stránek a příspěvků, což zjednoduší psaní formátovaného textu. Bude používat „bloky“, aby šlo jednodušeji používat zkrácený zápis, vlastní HTML nebo vkládat „mystery meat“."
+
+#: post-content.php:151
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Můžete vytvořit jakýkoliv blok vás jen napadne - statický, nebo dynamický; formátovaný, nebo neformátovaný. Zde je blok stručného výpisu:"
+
+#: post-content.php:173
+msgid "Help build Gutenberg"
+msgstr "Pomozte vyvíjet plugin Gutenberg"
+
+#: post-content.php:155
+msgid "The WordPress community"
+msgstr "Komunita WordPressu"
+
+#: post-content.php:122
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Dostupnost je důležitá &mdash; nezapomeň na atribut alt u obrázků"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:164
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Pokud se chcete dozvědět více o tom, jak vytvořit další bloky nebo máte-li zájem o pomoc s tímto projektem, přejděte do <a href=\"%s\">GitHub úložiště</a>."
+
+#: post-content.php:141
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Jakýkoliv blok můžete takto zarovnat. Vložený blok je také zarovnaný, a je ihned responzivní:"
+
+#: post-content.php:137
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Výše je galerie jen se dvěma obrázky. Je to jednoduchý způsob, jak vytvořit vizuálně příjemné rozvržení, aniž byste museli řešit obtékání textu. Galerii můžete také snadno převést zpět na jednotlivé obrázky pomocí přepínače bloků."
+
+#: post-content.php:126
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Jistě, obrázek na celou šířku může být někdy hodně veliký. Ale občas to za to stojí."
+
+#: post-content.php:118
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Pokud kombinujete nové uspořádání (<strong>velmi široké</strong> a <strong>na plnou šířku</strong>) s galeriemi, můžete velmi rychle vytvořit formátovaný vzhled:"
+
+#: post-content.php:110
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Množství sloupců v galeriích můžete změnit přetažením posuvníku v nastavení bloku, v postranním panelu."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Bloky mohou být vše, co potřebujete. Například můžete chtít přidat decentní citaci jako součást kompozice textu. Nebo byste radši zobrazovali obří stylizovanou citaci? Všechny tyto možnosti teď jsou k dispozici."
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Vizuální úpravy"
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Galerie"
+
+#: build/block-library/index.js:14
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Více"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Vítejte v editoru Gutenberg"
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Z hor a knihtisku"
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Obrázek je lepší než tisíc slov"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Nadpisy jsou také samostatné bloky, které zlepšují přehlednost a uspořádání vašeho obsahu."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Obrovská výhoda bloků spočívá v tom, že je můžete upravit na místě a manipulovat s obsahem přímo. Namísto toho abyste měli pole na úpravu věcí jako je zdroj citace nebo text tlačítka, můžete přímo změnit obsah. Zkuste upravit následující citaci:"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Bloky zobrazení jako jsou tlačítka, hlavní obrázky, oddělovače, atd."
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unschedule this post?"
+msgstr "Opravdu chcete zrušit naplánování tohoto příspěvku?"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block"
+msgstr "Opakovatelný blok"
+
+#: build/block-library/index.js:14
+msgctxt "block name"
+msgid "More"
+msgstr "Pokračování textu"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Text a nadpisy"
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Pokud vaše šablona podporuje nové rozložení, v nástrojové liště obrázku uvidíte tlačítko „Velká šířka“. Vyzkoušejte ho."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "Nástroj pro <em>přidávání</em> bloků"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Představte si, že vše, co WordPress dokáže, je k dispozici jednoduše a stále na stejném místě. Není třeba zjišťovat HTML značky, třídy nebo si pamatovat komplikovanou syntaxi zkráceného zápisu. To je cílem přidávání bloků - tlačítko <code>(+)</code>, které uvidíte v editoru - umožní vám procházet všechny dostupné bloky obsahu a přidat je do příspěvku. Pluginy a šablony mohou zaregistrovat své vlastní, čímž se otevírají veškeré možnosti pro formátovanou úpravu a publikování."
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Zkuste vybrat a odstranit, nebo upravit titulek, nyní se nebudete muset bát, že omylem vyberete obrázek, nebo jiný text a zkazíte si tak celou prezentaci."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Nyní čtete <strong>odstavec</strong>, nejzákladnější blok ze všech. Odstavec má vlastní ovládací prvky, které umožňují volné umístění kdekoliv v příspěvku..."
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Obrázky a Videa"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "A jistě <em>seznamy</em> jako je tenhle :)"
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... jako tento, který je zarovnaný vpravo."
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Vyzkoušejte to, můžete objevit funkce, které WordPress může již dlouho přidávat do vašich příspěvků. Tady je krátký seznam toho, co můžete najít:"
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Velmi pečlivé zacházení s obrázky a médii je primárním cílem nového editoru. Doufáme, že některé aspekty přidání titulků nebo plné šířky obrázků budou mnohem lepší a jednodušší než dříve."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Vložené prvky, jako YouTube, Tweety, nebo jiné WordPress příspěvky."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Cílem tohoto nového editoru je přidat do WordPressu formátovaný obsah jednoduše a příjemně. Celý tento příspěvek se skládá z <em>částí obsahu</em> (jako LEGO z kostiček), které můžete přesouvat a ovlivňovat je. Pohybujte kurzorem a zjistěte, jak se různé bloky zvýrazní pomocí obrysů a šipek. Stiskněte šipky pro rychlé přesunutí bloků, aniž byste se museli bát, že něco ztratíte při kopírování a vkládání."
+
+#: build/block-library/index.js:14
+msgid "Alt Text (Alternative Text)"
+msgstr "Alt text (alternativní text)"
+
+#: build/editor/index.js:17
+msgid "Untitled Reusable Block"
+msgstr "Opakovatelný blok bez názvu"
+
+#: build/block-editor/index.js:55
+msgid "(current %s: %s)"
+msgstr "(aktuální %s: %s)"
+
+#: build/block-editor/index.js:55
+msgid "(%s: %s)"
+msgstr "%s, %s"
+
+#: build/block-library/index.js:14
+msgid "Keep as HTML"
+msgstr "Zachovat ve formátu HTML"
+
+#: build/block-editor/index.js:55
+msgid "Reusable"
+msgstr "Opakovatelné"
+
+#: build/editor/index.js:17
+msgid "Add to Reusable Blocks"
+msgstr "Přidat k opakovatelným blokům"
+
+#: build/editor/index.js:17
+msgid "Remove from Reusable Blocks"
+msgstr "Odstranit z opakovatelných bloků"
+
+#: build/block-library/index.js:14
+msgid "Edit URL"
+msgstr "Upravit URL"
+
+#: build/block-library/index.js:14
+msgid "Color Settings"
+msgstr "Nastavení barev"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block: %s"
+msgstr "Opakovatelný blok: %s"
+
+#: gutenberg.php:60
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: build/block-library/index.js:14
+msgid "Auto"
+msgstr "Automaticky"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "Vybrat příspěvek"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "Vybrat týden"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "Vybrat den"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "Vybrat měsíc"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "Vybrat rok"
+
+#: build/block-library/index.js:14
+msgid "Video Settings"
+msgstr "Nastavení videa"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments"
+msgstr "Nejnovější komentáře"
+
+#: build/block-library/index.js:14
+msgid "Display Date"
+msgstr "Zobrazit datum"
+
+#: build/block-library/index.js:14
+msgid "Display Avatar"
+msgstr "Zobrazit avatar"
+
+#: build/block-library/index.js:14
+msgid "Number of Comments"
+msgstr "Počet komentářů"
+
+#: build/block-library/index.js:14
+msgid "Muted"
+msgstr "Ztišeno"
+
+#: build/block-library/index.js:14
+msgid "Archives Settings"
+msgstr "Nastavení archivů"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments Settings"
+msgstr "Nastavení nejnovějších komentářů"
+
+#: build/block-library/index.js:14
+msgid "Show Post Counts"
+msgstr "Zobrazit počet příspěvků"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:14
+msgid "Archives"
+msgstr "Archivy"
+
+#: build/block-library/index.js:14
+msgid "Audio Settings"
+msgstr "Nastavení audia"
+
+#: build/block-library/index.js:14
+msgid "Background Opacity"
+msgstr "Míra krytí"
+
+#: build/block-library/index.js:14
+msgid "Display Excerpt"
+msgstr "Zobrazit úryvek"
+
+#: build/block-library/index.js:14
+msgid "Display a monthly archive of your posts."
+msgstr "Zobrazte měsíční archiv příspěvků."
+
+#: build/block-library/index.js:14
+msgid "Display as Dropdown"
+msgstr "Zobrazit jako rozbalovací seznam"
+
+#: build/edit-post/index.js:12
+msgid "Editor publish"
+msgstr "Editor publikování"
+
+#: build/block-library/index.js:14
+msgid "Preload"
+msgstr "Předběžně načítat"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "Odpověď není platná odpověď ve formátu JSON."
+
+#: build/block-library/index.js:14
+msgid "recent comments"
+msgstr "nejnovější komentáře"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "Žádné komentáře."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s: %2$s"
+
+#: gutenberg.php:58
+msgid "Support"
+msgstr "Fórum podpory"
+
+#: build/block-library/index.js:14
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:14 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "Soubor"
+
+#: build/block-editor/index.js:55
+msgid "Remove Block"
+msgstr "Odstranit blok"
+
+#: build/block-library/index.js:14
+msgid "Dots"
+msgstr "Tečky"
+
+#: build/block-library/index.js:14
+msgid "Custom URL"
+msgstr "Vlastní URL"
+
+#: build/block-library/index.js:14
+msgid "Copy URL"
+msgstr "Kopírovat URL"
+
+#: build/block-library/index.js:14
+msgid "Edit file"
+msgstr "Upravit soubor"
+
+#: build/block-library/index.js:14
+msgid "Column"
+msgstr "Sloupec"
+
+#: build/block-library/index.js:14
+msgid "Playback Controls"
+msgstr "Ovládání přehrávání"
+
+#: build/block-library/index.js:14
+msgid "document"
+msgstr "dokument"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Available block types"
+msgstr "Dostupné typy bloků"
+
+#: build/block-library/index.js:14
+msgid "Text Link Settings"
+msgstr "Nastavení textového odkazu"
+
+#: build/block-library/index.js:14
+msgid "Download Button Settings"
+msgstr "Nastavení tlačítka pro stažení"
+
+#: build/block-library/index.js:14
+msgid "A single column within a columns block."
+msgstr "Jeden sloupec v rámci bloku sloupce."
+
+#: build/block-library/index.js:14
+msgid "Autoplay"
+msgstr "Přehrát automaticky"
+
+#: build/components/index.js:19
+msgid "Close dialog"
+msgstr "Zavřít dialogové okno"
+
+#: build/block-editor/index.js:55
+msgid "Cyan bluish gray"
+msgstr "Modrošedá"
+
+#: build/format-library/index.js:12
+msgid "Inline Image"
+msgstr "Vložený obrázek"
+
+#: build/block-editor/index.js:55
+msgid "Large"
+msgstr "Velká"
+
+#: build/block-editor/index.js:55
+msgid "Light green cyan"
+msgstr "Světle zelená"
+
+#: build/block-library/index.js:14
+msgid "Link To"
+msgstr "Odkazovat na"
+
+#: build/block-library/index.js:14
+msgid "Link URL"
+msgstr "URL odkazu"
+
+#: build/block-library/index.js:14
+msgid "Loop"
+msgstr "Opakovat"
+
+#: build/edit-post/index.js:12
+msgid "Open publish panel"
+msgstr "Otevřít panel publikování"
+
+#: build/block-library/index.js:14
+msgid "Outline"
+msgstr "S obrysem"
+
+#: build/block-editor/index.js:55
+msgid "Pale pink"
+msgstr "Bledě růžová"
+
+#: build/block-library/index.js:14
+msgid "Show Download Button"
+msgstr "Zobrazit tlačítko pro stažení"
+
+#: build/block-editor/index.js:55
+msgid "Transform To:"
+msgstr "Změnit na:"
+
+#: build/edit-post/index.js:12
+msgid "Welcome to the wonderful world of blocks! Click the “+” (“Add block”) button to add a new block. There are blocks available for all kinds of content: you can insert text, headings, images, lists, and lots more!"
+msgstr "Vítejte v báječném světě bloků! Chcete-li přidat nový blok, klikněte na tlačítko „+“ („Přidat blok“). K dispozici jsou bloky pro všechny druhy obsahu: můžete vkládat text, nadpisy, obrázky, seznamy, a mnoho dalšího!"
+
+#: build/block-library/index.js:14
+msgid "Wide Line"
+msgstr "Dlouhá čára"
+
+#: build/block-library/index.js:14
+msgid "Write file name…"
+msgstr "Zadejte název souboru"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid amber"
+msgstr "Světle žlutá"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid orange"
+msgstr "Světle oranžová"
+
+#: build/block-editor/index.js:55
+msgid "Pale cyan blue"
+msgstr "Bleděmodrá"
+
+#: build/block-editor/index.js:55
+msgid "Very dark gray"
+msgstr "Tmavě šedá"
+
+#: build/block-editor/index.js:55
+msgid "Very light gray"
+msgstr "Světle šedá"
+
+#: build/block-editor/index.js:55
+msgid "Vivid cyan blue"
+msgstr "Sytě modrá"
+
+#: build/block-editor/index.js:55
+msgid "Vivid green cyan"
+msgstr "Sytě tyrkysová zelená"
+
+#: build/block-editor/index.js:55
+msgid "Vivid red"
+msgstr "Sytě červená"
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "Zakázat tipy"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "Zobrazit další tip"
+
+#: build/block-library/index.js:14
+msgid "Replace image"
+msgstr "Nahradit obrázek"
+
+#: build/editor/index.js:17
+msgid "Are you ready to submit for review?"
+msgstr "Jste připraveni odeslat příspěvek ke schválení?"
+
+#: build/editor/index.js:17
+msgid "Click “Preview” to load a preview of this page, so you can make sure you’re happy with your blocks."
+msgstr "Klikněte na „Zobrazit náhled“ pro načtení náhledu této stránky, kde se budete moci ujistit, jestli jste s bloky spokojeni."
+
+#: build/editor/index.js:17
+msgid "Finished writing? That’s great, let’s get this published right now. Just click “Publish” and you’re good to go."
+msgstr "Dokončili jste psaní? Skvělé, nezapomeňte to hned zveřejnit. Stačí kliknout na „Publikovat“ a jste hotovi."
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "Zavřít"
+
+#: build/editor/index.js:17
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "Až budete připraveni, odešlete svou práci ke kontrole a šéfredaktor ji pak bude moci schválit."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Tento typ souboru není z bezpečnostních důvodů povolen."
+
+#: build/block-library/index.js:14
+msgid "Enter URL here…"
+msgstr "Vložit URL…"
+
+#: build/editor/index.js:17
+msgid "Autosaving"
+msgstr "Probíhá automatické ukládání"
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "Při nahrávání souboru %s do knihovny médií došlo k chybě."
+
+#: build/editor/index.js:17
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "Automaticky uložená verze tohoto příspěvku je novější, než aktuálně zobrazená verze."
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "Soubor překračuje maximální velikost nahrávání pro tento web."
+
+#: build/editor/index.js:17
+msgid "View the autosave"
+msgstr "Zobrazit automaticky uloženou verzi"
+
+#: build/block-library/index.js:14
+msgid "Table Settings"
+msgstr "Nastavení tabulky"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "Neznámá chyba"
+
+#: build/edit-post/index.js:12
+msgid "Pin to toolbar"
+msgstr "Připnout na panel nástrojů"
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "Chyba při načítání bloku: %s"
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "Přidejte blok zobrazující obsah ve více sloupcích, a pak do jednotlivých sloupců přidejte jakékoliv bloky."
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "Přidejte blok zobrazující obsah získaný z jiných webů, například z Twitteru, Instagramu nebo z YouTube."
+
+#: build/block-library/index.js:14
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Přidejte text, který respektuje vaše odsazení, tabulátory, a také umožňuje stylování."
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent posts."
+msgstr "Zobrazte seznam nejnovějších příspěvků."
+
+#: build/block-library/index.js:14
+msgid "Fixed width table cells"
+msgstr "Nastavit pevnou šířku buněk tabulky"
+
+#: build/block-library/index.js:14
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "Vytvořte tabulku – ideální pro sdílení grafů a dat."
+
+#: build/edit-post/index.js:12
+msgid "Unpin from toolbar"
+msgstr "Odepnout z panelu nástrojů"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Odstranit %s"
+
+#: build/components/index.js:19
+msgid "Color code: %s"
+msgstr "Kód barvy: %s"
+
+#: build/block-library/index.js:14
+msgid "Height in pixels"
+msgstr "Výška v pixelech"
+
+#: build/components/index.js:19
+msgid "Remove item"
+msgstr "Odstranit položku"
+
+#: build/editor/index.js:17
+msgid "Copy the permalink"
+msgstr "Kopírovat trvalý odkaz"
+
+#: build/block-library/index.js:14
+msgid "Name:"
+msgstr "Název:"
+
+#: build/editor/index.js:17
+msgid "Permalink copied"
+msgstr "Trvalý odkaz byl zkopírován"
+
+#: build/block-library/index.js:14
+msgid "Showing large initial letter."
+msgstr "Zobrazuje se velké počáteční písmeno."
+
+#: build/block-library/index.js:14
+msgid "Spacer"
+msgstr "Mezera"
+
+#: build/block-library/index.js:14
+msgid "Spacer Settings"
+msgstr "Nastavení mezery"
+
+#: build/block-library/index.js:14
+msgid "Toggle to show a large initial letter."
+msgstr "Přepněte pro zobrazení velkého počátečního písmene."
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "Obslužná rutina kódu pro vložení"
+
+#: build/components/index.js:19
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s z %3$s)"
+
+#: build/editor/index.js:17
+msgid "Edit post permalink"
+msgstr "Upravit trvalý odkaz příspěvku"
+
+#: build/editor/index.js:17
+msgid "Change Permalinks"
+msgstr "Změnit trvalé odkazy"
+
+#: build/edit-post/index.js:12
+msgid "Close plugin"
+msgstr "Zavřít plugin"
+
+#: build/edit-post/index.js:12
+msgid "Editor settings"
+msgstr "Nastavení editoru"
+
+#: build/block-library/index.js:14 build/block-editor/index.js:55
+msgid "Link Settings"
+msgstr "Nastavení odkazu"
+
+#: build/format-library/index.js:12
+msgid "Unlink"
+msgstr "Odebrat odkaz"
+
+#: build/block-library/index.js:14
+msgid "Image Size"
+msgstr "Velikost obrázku"
+
+#: build/block-library/index.js:14
+msgid "Height"
+msgstr "Výška"
+
+#: build/block-library/index.js:14 build/format-library/index.js:12
+msgid "Width"
+msgstr "Šířka"
+
+#: build/block-editor/index.js:55
+msgid "Media Library"
+msgstr "Knihovna médií"
+
+#: build/block-library/index.js:14
+msgid "pagination"
+msgstr "stránkování"
+
+#: build/block-library/index.js:14
+msgid "Page break"
+msgstr "Rozdělení stránky"
+
+#: build/block-library/index.js:14
+msgid "Image Dimensions"
+msgstr "Rozměry obrázku"
+
+#: build/edit-post/index.js:12
+msgid "Hide Block Settings"
+msgstr "Skrýt nastavení bloku"
+
+#: build/editor/index.js:17
+msgid "Publish…"
+msgstr "Publikovat"
+
+#: build/editor/index.js:17
+msgid "Schedule…"
+msgstr "Naplánovat…"
+
+#: build/edit-post/index.js:12
+msgid "Show Block Settings"
+msgstr "Zobrazit nastavení bloků"
+
+#: build/block-editor/index.js:55
+msgid "Skip to the selected block"
+msgstr "Přeskočit na vybraný blok"
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are cropped to align."
+msgstr "Náhledové obrázky jsou oříznuty, pro zarovnání."
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are not cropped."
+msgstr "Náhledové obrázky nejsou oříznuty."
+
+#: build/block-library/index.js:14
+msgid "next page"
+msgstr "následující stránka"
+
+#: build/edit-post/index.js:12
+msgid "Block settings closed"
+msgstr "Nastavení bloku je uzavřeno"
+
+#: build/components/index.js:19
+msgid "Add item"
+msgstr "Přidat položku"
+
+#: build/block-editor/index.js:55
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: build/edit-post/index.js:12
+msgid "Plugins"
+msgstr "Pluginy"
+
+#: build/components/index.js:19
+msgid "Custom Size"
+msgstr "Vlastní velikost"
+
+#: build/editor/index.js:17
+msgid "Scheduling…"
+msgstr "Plánování…"
+
+#: build/editor/index.js:17
+msgid "Scheduled"
+msgstr "Naplánováno"
+
+#: build/editor/index.js:17
+msgid "Document Statistics"
+msgstr "Statistiky dokumentu"
+
+#: build/editor/index.js:17
+msgid "Reset the template"
+msgstr "Obnovit šablonu"
+
+#: build/edit-post/index.js:12
+msgid "Visual editor selected"
+msgstr "Je vybrán vizuální editor"
+
+#: build/edit-post/index.js:12
+msgid "Code editor selected"
+msgstr "Je vybrán HTML editor"
+
+#: build/editor/index.js:17
+msgid "Keep it as is"
+msgstr "Neprovádět změny"
+
+#: build/editor/index.js:17
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "Obnovení šablony může způsobit ztrátu obsahu, opravdu chcete pokračovat?"
+
+#: build/editor/index.js:17
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "Obsah příspěvku neodpovídá šabloně přiřazené vašemu typu obsahu."
+
+#: build/editor/index.js:17
+msgid "is now scheduled. It will go live on"
+msgstr "- úspěšně naplánováno. Bude publikováno"
+
+#: build/blocks/index.js:2
+msgid "Layout Elements"
+msgstr "Prvky rozvržení"
+
+#: build/editor/index.js:17
+msgid "Content structure"
+msgstr "Struktura obsahu"
+
+#: build/editor/index.js:17
+msgid "Move to Trash"
+msgstr "Odstranit"
+
+#: build/editor/index.js:17
+msgid "Visibility:"
+msgstr "Viditelnost:"
+
+#: build/editor/index.js:17
+msgid "Published"
+msgstr "Publikováno"
+
+#: build/editor/index.js:17
+msgid "Allow Comments"
+msgstr "Povolit komentáře"
+
+#: build/editor/index.js:17
+msgid "Saved"
+msgstr "Uloženo"
+
+#: build/editor/index.js:17
+msgid "Undo"
+msgstr "Zpět"
+
+#: build/block-library/index.js:14 build/block-editor/index.js:55
+msgid "More options"
+msgstr "Více možností"
+
+#: build/block-editor/index.js:55
+msgid "Move down"
+msgstr "Posunout dolů"
+
+#: build/block-editor/index.js:55
+msgid "Move up"
+msgstr "Posunout nahoru"
+
+#: build/edit-post/index.js:12
+msgid "Remove"
+msgstr "Odstranit"
+
+#: build/edit-post/index.js:12
+msgid "Find original"
+msgstr "Najít původní"
+
+#: build/edit-post/index.js:12 build/block-library/index.js:14
+#: build/editor/index.js:17
+msgid "Copied!"
+msgstr "Zkopírováno!"
+
+#: build/edit-post/index.js:12
+msgid "Document"
+msgstr "Dokument"
+
+#: build/edit-post/index.js:12
+msgid "Close settings"
+msgstr "Zavřít nastavení"
+
+#: build/edit-post/index.js:12
+msgid "Tools"
+msgstr "Nástroje"
+
+#: build/edit-post/index.js:12
+msgid "Editor"
+msgstr "Editor"
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "No results."
+msgstr "Žádné výsledky."
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/edit-post/index.js:12 build/editor/index.js:17
+msgid "(no title)"
+msgstr "(bez názvu)"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+#: build/components/index.js:19
+msgid "Close"
+msgstr "Zavřít"
+
+#: build/block-editor/index.js:55
+msgid "Insert Link"
+msgstr "Vložit odkaz"
+
+#: build/block-editor/index.js:55
+msgid "Edit Link"
+msgstr "Upravit odkaz"
+
+#: build/editor/index.js:17 build/format-library/index.js:12
+msgid "Link"
+msgstr "Odkaz"
+
+#: build/format-library/index.js:12
+msgid "Italic"
+msgstr "Kurzíva"
+
+#: build/block-library/index.js:14 build/components/index.js:19
+msgid "Number of items"
+msgstr "Počet položek"
+
+#: build/components/index.js:19
+msgid "All"
+msgstr "Vše"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "Category"
+msgstr "Rubrika"
+
+#: build/block-library/index.js:14
+msgid "New Column"
+msgstr "Nový sloupec"
+
+#: build/block-library/index.js:14
+msgid "Add Row After"
+msgstr "Přidat řádek pod"
+
+#: build/block-library/index.js:14
+msgid "Add Row Before"
+msgstr "Přidat řádek nad"
+
+#: build/block-library/index.js:14
+msgid "Table"
+msgstr "Tabulka"
+
+#: build/block-library/index.js:14
+msgid "text"
+msgstr "text"
+
+#: build/block-library/index.js:14
+msgid "Paragraph"
+msgstr "Odstavec"
+
+#: build/components/index.js:19
+msgid "Font Size"
+msgstr "Velikost písma"
+
+#: build/block-library/index.js:14
+msgid "Text Settings"
+msgstr "Nastavení textu"
+
+#: build/block-library/index.js:14
+msgid "List"
+msgstr "Seznam"
+
+#: build/block-library/index.js:14 build/editor/index.js:17
+#: build/block-editor/index.js:55
+msgid "Image"
+msgstr "Obrázek"
+
+#: build/edit-post/index.js:12 build/block-library/index.js:14
+#: build/block-editor/index.js:55
+msgid "Preview"
+msgstr "Náhled"
+
+#: build/block-library/index.js:14
+msgid "Image Settings"
+msgstr "Nastavení obrázku"
+
+#: build/block-library/index.js:14
+msgid "Custom HTML"
+msgstr "Vlastní HTML"
+
+#: build/block-library/index.js:14
+msgid "Heading"
+msgstr "Nadpis"
+
+#: build/block-library/index.js:14 build/editor/index.js:17
+msgid "Gallery"
+msgstr "Galerie"
+
+#: build/block-library/index.js:14
+msgid "video"
+msgstr "video"
+
+#: build/block-library/index.js:14
+msgid "music"
+msgstr "hudba"
+
+#: build/block-library/index.js:14
+msgid "image"
+msgstr "obrázek"
+
+#: build/block-library/index.js:14
+msgid "blog"
+msgstr "blog"
+
+#: build/block-library/index.js:14
+msgid "post"
+msgstr "příspěvek"
+
+#: build/block-library/index.js:14
+msgid "Edit image"
+msgstr "Upravit obrázek"
+
+#: build/block-library/index.js:14
+msgid "Columns"
+msgstr "Sloupce"
+
+#: build/block-library/index.js:14
+msgid "Categories"
+msgstr "Rubriky"
+
+#: build/block-library/index.js:14
+msgid "Button"
+msgstr "Tlačítko"
+
+#: build/block-library/index.js:14 build/format-library/index.js:12
+#: build/block-editor/index.js:55
+msgid "Apply"
+msgstr "Použít"
+
+#: build/block-library/index.js:14
+msgid "Text Color"
+msgstr "Barva textu"
+
+#: build/block-library/index.js:14
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: build/block-editor/index.js:55
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: build/block-library/index.js:14 build/editor/index.js:17
+#: build/format-library/index.js:12
+msgid "Edit"
+msgstr "Upravit"
+
+#: build/block-library/index.js:14
+msgid "Use URL"
+msgstr "Použít URL"
+
+#: build/editor/index.js:17
+msgid "Post Visibility"
+msgstr "Viditelnost příspěvku"
+
+#: build/editor/index.js:17
+msgid "Add new category"
+msgstr "Vytvořit novou rubriku"
+
+#: build/editor/index.js:17
+msgid "Status"
+msgstr "Stav"
+
+#: build/editor/index.js:17
+msgid "no title"
+msgstr "bez názvu"
+
+#: build/block-editor/index.js:55
+msgid "Block: %s"
+msgstr "Blok: %s"
+
+#: build/media-utils/index.js:1
+msgid "Select"
+msgstr "Vybrat"
+
+#: build/block-editor/index.js:55
+msgid "Submit"
+msgstr "Odeslat"
+
+#: build/block-library/index.js:14 build/block-editor/index.js:55
+msgid "URL"
+msgstr "URL"
+
+#: build/block-library/index.js:14
+msgid "images"
+msgstr "obrázky"
+
+#: build/block-library/index.js:14
+msgid "Text Alignment"
+msgstr "Zarovnání textu"
+
+#: build/editor/index.js:17
+msgid "Password Protected"
+msgstr "Chráněno heslem"
+
+#: build/editor/index.js:17
+msgid "Permalink:"
+msgstr "Trvalý odkaz:"
+
+#: build/editor/index.js:17 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: build/editor/index.js:17
+msgid "Copy Link"
+msgstr "Kopírovat odkaz"
+
+#: build/editor/index.js:17
+msgid "Save Draft"
+msgstr "Uložit koncept"
+
+#: build/editor/index.js:17
+msgid "Updating failed"
+msgstr "Aktualizace selhala"
+
+#: build/edit-post/index.js:12
+msgid "Visibility"
+msgstr "Viditelnost"
+
+#: build/block-library/index.js:14
+msgid "audio"
+msgstr "audio"
+
+#: build/block-library/index.js:14 build/editor/index.js:17
+#: build/block-editor/index.js:55
+msgid "Video"
+msgstr "Video"
+
+#: build/block-library/index.js:14
+msgid "Edit video"
+msgstr "Upravit video"
+
+#: build/block-library/index.js:14
+msgid "%s URL"
+msgstr "%s URL"
+
+#: build/editor/index.js:17
+msgid "Saving"
+msgstr "Ukládání"
+
+#: build/components/index.js:19
+msgid "Dismiss this notice"
+msgstr "Zavřít toto oznámení"
+
+#: build/editor/index.js:17
+msgid "Immediately"
+msgstr "Okamžitě"
+
+#: build/block-editor/index.js:55
+msgid "Add block"
+msgstr "Přidat blok"
+
+#: build/editor/index.js:17
+msgid "Redo"
+msgstr "Znovu"
+
+#: build/edit-post/index.js:12
+msgid "Page Attributes"
+msgstr "Vlastnosti stránky"
+
+#: build/edit-post/index.js:12
+msgid "Visual Editor"
+msgstr "Vizuální editor"
+
+#: build/block-library/index.js:14 build/editor/index.js:17
+msgid "Quote"
+msgstr "Citace"
+
+#: build/block-library/index.js:14
+msgid "numbered list"
+msgstr "číslovaný seznam"
+
+#: build/block-library/index.js:14
+msgid "No posts found."
+msgstr "Nebyly nalezeny žádné příspěvky."
+
+#: build/block-library/index.js:14
+msgid "Media File"
+msgstr "Mediální soubor"
+
+#: build/block-library/index.js:14
+msgid "Crop Images"
+msgstr "Oříznout obrázky"
+
+#: build/block-library/index.js:14
+msgid "Gallery Settings"
+msgstr "Nastavení galerie"
+
+#: build/block-library/index.js:14
+msgid "Code"
+msgstr "Kód"
+
+#: build/block-library/index.js:14
+msgid "Show post counts"
+msgstr "Zobrazit počet příspěvků"
+
+#: build/block-library/index.js:14
+msgid "Categories Settings"
+msgstr "Nastavení rubrik"
+
+#: build/editor/index.js:17
+msgid "Pending Review"
+msgstr "Čeká na schválení"
+
+#: build/edit-post/index.js:12
+msgid "Settings"
+msgstr "Nastavení"
+
+#: build/block-library/index.js:14 build/components/index.js:19
+msgid "Reset"
+msgstr "Obnovit"
+
+#: build/components/index.js:19
+msgid "PM"
+msgstr "PM"
+
+#: build/components/index.js:19
+msgid "AM"
+msgstr "AM"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "Vyskytla se neznámá chyba."
+
+#: build/block-library/index.js:14
+msgid "Embedding…"
+msgstr "Vkládání…"
+
+#: build/block-library/index.js:14
+msgid "Edit audio"
+msgstr "Upravit audio"
+
+#: build/editor/index.js:17
+msgid "Publishing failed"
+msgstr "Publikování se nezdařilo"
+
+#: build/block-library/index.js:14
+msgid "subtitle"
+msgstr "podnadpis"
+
+#: build/block-library/index.js:14 build/format-library/index.js:12
+msgid "photo"
+msgstr "fotografie"
+
+#: build/editor/index.js:17
+msgid "Tag"
+msgstr "Štítek"
+
+#: build/block-editor/index.js:55
+msgid "Add %s"
+msgstr "Přidat %s"
+
+#: build/components/index.js:19
+msgid "Z → A"
+msgstr "Z \t A"
+
+#: build/components/index.js:19
+msgid "A → Z"
+msgstr "A \t Z"
+
+#: build/editor/index.js:17
+msgid "Post Format"
+msgstr "Formát příspěvku"
+
+#: build/editor/index.js:17
+msgid "Set Featured Image"
+msgstr "Zvolit náhledový obrázek"
+
+#: build/block-library/index.js:14 build/editor/index.js:17
+msgid "Remove Image"
+msgstr "Odstranit obrázek"
+
+#: build/edit-post/index.js:12
+msgid "Editor content"
+msgstr "Editor obsahu"
+
+#: build/block-library/index.js:14
+msgid "Heading Settings"
+msgstr "Nastavení nadpisu"
+
+#: build/block-library/index.js:14
+msgid "recent posts"
+msgstr "nejnovější příspěvky"
+
+#: build/editor/index.js:17
+msgid "Block deleted."
+msgstr "Blok byl odstraněn."
+
+#: build/editor/index.js:17
+msgid "Block updated."
+msgstr "Blok byl aktualizován."
+
+#: build/editor/index.js:17
+msgid "Parent Category"
+msgstr "Nadřazená rubrika"
+
+#: build/editor/index.js:17
+msgid "Add New Tag"
+msgstr "Vytvořit nový štítek"
+
+#: build/block-library/index.js:14
+msgid "poetry"
+msgstr "poezie"
+
+#: build/components/index.js:19
+msgid "Item removed."
+msgstr "Položka byla odstraněna."
+
+#: build/block-library/index.js:14
+msgid "Block has been deleted or is unavailable."
+msgstr "Blok byl odstraněn nebo není k dispozici."
+
+#: build/block-library/index.js:14
+msgid "Drop Cap"
+msgstr "Iniciála"
+
+#: build/block-library/index.js:14
+msgid "bullet list"
+msgstr "seznam s odrážkami"
+
+#: build/editor/index.js:17
+msgid "Visible to everyone."
+msgstr "Viditelné pro všechny."
+
+#: build/block-library/index.js:14
+msgid "Write title…"
+msgstr "Zadejte název…"
+
+#: build/block-editor/index.js:55
+msgid "Edit visually"
+msgstr "Upravit vizuálně"
+
+#: build/block-editor/index.js:55
+msgid "Duplicate"
+msgstr "Duplikovat"
+
+#: build/editor/index.js:17
+msgid "Schedule"
+msgstr "Naplánovat"
+
+#: build/editor/index.js:17
+msgid "Submit for Review"
+msgstr "Odeslat ke schválení"
+
+#: build/edit-post/index.js:12 build/editor/index.js:17
+msgid "Featured Image"
+msgstr "Náhledový obrázek"
+
+#: build/edit-post/index.js:12
+msgid "Copy All Content"
+msgstr "Kopírovat veškerý obsah"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "No blocks found."
+msgstr "Nebyly nalezeny žádné bloky."
+
+#: build/blocks/index.js:2
+msgid "Reusable Blocks"
+msgstr "Opakovatelné bloky"
+
+#: build/editor/index.js:17
+msgid "Document Outline"
+msgstr "Osnova dokumentu"
+
+#: build/editor/index.js:17
+msgid "Copy Post Text"
+msgstr "Kopírovat text příspěvku"
+
+#: build/editor/index.js:17
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d verze"
+msgstr[1] "%d verze"
+msgstr[2] "%d verzí"
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "Počet nalezených výsledků: %d. Pro výběr konkrétní položky můžete použít šipky na klávesnici."
+msgstr[1] "Počet nalezených výsledků: %d. Pro výběr konkrétní položky můžete použít šipky na klávesnici."
+msgstr[2] "Počet nalezených výsledků: %d. Pro výběr konkrétní položky můžete použít šipky na klávesnici."
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "Nalezeno výsledků: %d."
+msgstr[1] "Nalezeno výsledků: %d."
+msgstr[2] "Nalezeno výsledků: %d."
+
+#: build/editor/index.js:17
+msgid "(Empty heading)"
+msgstr "(Chybí nadpis)"
+
+#: build/editor/index.js:17
+msgid "(Incorrect heading level)"
+msgstr "(Nesprávná úroveň nadpisu)"
+
+#: build/editor/index.js:17
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(Nedoporučuje se více nadpisů H1)"
+
+#: build/editor/index.js:17
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(Vaše šablona již může používat nadpis H1 pro název příspěvku)"
+
+#: build/block-library/index.js:14
+msgid "Add Column After"
+msgstr "Přidat sloupec napravo"
+
+#: build/block-library/index.js:14
+msgid "Add Column Before"
+msgstr "Přidat sloupec nalevo"
+
+#: build/editor/index.js:17
+msgid "Add New Term"
+msgstr "Přidat novou položku"
+
+#: build/editor/index.js:17
+msgid "Add new term"
+msgstr "Přidat novou položku"
+
+#: build/block-library/index.js:14
+msgid "Add text…"
+msgstr "Zadejte text"
+
+#: build/edit-post/index.js:12
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "Další nastavení je nyní k dispozici v postranním panelu nastavení editoru bloku"
+
+#: build/editor/index.js:17
+msgid "Allow Pingbacks & Trackbacks"
+msgstr "Povolit pingbacky a trackbacky"
+
+#: build/editor/index.js:17
+msgid "Are you ready to publish?"
+msgstr "Jste připraveni k publikování?"
+
+#: build/editor/index.js:17
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"Opravdu chcete odstranit tento opakovaně použitelný blok?\n"
+"\n"
+"Blok bude trvale odebrána ze všech příspěvků a stránek, které jej používají."
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unpublish this post?"
+msgstr "Opravdu chcete zrušit publikování tohoto příspěvku?"
+
+#: build/editor/index.js:17
+msgid "Aside"
+msgstr "Poznámka"
+
+#: build/block-library/index.js:14
+msgid "Attachment Page"
+msgstr "Stránku se zobrazením souboru"
+
+#: build/edit-post/index.js:12
+msgid "Block"
+msgstr "Blok"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the beginning of the content and can’t be moved up"
+msgstr "Blok „%s“ je na začátku obsahu a nelze jej přesunout nahoru."
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the end of the content and can’t be moved down"
+msgstr "Blok „%s“ je na konci obsahu a nelze jej přesunout dolů."
+
+#: build/block-editor/index.js:55
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "Blok „%s“ je jediný blok a nelze jej přesunout"
+
+#: build/block-editor/index.js:55
+msgid "Block Styles"
+msgstr "Styly bloku"
+
+#: build/editor/index.js:17
+msgid "Block created."
+msgstr "Blok byl úspěšně vytvořen."
+
+#: build/editor/index.js:17
+msgid "Blocks"
+msgstr "Bloků"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "Bloky nelze posunout dolů, protože již dole jsou"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "Bloky nelze přesunout nahoru, protože již nahoře jsou"
+
+#: build/format-library/index.js:12
+msgid "Bold"
+msgstr "Tučné"
+
+#: build/editor/index.js:17
+msgid "Chat"
+msgstr "Rozhovor"
+
+#: build/block-library/index.js:14
+msgid "Classic"
+msgstr "Klasický editor"
+
+#: build/edit-post/index.js:12
+msgid "Code Editor"
+msgstr "HTML editor"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Blocks"
+msgstr "Převést na bloky"
+
+#: build/editor/index.js:17
+msgid "Convert to Regular Block"
+msgstr "Převést na výchozí blok"
+
+#: build/block-editor/index.js:55
+msgid "Convert to ordered list"
+msgstr "Číslovaný seznam"
+
+#: build/block-editor/index.js:55
+msgid "Convert to unordered list"
+msgstr "Seznam s odrážkami"
+
+#: build/editor/index.js:17
+msgid "Copy Error"
+msgstr "Chyba při kopírování"
+
+#: build/editor/index.js:17
+msgid "Create password"
+msgstr "Vytvořte heslo"
+
+#: build/block-library/index.js:14
+msgid "Delete Column"
+msgstr "Odstranit sloupec"
+
+#: build/block-library/index.js:14
+msgid "Delete Row"
+msgstr "Odstranit řádek"
+
+#: build/block-library/index.js:14
+msgid "Display post date"
+msgstr "Zobrazit datum publikování"
+
+#: build/components/index.js:19
+msgid "Drop files to upload"
+msgstr "Přesuňte zde soubory z počítače"
+
+#: build/block-editor/index.js:55
+msgid "Edit as HTML"
+msgstr "Upravit jako HTML"
+
+#: build/edit-post/index.js:12
+msgid "Editor plugins"
+msgstr "Pluginy editoru"
+
+#: build/edit-post/index.js:12
+msgid "Editor top bar"
+msgstr "Horní lišta editoru"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s"
+msgstr "Vložený obsah z %s"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "Externí obsah"
+
+#: build/block-library/index.js:14
+msgid "Fixed Background"
+msgstr "Statické pozadí"
+
+#: build/block-library/index.js:14
+msgid "Grid View"
+msgstr "Pravidelná mřížka"
+
+#: build/block-library/index.js:14
+msgid "Heading %d"
+msgstr "Nadpis %d"
+
+#: build/editor/index.js:17
+msgid "Headings"
+msgstr "Nadpisů"
+
+#: build/block-editor/index.js:55
+msgid "Indent list item"
+msgstr "Zvětšit odsazení"
+
+#: build/components/index.js:19
+msgid "Item added."
+msgstr "Položka byla přidána."
+
+#: build/block-library/index.js:14
+msgid "Latest Posts"
+msgstr "Nejnovější příspěvky"
+
+#: build/editor/index.js:17
+msgid "Learn more about manual excerpts"
+msgstr "Více informací o ručních stručných výpisech (anglicky)"
+
+#: build/block-library/index.js:14
+msgid "Level"
+msgstr "Úroveň nadpisu"
+
+#: build/block-library/index.js:14
+msgid "List View"
+msgstr "Přehledný seznam"
+
+#: build/components/index.js:19
+msgid "Newest to Oldest"
+msgstr "Od nejnovějších po nejstarší"
+
+#: build/block-editor/index.js:55
+msgid "No block selected."
+msgstr "Není vybrán žádný blok."
+
+#: build/block-library/index.js:14
+msgid "None"
+msgstr "Nic"
+
+#: build/components/index.js:19
+msgid "Oldest to Newest"
+msgstr "Od nejstarších po nejnovější"
+
+#: build/editor/index.js:17
+msgid "Only visible to site admins and editors."
+msgstr "Viditelné pouze administrátorům a šéfredaktorům."
+
+#: build/editor/index.js:17
+msgid "Order"
+msgstr "Řazení"
+
+#: build/components/index.js:19
+msgid "Order by"
+msgstr "Řazení"
+
+#: build/block-editor/index.js:55
+msgid "Outdent list item"
+msgstr "Zmenšit odsazení"
+
+#: build/editor/index.js:17
+msgid "Paragraphs"
+msgstr "Odstavců"
+
+#: build/block-library/index.js:14
+msgid "Preformatted"
+msgstr "Vlastní formátování"
+
+#: build/editor/index.js:17
+msgid "Private"
+msgstr "Soukromá"
+
+#: build/editor/index.js:17
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "Chráněno heslem, které si zvolíte. Tento příspěvek mohou zobrazit všichni, kteří mají heslo."
+
+#: build/editor/index.js:17
+msgid "Public"
+msgstr "Veřejná"
+
+#: build/editor/index.js:17
+msgid "Publish:"
+msgstr "Publikování:"
+
+#: build/editor/index.js:17
+msgid "Publishing…"
+msgstr "Publikování…"
+
+#: build/block-library/index.js:14
+msgid "Pullquote"
+msgstr "Stručný výpis"
+
+#: build/block-library/index.js:14
+msgid "Read more"
+msgstr "Pokračovat ve čtení"
+
+#: build/editor/index.js:17
+msgid "Scheduling failed"
+msgstr "Naplánování se nezdařilo"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "Vyberte nebo nahrajte mediální soubor"
+
+#: build/block-library/index.js:14
+msgid "Separator"
+msgstr "Vodorovná čára"
+
+#: build/block-library/index.js:14
+msgid "Shortcode"
+msgstr "Zkrácený zápis"
+
+#: build/block-library/index.js:14
+msgid "Show Hierarchy"
+msgstr "Zobrazit strukturu"
+
+#: build/editor/index.js:17
+msgid "Standard"
+msgstr "Základní"
+
+#: build/edit-post/index.js:12
+msgid "Status & Visibility"
+msgstr "Publikování"
+
+#: build/format-library/index.js:12
+msgid "Strikethrough"
+msgstr "Přeškrtnuté"
+
+#: build/editor/index.js:17
+msgid "Suggestion:"
+msgstr "Doporučení:"
+
+#: build/editor/index.js:17
+msgid "Switch to Draft"
+msgstr "Přepnout na koncept"
+
+#: build/editor/index.js:17
+msgid "Template:"
+msgstr "Šablona:"
+
+#: build/editor/index.js:17
+msgid "Term"
+msgstr "Položka"
+
+#: build/block-editor/index.js:55
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "U tohoto bloku došlo k chybě a nelze zobrazit náhled."
+
+#: build/edit-post/index.js:12
+msgid "Transform into:"
+msgstr "Změnit na:"
+
+#: build/editor/index.js:17
+msgid "Trashing failed"
+msgstr "Odstranění se nezdařilo"
+
+#: build/editor/index.js:17
+msgid "Updating…"
+msgstr "Aktualizace…"
+
+#: build/editor/index.js:17
+msgid "Use a secure password"
+msgstr "Použijte silné heslo"
+
+#: build/block-library/index.js:14
+msgid "Verse"
+msgstr "Poezie"
+
+#: build/editor/index.js:17
+msgid "What’s next?"
+msgstr "Další možnosti"
+
+#: build/editor/index.js:17
+msgid "Words"
+msgstr "Slov"
+
+#: build/editor/index.js:17
+msgid "Would you like to privately publish this post now?"
+msgstr "Chcete tento příspěvek publikovat jako soukromý?"
+
+#: build/editor/index.js:17
+msgid "Write an excerpt (optional)"
+msgstr "Napište stručný výpis (nepovinné)"
+
+#: build/block-library/index.js:14
+msgid "Write caption…"
+msgstr "Zadejte titulek…"
+
+#: build/block-library/index.js:14
+msgid "Write citation…"
+msgstr "Napište citaci…"
+
+#: build/block-library/index.js:14
+msgid "Write code…"
+msgstr "Napište kód"
+
+#: build/block-library/index.js:14
+msgid "Write heading…"
+msgstr "Napište nadpis"
+
+#: build/block-library/index.js:14
+msgid "Write list…"
+msgstr "Napište seznam…"
+
+#: build/block-library/index.js:14
+msgid "Write preformatted text…"
+msgstr "Napište formátovaný text…"
+
+#: build/block-library/index.js:14
+msgid "Write quote…"
+msgstr "Napište citaci…"
+
+#: build/block-library/index.js:14
+msgid "Write subheading…"
+msgstr "Napište podnadpis"
+
+#: build/block-library/index.js:14
+msgid "Write…"
+msgstr "Začněte psát"
+
+#: build/editor/index.js:17
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "Neuložili jste provedené změny. Pokud budete pokračovat, změny budou ztraceny."
+
+#: build/block-library/index.js:14
+msgid "divider"
+msgstr "vodorovná čára"
+
+#: build/block-library/index.js:14
+msgid "embed"
+msgstr "embed"
+
+#: build/block-library/index.js:14
+msgid "horizontal-line"
+msgstr "vodorovná čára"
+
+#: build/editor/index.js:17
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Zobrazit náhled"
+
+#: build/editor/index.js:17
+msgid "no parent"
+msgstr "nemá nadřazenou položku"
+
+#: build/block-library/index.js:14
+msgid "ordered list"
+msgstr "číslovaný seznam"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s added"
+msgstr "Přidáno: %s"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s removed"
+msgstr "Odstraněno: %s"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Search for a block"
+msgstr "Hledejte blok"
+
+#: build/block-library/index.js:14
+msgid "Enter URL to embed here…"
+msgstr "Zadejte URL adresu pro vložení..."
+
+#: build/editor/index.js:17
+msgid "is now live."
+msgstr "- úspěšně publikováno."
+
+#: build/editor/index.js:17
+msgid "Parent Term"
+msgstr "Nadřazená položka"
+
+#: build/block-library/index.js:14
+msgid "photos"
+msgstr "fotky"
+
+#: build/editor/index.js:17
+msgid "The editor has encountered an unexpected error."
+msgstr "V editoru došlo k neočekávané chybě."
+
+#: build/block-library/index.js:14
+msgid "title"
+msgstr "název"
+
+#: build/block-library/index.js:14
+msgid "Write shortcode here…"
+msgstr "Zadejte název zkráceného zápisu"
+
+#: build/block-library/index.js:14
+msgid "Edit table"
+msgstr "Upravit tabulku"
+
+#: build/block-library/index.js:14
+msgid "Edit gallery"
+msgstr "Upravit galerii"
+
+#: build/editor/index.js:17
+msgid "Attempt Recovery"
+msgstr "Pokusit se o obnovení"
+
+#: build/components/index.js:19
+msgid "Color: %s"
+msgstr "Barva: %s"
+
+#: build/blocks/index.js:2
+msgid "Widgets"
+msgstr "Widgety"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "Formátování"
+
+#: build/block-editor/index.js:55
+msgid "Align right"
+msgstr "Zarovnat doprava"
+
+#: build/block-editor/index.js:55
+msgid "Align center"
+msgstr "Zarovnat na střed"
+
+#: build/block-editor/index.js:55
+msgid "Align left"
+msgstr "Zarovnat doleva"
+
+#: build/block-library/index.js:14 build/editor/index.js:17
+#: build/block-editor/index.js:55
+msgid "Audio"
+msgstr "Audio"
+
+#: build/block-editor/index.js:55
+msgid "Upload"
+msgstr "Nahrát"
+
+#: build/blocks/index.js:2
+msgid "Common Blocks"
+msgstr "Běžné bloky"
+
+#: build/block-editor/index.js:55
+msgid "Wide width"
+msgstr "Velká šířka"
+
+#: build/block-editor/index.js:55
+msgid "Additional CSS Class(es)"
+msgstr "Další třída CSS"
+
+#: build/block-editor/index.js:55
+msgid "Anchors lets you link directly to a section on a page."
+msgstr "Záložky umožňují přímé odkazování na oddíl na stránce."
+
+#: build/components/index.js:19
+msgid "Clear"
+msgstr "Vymazat"
+
+#: build/components/index.js:19
+msgid "Custom color picker"
+msgstr "Vlastní barva"
+
+#: build/block-editor/index.js:55
+msgid "Full width"
+msgstr "Celá šířka"
+
+#: build/block-editor/index.js:55
+msgid "HTML Anchor"
+msgstr "HTML záložka"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "Tato barevná kombinace může být špatně čitelná. Zkuste použít jasnější barvu pozadí a/nebo tmavší barvu textu."
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "Tato barevná kombinace může být obtížně čitelná. Zkuste použít tmavší barvu pozadí a/nebo světlejší barvu textu."
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Tisk od roku 1440. Jedná se o vývojový plugin pro nový editor bloků v jádře."
+
+#: gutenberg.php:93
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "Režim vývoje Gutenbergu vyžaduje vytvoření souborů. Spusťte <code>npm install</code> pro instalaci závislostí, <code>npm run build</code> pro vytvoření souborů nebo <code>npm run dev</code> pro vytvoření souborů a sledování změn. Další informace naleznete v souboru pro <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">přispívání</a>."
+
+#: build/editor/index.js:17
+msgid "Add title"
+msgstr "Zadejte název"
+
+#: build/edit-post/index.js:12
+msgid "Custom Fields"
+msgstr "Uživatelská pole"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Vybrat rubriku"
+
+#: build/block-library/index.js:14 build/editor/index.js:17
+msgid "Save"
+msgstr "Uložit"
+
+#: build/block-library/index.js:14
+msgid "Metadata"
+msgstr "Strukturované informace"
+
+#: build/edit-post/index.js:12 build/editor/index.js:17
+msgid "Publish"
+msgstr "Publikovat"
+
+#: gutenberg.php:64
+msgid "Documentation"
+msgstr "Manuál (anglicky)"
+
+#: build/edit-post/index.js:12
+msgid "Excerpt"
+msgstr "Stručný výpis příspěvku"
+
+#: build/editor/index.js:17
+msgid "Author"
+msgstr "Autor"
+
+#: build/block-library/blocks/rss.php:35
+#: build/block-library/blocks/latest-posts.php:37
+#: build/block-library/index.js:14
+msgid "(Untitled)"
+msgstr "(Bez názvu)"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Demo"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Tým Gutenberg"
+
+#: build/edit-post/index.js:12
+msgid "Discussion"
+msgstr "Nastavení komentářů"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:80
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Pro správnou funkčnost Gutenbergu potřebujete alespoň WordPress %s. Před aktivací Gutenbergu proveďte aktualizaci WordPressu."

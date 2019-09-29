@@ -1,0 +1,3675 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Albanian
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-23 09:51:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sq_AL\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-library/index.js:14
+msgid "Display a legacy widget."
+msgstr "Shfaqni një widget të dikurshëm."
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget (Experimental)"
+msgstr "Widget i Dikurshëm (Eksperimentale)"
+
+#: build/block-library/index.js:14
+msgid "Change widget"
+msgstr "Ndryshoni widget-in"
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget"
+msgstr "Widget i Dikurshëm"
+
+#: build/block-library/index.js:14
+msgid "You don't have permissions to use widgets on this site."
+msgstr "S’keni leje të përdorni widget-e në këtë sajt."
+
+#: build/block-library/index.js:14
+msgid "Select a legacy widget to display:"
+msgstr "Përzgjidhni për shfaqje një widget të dikurshëm:"
+
+#: build/block-library/index.js:14
+msgid "There are no widgets available."
+msgstr "S’ka widget-e të gatshëm."
+
+#: build/block-library/index.js:14
+msgid "Not a valid widget."
+msgstr "Widget jo i vlefshëm."
+
+#: build/block-editor/index.js:55
+msgid "Change block type or style"
+msgstr "Ndryshoni lloj ose stil blloku"
+
+#: build/block-editor/index.js:55
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "Hapësirë"
+
+#: build/block-editor/index.js:55
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "Backspace"
+
+#: build/block-editor/index.js:55
+msgid "More Rich Text Controls"
+msgstr "Më Tepër Kontrolle Për Tekst të Pasur"
+
+#: build/editor/index.js:17
+msgid "Exit the Editor"
+msgstr "Dil Nga Përpunues"
+
+#: build/edit-post/index.js:12
+msgid "Block Manager"
+msgstr "Përgjegjës Blloqesh"
+
+#: lib/class-wp-rest-widget-updater-controller.php:101
+msgid "Invalid widget."
+msgstr "Widget i pavlefshëm"
+
+#: lib/class-wp-rest-widget-updater-controller.php:42
+msgid "Class name of the widget."
+msgstr "Emër klase e widget-it."
+
+#: lib/class-wp-rest-widget-updater-controller.php:69
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "Na ndjeni, s’keni leje të hyni te widget-e në këtë sajt."
+
+#: gutenberg.php:49 gutenberg.php:50
+msgid "Widgets (beta)"
+msgstr "Widget-e (beta)"
+
+#: build/block-library/index.js:14
+msgid "link"
+msgstr "lidhje"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s can't be previewed in the editor."
+msgstr "Lëndës së trupëzuar nga %s s’mund t’i bëhet paraparje te përpunuesi."
+
+#: build/components/index.js:19
+msgid "Custom Color"
+msgstr "Ngjyrë Vetjake"
+
+#: build/block-library/index.js:14
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "Kërkojuni vizitorëve të ndërmarrin një veprim, përmes një lidhje në stil butoni."
+
+#: build/block-library/blocks/tag-cloud.php:33
+msgid "No terms to show."
+msgstr "S’ka terma për shfaqje."
+
+#: build/block-library/blocks/rss.php:62
+msgid "by"
+msgstr "nga"
+
+#: build/block-library/blocks/rss.php:27
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Ndodhi një gabim, i cili, sipas gjasash, do të thotë që prurja s’po funksionon. Riprovoni më vonë."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "Gabim RSS-je:"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgctxt "block style"
+msgid "Default"
+msgstr "Parazgjedhje"
+
+#: build/editor/index.js:17
+msgid "Stick to the top of the blog"
+msgstr "Ngjite në krye të blogut"
+
+#: build/edit-post/index.js:12
+msgid "Read about permalinks"
+msgstr "Lexoni mbi permalidhje"
+
+#: build/edit-post/index.js:12
+msgid "The last part of the URL. "
+msgstr "Pjesa e fundit e URL-së. "
+
+#: build/edit-post/index.js:12
+msgid "URL Slug"
+msgstr "Identifikues URL-je"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode deactivated"
+msgstr "Mënyra Sa Tërë Ekrani u çaktivizua"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode activated"
+msgstr "Mënyra Sa Tërë Ekrani u aktivizua"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode deactivated"
+msgstr "Mënyra projektor u çaktivizua"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode activated"
+msgstr "Mënyra projektor u aktivizua"
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar deactivated"
+msgstr "Paneli i sipërm u çaktivizua"
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar activated"
+msgstr "Paneli i sipërm u aktivizua"
+
+#: build/edit-post/index.js:12
+msgid "You’ll find more settings for your page and blocks in the sidebar. Click the cog icon to toggle the sidebar open and closed."
+msgstr "Te anështylla do të gjeni më tepër rregullimet për faqen dhe blloqet tuaj. Klikoni mbi ikonën ingranazh që të hapni ose mbyllni anështyllën."
+
+#: build/edit-post/index.js:12
+msgid "Back"
+msgstr "Mbrapsht"
+
+#: build/edit-post/index.js:12
+msgid "Feature activated"
+msgstr "Veçoria u aktivizua"
+
+#: build/edit-post/index.js:12
+msgid "Feature deactivated"
+msgstr "Veçoria u çaktivizua"
+
+#: build/components/index.js:19
+msgid "Vertical Pos."
+msgstr "Poz. Vertikal"
+
+#: build/components/index.js:19
+msgid "Horizontal Pos."
+msgstr "Poz. Horizontal"
+
+#: build/block-library/index.js:14
+msgid "A cloud of your most used tags."
+msgstr "Një re e etiketave tuaja më të përdorura."
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud"
+msgstr "Re Etiketash"
+
+#: build/block-library/index.js:14
+msgid "Taxonomy"
+msgstr "Klasifikim"
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud Settings"
+msgstr "Rregullime Reje Etiketash"
+
+#: build/block-library/index.js:14
+msgid "- Select -"
+msgstr "- Përzgjidhni -"
+
+#: build/block-library/index.js:14
+msgid "Default"
+msgstr "Parazgjedhje"
+
+#: build/block-library/index.js:14
+msgid "find"
+msgstr "gjej"
+
+#: build/block-library/index.js:14
+msgid "Help visitors find your content."
+msgstr "Lejojuni vizitorëve të gjejnë lëndë tuajën."
+
+#: build/block-library/blocks/search.php:76
+#: build/block-library/blocks/search.php:84 build/block-library/index.js:14
+msgid "Search"
+msgstr "Kërko"
+
+#: build/block-library/index.js:14
+msgid "Add button text…"
+msgstr "Shtoni tekst butoni…"
+
+#: build/block-library/index.js:14
+msgid "Button text"
+msgstr "Tekst butoni"
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder…"
+msgstr "Vendmbajtëse opsionale…"
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder text"
+msgstr "Tekst opsional vendmbajtëseje"
+
+#: build/block-library/index.js:14
+msgid "Add label…"
+msgstr "Shtoni etiketë…"
+
+#: build/block-library/index.js:14
+msgid "Label text"
+msgstr "Tekst etikete"
+
+#: build/block-library/index.js:14
+msgid "feed"
+msgstr "prurje"
+
+#: build/block-library/index.js:14
+msgid "atom"
+msgstr "atom"
+
+#: build/block-library/index.js:14
+msgid "Display entries from any RSS or Atom feed."
+msgstr "Shfaqni zëra prej çfarëdo prurjeje RSS ose Atom."
+
+#: build/block-library/index.js:14
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/index.js:14
+msgid "Max number of words in excerpt"
+msgstr "Numër maksimum fjalësh në copëz"
+
+#: build/block-library/index.js:14
+msgid "Display excerpt"
+msgstr "Shfaq copëz"
+
+#: build/block-library/index.js:14
+msgid "Display date"
+msgstr "Shfaq datë"
+
+#: build/block-library/index.js:14
+msgid "Display author"
+msgstr "Shfaq autorin"
+
+#: build/block-library/index.js:14
+msgid "RSS Settings"
+msgstr "Rregullime RSS-je"
+
+#: build/block-library/index.js:14
+msgid "Edit RSS URL"
+msgstr "Përpunoni URL RSS-je"
+
+#: build/block-library/index.js:14
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "Lënda përpara këtij blloku do të shfaqet te copëza, te faqja juaj e arkivave."
+
+#: build/block-library/index.js:14
+msgid "Hide the excerpt on the full content page"
+msgstr "Fshihe copëzën në një faqe lënde të plotë"
+
+#: build/block-library/index.js:14
+msgid "The excerpt is visible."
+msgstr "Copëza është e dukshme.."
+
+#: build/block-library/index.js:14
+msgid "The excerpt is hidden."
+msgstr "Copëza është e fshehur."
+
+#: build/block-library/index.js:14
+msgid "image %1$d of %2$d in gallery"
+msgstr "figura %1$d nga %2$d në galeri"
+
+#: build/block-library/index.js:14
+msgid "Sorry, this content could not be embedded."
+msgstr "Na ndjeni, kjo lëndë s’u trupëzua dot."
+
+#: build/block-library/index.js:14
+msgid "Embed Amazon Kindle content."
+msgstr "Trupëzoni lëndë Amazon Kindle."
+
+#: build/block-library/index.js:14
+msgid "ebook"
+msgstr "ebook"
+
+#: build/block-library/index.js:14
+msgid "Embed Crowdsignal (formerly Polldaddy) content."
+msgstr "Trupëzoni lëndë Crowdsignal (dikur Polldaddy)."
+
+#: build/block-library/index.js:14
+msgid "archive"
+msgstr "arkiv"
+
+#: build/block-library/index.js:14
+msgid "posts"
+msgstr "postime"
+
+#: build/block-library/index.js:14
+msgid "A calendar of your site’s posts."
+msgstr "Një kalendar i postimeve në sajtin tuaj."
+
+#: build/block-library/index.js:14
+msgid "Calendar"
+msgstr "Kalendar"
+
+#: build/format-library/index.js:12
+msgid "Underline"
+msgstr "Nënvijë"
+
+#: build/editor/index.js:17
+msgid "https://codex.wordpress.org/Excerpt"
+msgstr "https://codex.wordpress.org/Excerpt"
+
+#: build/block-editor/index.js:55
+msgid "Attempt Block Recovery"
+msgstr "Provo Rimarrje Blloku"
+
+#: build/editor/index.js:17
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "words"
+
+#: build/block-library/index.js:14
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "Lëndë…"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "Shndërroje në lidhje"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Try again"
+msgstr "Riprovoni"
+
+#: build/nux/index.js:1
+msgid "Editor tips"
+msgstr "Ndihmëza redaktori"
+
+#: build/components/index.js:19
+msgid "Font size: %s"
+msgstr "Madhësi shkronjash: %s"
+
+#: build/edit-post/index.js:12
+msgid "Block (selected)"
+msgstr "Bllok (përzgjedhur)"
+
+#: build/edit-post/index.js:12
+msgid "Document (selected)"
+msgstr "Dokument (përzgjedhur)"
+
+#: build/block-editor/index.js:55
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d fjalë"
+msgstr[1] "%d fjalë"
+
+#: build/edit-post/index.js:12
+msgid "Top Toolbar"
+msgstr "Paneli Në Krye"
+
+#: build/block-library/index.js:14
+msgid "Link CSS Class"
+msgstr "Klasë CSS Lidhjeje"
+
+#: build/block-library/index.js:14
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Krijoni lëndë dhe ruajeni për veten dhe kontribues të tjerë për ta ripërdorur nëpër sajtin tuaj. Përditësojeni bllokun, dhe ndryshimet zbatohen kudo që ai është përdorur."
+
+#: build/editor/index.js:17
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "Që të përpunoni figurën e zgjedhur, ju duhen leje për të ngarkuar media."
+
+#: build/block-editor/index.js:55
+msgid "To edit this block, you need permission to upload media."
+msgstr "Që të përpunoni këtë bllok, ju duhen leje të ngarkoni media."
+
+#: build/block-editor/index.js:55
+msgid "(selected block)"
+msgstr "(blloku i përzgjedhur)"
+
+#: build/block-editor/index.js:55
+msgid "Block tools"
+msgstr "Mjete blloqesh"
+
+#: build/edit-post/index.js:12
+msgid "Permalink"
+msgstr "Permalidhje"
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute"
+msgstr "Kjo figurë ka një atribut alt të zbrazët"
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "Kjo figurë ka një atribut alt të zbrazët; emri i kartelës për të është %s"
+
+#: build/format-library/index.js:12
+msgid "Link inserted."
+msgstr "Lidhja u fut."
+
+#: build/format-library/index.js:12
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "Kujdes: lidhja është futur, por mund të ketë gabime. Ju lutemi, testojeni."
+
+#: build/block-editor/index.js:55
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "U përzgjodh %s bllok."
+msgstr[1] "U përzgjodhën %s blloqe."
+
+#: build/block-editor/index.js:55
+msgid "Thumbnail"
+msgstr "Miniaturë"
+
+#: build/block-editor/index.js:55
+msgid "Full Size"
+msgstr "Madhësi e Plotë"
+
+#: build/block-editor/index.js:55
+msgid "Link selected."
+msgstr "Lidhja u përzgjodh."
+
+#: build/editor/index.js:17
+msgid "Start writing with text or HTML"
+msgstr "Filloni të shkruani me tekst ose HTML"
+
+#: build/editor/index.js:17
+msgid "Type text or HTML"
+msgstr "Shtypni tekst ose HTML"
+
+#: build/block-editor/index.js:55
+msgid "Drag an image, upload a new one or select a file from your library."
+msgstr "Tërhiqni këtu një figurë, ngarkoni një të re ose përzgjidhni një kartelë që nga mediateka juaj."
+
+#: build/block-editor/index.js:55
+msgid "Drag an audio, upload a new one or select a file from your library."
+msgstr "Tërhiqni këtu një kartelë audio, ngarkoni një të re ose përzgjidhni një kartelë që nga mediateka juaj."
+
+#: build/block-editor/index.js:55
+msgid "Drag a media file, upload a new one or select a file from your library."
+msgstr "Tërhiqni këtu një kartelë media, ngarkoni një të re ose përzgjidhni një kartelë që nga mediateka juaj."
+
+#: build/block-editor/index.js:55
+msgid "Block icon"
+msgstr "Ikonë blloku"
+
+#: build/block-editor/index.js:55
+msgid "Align text right"
+msgstr "Vëre tekstin djathtas"
+
+#: build/block-editor/index.js:55
+msgid "Align text center"
+msgstr "Vëre tekstin në qendër"
+
+#: build/block-editor/index.js:55
+msgid "Align text left"
+msgstr "Vëre tekstin majtas"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Start writing or type / to choose a block"
+msgstr "Filloni të shkruani ose shtypni tastin / që të zgjidhni një bllok"
+
+#: build/block-library/index.js:14
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "Bllok i zbrazët; filloni të shkruani ose shtypni tastin pjerrake përpara që të zgjidhni një bllok"
+
+#: build/block-library/index.js:14
+msgid "Paragraph block"
+msgstr "Bllok paragraf"
+
+#: build/block-library/index.js:14
+msgid "Page Break"
+msgstr "Ndërprerje Faqeje"
+
+#: build/block-library/index.js:14
+msgid "Stack on mobile"
+msgstr "Njëra sipër tjetrës, në celular"
+
+#: build/block-library/index.js:14
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Tërhiqni këtu figura, ngarkoni të reja ose përzgjidhni kartela nga fototeka juaj."
+
+#: build/block-library/index.js:14
+msgid "Drag a file, upload a new one or select a file from your library."
+msgstr "Tërhiqni këtu një kartelë, ngarkoni një të re ose përzgjidhni një kartelë që nga mediateka juaj."
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "Shënim"
+
+#: build/block-editor/index.js:55
+msgctxt "blocks"
+msgid "Most Used"
+msgstr "Më Të Përdorurit"
+
+#: build/block-editor/index.js:55
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Zgjidheni"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Të stërmëdha"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Large"
+msgstr "Të mëdha"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Mesatare"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Small"
+msgstr "Të vogla"
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Normale"
+
+#: build/components/index.js:19
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Tasti Enter"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "Importo"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Download"
+msgstr "Shkarkim"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Embed"
+msgstr "Trupëzojeni"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Embed"
+msgstr "Trupëzim"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Classic"
+msgstr "Klasik"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Large"
+msgstr "I madh"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Squared"
+msgstr "Katror"
+
+#: build/format-library/index.js:12
+msgid "%s (opens in a new tab)"
+msgstr "%s (hapet në dritare të re)"
+
+#: build/format-library/index.js:12
+msgid "Link edited."
+msgstr "Lidhja u përpunua."
+
+#: build/format-library/index.js:12
+msgid "Link removed."
+msgstr "Lidhja u hoq."
+
+#: build/format-library/index.js:12
+msgid "media"
+msgstr "media"
+
+#: build/editor/index.js:17
+msgid "Double-check your settings before publishing."
+msgstr "Përpara se të botoni, kontrolloni edhe një herë rregullimet tuaja."
+
+#: build/editor/index.js:17
+msgid "Generating preview…"
+msgstr "Po prodhohet paraparja…"
+
+#: build/editor/index.js:17
+msgid "Edit or update the image"
+msgstr "Përpunoni ose përditësoni figurën"
+
+#: build/block-editor/index.js:55
+msgid "Media"
+msgstr "Media"
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the nearest toolbar."
+msgstr "Kalo te paneli më i afërt."
+
+#: build/edit-post/index.js:12
+msgid "Hide more tools & options"
+msgstr "Fshih më tepër mjete & mundësi"
+
+#: build/edit-post/index.js:12
+msgid "Show more tools & options"
+msgstr "Shfaq më tepër mjete & mundësi"
+
+#: build/edit-post/index.js:12
+msgid "Document tools"
+msgstr "Mjete dokumentesh"
+
+#: build/edit-post/index.js:12
+msgid "Document and block tools"
+msgstr "Mjete dokumentesh dhe blloqesh"
+
+#: build/block-library/index.js:14
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Trupëzoni një video nga mediateka juaj ose ngarkoni një të re."
+
+#: build/block-library/index.js:14
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Futni poezi. Përdorni formate speciale për hapësirat. Ose citoni vargje kënge."
+
+#: build/block-library/index.js:14
+msgid "Add white space between blocks and customize its height."
+msgstr "Shtoni hapësirë të zbrazët mes blloqesh dhe përshtatni lartësinë e tyre."
+
+#: build/block-library/index.js:14
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Futni elementë vetjakë shtesë, përmes një kodi të shkurtër WordPress."
+
+#: build/block-library/index.js:14
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Krijoni një ndërprerje mes idesh apo seksionesh, me një ndarës horizontal."
+
+#: build/block-library/index.js:14
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Jepini tekstit të cituar një theksim pamor. \"Duke cituar të tjerët, ne citojmë vetveten.\" — Hulio Kortazar"
+
+#: build/block-library/index.js:14
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "Jepini theksim të veçantë pamor një citimi prej tekstit tuaj."
+
+#: build/block-library/index.js:14
+msgid "Start with the building block of all narrative."
+msgstr "Fillojani me bllokun themelor të krejt rrëfimit."
+
+#: build/block-library/index.js:14
+msgid "Separate your content into a multi-page experience."
+msgstr "Ndajeni lëndën tuaj në një formë shumë faqesh."
+
+#: build/block-library/index.js:14
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "Vini krah për krah media dhe fjalë, për një skemë më të larmishme."
+
+#: build/block-library/index.js:14
+msgid "Media & Text Settings"
+msgstr "Rregullime për Media & Tekst"
+
+#: build/block-library/index.js:14
+msgid "Create a bulleted or numbered list."
+msgstr "Krijoni një listë me toptha ose të numërtuar."
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent comments."
+msgstr "Shfaqni një listë të komenteve tuaja më të reja."
+
+#: build/block-library/index.js:14
+msgid "Insert an image to make a visual statement."
+msgstr "Futni një figurë për të lënë përshtypje."
+
+#: build/block-library/index.js:14
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Shtoni kod HTML vetjak dhe shihni një paraparje të tij, në përpunim e sipër."
+
+#: build/block-library/index.js:14
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Përdorni ndarje të reja dhe sistemojeni lëndën tuaj për t’i ndihmuar vizitorët (dhe motorët e kërkimit) të kuptojnë strukturë e saj."
+
+#: build/block-library/index.js:14
+msgid "Display multiple images in a rich gallery."
+msgstr "Shfaqni figura të shumta në një galeri të larmishme."
+
+#: build/block-library/index.js:14
+msgid "Add a link to a downloadable file."
+msgstr "Shtoni një lidhje te një kartelë e shkarkueshme."
+
+#: build/block-library/index.js:14
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "Trupëzoni video, figura, mesazhe nga Twitter, audio, dhe lëndë tjetër nga burime të jashtme."
+
+#: build/block-library/index.js:14
+msgid "Resize for smaller devices"
+msgstr "Ripërmasoje për pajisje më të vogla"
+
+#: build/block-library/index.js:14
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "Ky trupëzim mund të mos ruajë përpjesëtimet e veta, kur shfletuesi ripërmasohet."
+
+#: build/block-library/index.js:14
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "Ky trupëzim do të ruajë përpjesëtimet e veta, kur shfletuesi ripërmasohet."
+
+#: build/block-library/index.js:14
+msgid "Embed an Animoto video."
+msgstr "Trupëzoni video Animoto."
+
+#: build/block-library/index.js:14
+msgid "Embed a Vimeo video."
+msgstr "Trupëzoni video Vimeo."
+
+#: build/block-library/index.js:14
+msgid "Embed Flickr content."
+msgstr "Trupëzoni lëndë Flickr."
+
+#: build/block-library/index.js:14
+msgid "Embed Spotify content."
+msgstr "Trupëzoni lëndë Spotify."
+
+#: build/block-library/index.js:14
+msgid "Embed SoundCloud content."
+msgstr "Trupëzoni lëndë SoundCloud."
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress post."
+msgstr "Trupëzoni një postim WordPress."
+
+#: build/block-library/index.js:14
+msgid "Embed an Instagram post."
+msgstr "Trupëzoni postim Instagram."
+
+#: build/block-library/index.js:14
+msgid "Embed a Facebook post."
+msgstr "Trupëzoni postim Facebook."
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress.tv video."
+msgstr "Trupëzoni një video WordPress.tv."
+
+#: build/block-library/index.js:14
+msgid "Embed a VideoPress video."
+msgstr "Trupëzoni një video VideoPress."
+
+#: build/block-library/index.js:14
+msgid "Embed a Tumblr post."
+msgstr "Trupëzoni një postim Tumblr."
+
+#: build/block-library/index.js:14
+msgid "Embed a TED video."
+msgstr "Trupëzoni një video TED."
+
+#: build/block-library/index.js:14
+msgid "Embed Speaker Deck content."
+msgstr "Trupëzoni lëndë Speaker Deck."
+
+#: build/block-library/index.js:14
+msgid "Embed a YouTube video."
+msgstr "Trupëzoni video YouTube."
+
+#: build/block-library/index.js:14
+msgid "Embed SmugMug content."
+msgstr "Trupëzoni lëndë SmugMug."
+
+#: build/block-library/index.js:14
+msgid "Embed Slideshare content."
+msgstr "Trupëzoni lëndë Slideshare."
+
+#: build/block-library/index.js:14
+msgid "Embed Scribd content."
+msgstr "Trupëzoni lëndë Scribd."
+
+#: build/block-library/index.js:14
+msgid "Embed Screencast content."
+msgstr "Trupëzoni lëndë Screencast."
+
+#: build/block-library/index.js:14
+msgid "Embed ReverbNation content."
+msgstr "Trupëzoni lëndë ReverbNation."
+
+#: build/block-library/index.js:14
+msgid "Embed a Reddit thread."
+msgstr "Trupëzoni rrjedhë Reddit."
+
+#: build/block-library/index.js:14
+msgid "Embed Polldaddy content."
+msgstr "Trupëzoni lëndë Polldaddy."
+
+#: build/block-library/index.js:14
+msgid "Embed Mixcloud content."
+msgstr "Trupëzoni lëndë Mixcloud."
+
+#: build/block-library/index.js:14
+msgid "Embed a tweet."
+msgstr "Trupëzoni një cicërimë Twitter."
+
+#: build/block-library/index.js:14
+msgid "Embed Meetup.com content."
+msgstr "Trupëzoni lëndë Meetup.com."
+
+#: build/block-library/index.js:14
+msgid "Embed Kickstarter content."
+msgstr "Trupëzoni lëndë Kickstarter."
+
+#: build/block-library/index.js:14
+msgid "Embed Issuu content."
+msgstr "Trupëzoni lëndë Issuu."
+
+#: build/block-library/index.js:14
+msgid "Embed Imgur content."
+msgstr "Trupëzoni lëndë Imgur."
+
+#: build/block-library/index.js:14
+msgid "Embed Hulu content."
+msgstr "Trupëzoni lëndë Hulu."
+
+#: build/block-library/index.js:14
+msgid "Embed a Dailymotion video."
+msgstr "Trupëzoni një video Dailymotion."
+
+#: build/block-library/index.js:14
+msgid "Embed CollegeHumor content."
+msgstr "Trupëzoni lëndë CollegeHumor."
+
+#: build/block-library/index.js:14
+msgid "Embed Cloudup content."
+msgstr "Trupëzoni lëndë Cloudup."
+
+#: build/block-library/index.js:14
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Shtoni një figurë ose video me njëfarë teksti përsipër - e shkëlqyer për krye."
+
+#: build/block-library/index.js:14
+msgid "Drag an image or a video, upload a new one or select a file from your library."
+msgstr "Tërhiqni këtu figurë ose video, ngarkoni një të re ose përzgjidhni një kartelë që nga mediateka juaj."
+
+#: build/block-library/index.js:14
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Shfaqni copëza kodi që respektojnë hapësirat dhe tabulacionet tuaja."
+
+#: build/block-library/index.js:14
+msgid "Use the classic WordPress editor."
+msgstr "Përdorni përpunuesin klasik WordPress."
+
+#: build/block-library/index.js:14
+msgid "Display a list of all categories."
+msgstr "Shfaq një listë të krejt kategorive."
+
+#: build/block-library/index.js:14
+msgid "Embed a simple audio player."
+msgstr "Trupëzoni një lojtës të thjeshtë audio."
+
+#: build/edit-post/index.js:12
+msgctxt "noun"
+msgid "View"
+msgstr "Pamje"
+
+#: build/components/index.js:19
+msgctxt "font size name"
+msgid "Custom"
+msgstr "Vetjake"
+
+#: build/block-library/index.js:14
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "Nga e majta në të djathtë"
+
+#: build/editor/index.js:17
+msgid "Save as Pending"
+msgstr "Ruaje si Në Pritje të Miratimit"
+
+#: build/editor/index.js:17
+msgid "%s address"
+msgstr "Adresë %s"
+
+#: build/block-editor/index.js:55
+msgid "Paste or type URL"
+msgstr "Hidhni ose shtypni URL-në"
+
+#: build/block-editor/index.js:55
+msgid "Insert from URL"
+msgstr "Futni prej URL-je"
+
+#: build/block-editor/index.js:55
+msgid "Block Navigation"
+msgstr "Lëvizje Në Blloqe"
+
+#: build/block-editor/index.js:55
+msgid "Styles"
+msgstr "Stile"
+
+#: build/edit-post/index.js:12
+msgid "Click to change"
+msgstr "Klikoni që të ndryshohet"
+
+#: build/edit-post/index.js:12
+msgid "Advanced Panels"
+msgstr "Panele të Mëtejshëm"
+
+#: build/edit-post/index.js:12
+msgid "Document Panels"
+msgstr "Panele Dokumentesh"
+
+#: build/edit-post/index.js:12
+msgid "Enable Tips"
+msgstr "Aktivizo Ndihmëza"
+
+#: build/edit-post/index.js:12
+msgid "General"
+msgstr "Të përgjithshme"
+
+#: build/edit-post/index.js:12
+msgid "Open the block navigation menu."
+msgstr "Hap menunë e lëvizjes nëpër blloqe."
+
+#: build/edit-post/index.js:12
+msgid "Work without distraction"
+msgstr "Punoni pa shpërqendrim"
+
+#: build/edit-post/index.js:12
+msgid "Focus on one block at a time"
+msgstr "Përqendrohuni mbi një bllok në herë"
+
+#: build/edit-post/index.js:12
+msgid "Access all block and document tools in a single place"
+msgstr "Përdorni krejt blloqet dhe mjetet e dokumenteve nga një vend i vetëm"
+
+#: build/edit-post/index.js:12
+msgid "Options"
+msgstr "Mundësi"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "(opens in a new tab)"
+msgstr "(hapet në dritare të re)"
+
+#: build/components/index.js:19
+msgid "Minutes"
+msgstr "Minuta"
+
+#: build/components/index.js:19
+msgid "Hours"
+msgstr "Orë"
+
+#: build/components/index.js:19
+msgid "Time"
+msgstr "Kohë"
+
+#: build/components/index.js:19
+msgid "Year"
+msgstr "Vit"
+
+#: build/components/index.js:19
+msgid "Day"
+msgstr "Ditë"
+
+#: build/components/index.js:19
+msgid "December"
+msgstr "Dhjetor"
+
+#: build/components/index.js:19
+msgid "November"
+msgstr "Nëntor"
+
+#: build/components/index.js:19
+msgid "October"
+msgstr "Tetor"
+
+#: build/components/index.js:19
+msgid "September"
+msgstr "Shtator"
+
+#: build/components/index.js:19
+msgid "August"
+msgstr "Gusht"
+
+#: build/components/index.js:19
+msgid "July"
+msgstr "Korrik"
+
+#: build/components/index.js:19
+msgid "June"
+msgstr "Qershor"
+
+#: build/components/index.js:19
+msgid "May"
+msgstr "Maj"
+
+#: build/components/index.js:19
+msgid "April"
+msgstr "Prill"
+
+#: build/components/index.js:19
+msgid "March"
+msgstr "Mars"
+
+#: build/components/index.js:19
+msgid "February"
+msgstr "Shkurt"
+
+#: build/components/index.js:19
+msgid "January"
+msgstr "Janar"
+
+#: build/components/index.js:19
+msgid "Month"
+msgstr "Muaj"
+
+#: build/components/index.js:19
+msgid "Date"
+msgstr "Datë"
+
+#: build/components/index.js:19
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Kaloni te dita e parë (tasti Home) ose e fundit (tasti End) e javës."
+
+#: build/components/index.js:19
+msgid "Home/End"
+msgstr "Tastet Home/End"
+
+#: build/components/index.js:19
+msgid "Home and End"
+msgstr "Tastet Home dhe End"
+
+#: build/components/index.js:19
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Lëvizni mbrapa (tasti PgUp) ose përpara (tasti PgDn) me një muaj."
+
+#: build/components/index.js:19
+msgid "PgUp/PgDn"
+msgstr "Tastet PgUp/PgDn"
+
+#: build/components/index.js:19
+msgid "Page Up and Page Down"
+msgstr "Tastet Page Up dhe Page Down"
+
+#: build/components/index.js:19
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Lëvizni mbrapa (tasti Up) ose përpara (tasti Down) me një javë."
+
+#: build/components/index.js:19
+msgid "Up and Down Arrows"
+msgstr "Tastet shigjetë Sipër dhe Poshtë"
+
+#: build/components/index.js:19
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Lëvizni mbrapa (tasti shigjetë majtas) dhe përpara (tasti shigjetë djathtas) me një ditë."
+
+#: build/components/index.js:19
+msgid "Left and Right Arrows"
+msgstr "Tastet shigjetë Majtas dhe Djathtas"
+
+#: build/components/index.js:19
+msgid "Select the date in focus."
+msgstr "Përzgjidh datën që ka fokusin."
+
+#: build/components/index.js:19
+msgid "Navigating with a keyboard"
+msgstr "Lëvizje me tastierë"
+
+#: build/components/index.js:19
+msgid "Click the desired day to select it."
+msgstr "Klikoni ditën e dëshiruar që të përzgjidhet."
+
+#: build/components/index.js:19
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "Klikoni mbi shigjetat djathtas dhe majtas për të përzgjedhur muaj të tjerë në të kaluarën apo të ardhmen."
+
+#: build/components/index.js:19
+msgid "Click to Select"
+msgstr "Klikoni që të Përzgjidhet"
+
+#: build/components/index.js:19
+msgid "Calendar Help"
+msgstr "Ndihmë për Kalendarin"
+
+#: build/components/index.js:19
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to decrease saturation, and right to increase saturation."
+msgstr "Përdorni tastet shigjetë që të ndryshoni ngjyrën bazë. Shigjetën sipër për ta çelur ngjyrën, atë poshtë për ta bërë më të errët, atë majtas për t’i shtuar ngopjen, dhe atë djathtas për t’ia zvogëluar."
+
+#: build/components/index.js:19
+msgid "Choose a shade"
+msgstr "Zgjidhni një hije"
+
+#: build/components/index.js:19
+msgid "Change color format"
+msgstr "Ndryshoni format ngjyrash"
+
+#: build/components/index.js:19
+msgid "Color value in HSL"
+msgstr "Vlerë ngjyre në HSL"
+
+#: build/components/index.js:19
+msgid "Color value in RGB"
+msgstr "Vlerë ngjyre në RGB"
+
+#: build/components/index.js:19
+msgid "Color value in hexadecimal"
+msgstr "Vlerë ngjyre në gjashtëmbëdhjetësh"
+
+#: build/components/index.js:19
+msgid "RGB mode active"
+msgstr "Mënyra RGB aktive"
+
+#: build/components/index.js:19
+msgid "Hex color mode active"
+msgstr "Mënyra ngjyra gjashtëmbëdhjetëshe aktive"
+
+#: build/components/index.js:19
+msgid "Hue/saturation/lightness mode active"
+msgstr "Mënyra ton/ngopje/ndriçim aktive"
+
+#: build/components/index.js:19
+msgid "Move the arrow left or right to change hue."
+msgstr "Lëvizeni shigjetën majtas ose djathtas që të ndryshoni tonin e ngjyrës."
+
+#: build/components/index.js:19
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "Vlera hue-je në gradë, nga 0 në 359."
+
+#: build/components/index.js:19
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Vlera alfa, nga 0 (e tejdukshme) në 1 (plotësisht e marrtë)."
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for this block."
+msgstr "Sajti juaj nuk përmban mbulim për këtë bllok."
+
+#: build/block-library/index.js:14
+msgid "Unrecognized Block"
+msgstr "Bllok i Papranuar"
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "Sajti juaj nuk përmban mbulim për bllokun \"%s\". Këtë bllok mund ta lini të paprekur ose ta hiqni fare."
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "Sajti juaj nuk përmban mbulim për bllokun \"%s\". Këtë bllok mund ta lini të paprekur, ta shndërroni në një bllok HTML-je Vetjake, ose ta hiqni fare."
+
+#: build/block-library/index.js:14
+msgid "Media area"
+msgstr "Zonë mediash"
+
+#: build/block-library/index.js:14
+msgid "Media & Text"
+msgstr "Media & Tekst"
+
+#: build/block-library/index.js:14
+msgid "Show media on right"
+msgstr "Median shfaqe djathtas"
+
+#: build/block-library/index.js:14
+msgid "Show media on left"
+msgstr "Median shfaqe majtas"
+
+#: build/format-library/index.js:12 build/block-library/index.js:14
+msgid "Open in New Tab"
+msgstr "Hape në Skedë të Re"
+
+#: build/block-library/index.js:14
+msgid "Cover"
+msgstr "Mbulesë"
+
+#: build/block-library/index.js:14
+msgid "Cover Settings"
+msgstr "Rregullime Mbulese"
+
+#: build/block-library/index.js:14
+msgid "Edit media"
+msgstr "Përpunoni media"
+
+#: build/block-editor/index.js:55
+msgid "Medium"
+msgstr "Medium"
+
+#: build/block-editor/index.js:55
+msgid "Paste URL or type to search"
+msgstr "Hidhni URL-në ose shtypni që të kërkohet"
+
+#: build/editor/index.js:17
+msgid "Terms"
+msgstr "Terma"
+
+#: build/editor/index.js:17
+msgid "Your work will be published at the specified date and time."
+msgstr "Postimi juaj do të botohet në datën dhe kohën e përcaktuar."
+
+#: build/editor/index.js:17
+msgid "Are you ready to schedule?"
+msgstr "Jeni gati të planifikoni?"
+
+#: build/editor/index.js:17
+msgid "Always show pre-publish checks."
+msgstr "Shfaq përherë kontrolle para-publikimi."
+
+#: build/editor/index.js:17
+msgid "Take Over"
+msgstr "Merreni Në Dorë"
+
+#: build/editor/index.js:17
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "Mbi këtë postim është duke punuar hëpërhë një tjetër përdorues, që do të thotë se nuk mund të bëni ndryshime, veç në e marrshi ju në dorë punën."
+
+#: build/editor/index.js:17
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "Mbi këtë postim është duke punuar hëpërhë %s, që do të thotë se nuk mund të bëni ndryshime, veç në e marrshi ju në dorë punën."
+
+#: build/editor/index.js:17
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "Mbi këtë postim tani ka kontroll përpunimi një tjetër përdorues. Mos u bëni merak, ndryshimet tuaja deri në këtë çast janë ruajtur."
+
+#: build/editor/index.js:17
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "Mbi këtë postim tani ka kontroll përpunimi %s. Mos u bëni merak, ndryshimet tuaja deri në këtë çast janë ruajtur."
+
+#: build/editor/index.js:17
+msgid "Avatar"
+msgstr "Avatar"
+
+#: build/editor/index.js:17
+msgid "This post is already being edited."
+msgstr "Ky postim gjendet tashmë nën përpunim."
+
+#: build/editor/index.js:17
+msgid "Someone else has taken over this post."
+msgstr "Dikush tjetër e ka marrë në dorë këtë postim"
+
+#: build/block-editor/index.js:55
+msgid "This block contains unexpected or invalid content."
+msgstr "Ky bllok përmban lëndë të papritur ose të pavlefshme."
+
+#: build/block-editor/index.js:55
+msgid "Resolve Block"
+msgstr "Zgjidheni Bllokun"
+
+#: build/block-editor/index.js:55
+msgid "Convert to HTML"
+msgstr "Shndërroje në HTML"
+
+#: build/edit-post/index.js:12
+msgid "Enable Pre-publish Checks"
+msgstr "Aktivizo Kontrolle Para-publikimi"
+
+#: build/edit-post/index.js:12
+msgid "This block can only be used once."
+msgstr "Ky bllok mund të përdoret vetëm një herë."
+
+#: build/edit-post/index.js:12
+msgid "Exit Code Editor"
+msgstr "Dil Nga Përpunues Kodi"
+
+#: build/edit-post/index.js:12
+msgid "Editing Code"
+msgstr "Përpunim Kodi"
+
+#: build/components/index.js:19
+msgid "Custom font size"
+msgstr "Madhësi vetjake shkronjash"
+
+#: build/block-library/index.js:14
+msgid "Solid Color"
+msgstr "Ngjyrë e Plotë"
+
+#: build/block-library/index.js:14
+msgid "Main Color"
+msgstr "Ngjyrë Bazë"
+
+#: build/block-library/index.js:14
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:14
+msgid "Write HTML…"
+msgstr "Shkruani HTML…"
+
+#: build/block-library/index.js:14
+msgid "Media Settings"
+msgstr "Rregullime Për Media"
+
+#: build/block-library/index.js:14
+msgid "Overlay Color"
+msgstr "Ngjyrë Shtrese Përsipër"
+
+#: build/block-library/index.js:14
+msgid "Overlay"
+msgstr "Shtresë Përsipër"
+
+#: build/block-library/index.js:14
+msgid "Insert Media"
+msgstr "Futni Media"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "U importua me sukses bllok i ripërdorshëm!"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "Kartelë e Pavlefshme JSON Blloku të Ripërdorshëm"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "Kartelë JSON e pavlefshme"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "Importo nga JSON"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "Apostrof së prapthi"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "Pikë"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "Presje"
+
+#: build/block-editor/index.js:55
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "Ndryshoni llojin e %d blloku"
+msgstr[1] "Ndryshoni llojin e %d blloqeve"
+
+#: build/block-editor/index.js:55
+msgid "Current"
+msgstr "I tanishmi"
+
+#: build/block-editor/index.js:55
+msgid "After Conversion"
+msgstr "Pas Shndërrimi"
+
+#: build/block-editor/index.js:55
+msgid "Change Alignment"
+msgstr "Ndryshoji Drejtimin"
+
+#: build/block-editor/index.js:55
+msgid "Change Text Alignment"
+msgstr "Ndryshoni Drejtim Teksti"
+
+#: build/block-library/index.js:14
+msgid "Template block used as a container."
+msgstr "Bllok gjedhesh i përdorur si kontejner."
+
+#: build/block-library/index.js:14
+msgid "Reusable Template"
+msgstr "Gjedhe e Ripërdorshme"
+
+#: build/block-editor/index.js:55
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d bllok"
+msgstr[1] "%d blloqe"
+
+#: build/edit-post/index.js:12
+msgid "Escape"
+msgstr "Tasti Esc"
+
+#: build/edit-post/index.js:12
+msgid "Forward-slash"
+msgstr "Pjerrake përpara"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "S’ka arkiva për shfaqje."
+
+#: build/editor/index.js:17
+msgid "This file is empty."
+msgstr "Kjo kartelë është e zbrazët."
+
+#: build/editor/index.js:17
+msgid "Sorry, this file type is not supported here."
+msgstr "Na ndjeni, ky lloj kartele këtu nuk mbulohet."
+
+#: build/block-editor/index.js:55 build/edit-post/index.js:12
+msgid "Manage All Reusable Blocks"
+msgstr "Administroni Krejt Blloqet e Ripërdorshëm"
+
+#: build/editor/index.js:17
+msgid "Title"
+msgstr "Titull"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen Mode"
+msgstr "Mënyra Sa Krejt Ekrani"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Panoramë e bukur"
+
+#: build/editor/index.js:17
+msgid "Close panel"
+msgstr "Mbylle panelin"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Classic Block"
+msgstr "Shndërroje në Bllok Klasik"
+
+#: build/block-library/index.js:14
+msgid "Remove Poster Image"
+msgstr "Hiqe Figurën e Afishes"
+
+#: build/block-library/index.js:14
+msgid "Select Poster Image"
+msgstr "Përzgjidhni Figurë Afishe"
+
+#: build/block-library/index.js:14
+msgid "Poster Image"
+msgstr "Figurë Afishe"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Ky bllok është nxjerrë nga përdorimi. Në vend të tij, ju lutemi, përdorni bllokun Shtylla."
+
+#: build/block-library/index.js:14
+msgid "Text Columns (deprecated)"
+msgstr "Shtylla Teksti (nxjerrë nga përdorimi)"
+
+#: build/block-library/index.js:14
+msgid "Create"
+msgstr "Krijoje"
+
+#: build/block-library/index.js:14
+msgid "Row Count"
+msgstr "Numër Rreshti"
+
+#: build/block-library/index.js:14
+msgid "Column Count"
+msgstr "Numër Shtylle"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "Ky bllok është nxjerrë nga përdorimi. Në vend të tij, ju lutemi, përdorni bllokun Paaragraf."
+
+#: build/block-library/index.js:14
+msgid "Subheading (deprecated)"
+msgstr "Nënkrye (nxjerrë nga përdorimi)"
+
+#: build/block-library/index.js:14
+msgid "blockquote"
+msgstr "bllok citimi"
+
+#: build/edit-post/index.js:12
+msgid "Change the block type after adding a new paragraph."
+msgstr "Ndryshoni llojin e bllokut pasi të keni shtuar një paragraf të ri."
+
+#: build/edit-post/index.js:12
+msgid "Spotlight Mode"
+msgstr "Mënyra Projektor"
+
+#: build/editor/index.js:17
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "Etiketat i ndihmojnë përdoruesit dhe motorët e kërkimeve të lëvizin nëpër sajtin tuaj dhe të gjejnë lëndën tuaj. Shtoni ndoca fjalëkyçe për të përshkruar postimin tuaj."
+
+#: build/editor/index.js:17
+msgid "Add tags"
+msgstr "Shtoni etiketa"
+
+#: build/editor/index.js:17
+msgid "Apply the \"%1$s\" format."
+msgstr "Apliko formatin \"%1$s\"."
+
+#: build/editor/index.js:17
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "Tema juaj përdor formate postimesh për të theksuar lloje të ndryshme lënde, bie fjala figura ose video. Që të shihni këtë stilizim të veçantë, aplikoni një format postimi."
+
+#: build/editor/index.js:17
+msgid "Use a post format"
+msgstr "Përdorim një format postimesh"
+
+#: build/block-editor/index.js:55
+msgid "Insert After"
+msgstr "Fute Pas"
+
+#: build/block-editor/index.js:55
+msgid "Insert Before"
+msgstr "Fute Para"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "Kalo %1$d bllok nga pozicioni %2$d një vend më poshtë"
+msgstr[1] "Kaloje %1$d blloqet nga pozicioni %2$d një vend më poshtë"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "Kalo %1$d bllok nga pozicioni %2$d një vend më sipër"
+msgstr[1] "Kalo %1$d blloqe nga pozicioni %2$d një vend më sipër"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "Kaloje bllokun %1$d nga pozicioni %2$d sipër në pozicionin %3$d"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "Kaloje bllokun %1$d nga pozicioni %2$d poshtë në pozicionin %3$d"
+
+#: build/block-library/index.js:14
+msgid "movie"
+msgstr "film"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block before the selected block(s)."
+msgstr "Futni një bllok të ri para bllokut(qeve) të përzgjedhur."
+
+#: build/edit-post/index.js:12
+msgid "Remove the selected block(s)."
+msgstr "Hiqe bllokun(qet) e përzgjedhur(a)."
+
+#: build/edit-post/index.js:12
+msgid "Duplicate the selected block(s)."
+msgstr "Përsëdytni bllokun(qet) e përzgjedhur."
+
+#: build/edit-post/index.js:12
+msgid "Block shortcuts"
+msgstr "Shkurtore blloku"
+
+#: build/edit-post/index.js:12
+msgid "Clear selection."
+msgstr "Pastroje përzgjedhjen."
+
+#: build/edit-post/index.js:12
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "Përzgjidhni krejt tekstin kur shtypet. Rishtypeni që të përzgjidhen krejt blloqet. "
+
+#: build/edit-post/index.js:12
+msgid "Selection shortcuts"
+msgstr "Shkurtore përzgjedhjesh"
+
+#: build/edit-post/index.js:12
+msgid "Switch between Visual Editor and Code Editor."
+msgstr "Hidhuni nga Përpunues Pamor në atë të Kodit dhe anasjelltas"
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor (alternative)."
+msgstr "Kalo te pjesa e mëparshme e përpunuesit (alternative)."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor (alternative)."
+msgstr "Kalo te pjesa pasuese e përpunuesit (alternative)."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor."
+msgstr "Kalo te pjesa e mëparshme e përpunuesit."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor."
+msgstr "Kalo te pjesa pasuese e përpunuesit."
+
+#: build/edit-post/index.js:12
+msgid "Show or hide the settings sidebar."
+msgstr "Shfaqni ose fshihni anështyllën e rregullimeve."
+
+#: build/edit-post/index.js:12
+msgid "Redo your last undo."
+msgstr "Ribëni zhbërjen tuaj të fundit."
+
+#: build/edit-post/index.js:12
+msgid "Undo your last changes."
+msgstr "Zhbëni ndryshimet tuaja të fundit."
+
+#: build/edit-post/index.js:12
+msgid "Save your changes."
+msgstr "Rruani ndryshimet tuaja."
+
+#: build/edit-post/index.js:12
+msgid "Display this help."
+msgstr "Shfaq këtë ndihmë."
+
+#: build/edit-post/index.js:12
+msgid "Global shortcuts"
+msgstr "Shkurtore të përgjithshme"
+
+#: build/edit-post/index.js:12
+msgid "Display the selected text in a monospaced font."
+msgstr "Shfaqe tekstin e përzgjedhur nën shkronja <em>monospace</em>."
+
+#: build/edit-post/index.js:12
+msgid "Add a strikethrough to the selected text."
+msgstr "Hiqi vijë përsipër tekstit të përzgjedhur."
+
+#: build/edit-post/index.js:12
+msgid "Remove a link."
+msgstr "Hiqni një lidhje."
+
+#: build/edit-post/index.js:12
+msgid "Convert the selected text into a link."
+msgstr "Shndërroje tekstin e përzgjedhur në një lidhje."
+
+#: build/edit-post/index.js:12
+msgid "Underline the selected text."
+msgstr "Nënvizoje tekstin e përzgjedhur."
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text italic."
+msgstr "Tekstin e përzgjedhur kaloje nën të pjerrëta."
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text bold."
+msgstr "Tekstin e përzgjedhur kaloje nën të trasha."
+
+#: build/edit-post/index.js:12
+msgid "Text formatting"
+msgstr "Formatim teksti"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block after the selected block(s)."
+msgstr "Futni një bllok të ri pas bllokut(ve) të përzgjedhur."
+
+#: build/edit-post/index.js:12
+msgid "Keyboard Shortcuts"
+msgstr "Shkurtore Tastiere"
+
+#: post-content.php:181
+msgid "Thanks for testing Gutenberg!"
+msgstr "Faleminderit që testoni Gutenberg-un!"
+
+#: post-content.php:173
+msgid "Help build Gutenberg"
+msgstr "Ndihmoni në ngritjen e Gutenberg-ut"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:164
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Nëse doni të mësoni më tepër rreth se si të krijohen blloqe shtesë, ose nëse interesoheni të ndihmoni në projekt, shkoni te <a href=\"%s\">depoja në GitHub</a>."
+
+#: post-content.php:155
+msgid "The WordPress community"
+msgstr "Bashkësia WordPress"
+
+#: post-content.php:155
+msgid "Code is Poetry"
+msgstr "Kodi është Poezi"
+
+#: post-content.php:151
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Mund të krijoni çfarëdo blloku që doni, statik ose dinamik, zbukurues ose të thjeshtë. Ja një bllok për citime:"
+
+#: post-content.php:141
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+
+#: post-content.php:137
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Më sipër keni një galeri me vetëm dy figura. Bëhet fjalë për një rrugë më të lehtë për krijim skemash tërheqëse nga ana pamore, pa u dashur të merreni me elementë pezull. Galerinë mund ta riktheni lehtësisht te figura individuale, duke përdorur këmbyesin e bllokut."
+
+#: post-content.php:126
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Sigurisht, figura në madhësi të plotë mund të jetë goxha e madhe. Por ngandonjëherë figura e ka hak këtë."
+
+#: post-content.php:122
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Përdorshmëria nga kushdo është e rëndësishme &mdash; mos harroni të shtoni atribut alt për figurat"
+
+#: post-content.php:118
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Nëse ndërthurni drejtimet e reja <strong>i gjerë</strong> dhe <strong>gjerësi e plotë</strong> me galeri, mund të krijoni një skemë shumë të larmishme për media, dhe shumë shpejt:"
+
+#: post-content.php:110
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Sasinë e shtyllave në galerinë tuaj mund të ndryshoni duke tërhequr një rrëshqitës te mbikëqyrësi i bllokut, te anështylla."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Blloqet mund të jenë ç’të keni nevojë. Për shembull, mund të doni të shtoni një citim si pjesë e hartimit të tekstit tuaj, ose mund të doni të shfaqni një të tillë gjigant dhe të stilizuar. Krejt këto mundësi i gjeni te futësi."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "Të dhënat që i përgjigjen burimit të citimit janë një fushë teksti më vete, si titujt nën figura, kështu që struktura e citimit është e mbrojtur edhe kur përzgjidhni, modifikoni ose e hiqni fare burimin. Është përherë e lehtë ta shtoni më vonë."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "Përpunuesi do të përpiqet të krijojë një metodë të re ndërtimi faqesh dhe postimesh, e cila e bën të pamundimshëm shkrimin e postimeve të pasur, dhe përmban “blloqe” për ta bërë të kollajtë atë për të cilën sot duhen kode të shkurtër, HTML vetjake, apo nuhatje rreth përmbajtjes së trupëzimeve të mistershme."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Një përfitim shumë i madh nga blloqet është se mund t’i përpunoni ata në vend dhe të manipuloni lëndën e tyre drejtpërsëdrejti. Në vend të fushave për përpunim gjërash të tilla si burimi i një citimi, apo teksti i një butoni, mund të ndryshoni lëndën drejtpërdrejt. Provoni të përpunoni citimin vijues:"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Përpunim Pamor"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "Dhe <em>Lista</em> si kjo, sigurisht :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Blloqe skeme, f.v. Butona, Figura Hero, Ndarës, etj."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Trupëzime, b.f., nga YouTube, Tweets, apo postime të tjera WordPress."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Galeri"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Figura &amp; Video"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Tekst &amp; Krye"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Provojeni, mund të zbuloni gjëra që s’e dinit se WordPress-i mund t’i shtojë tashmë te postimet tuaja. Ja një listë e shkurtër se ç’mund të gjeni:"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Përfytyroni gjithçka që mund të bëjë WordPress-i ta keni në dorë shpejt dhe në të njëjtin vend te ndërfaqja. Pa u dashur të merrni vesh etiketa HTML, klasa, apo të mbani mend sintaksë të ndërlikuar kodesh të shkurtër. Kjo është ideja pas futësit—butoni <code>(+)</code> që do të shihni nëpër përpunues—i cili ju lejon të shfletoni krejt blloqet e gatshëm të lëndës dhe t’i shtoni ata te postimi juaj. Shtojcat dhe temat janë në gjendje të regjistrojnë blloqe të tyret, duke hapur rrugën për gjithë llojet e mundësive për përpunim dhe botim të pasur."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "Mjeti i <em>Futjeve</em>"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Provoni të përzgjidhni ose përpunoni përshkrimin, tani nuk ju duhet të më të jeni i kujdesshëm se mos përzgjidhni gabimisht figurën apo tjetër tekst dhe të rrënoni paraqitjen."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Nëse mbulohet nga tema juaj, do të shihni butonin \"e gjerë\" te paneli i figurave. Provojeni."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Trajtimi me kujdesin më të madh të figurave dhe objekteve media është objektivi i parë i përpunuesit të ri. Shpresojmë se shtimi i legjendave apo kalimi në gjerësi të plotë i figurave tuaja do t’ju duken shumë të lehta dhe të fuqishme se më parë."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Një Pamje vlen Sa Një Mijë Fjalë"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Tituj janë gjithashtu blloqe më vete, gjë që ndihmon në përvijimin dhe sistemimin e lëndës tuaj."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "… si kjo, që është e vendosur majtas."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Ajo që po lexoni tani është një <strong>bllok teksti</strong>, blloku më i themelor nga të tërë. Blloku i tekstit ka kontrollet e veta për t’u lëvizur lirisht nëpër postim…"
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Synimi i përpunuesit të ri është ta bëjë të thjeshtë dhe të pëlqyeshëm shtimin e lëndës së pasur te WordPress. Ky postim përbëhet i tëri nga <em>pjesë lënde</em>—diçka e ngjashme me blloqet LEGO—që mund t’i lëvizni dhe ndërveproni me to. Lëvizeni kursorin tuaj përqark dhe do të vini re që blloqe të ndryshëm sikur përmenden, me përvijime dhe shigjeta. Shtypni shigjetat që t’i ripozicioni blloqet shpejt e shpejt, pa frikë se mos humbë gjë gjatë procesit të kopjimit dhe ngjitjes."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Mbi Malet &amp; Shtypshkronjat"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Mirë e vini te Përpunuesi Gutenberg"
+
+#: build/block-library/index.js:14
+msgctxt "block name"
+msgid "More"
+msgstr "Më tepër"
+
+#: build/block-library/index.js:14
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Më tepër"
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unschedule this post?"
+msgstr "Jeni i sigurt se doni t’i hiqet planifikimi për botim këtij postimi?"
+
+#: build/block-library/index.js:14
+msgid "Alt Text (Alternative Text)"
+msgstr "Tekst Alt (Text Alternativ)"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block"
+msgstr "Bllok i Ripërdorshëm"
+
+#: build/editor/index.js:17
+msgid "Untitled Reusable Block"
+msgstr "Bllok i Ripërdorshëm Pa Titull"
+
+#: build/block-editor/index.js:55
+msgid "(%s: %s)"
+msgstr "(%s: %s)"
+
+#: build/block-editor/index.js:55
+msgid "Reusable"
+msgstr "I ripërdorshëm"
+
+#: build/block-editor/index.js:55
+msgid "(current %s: %s)"
+msgstr "(%s i tanishëm: %s)"
+
+#: build/editor/index.js:17
+msgid "Remove from Reusable Blocks"
+msgstr "Hiqe prej Blloqesh të Ripërdorshëm"
+
+#: build/editor/index.js:17
+msgid "Add to Reusable Blocks"
+msgstr "Shtoje te Blloqe të Ripërdorshëm"
+
+#: build/block-library/index.js:14
+msgid "Keep as HTML"
+msgstr "Mbaje si HTML"
+
+#: build/block-library/index.js:14
+msgid "Edit URL"
+msgstr "Përpunojeni URL-në"
+
+#: build/block-library/index.js:14
+msgid "Color Settings"
+msgstr "Rregullime Ngjyrash"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block: %s"
+msgstr "Bllok i Ripërdorshëm: %s"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "Përgjigja s’është përgjigje JSON e vlefshme."
+
+#: build/edit-post/index.js:12
+msgid "Editor publish"
+msgstr "Publikime nga Redaktori"
+
+#: build/block-library/index.js:14
+msgid "Muted"
+msgstr "Pa zë"
+
+#: build/block-library/index.js:14
+msgid "Video Settings"
+msgstr "Rregullime për Videon"
+
+#: build/block-library/index.js:14
+msgid "recent comments"
+msgstr "komente së fundi"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments"
+msgstr "Komentet Më të Reja"
+
+#: build/block-library/index.js:14
+msgid "Display Excerpt"
+msgstr "Shfaq Copëzën"
+
+#: build/block-library/index.js:14
+msgid "Display Date"
+msgstr "Shfaq Datën"
+
+#: build/block-library/index.js:14
+msgid "Display Avatar"
+msgstr "Shfaq Avatarin"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments Settings"
+msgstr "Rregullime për Komentet Më të Reja"
+
+#: build/block-library/index.js:14
+msgid "Number of Comments"
+msgstr "Numër Komentesh"
+
+#: build/block-library/index.js:14
+msgid "Background Opacity"
+msgstr "Patejdukshmëri Sfondi"
+
+#: build/block-library/index.js:14
+msgid "Auto"
+msgstr "Auto"
+
+#: build/block-library/index.js:14
+msgid "Preload"
+msgstr "Parangarkim"
+
+#: build/block-library/index.js:14
+msgid "Audio Settings"
+msgstr "Parametra Audio"
+
+#: build/block-library/index.js:14
+msgid "Display a monthly archive of your posts."
+msgstr "Shfaqni një arkiv mujor të postimeve tuaja."
+
+#: build/block-library/index.js:14
+msgid "Display as Dropdown"
+msgstr "Shfaqe si Hapmbyll"
+
+#: build/block-library/index.js:14
+msgid "Show Post Counts"
+msgstr "Shfaq Numër Postimesh"
+
+#: build/block-library/index.js:14
+msgid "Archives Settings"
+msgstr "Rregullime Arkivash"
+
+#: gutenberg.php:60
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: gutenberg.php:58
+msgid "Support"
+msgstr "Asistencë"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "S’ka komente për shfaqje."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s në %2$s"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "Përzgjidhni Postim"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "Përzgjidhni Javë"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "Përzgjidhni Ditë"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "Përzgjidhni Muaj"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "Përzgjidhni Vit"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:14
+msgid "Archives"
+msgstr "Arkiva"
+
+#: build/block-editor/index.js:55
+msgid "Very dark gray"
+msgstr "Gri shumë e errët"
+
+#: build/block-editor/index.js:55
+msgid "Cyan bluish gray"
+msgstr "Gri e kaltër e gjelbër në blu"
+
+#: build/block-editor/index.js:55
+msgid "Very light gray"
+msgstr "Gri shumë e çelët"
+
+#: build/block-editor/index.js:55
+msgid "Vivid cyan blue"
+msgstr "Blu e kaltër e gjelbër e ndezur"
+
+#: build/block-editor/index.js:55
+msgid "Pale cyan blue"
+msgstr "Blu e kaltër e gjelbër e zbehtë"
+
+#: build/block-editor/index.js:55
+msgid "Vivid green cyan"
+msgstr "Blu e kaltër e gjelbër e ndezur"
+
+#: build/block-editor/index.js:55
+msgid "Light green cyan"
+msgstr "E kaltër e gjelbër e zbehtë"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid amber"
+msgstr "E qelibartë"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid orange"
+msgstr "Portokalli e ndritshme e ndezur"
+
+#: build/block-editor/index.js:55
+msgid "Vivid red"
+msgstr "E kuqe e ndezur"
+
+#: build/block-editor/index.js:55
+msgid "Pale pink"
+msgstr "Vjollcë e zbehtë"
+
+#: build/format-library/index.js:12
+msgid "Inline Image"
+msgstr "Figurë Brendazi"
+
+#: build/block-editor/index.js:55 build/edit-post/index.js:12
+msgid "Available block types"
+msgstr "Lloje blloqesh të gatshëm"
+
+#: build/edit-post/index.js:12
+msgid "Welcome to the wonderful world of blocks! Click the “+” (“Add block”) button to add a new block. There are blocks available for all kinds of content: you can insert text, headings, images, lists, and lots more!"
+msgstr "Mirë se vini në botën e mrekullueshme të blloqeve! Klikoni butonin \"+\" (\"Shto bllok\") për të shtuar një bllok të ri. Ka blloqe të gatshëm për krejt llojet e lëndës: mund të futni tekst, krye, figura, lista dhe plot të tjera!"
+
+#: build/block-editor/index.js:55
+msgid "Transform To:"
+msgstr "Shndërroje Në:"
+
+#: build/block-editor/index.js:55
+msgid "Remove Block"
+msgstr "Hiqe Bllokun"
+
+#: build/edit-post/index.js:12
+msgid "Open publish panel"
+msgstr "Hap panel publikimesh"
+
+#: build/block-library/index.js:14
+msgid "Dots"
+msgstr "Pika"
+
+#: build/block-library/index.js:14
+msgid "Wide Line"
+msgstr "Vijë e Gjerë"
+
+#: build/block-editor/index.js:55
+msgid "Large"
+msgstr "E madhe"
+
+#: build/block-library/index.js:14
+msgid "Link URL"
+msgstr "URL lidhjeje"
+
+#: build/block-library/index.js:14
+msgid "Custom URL"
+msgstr "URL Vetjake"
+
+#: build/block-library/index.js:14
+msgid "Show Download Button"
+msgstr "Shfaq Buton Shkarkimi"
+
+#: build/block-library/index.js:14
+msgid "Download Button Settings"
+msgstr "Rregullime Butoni Shkarkimesh"
+
+#: build/block-library/index.js:14
+msgid "Link To"
+msgstr "Lidhje Te"
+
+#: build/block-library/index.js:14
+msgid "Text Link Settings"
+msgstr "Rregullime Lidhjesh Tekst"
+
+#: build/block-library/index.js:14
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:14
+msgid "document"
+msgstr "dokument"
+
+#: build/block-library/index.js:14
+msgid "Copy URL"
+msgstr "Kopjoji URL-në"
+
+#: build/block-library/index.js:14
+msgid "Write file name…"
+msgstr "Shkruani emër kartele…"
+
+#: build/block-library/index.js:14
+msgid "Edit file"
+msgstr "Përpunoni kartelën"
+
+#: build/block-library/index.js:14 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "Kartelë"
+
+#: build/block-library/index.js:14
+msgid "A single column within a columns block."
+msgstr "Një shtyllë njëshe brenda blloku shtyllash."
+
+#: build/block-library/index.js:14
+msgid "Column"
+msgstr "Shtyllë"
+
+#: build/block-library/index.js:14
+msgid "Outline"
+msgstr "Ravijëzim"
+
+#: build/block-library/index.js:14
+msgid "Loop"
+msgstr "<em>Loop</em>"
+
+#: build/block-library/index.js:14
+msgid "Autoplay"
+msgstr "Vetëluaje"
+
+#: build/block-library/index.js:14
+msgid "Playback Controls"
+msgstr "Kontrolle Luajtjeje"
+
+#: build/components/index.js:19
+msgid "Close dialog"
+msgstr "Mbylleni dialogun"
+
+#: build/editor/index.js:17
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Na ndjeni, për arsye sigurie ky lloj kartele nuk lejohet."
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "Çaktivizoni ndihmëza"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "E kuptova"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "Shihni ndihmëzën pasuese"
+
+#: build/editor/index.js:17
+msgid "Finished writing? That’s great, let’s get this published right now. Just click “Publish” and you’re good to go."
+msgstr "Përfunduat së shkruari? Bukur, le ta botojmë pa humbur kohë. Thjesht klikoni mbi “Botoje” dhe kaq."
+
+#: build/editor/index.js:17
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "Kur të jeni gati, parashtrojeni punën tuaj për shqyrtim, dhe një Redaktor do të jetë në gjendje ta miratojë për ju."
+
+#: build/editor/index.js:17
+msgid "Are you ready to submit for review?"
+msgstr "Jeni gati ta parashtroni për shqyrtim?"
+
+#: build/editor/index.js:17
+msgid "Click “Preview” to load a preview of this page, so you can make sure you’re happy with your blocks."
+msgstr "Klikoni “Paraparje” që të ngarkoni një paraparje të kësaj faqeje, që të siguroheni se jeni i kënaqur me blloqet tuaja."
+
+#: build/block-library/index.js:14
+msgid "Replace image"
+msgstr "Zëvendëso figurën"
+
+#: build/block-editor/index.js:55
+msgid "Hide options"
+msgstr "Fshihi mundësitë"
+
+#: build/editor/index.js:17
+msgid "Error while uploading file %s to the media library."
+msgstr "Gabim teksa ngarkohej kartela %s te mediateka."
+
+#: build/editor/index.js:17
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "Kartela e tejkalon madhësinë maksimum të ngarkimit për këtë sajt."
+
+#: build/editor/index.js:17
+msgid "View the autosave"
+msgstr "Shiheni vetëruajtjen"
+
+#: build/editor/index.js:17
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "Ka një vetëruajtje për këtë postim, e cila është më e freskët se sa versioni më poshtë."
+
+#: build/editor/index.js:17
+msgid "Autosaving"
+msgstr "Po vetëruhet"
+
+#: build/block-editor/index.js:55
+msgid "Drag a video, upload a new one or select a file from your library."
+msgstr "Tërhiqni këtu një video, ngarkoni një të re ose përzgjidhni një kartelë që nga mediateka juaj."
+
+#: build/block-library/index.js:14
+msgid "Enter URL here…"
+msgstr "Jepeni këtu URL-në…"
+
+#: build/edit-post/index.js:12
+msgid "Pin to toolbar"
+msgstr "Fiksoje në panel"
+
+#: build/edit-post/index.js:12
+msgid "Unpin from toolbar"
+msgstr "Shfiksoje nga paneli"
+
+#: build/block-library/index.js:14
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "Futni një tabelë — e përsosur për të ndarë me të tjerët grafikë dhe të dhëna."
+
+#: build/block-library/index.js:14
+msgid "Fixed width table cells"
+msgstr "Kutiza tabele me gjerësi të fiksuar"
+
+#: build/block-library/index.js:14
+msgid "Table Settings"
+msgstr "Rregullime Tabelash"
+
+#: build/block-library/index.js:14
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Shtoni tekst që respekton hapësirat dhe tabulacionet tuaja, lejon gjithashtu stilizim."
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent posts."
+msgstr "Shfaqni një listë të postimeve tuaja më të reja."
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "Shtoni një bllok që shfaq lëndë të marrë nga sajte të tjerë, b.f. Twitter, Instagram ose YouTube."
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "Shtoni një bllok që e shfaq lëndën në shumë shtylla, mandej shtoni çfarëdo blloqesh lënde që doni."
+
+#: build/components/index.js:19
+msgid "No results found."
+msgstr "S’u gjetën përfundime."
+
+#: build/components/index.js:19
+msgid "Error loading block: %s"
+msgstr "Gabim në ngarkimin e bllokut: %s"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "Gabim i panjohur"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "Trajtues Trupëzimesh"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Hiqe %s"
+
+#: build/editor/index.js:17
+msgid "Copy the permalink"
+msgstr "Kopjoje permalidhjen"
+
+#: build/editor/index.js:17
+msgid "Permalink copied"
+msgstr "Permalidhja u kopjua"
+
+#: build/block-library/index.js:14
+msgid "Height in pixels"
+msgstr "Lartësi në piksel"
+
+#: build/block-library/index.js:14
+msgid "Spacer Settings"
+msgstr "Rregullime Ndarësi"
+
+#: build/block-library/index.js:14
+msgid "Spacer"
+msgstr "Ndarës"
+
+#: build/block-library/index.js:14
+msgid "Toggle to show a large initial letter."
+msgstr "Klikojeni që të shfaqet një shkronjë fillestare e madhe."
+
+#: build/block-library/index.js:14
+msgid "Showing large initial letter."
+msgstr "Shfaqje shkronje fillestare të madhe."
+
+#: build/block-library/index.js:14
+msgid "Name:"
+msgstr "Emër:"
+
+#: build/components/index.js:19
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s nga %3$s)"
+
+#: build/components/index.js:19
+msgid "Remove item"
+msgstr "Hiqe elementin"
+
+#: build/components/index.js:19
+msgid "Color code: %s"
+msgstr "Kod ngjyre: %s"
+
+#: build/block-editor/index.js:55
+msgid "Skip to the selected block"
+msgstr "Kalo te blloku i përzgjedhur"
+
+#: build/editor/index.js:17
+msgid "Publish…"
+msgstr "Botoni…"
+
+#: build/editor/index.js:17
+msgid "Schedule…"
+msgstr "Planifikoni…"
+
+#: build/editor/index.js:17
+msgid "Change Permalinks"
+msgstr "Ndryshoni Permalidhjet"
+
+#: build/editor/index.js:17
+msgid "Edit post permalink"
+msgstr "Përpunoni permalidhjen e postimit"
+
+#: build/edit-post/index.js:12
+msgid "Show Block Settings"
+msgstr "Shfaqi Rregullimet e Bllokut"
+
+#: build/edit-post/index.js:12
+msgid "Hide Block Settings"
+msgstr "Fshihi Rregullimet e Bllokut"
+
+#: build/edit-post/index.js:12
+msgid "Block settings closed"
+msgstr "Rregullimet e bllokut u mbyllën"
+
+#: build/edit-post/index.js:12
+msgid "Close plugin"
+msgstr "Mbylle shtojcën"
+
+#: build/edit-post/index.js:12
+msgid "Editor settings"
+msgstr "Rregullime përpunuesi"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Link Settings"
+msgstr "Rregullime Lidhjesh"
+
+#: build/format-library/index.js:12
+msgid "Unlink"
+msgstr "Hiqjani lidhjen"
+
+#: build/block-library/index.js:14
+msgid "Page break"
+msgstr "Ndërprerje faqeje"
+
+#: build/block-library/index.js:14
+msgid "pagination"
+msgstr "faqosje"
+
+#: build/block-library/index.js:14
+msgid "next page"
+msgstr "faqja pasuese"
+
+#: build/block-library/index.js:14
+msgid "Image Size"
+msgstr "Madhësi Figure"
+
+#: build/block-library/index.js:14
+msgid "Height"
+msgstr "Lartësi"
+
+#: build/format-library/index.js:12 build/block-library/index.js:14
+msgid "Width"
+msgstr "Gjerësi"
+
+#: build/block-library/index.js:14
+msgid "Image Dimensions"
+msgstr "Përmasa Figure"
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are not cropped."
+msgstr "Miniaturat s’janë qethur."
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are cropped to align."
+msgstr "Miniaturat janë qethur për drejtim."
+
+#: build/block-editor/index.js:55
+msgid "Media Library"
+msgstr "Mediatekë"
+
+#: build/block-editor/index.js:55
+msgid "Advanced"
+msgstr "Të mëtejshme"
+
+#: build/components/index.js:19
+msgid "Add item"
+msgstr "Shtoni element"
+
+#: build/editor/index.js:17
+msgid "Reset the template"
+msgstr "Riktheje gjedhen në fillimet"
+
+#: build/editor/index.js:17
+msgid "Keep it as is"
+msgstr "Mbaje siç është"
+
+#: build/editor/index.js:17
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "Lënda e postimit tuaj s’përkon me gjedhen caktuar llojit tuaj të postimit."
+
+#: build/editor/index.js:17
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "Rikthimi i gjedhes në fillimet mund të sjellë humbje të lëndës, doni të vazhdohet?"
+
+#: build/editor/index.js:17
+msgid "Document Statistics"
+msgstr "Statistika Dokumenti"
+
+#: build/editor/index.js:17
+msgid "is now scheduled. It will go live on"
+msgstr "tani është vënë në plan. Do të bëhet publik më"
+
+#: build/editor/index.js:17
+msgid "Scheduled"
+msgstr "I planifikuar"
+
+#: build/editor/index.js:17
+msgid "Scheduling…"
+msgstr "Po vihet në plan…"
+
+#: build/edit-post/index.js:12
+msgid "Code editor selected"
+msgstr "U përzgjodh përpunuesi i kodit"
+
+#: build/edit-post/index.js:12
+msgid "Visual editor selected"
+msgstr "U përzgjodh përpunuesi pamor"
+
+#: build/edit-post/index.js:12
+msgid "Plugins"
+msgstr "Shtojca"
+
+#: build/components/index.js:19
+msgid "Custom Size"
+msgstr "Madhësi Vetjake"
+
+#: build/blocks/index.js:2
+msgid "Layout Elements"
+msgstr "Elementë Skicimi"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s u hoq"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s added"
+msgstr "%s u shtua"
+
+#: build/editor/index.js:17
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Bëjini Paraparje"
+
+#: build/editor/index.js:17
+msgid "Block deleted."
+msgstr "Blloku u fshi."
+
+#: build/editor/index.js:17
+msgid "Block updated."
+msgstr "Blloku u përditësua."
+
+#: build/editor/index.js:17
+msgid "Block created."
+msgstr "Blloku u krijua."
+
+#: build/editor/index.js:17
+msgid "Trashing failed"
+msgstr "Shpënia në hedhurina dështoi"
+
+#: build/editor/index.js:17
+msgid "Updating failed"
+msgstr "Përditësimi dështoi"
+
+#: build/editor/index.js:17
+msgid "Scheduling failed"
+msgstr "Vënia në plan dështoi"
+
+#: build/editor/index.js:17
+msgid "Publishing failed"
+msgstr "Botimi i faqes dështoi"
+
+#: build/editor/index.js:17
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "Ka ndryshime të paruajtura. Nëse vazhdoni, ato do të humbin."
+
+#: build/editor/index.js:17
+msgid "Document Outline"
+msgstr "Përvijim Dokumenti"
+
+#: build/editor/index.js:17
+msgid "Paragraphs"
+msgstr "Paragrafë"
+
+#: build/editor/index.js:17
+msgid "Headings"
+msgstr "Krye"
+
+#: build/editor/index.js:17
+msgid "Words"
+msgstr "Fjalë"
+
+#: build/editor/index.js:17
+msgid "Content structure"
+msgstr "Strukturë lënde"
+
+#: build/editor/index.js:17
+msgid "Public"
+msgstr "Publik"
+
+#: build/editor/index.js:17
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "Mbrojtur me një fjalëkalim që zgjidhni. Vetëm ata me këtë fjalëkalim mund ta shohin këtë postim."
+
+#: build/editor/index.js:17
+msgid "Password Protected"
+msgstr "Mbrojtur me Fjalëkalim"
+
+#: build/editor/index.js:17
+msgid "Only visible to site admins and editors."
+msgstr "I dukshëm vetëm për përgjegjës sajti dhe redaktorë."
+
+#: build/editor/index.js:17
+msgid "Private"
+msgstr "Privat"
+
+#: build/editor/index.js:17
+msgid "Visible to everyone."
+msgstr "I dukshëm për këdo."
+
+#: build/editor/index.js:17
+msgid "Post Visibility"
+msgstr "Dukshmëri Postimi"
+
+#: build/editor/index.js:17
+msgid "Would you like to privately publish this post now?"
+msgstr "Do të donit ta botonit privatisht këtë postim tani?"
+
+#: build/editor/index.js:17
+msgid "Use a secure password"
+msgstr "Përdorni një fjalëkalim të sigurt"
+
+#: build/editor/index.js:17
+msgid "Create password"
+msgstr "Krijoni fjalëkalim"
+
+#: build/editor/index.js:17
+msgid "Move to Trash"
+msgstr "Shpjere te Hedhurinat"
+
+#: build/editor/index.js:17
+msgid "Parent Term"
+msgstr "Term Mëmë"
+
+#: build/editor/index.js:17
+msgid "Parent Category"
+msgstr "Kategori Mëmë"
+
+#: build/editor/index.js:17
+msgid "Add new term"
+msgstr "Shtoni term të ri"
+
+#: build/editor/index.js:17
+msgid "Add new category"
+msgstr "Shtoni kategori të re"
+
+#: build/editor/index.js:17
+msgid "Term"
+msgstr "Term"
+
+#: build/editor/index.js:17
+msgid "Tag"
+msgstr "Etiketë"
+
+#: build/editor/index.js:17
+msgid "Add New Term"
+msgstr "Shtoni Term të Ri"
+
+#: build/editor/index.js:17
+msgid "Add New Tag"
+msgstr "Shtoni Etiketë të Re"
+
+#: build/editor/index.js:17
+msgid "Switch to Draft"
+msgstr "Kalo te Skica"
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unpublish this post?"
+msgstr "Jeni i sigurt se doni të shbotohet ky postim?"
+
+#: build/editor/index.js:17
+msgid "Immediately"
+msgstr "Menjëherë"
+
+#: build/editor/index.js:17
+msgid "Save Draft"
+msgstr "Ruaje Skicën"
+
+#: build/editor/index.js:17
+msgid "Saving"
+msgstr "Po ruhet"
+
+#: build/editor/index.js:17
+msgid "Publish:"
+msgstr "Publikoje:"
+
+#: build/editor/index.js:17
+msgid "Visibility:"
+msgstr "Dukshmëri:"
+
+#: build/editor/index.js:17
+msgid "Are you ready to publish?"
+msgstr "Jeni gati për botim?"
+
+#: build/editor/index.js:17
+msgid "Copy Link"
+msgstr "Kopjoji Lidhjen"
+
+#: build/editor/index.js:17
+msgid "What’s next?"
+msgstr "Ç’vjen më pas?"
+
+#: build/editor/index.js:17
+msgid "is now live."
+msgstr "tani është publik."
+
+#: build/editor/index.js:17
+msgid "Published"
+msgstr "U botua"
+
+#: build/editor/index.js:17
+msgid "Schedule"
+msgstr "Vëreni në plan"
+
+#: build/editor/index.js:17 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "Përditësoje"
+
+#: build/editor/index.js:17
+msgid "Submit for Review"
+msgstr "Parashtrojeni për Shqyrtim"
+
+#: build/editor/index.js:17
+msgid "Updating…"
+msgstr "Po përditësohet…"
+
+#: build/editor/index.js:17
+msgid "Publishing…"
+msgstr "Po botohet…"
+
+#: build/editor/index.js:17
+msgid "Allow Pingbacks & Trackbacks"
+msgstr "Lejo Pingback-e & Pasgjurmime"
+
+#: build/editor/index.js:17
+msgid "Permalink:"
+msgstr "Permalidhje:"
+
+#: build/editor/index.js:17
+msgid "Pending Review"
+msgstr "Në Pritje të Shqyrtimit"
+
+#: build/editor/index.js:17
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d Rishikim"
+msgstr[1] "%d Rishikime"
+
+#: build/editor/index.js:17
+msgid "Suggestion:"
+msgstr "Sugjerim:"
+
+#: build/editor/index.js:17
+msgid "Post Format"
+msgstr "Format Postimesh"
+
+#: build/editor/index.js:17
+msgid "Chat"
+msgstr "Fjalosje"
+
+#: build/editor/index.js:17
+msgid "Status"
+msgstr "Gjendje"
+
+#: build/editor/index.js:17
+msgid "Standard"
+msgstr "Standard"
+
+#: build/editor/index.js:17
+msgid "Aside"
+msgstr "Anësore"
+
+#: build/editor/index.js:17
+msgid "Set Featured Image"
+msgstr "Vëre Si Figurë të Zgjedhur"
+
+#: build/editor/index.js:17
+msgid "Learn more about manual excerpts"
+msgstr "Mësoni më tepër rreth copëzash të krijuara dorazi"
+
+#: build/editor/index.js:17
+msgid "Write an excerpt (optional)"
+msgstr "Shkruani një copëz (opsionale)"
+
+#: build/editor/index.js:17
+msgid "Allow Comments"
+msgstr "Lejo Komente"
+
+#: build/editor/index.js:17
+msgid "Template:"
+msgstr "Gjedhe:"
+
+#: build/editor/index.js:17
+msgid "no parent"
+msgstr "pa mëmë"
+
+#: build/editor/index.js:17
+msgid "no title"
+msgstr "pa titull"
+
+#: build/editor/index.js:17
+msgid "Order"
+msgstr "Renditje"
+
+#: build/block-editor/index.js:55 build/edit-post/index.js:12
+msgid "No blocks found."
+msgstr "S’u gjetën blloqe."
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "U gjet %d përfundim."
+msgstr[1] "U gjetën %d përfundime."
+
+#: build/editor/index.js:17
+msgid "Saved"
+msgstr "U ruajt"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "Trupëzime"
+
+#: build/editor/index.js:17
+msgid "Blocks"
+msgstr "Blloqe"
+
+#: build/block-editor/index.js:55 build/edit-post/index.js:12
+msgid "Search for a block"
+msgstr "Kërkoni për një bllok"
+
+#: build/block-editor/index.js:55
+msgid "Add block"
+msgstr "Shtoni bllok"
+
+#: build/block-editor/index.js:55
+msgid "Add %s"
+msgstr "Shto %s"
+
+#: build/editor/index.js:17
+msgid "Copy Error"
+msgstr "Gabim Kopjimi"
+
+#: build/editor/index.js:17
+msgid "Copy Post Text"
+msgstr "Kopjo Tekst Postimi"
+
+#: build/editor/index.js:17
+msgid "Attempt Recovery"
+msgstr "Provo Rimarrjen"
+
+#: build/editor/index.js:17
+msgid "The editor has encountered an unexpected error."
+msgstr "Përpunuesi hasi një gabim të papritur."
+
+#: build/editor/index.js:17
+msgid "Undo"
+msgstr "Zhbëje"
+
+#: build/editor/index.js:17
+msgid "Redo"
+msgstr "Ribëje"
+
+#: build/editor/index.js:17
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(Nuk këshillohen krye H1 të shumëfishta)"
+
+#: build/editor/index.js:17
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(Tema juaj mund të përdorë tashmë një H1 për titullin e postimit)"
+
+#: build/editor/index.js:17
+msgid "(Incorrect heading level)"
+msgstr "(Shkallë e pasaktë kryesh)"
+
+#: build/editor/index.js:17
+msgid "(Empty heading)"
+msgstr "(Krye e zbrazët)"
+
+#: build/block-editor/index.js:55
+msgid "Block Styles"
+msgstr "Stile Blloku"
+
+#: build/editor/index.js:17
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"Jeni i sigurt se doni të fshihet ky Bllok i Ripërdorshëm?\n"
+"\n"
+"Do të hiqet përgjithmonë prej krejt postimeve dhe faqeve që e përdorin."
+
+#: build/editor/index.js:17
+msgid "Convert to Regular Block"
+msgstr "Shndërroje Në Bllok të Rregullt"
+
+#: build/block-editor/index.js:55
+msgid "More options"
+msgstr "Më tepër mundësi"
+
+#: build/block-editor/index.js:55
+msgid "Edit visually"
+msgstr "Përpunoje në rrugë pamore"
+
+#: build/block-editor/index.js:55
+msgid "Duplicate"
+msgstr "Përdytësoje"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "Blloqet s’mund të ulen poshtë, ngaqë gjenden tashmë në fund"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "Blloqet s’mund të ngjiten sipër, ngaqë gjenden tashmë në krye"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the beginning of the content and can’t be moved up"
+msgstr "Blloku %s gjendet në fillim të lëndës dhe s’mund të ngjitet sipër"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the end of the content and can’t be moved down"
+msgstr "Blloku %s gjendet në fund të lëndës dhe s’mund të ulet poshtë"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "Blloku %s është i vetmi bllok, ndaj s’mund të lëvizet"
+
+#: build/block-editor/index.js:55
+msgid "Move down"
+msgstr "Ule"
+
+#: build/block-editor/index.js:55
+msgid "Move up"
+msgstr "Ngrije"
+
+#: build/block-editor/index.js:55
+msgid "Edit as HTML"
+msgstr "Përpunojeni si HTML"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Blocks"
+msgstr "Shndërroje në Blloqe"
+
+#: build/block-editor/index.js:55
+msgid "Block: %s"
+msgstr "Blloku: %s"
+
+#: build/block-editor/index.js:55
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "Për këtë bllok u has një gabim dhe s’mund t’i bëhet paraparje."
+
+#: build/block-editor/index.js:55
+msgid "No block selected."
+msgstr "S’u përzgjodh bllok."
+
+#: build/edit-post/index.js:12
+msgid "Transform into:"
+msgstr "Shndërroje në:"
+
+#: build/edit-post/index.js:12
+msgid "Remove"
+msgstr "Hiqe"
+
+#: build/edit-post/index.js:12
+msgid "Find original"
+msgstr "Gjej origjinalin"
+
+#: build/edit-post/index.js:12
+msgid "Copy All Content"
+msgstr "Kopjo Krejt Lëndën"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+#: build/edit-post/index.js:12
+msgid "Copied!"
+msgstr "U kopjua!"
+
+#: build/edit-post/index.js:12
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "Te anështylla e rregullimeve të blloqeve, te Përpunuesi, tani ka rregullime shtesë"
+
+#: build/edit-post/index.js:12
+msgid "Visibility"
+msgstr "Dukshmëri"
+
+#: build/edit-post/index.js:12
+msgid "Status & Visibility"
+msgstr "Gjendje & Dukshmëri"
+
+#: build/edit-post/index.js:12
+msgid "Page Attributes"
+msgstr "Atribute Faqeje"
+
+#: build/edit-post/index.js:12
+msgid "Block"
+msgstr "Bllok"
+
+#: build/edit-post/index.js:12
+msgid "Document"
+msgstr "Dokument"
+
+#: build/editor/index.js:17 build/edit-post/index.js:12
+msgid "Featured Image"
+msgstr "Figurë e Zgjedhur"
+
+#: build/edit-post/index.js:12
+msgid "Close settings"
+msgstr "Mbylli rregullimet"
+
+#: build/edit-post/index.js:12
+msgid "Editor plugins"
+msgstr "Shtojca përpunuesi"
+
+#: build/edit-post/index.js:12
+msgid "Editor content"
+msgstr "Lëndë përpunuesi"
+
+#: build/edit-post/index.js:12
+msgid "Tools"
+msgstr "Mjete"
+
+#: build/edit-post/index.js:12
+msgid "Editor"
+msgstr "Përpunues"
+
+#: build/edit-post/index.js:12
+msgid "Code Editor"
+msgstr "Përpunues Kodi"
+
+#: build/edit-post/index.js:12
+msgid "Visual Editor"
+msgstr "Përpunues Pamor"
+
+#: build/edit-post/index.js:12
+msgid "Editor top bar"
+msgstr "Shtyllë e sipërme përpunuesi"
+
+#: build/edit-post/index.js:12
+msgid "Settings"
+msgstr "Rregullime"
+
+#: build/block-library/index.js:14 build/components/index.js:19
+msgid "Reset"
+msgstr "Ricaktoje"
+
+#: build/components/index.js:19
+msgid "Dismiss this notice"
+msgstr "Shpërfille këtë shënim"
+
+#: build/components/index.js:19
+msgid "Item removed."
+msgstr "Objekti u hoq."
+
+#: build/components/index.js:19
+msgid "Item added."
+msgstr "Objekti u shtua."
+
+#: build/components/index.js:19
+msgid "Separate with commas"
+msgstr "Ndajini me presje"
+
+#: build/components/index.js:19
+msgid "Drop files to upload"
+msgstr "Hidhni këtu kartela për ngarkim"
+
+#: build/components/index.js:19
+msgid "PM"
+msgstr "PM"
+
+#: build/components/index.js:19
+msgid "AM"
+msgstr "AM"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "Ndodhi një gabim i panjohur."
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "No results."
+msgstr "S’ka përfundime."
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "U gjet %d përfundim, për lëvizje përdorni tastet shigjetë sipër dhe poshtë."
+msgstr[1] "U gjetën %d përfundime, për lëvizje përdorni tastet Shigjetë sipër dhe poshtë."
+
+#: build/block-library/blocks/latest-comments.php:31 build/editor/index.js:17
+#: build/edit-post/index.js:12
+msgid "(no title)"
+msgstr "(pa titull)"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "URL"
+msgstr "URL"
+
+#: build/block-editor/index.js:55
+msgid "Submit"
+msgstr "Parashtroje"
+
+#: build/block-editor/index.js:55 build/edit-post/index.js:12
+#: build/components/index.js:19
+msgid "Close"
+msgstr "Mbylle"
+
+#: build/block-editor/index.js:55
+msgid "Insert Link"
+msgstr "Futni Lidhje"
+
+#: build/block-editor/index.js:55
+msgid "Edit Link"
+msgstr "Përpunoni Lidhje"
+
+#: build/editor/index.js:17 build/format-library/index.js:12
+msgid "Link"
+msgstr "Lidhje"
+
+#: build/format-library/index.js:12
+msgid "Strikethrough"
+msgstr "Hequrvije"
+
+#: build/format-library/index.js:12
+msgid "Italic"
+msgstr "Të pjerrëta"
+
+#: build/format-library/index.js:12
+msgid "Bold"
+msgstr "Të trasha"
+
+#: build/block-library/index.js:14 build/components/index.js:19
+msgid "Number of items"
+msgstr "Numër artikujsh"
+
+#: build/components/index.js:19
+msgid "All"
+msgstr "Krejt"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "Category"
+msgstr "Kategori"
+
+#: build/components/index.js:19
+msgid "Z → A"
+msgstr "Z-A"
+
+#: build/components/index.js:19
+msgid "A → Z"
+msgstr "Z-A"
+
+#: build/components/index.js:19
+msgid "Oldest to Newest"
+msgstr "Nga Më i Vjetri te Më i Riu"
+
+#: build/components/index.js:19
+msgid "Newest to Oldest"
+msgstr "Nga Më i Riu te Më i Vjetri"
+
+#: build/components/index.js:19
+msgid "Order by"
+msgstr "Renditi sipas"
+
+#: build/edit-post/index.js:12
+msgid "Select"
+msgstr "Përzgjidhni"
+
+#: build/edit-post/index.js:12
+msgid "Select or Upload Media"
+msgstr "Përzgjidhni ose Ngarkoni Media"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Video"
+msgstr "Video"
+
+#: build/block-library/index.js:14
+msgid "Edit video"
+msgstr "Përpunoni videon"
+
+#: build/block-library/index.js:14
+msgid "Write…"
+msgstr "Shkruani…"
+
+#: build/block-library/index.js:14
+msgid "poetry"
+msgstr "poezi"
+
+#: build/block-library/index.js:14
+msgid "Verse"
+msgstr "Varg"
+
+#: build/block-library/index.js:14
+msgid "New Column"
+msgstr "Shtyllë e Re"
+
+#: build/block-library/index.js:14
+msgid "Delete Column"
+msgstr "Fshije Shtyllën"
+
+#: build/block-library/index.js:14
+msgid "Add Column After"
+msgstr "Shto Shtyllë Pas"
+
+#: build/block-library/index.js:14
+msgid "Add Column Before"
+msgstr "Shto Shtyllë Para"
+
+#: build/block-library/index.js:14
+msgid "Delete Row"
+msgstr "Fshije Rreshtin"
+
+#: build/block-library/index.js:14
+msgid "Add Row After"
+msgstr "Shtoni Rresht Pas"
+
+#: build/block-library/index.js:14
+msgid "Add Row Before"
+msgstr "Shto Rresht Para"
+
+#: build/block-library/index.js:14
+msgid "Edit table"
+msgstr "Përpunoni tabelë"
+
+#: build/block-library/index.js:14
+msgid "Table"
+msgstr "Tabelë"
+
+#: build/block-library/index.js:14
+msgid "Write subheading…"
+msgstr "Shkruani nënkrye…"
+
+#: build/block-library/index.js:14
+msgid "Write shortcode here…"
+msgstr "Shkruani këtu kod të shkurtë…"
+
+#: build/block-library/index.js:14
+msgid "Shortcode"
+msgstr "Kod i shkurtër"
+
+#: build/block-library/index.js:14
+msgid "divider"
+msgstr "ndarës"
+
+#: build/block-library/index.js:14
+msgid "horizontal-line"
+msgstr "vijë horizontale"
+
+#: build/block-library/index.js:14
+msgid "Separator"
+msgstr "Ndarës"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Quote"
+msgstr "Citim"
+
+#: build/block-library/index.js:14
+msgid "Write citation…"
+msgstr "Shkruani përmendje…"
+
+#: build/block-library/index.js:14
+msgid "Write quote…"
+msgstr "Shkruani citim…"
+
+#: build/block-library/index.js:14
+msgid "Pullquote"
+msgstr "Citim"
+
+#: build/block-library/index.js:14
+msgid "Write preformatted text…"
+msgstr "Shkruani tekst të paraformatuar…"
+
+#: build/block-library/index.js:14
+msgid "Preformatted"
+msgstr "E paraformatuar"
+
+#: build/block-library/index.js:14
+msgid "text"
+msgstr "tekst"
+
+#: build/block-library/index.js:14
+msgid "Paragraph"
+msgstr "Paragraf"
+
+#: build/components/index.js:19
+msgid "Font Size"
+msgstr "Madhësi Shkronjash"
+
+#: build/block-library/index.js:14
+msgid "Text Settings"
+msgstr "Rregullime Teksti"
+
+#: build/block-library/index.js:14
+msgid "Read more"
+msgstr "Lexoni në tepër"
+
+#: build/block-library/index.js:14
+msgid "Write list…"
+msgstr "Shkruani listë…"
+
+#: build/block-library/index.js:14
+msgid "numbered list"
+msgstr "listë e numërtuar"
+
+#: build/block-library/index.js:14
+msgid "ordered list"
+msgstr "listë e renditur"
+
+#: build/block-library/index.js:14
+msgid "bullet list"
+msgstr "listë me toptha"
+
+#: build/block-editor/index.js:55
+msgid "Indent list item"
+msgstr "Zhvendose elementin e listës për brenda"
+
+#: build/block-editor/index.js:55
+msgid "Outdent list item"
+msgstr "Zhvendose elementin e listës për jashtë"
+
+#: build/block-editor/index.js:55
+msgid "Convert to ordered list"
+msgstr "Shndërroje në listë të renditur"
+
+#: build/block-editor/index.js:55
+msgid "Convert to unordered list"
+msgstr "Shndërroje në listë të parenditur"
+
+#: build/block-library/index.js:14
+msgid "List"
+msgstr "Listë"
+
+#: build/block-library/index.js:14
+msgid "recent posts"
+msgstr "postime së fundi"
+
+#: build/block-library/index.js:14
+msgid "No posts found."
+msgstr "S’u gjetën postime."
+
+#: build/block-library/index.js:14
+msgid "Latest Posts"
+msgstr "Postimet Më të Reja"
+
+#: build/block-library/index.js:14
+msgid "Display post date"
+msgstr "Shfaq datë postimesh"
+
+#: build/block-library/index.js:14
+msgid "Latest Posts Settings"
+msgstr "Rregullime mbi Postimet Më të Reja"
+
+#: build/block-library/index.js:14
+msgid "Grid View"
+msgstr "Pamje Mozaik"
+
+#: build/block-library/index.js:14
+msgid "List View"
+msgstr "Pamje Listë"
+
+#: build/format-library/index.js:12 build/block-library/index.js:14
+msgid "photo"
+msgstr "foto"
+
+#: build/block-library/index.js:14
+msgid "Image Settings"
+msgstr "Rregullime Figurash"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/format-library/index.js:12 build/block-library/index.js:14
+msgid "Image"
+msgstr "Figurë"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+#: build/edit-post/index.js:12
+msgid "Preview"
+msgstr "Paraparje"
+
+#: build/block-library/index.js:14
+msgid "embed"
+msgstr "trupëzim"
+
+#: build/block-library/index.js:14
+msgid "Custom HTML"
+msgstr "HTML Vetjake"
+
+#: build/block-library/index.js:14
+msgid "subtitle"
+msgstr "nëntitull"
+
+#: build/block-library/index.js:14
+msgid "title"
+msgstr "titull"
+
+#: build/block-library/index.js:14
+msgid "Heading"
+msgstr "Krye"
+
+#: build/block-library/index.js:14
+msgid "Write heading…"
+msgstr "Shkruani titull…"
+
+#: build/block-library/index.js:14
+msgid "Heading %d"
+msgstr "Krye %d"
+
+#: build/block-library/index.js:14
+msgid "Level"
+msgstr "Nivel"
+
+#: build/block-library/index.js:14
+msgid "Heading Settings"
+msgstr "Rregullime Kryesh"
+
+#: build/block-library/index.js:14
+msgid "photos"
+msgstr "foto"
+
+#: build/block-library/index.js:14
+msgid "images"
+msgstr "figura"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Remove Image"
+msgstr "Hiqe Figurën"
+
+#: build/block-library/index.js:14
+msgid "None"
+msgstr "Asnjë"
+
+#: build/block-library/index.js:14
+msgid "Media File"
+msgstr "Kartelë Media"
+
+#: build/block-library/index.js:14
+msgid "Attachment Page"
+msgstr "Faqe Bashkëngjitjesh"
+
+#: build/block-library/index.js:14
+msgid "Crop Images"
+msgstr "Qethi Figurat"
+
+#: build/block-library/index.js:14
+msgid "Gallery Settings"
+msgstr "Rregullime Galerie"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Gallery"
+msgstr "Galeri"
+
+#: build/block-library/index.js:14
+msgid "Edit gallery"
+msgstr "Përpunoni galeri"
+
+#: build/block-library/index.js:14
+msgid "Classic"
+msgstr "Klasike"
+
+#: build/block-library/index.js:14
+msgid "video"
+msgstr "video"
+
+#: build/block-library/index.js:14
+msgid "audio"
+msgstr "audio"
+
+#: build/block-library/index.js:14
+msgid "music"
+msgstr "muzikë"
+
+#: build/block-library/index.js:14
+msgid "image"
+msgstr "figurë"
+
+#: build/block-library/index.js:14
+msgid "blog"
+msgstr "blog"
+
+#: build/block-library/index.js:14
+msgid "post"
+msgstr "postim"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s"
+msgstr "Lëndë e trupëzuar nga %s"
+
+#: build/block-library/index.js:14
+msgid "Enter URL to embed here…"
+msgstr "Jepni këtu URL-në për trupëzim…"
+
+#: build/block-library/index.js:14
+msgid "%s URL"
+msgstr "URL %s"
+
+#: build/block-library/index.js:14
+msgid "Embedding…"
+msgstr "Po trupëzohet…"
+
+#: build/block-library/index.js:14
+msgid "Write title…"
+msgstr "Shkruani një titull…"
+
+#: build/block-library/index.js:14
+msgid "Text Alignment"
+msgstr "Drejtim Teksti"
+
+#: build/block-library/index.js:14
+msgid "Fixed Background"
+msgstr "Sfond i Palëvizshëm"
+
+#: build/block-library/index.js:14
+msgid "Edit image"
+msgstr "Përpunoni figurën"
+
+#: build/block-library/index.js:14
+msgid "Columns"
+msgstr "Shtylla"
+
+#: build/format-library/index.js:12 build/block-library/index.js:14
+msgid "Code"
+msgstr "Kod"
+
+#: build/block-library/index.js:14
+msgid "Write code…"
+msgstr "Shkruani kod…"
+
+#: build/block-library/index.js:14
+msgid "Categories"
+msgstr "Kategori"
+
+#: build/block-library/index.js:14
+msgid "Show Hierarchy"
+msgstr "Shfaq Hierarkinë"
+
+#: build/block-library/index.js:14
+msgid "Show post counts"
+msgstr "Shfaq numrin e postimeve"
+
+#: build/block-library/index.js:14
+msgid "Categories Settings"
+msgstr "Rregullime Kategorish"
+
+#: build/block-library/index.js:14
+msgid "Add text…"
+msgstr "Shtoni tekst…"
+
+#: build/block-library/index.js:14
+msgid "Button"
+msgstr "Buton"
+
+#: build/block-editor/index.js:55 build/format-library/index.js:12
+#: build/block-library/index.js:14
+msgid "Apply"
+msgstr "Zbatoje"
+
+#: build/block-library/index.js:14
+msgid "Text Color"
+msgstr "Ngjyrë Teksti"
+
+#: build/block-library/index.js:14
+msgid "Background Color"
+msgstr "Ngjyrë Sfondi"
+
+#: build/block-library/index.js:14
+msgid "Block has been deleted or is unavailable."
+msgstr "Blloku është fshirë ose s’mund të kihet."
+
+#: build/blocks/index.js:2
+msgid "Reusable Blocks"
+msgstr "Blloqe të Ripërdorshëm"
+
+#: build/block-editor/index.js:55
+msgid "Cancel"
+msgstr "Fshije"
+
+#: build/editor/index.js:17 build/format-library/index.js:12
+#: build/block-library/index.js:14
+msgid "Edit"
+msgstr "Përpunoni"
+
+#: build/block-library/index.js:14
+msgid "Edit audio"
+msgstr "Përpunoni audio"
+
+#: build/block-library/index.js:14
+msgid "Write caption…"
+msgstr "Shkruani titullin…"
+
+#: build/block-library/index.js:14
+msgid "Use URL"
+msgstr "Përdore URL-në"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Audio"
+msgstr "Audio"
+
+#: build/block-editor/index.js:55
+msgid "Upload"
+msgstr "Ngarko"
+
+#: build/block-editor/index.js:55
+msgid "Additional CSS Class"
+msgstr "Klasëë CSS shtesë"
+
+#: build/block-editor/index.js:55
+msgid "Anchors lets you link directly to a section on a page."
+msgstr "Spirancat ju lejojnë të krijoni një lidhje drejt e te një ndarje në një faqe."
+
+#: build/block-editor/index.js:55
+msgid "HTML Anchor"
+msgstr "Spiranca HTML"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "Kjo ndërthurje ngjyrash mund të vështirësojë leximin nga njerëzit. Provoni të përdorni një ngjyrë sfondi më të ndritshme dhe/ose një ngjyrë të errët teksti."
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "Kjo ndërthurje ngjyrash mund të vështirësojë leximin nga njerëzit. Provoni të përdorni një ngjyrë sfondi më të errët dhe/ose një ngjyrë të ndritshme teksti."
+
+#: build/components/index.js:19
+msgid "Clear"
+msgstr "Fshije"
+
+#: build/components/index.js:19
+msgid "Custom color picker"
+msgstr "Zgjedhës ngjyrash vetjake"
+
+#: build/components/index.js:19
+msgid "Color: %s"
+msgstr "Ngjyrë: %s"
+
+#: build/block-editor/index.js:55
+msgid "Full width"
+msgstr "Gjerësi e plotë"
+
+#: build/block-editor/index.js:55
+msgid "Wide width"
+msgstr "Gjerësi e madhe"
+
+#: build/blocks/index.js:2
+msgid "Widgets"
+msgstr "Widget-e"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "Formatim"
+
+#: build/blocks/index.js:2
+msgid "Common Blocks"
+msgstr "Blloqe të Rëndomtë"
+
+#: build/block-editor/index.js:55
+msgid "Align right"
+msgstr "Vendose djathtas"
+
+#: build/block-editor/index.js:55
+msgid "Align center"
+msgstr "Vendose në qendër"
+
+#: build/block-editor/index.js:55
+msgid "Align left"
+msgstr "Vendose majtas"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Shtypim që nga 1440-a. Kjo është shtojca e zhvillimit për përpunuesin e ri të blloqeve për pjesën bazë."
+
+#: build/editor/index.js:17
+msgid "Add title"
+msgstr "Shtoni titull"
+
+#: gutenberg.php:93
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTING.md\">contributing</a> file for more information."
+msgstr "Mënyra zhvillim për Gutenberg-un lyp kartela që të montohet. Xhironi <code>npm install</code> që të instaloni varësitë, <code>npm run build</code> që të ndërtohen kartelat ose <code>npm run dev</code> që të montohen kartelat dhe të shihet për ndryshime. Për më tepër të dhëna, lexoni te kartela <a href=\"https://github.com/WordPress/gutenberg/blob/master/CONTRIBUTING.md\">për dhënie ndihmese</a>."
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Ekipi Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: build/editor/index.js:17
+msgid "Author"
+msgstr "Autor"
+
+#: build/edit-post/index.js:12
+msgid "Discussion"
+msgstr "Diskutim"
+
+#: build/edit-post/index.js:12
+msgid "Custom Fields"
+msgstr "Fusha Vetjake"
+
+#: build/edit-post/index.js:12
+msgid "Excerpt"
+msgstr "Copëza"
+
+#: build/editor/index.js:17 build/edit-post/index.js:12
+msgid "Publish"
+msgstr "Botoje"
+
+#: build/block-library/index.js:14
+msgid "Metadata"
+msgstr "Tejtëdhëna"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Save"
+msgstr "Ruaje"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:80
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Që të funksionojë si duhet, Gutenbergu lyp WordPress %s ose të mëvonshëm. Ju lutemi, përmirësoni WordPress-in, përpara se të aktivizoni Gutenberg-un."
+
+#: gutenberg.php:64
+msgid "Documentation"
+msgstr "Dokumentim"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Demo"
+
+#: build/block-library/blocks/rss.php:35
+#: build/block-library/blocks/latest-posts.php:35
+#: build/block-library/index.js:14
+msgid "(Untitled)"
+msgstr "(I patitull)"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Përzgjidhni Kategori"

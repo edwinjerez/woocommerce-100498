@@ -1,0 +1,479 @@
+@import 'susy';
+@import 'bourbon';
+@import '../../themes/storefront/assets/css/sass/utils/variables';
+@import '../../themes/storefront/assets/css/sass/utils/mixins';
+@import '../../themes/storefront/assets/css/sass/vendors/font-awesome/variables';
+
+// Styles for mobile
+ul.product-reviews {
+	list-style: none;
+	margin-left: 0;
+	padding: 0;
+	@include clearfix;
+
+	.owl-item {
+		padding: 0 1.618em;
+
+		li.product-review {
+			width: 100% !important;
+
+		}
+	}
+
+	li.product-review {
+		margin-bottom: 4.236em;
+
+		&.first {
+			clear: both;
+		}
+
+		&.last {
+			margin-right: 0 !important;
+		}
+
+		.sr-images {
+			display: block;
+		}
+
+		.sr-view-product {
+			transition: all 0.2s ease;
+
+			&:hover {
+				margin-left: .327em;
+			}
+		}
+
+		&.style-1 {
+			.sr-images {
+				position: relative;
+				margin-bottom: 2.618em;
+
+				.avatar {
+					position: absolute;
+					top: .618em;
+					right: .618em;
+					width: 3em;
+					height: 3em;
+					border-radius: 100%;
+				}
+			}
+
+			.star-rating {
+				margin-bottom: 1em;
+			}
+		}
+
+		&.style-2 {
+			.sr-review-content {
+				padding: 2.618em;
+				border-radius: 6px;
+				margin-bottom: 1.618em;
+				position: relative;
+
+				p:last-child {
+					margin-bottom: 0;
+				}
+
+				&:after {
+					content: "";
+					display: block;
+					border: 1em solid transparent;
+					position: absolute;
+					top: 100%;
+					left: .857em;
+				}
+
+				h3 {
+					clear: none;
+					margin: 0;
+				}
+
+				.star-rating {
+					margin-bottom: 1em;
+				}
+			}
+
+			.wp-post-image {
+				float: right;
+				max-width: 3.631em;
+				height: auto;
+				margin: 0 0 1em 1em;
+			}
+
+			.sr-review-meta {
+				.avatar {
+					float: left;
+					max-width: 3.631em;
+					height: auto;
+					margin: 0 1em 1em 0;
+					border-radius: 100%;
+				}
+
+				date {
+					font-size: .857em;
+
+					&:before {
+						font-family: "Font Awesome 5 Free";
+						font-weight: 900;
+						content: fa-content( $fa-var-clock );
+						margin-right: .53em;
+					}
+				}
+			}
+		}
+
+		&.style-3 {
+			overflow: hidden;
+			position: relative;
+			border: 2px solid rgba(#000,.05);
+
+			.wp-post-image {
+				float: right;
+				max-height: 4.236em;
+				width: auto;
+				margin: 0 0 1em 1em;
+			}
+
+			.star-rating {
+				font-size: 1.618em;
+				margin-bottom: .53em;
+			}
+
+			.inner {
+				padding: 2.618em;
+			}
+		}
+	}
+}
+
+@media screen and (min-width: 768px) {
+
+	/**
+	 * Full width content area product layout
+	 */
+	.page-template-template-fullwidth-php,
+	.page-template-template-homepage-php,
+	.storefront-full-width-content {
+		.site-main {
+			.columns-1 {
+				ul.product-reviews {
+					li.product-review {
+						width: 100%;
+						margin-right: 0;
+						float: none;
+						clear: both;
+
+						&.style-1 {
+							.sr-images {
+								@include span(5 of 12);
+							}
+
+							.sr-review-content {
+								@include span(last 7 of 12);
+							}
+						}
+					}
+				}
+			}
+
+			.columns-2 {
+				ul.product-reviews {
+					li.product-review {
+						@include span(6 of 12);
+
+						&.style-1 {
+							.sr-images {
+								@include span(2 of 6);
+							}
+
+							.sr-review-content {
+								@include span(last 4 of 6);
+							}
+						}
+					}
+				}
+			}
+
+			.columns-3 {
+				ul.product-reviews {
+					li.product-review {
+						@include span(4 of 12);
+
+						&.style-1 {
+							.sr-images {
+								@include span(1 of 4);
+							}
+
+							.sr-review-content {
+								@include span(last 3 of 4);
+							}
+						}
+
+						&.style-2 {
+							font-size: .857em;
+						}
+					}
+				}
+			}
+		}
+	}
+
+	/**
+	 * Main content area (adjacent to sidebar) product layout
+	 */
+	.site-main {
+		.columns-1 {
+			ul.product-reviews {
+				li.product-review {
+					width: 100%;
+					margin-right: 0;
+					float: none;
+				}
+			}
+		}
+
+		// The grid wont work for 2 columns :-(
+		.columns-2 {
+			ul.product-reviews {
+				li.product-review {
+					width: 48%;
+					margin-right: 3.8%;
+
+					&.style-1 {
+						.sr-images {
+							width: 46.5%;
+							float: left;
+						}
+
+						.sr-review-content {
+							width: 46.5%;
+							float: right;
+						}
+					}
+				}
+			}
+		}
+
+		.columns-3 {
+			ul.product-reviews {
+				li.product-review {
+					@include span(3 of 9);
+
+					&.style-1 {
+						.sr-images {
+							width: 100%;
+						}
+
+						.sr-review-content {
+							width: 100%;
+						}
+					}
+
+					&.style-2 {
+						font-size: .857em;
+
+						.sr-review-content {
+							padding: 1.618em;
+						}
+					}
+				}
+			}
+		}
+
+		ul.product-reviews {
+			li.product-review {
+				@include span(3 of 9);
+
+				&.style-1 {
+					.sr-images {
+						width: 100%;
+					}
+
+					.sr-review-content {
+						width: 100%;
+					}
+				}
+			}
+		}
+	}
+}
+
+// Owl carousel
+/*
+ * 	Core Owl Carousel CSS File
+ *	v1.3.3
+ */
+
+.owl-carousel {
+	display: none;
+	position: relative;
+	width: 100%;
+	-ms-touch-action: pan-y;
+
+	.owl-wrapper {
+		@include clearfix;
+		display: none;
+		position: relative;
+		-webkit-transform: translate3d(0px, 0px, 0px);
+	}
+
+	.owl-wrapper-outer {
+		overflow: hidden;
+		position: relative;
+		width: 100%;
+
+		&.autoHeight {
+			transition: height 500ms ease-in-out;
+		}
+	}
+
+	.owl-item {
+		float: left;
+	}
+
+	.owl-controls {
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+		-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+
+		.owl-page,
+		.owl-buttons div {
+			cursor: pointer;
+		}
+	}
+
+	.owl-wrapper,
+	.owl-item {
+		-webkit-backface-visibility: hidden;
+		-moz-backface-visibility:    hidden;
+		-ms-backface-visibility:     hidden;
+		-webkit-transform: translate3d(0,0,0);
+		-moz-transform: translate3d(0,0,0);
+		-ms-transform: translate3d(0,0,0);
+	}
+}
+
+.grabbing {
+    cursor:url(grabbing.png) 8 8, move;
+}
+
+.sr-carousel .owl-controls{
+	text-align: center;
+}
+
+/* Styling Next and Prev buttons */
+
+.sr-carousel {
+	.owl-controls {
+		.owl-page {
+			display: inline-block;
+			zoom: 1;
+			*display: inline;/*IE7 life-saver */
+
+			span {
+				display: block;
+				width: .857em;
+				height: .857em;
+				margin: 0 .53em;
+				opacity: 0.5;
+				-webkit-border-radius: 20px;
+				-moz-border-radius: 20px;
+				border-radius: 20px;
+				background: $color_links;
+			}
+
+			&.active,
+			&:hover {
+				span {
+					opacity: 1;
+				}
+			}
+		}
+	}
+
+	.owl-prev,
+	.owl-next {
+		position: absolute;
+		top: 0;
+		left: -1.618em;
+		display: block;
+		height: 100%;
+		width: 1em;
+		text-indent: -9999px;
+		font-size: 1.618em;
+
+		&:before {
+			position: absolute;
+			top: 50%;
+			left: 0;
+			width: 1em;
+			height: 1em;
+			height: 100%;
+			width: 100%;
+			margin-top: -.5em;
+			line-height: 1;
+			text-align: center;
+			display: block;
+			font-family: "Font Awesome 5 Free";
+			font-weight: 900;
+			content: fa-content( $fa-var-chevron-left );
+			text-indent: 0;
+			color: $color_links;
+			opacity: 0.5;
+		}
+
+		&:hover {
+			&:before {
+				opacity: 1;
+			}
+		}
+	}
+
+	.owl-next {
+		left: auto;
+		right: -1.618em;
+
+		&:before {
+			content: fa-content( $fa-var-chevron-right );
+		}
+	}
+}
+
+/* < Storefront 2.3 */
+.storefront-reviews-compatibility {
+	ul.product-reviews {
+		li.product-review {
+			&.style-2 {
+				.sr-review-meta {
+					date {
+						&:before {
+							font-family: "FontAwesome";
+							font-weight: 400;
+							content: "\f017";
+						}
+					}
+				}
+			}
+		}
+	}
+
+	.sr-carousel {
+		.owl-prev,
+		.owl-next {
+			&:before {
+				font-family: "FontAwesome";
+				font-weight: 400;
+				content: "\f053";
+			}
+		}
+
+		.owl-next {
+			&:before {
+				content: "\f054";
+			}
+		}
+	}
+}

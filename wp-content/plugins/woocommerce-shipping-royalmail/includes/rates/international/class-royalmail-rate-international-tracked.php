@@ -1,0 +1,296 @@
+<?php
+/**
+ * International-Tracked rate.
+ *
+ * @package WC_RoyalMail/Rate
+ */
+
+/**
+ * RoyalMail_Rate_International_Tracked class.
+ *
+ * Updated on 03/15/2019. as per https://www.royalmail.com/sites/default/files/royal-mail-our-prices-25-march-2019.pdf.
+ * See Parcelforce WorldWide page 12.
+ */
+class RoyalMail_Rate_International_Tracked extends RoyalMail_Rate {
+
+	/**
+	 * ID/Name of rate
+	 *
+	 * @var string
+	 */
+	protected $rate_id = 'international_tracked';
+
+	/**
+	 * List of countries that support Tracked service.
+	 *
+	 * @see http://www.royalmail.com/sites/default/files/Royal-Mail-International-Tracking-Signature-Services-List-April2017.pdf
+	 *
+	 * @since 2.5.4
+	 * @version 2.5.4
+	 *
+	 * @var array
+	 */
+	protected $supported_countries = array(
+		'AX',
+		'AD',
+		'AU',
+		'AT',
+		'BE',
+		'BR',
+		'CA',
+		'HR',
+		'CY',
+		'DK',
+		'EE',
+		'FO',
+		'FI',
+		'FR',
+		'DE',
+		'GI',
+		'GR',
+		'GL',
+		'HK',
+		'HU',
+		'IS',
+		'IN',
+		'IE',
+		'IL',
+		'IT',
+		'LV',
+		'LB',
+		'LI',
+		'LT',
+		'LU',
+		'MY',
+		'MT',
+		'NL',
+		'NZ',
+		'NO',
+		'PL',
+		'PT',
+		'RU',
+		'SM',
+		'RS',
+		'SG',
+		'SK',
+		'SI',
+		'KR',
+		'ES',
+		'SE',
+		'CH',
+		'TR',
+		'US',
+		'VA',
+	);
+
+	/**
+	 * Pricing bands - EU, NON EU, ZONE 1, Zone 2
+	 *
+	 * @var array
+	 */
+	protected $bands = array(
+		'2018' => array(
+			'letter' => array(
+				10  => array( 720, 600, 600, 600 ),
+				20  => array( 720, 600, 635, 635 ),
+				100 => array( 780, 650, 725, 725 ),
+			),
+			'large-letter' => array(
+				100  => array( 942, 785, 850, 870 ),
+				250  => array( 996, 830, 935, 965 ),
+				500  => array( 1092, 910, 1115, 1150 ),
+				750  => array( 1152, 960, 1245, 1290 ),
+			),
+			'packet' => array(
+				100  => array( 1074, 895, 965, 990 ),
+				250  => array( 1086, 905, 1015, 1050 ),
+				500  => array( 1266, 1055, 1295, 1345 ),
+				750  => array( 1392, 1160, 1515, 1580 ),
+				1000 => array( 1506, 1255, 1735, 1815 ),
+				1250 => array( 1620, 1350, 1850, 1960 ),
+				1500 => array( 1734, 1445, 1970, 2110 ),
+				1750 => array( 1806, 1505, 2060, 2225 ),
+				2000 => array( 1830, 1525, 2110, 2300 ),
+			),
+		),
+		'2019' => array(
+			'letter' => array(
+				10  => array( 732, 610, 610, 610 ),
+				20  => array( 732, 610, 645, 645 ),
+				100 => array( 786, 655, 730, 730 ),
+			),
+			'large-letter' => array(
+				100  => array( 960, 800, 865, 885 ),
+				250  => array( 1014, 845, 950, 980 ),
+				500  => array( 1056, 880, 1085, 1120 ),
+				750  => array( 1098, 915, 1200, 1245 ),
+			),
+			'packet' => array(
+				100  => array( 1110, 925, 1000, 1025 ),
+				250  => array( 1122, 935, 1055, 1090 ),
+				500  => array( 1314, 1095, 1350, 1400 ),
+				750  => array( 1446, 1205, 1580, 1650 ),
+				1000 => array( 1542, 1285, 1780, 1860 ),
+				1250 => array( 1620, 1350, 1845, 1955 ),
+				1500 => array( 1722, 1435, 1935, 2075 ),
+				1750 => array( 1764, 1470, 2010, 2170 ),
+				2000 => array( 1788, 1490, 2035, 2220 ),
+			),
+		),
+	);
+
+	/**
+	 * Shipping boxes
+	 *
+	 * @var array
+	 */
+	protected $default_boxes = array(
+		'letter' => array(
+			'length'   => 240, // Max L in mm.
+			'width'    => 165, // Max W in mm.
+			'height'   => 5,   // Max H in mm.
+			'weight'   => 100,  // Max Weight in grams.
+		),
+		'large-letter' => array(
+			'length'   => 353,
+			'width'    => 250,
+			'height'   => 25,
+			'weight'   => 750,
+		),
+		'long-parcel' => array(
+			'length'   => 600,
+			'width'    => 150,
+			'height'   => 150,
+			'weight'   => 2000,
+		),
+		'square-parcel' => array(
+			'length'   => 300,
+			'width'    => 300,
+			'height'   => 300,
+			'weight'   => 2000,
+		),
+		'parcel' => array(
+			'length'   => 450,
+			'width'    => 225,
+			'height'   => 225,
+			'weight'   => 2000,
+		),
+	);
+
+	/**
+	 * Fixed compensation
+	 *
+	 * @var string
+	 */
+	private $compensation    = '250';
+
+	/**
+	 * Fixed EU compensation
+	 *
+	 * @var string
+	 */
+	private $compensation_eu = '300';
+
+	/**
+	 * Get quotes for this rate
+	 *
+	 * @param  array  $items to be shipped.
+	 * @param  string $packing_method the method selected.
+	 * @param  string $destination Address to ship to.
+	 * @param  array  $boxes User-defined boxes.
+	 * @return array
+	 */
+	public function get_quotes( $items, $packing_method, $destination, $boxes = array() ) {
+		if ( ! in_array( $destination, $this->supported_countries ) ) {
+			return;
+		}
+
+		$class_quote = false;
+
+		if ( ! empty( $boxes ) ) {
+			$this->boxes = array();
+
+			foreach ( $boxes as $key => $box ) {
+				$this->boxes[ $key ] = array(
+					'length'     => $box['inner_length'],
+					'width'      => $box['inner_width'],
+					'height'     => $box['inner_height'],
+					'box_weight' => $box['box_weight'],
+					'weight'     => 2000,
+				);
+			}
+		} else {
+			$this->boxes = $this->default_boxes;
+		}
+
+		$zone     = $this->get_zone( $destination );
+		$packages = $this->get_packages( $items, $packing_method );
+
+		if ( $packages ) {
+			foreach ( $packages as $package ) {
+
+				if ( 'letter' !== $package->id && 'large-letter' !== $package->id ) {
+					$package->id = 'packet';
+				}
+
+				if ( 'packet' === $package->id && 900 < ( $package->length + $package->width + $package->height ) ) {
+					return false; // Exceeding parcels requirement, unpacked.
+				}
+
+				if ( ! $this->get_rate_bands( $package->id ) ) {
+					return false; // Unpacked item.
+				}
+
+				$this->debug( __( 'International tracked package:', 'woocommerce-shipping-royalmail' ) . ' <pre>' . print_r( $package, true ) . '</pre>' );
+
+				$bands   = $this->get_rate_bands( $package->id );
+				$quote   = 0;
+				$matched = false;
+
+				foreach ( $bands as $band => $value ) {
+					if ( $package->weight <= $band ) {
+						switch ( $zone ) {
+							case 'EU' :
+								$quote += $value[0];
+								break;
+							case 'EUR' :
+								$quote += $value[1];
+								break;
+							case '1' :
+								$quote += $value[2];
+								break;
+							case '2' :
+								$quote += $value[3];
+								break;
+						}
+						$matched = true;
+						break;
+					}
+				}
+
+				if ( ! $matched ) {
+					return;
+				}
+
+				$class_quote  += $quote;
+
+				if ( $package->value > 50 ) {
+					switch ( $zone ) {
+						case 'EU' :
+							$class_quote += $this->compensation_eu;
+						break;
+						default :
+							$class_quote += $this->compensation;
+						break;
+					}
+				}
+			}
+		}
+
+		// Return pounds.
+		$quotes = array();
+		$quotes['international-tracked'] = $class_quote / 100;
+
+		return $quotes;
+	}
+}

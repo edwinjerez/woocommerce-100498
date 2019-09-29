@@ -1,0 +1,639 @@
+# Translation of Plugins - WooCommerce Square - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WooCommerce Square - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-08 13:21:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WooCommerce Square - Stable (latest release)\n"
+
+#. translators: %1$s - transport layer securtiy wiki URL
+#: includes/payment/class-wc-square-gateway.php:84
+msgid "Square is enabled, but a SSL certificate is not detected. Your checkout may not be secure! Please ensure your server has a valid <a href=\"%1$s\" target=\"_blank\">SSL certificate</a>"
+msgstr "Square は有効ですが、 SSL 証明書は検出されません。 支払いページは安全ではないかもしれません！ サーバーに有効な <a href=\"%1$s\" target=\"_blank\">SSL 証明書</a>があることを確認してください"
+
+#: includes/admin/class-wc-square-privacy.php:98
+msgid "Square User Data Erased."
+msgstr "Square のユーザーデータが消去されました。"
+
+#: includes/admin/class-wc-square-privacy.php:65
+msgid "Square customer id"
+msgstr "Square 顧客 id"
+
+#: includes/admin/class-wc-square-privacy.php:61
+msgid "Customer Data"
+msgstr "顧客データ"
+
+#: includes/admin/class-wc-square-privacy.php:23
+msgid "By using this extension, you may be storing personal data or sharing data with an external service. <a href=\"%s\" target=\"_blank\">Learn more about how this works, including what you may want to include in your privacy policy.</a>"
+msgstr "この拡張機能を使用すると、個人データを保存したり、外部サービスとデータを共有したりすることができます。<a href=\"%s\" target=\"_blank\">プライバシーポリシーに含めることができるものを含め、これがどのように機能するかについて詳しく学んでください。</a>"
+
+#: includes/admin/class-wc-square-privacy.php:14
+#: includes/admin/class-wc-square-privacy.php:15
+msgid "WooCommerce Square Customer Data"
+msgstr "WooCommerce Square 顧客データ"
+
+#. Author URI of the plugin
+msgid "https://www.woocommerce.com/"
+msgstr "https://www.woocommerce.com/"
+
+#. Author of the plugin
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Description of the plugin
+msgid "Adds ability to sync inventory between WooCommerce and Square POS. In addition, you can also make purchases through the Square payment gateway."
+msgstr "WooCommerce と Square POS の在庫の同期機能を追加します。さらに、 Square 決済ゲートウェイ経由の購入をすることができます。"
+
+#. Plugin URI of the plugin
+msgid "https://woocommerce.com/products/square/"
+msgstr "https://woocommerce.com/products/square/"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Square"
+msgstr "WooCommerce Square"
+
+#: woocommerce-square.php:412
+msgid "WooCommerce Square is almost ready. Please %1$sset your business location.%2$s"
+msgstr "WooCommerce Square はほぼ準備ができています。 %1$sビジネスの場所を設定してください。%2$s"
+
+#: woocommerce-square.php:408
+msgid "WooCommerce Square is almost ready. To get started, %1$sconnect your Square Account.%2$s"
+msgstr "WooCommerce Square はほぼ準備ができています。開始するには、 %1$sSquare アカウントを接続してください。%2$s"
+
+#: woocommerce-square.php:390
+msgid "WooCommerce Square Plugin requires WooCommerce to be installed and active. You can download %s here."
+msgstr "WooCommerce Square プラグインでは、WooCommerce をインストールして有効にする必要があります。ここで %s をダウンロードできます。"
+
+#: woocommerce-square.php:332
+msgid "This process may take awhile depending on the amount of items that need to be synced. Please do not close this tab/window or else the sync will terminate. Click OK to continue to sync."
+msgstr "このプロセスが、同期する必要がある項目の量に応じてしばらく時間がかかる場合があります。このタブ/ウィンドウを閉じないでくださいまたは他の同期化が終了します。同期を続行する [ok] をクリックします。"
+
+#: woocommerce-square.php:219
+msgid "Square requires that the <a href=\"%s\">currency</a> is set to AUD, CAD, GBP, JPY, or USD."
+msgstr "Square では、<a href=\"%s\">通貨</a>が AUD、CAD、GBP、JPY、または USD に設定されている必要があります。"
+
+#: woocommerce-square.php:211
+msgid "Square requires that the <a href=\"%s\">base country/region</a> is Australia, Canada, Japan, United Kingdom, or United States."
+msgstr "Square では、<a href=\"%s\">サイトの国/地域</a>がオーストラリア、カナダ、日本、英国、または米国であることが必要です。"
+
+#: includes/payment/class-wc-square-payments.php:185
+msgid "Unable to void charge!: %s"
+msgstr "支払を無効にできません!: %s"
+
+#: includes/payment/class-wc-square-payments.php:179
+msgid "Square charge voided! (Charge ID: %s)"
+msgstr "Square 決済が無効になりました！ （請求ID: %s）"
+
+#: includes/payment/class-wc-square-payments.php:172
+#: includes/payment/class-wc-square-payments.php:175
+msgid "Unable to void charge!"
+msgstr "支払いを無効にすることができません！"
+
+#: includes/payment/class-wc-square-payments.php:142
+msgid "Error unable to capture charge: %s"
+msgstr "料金を回収できないエラー: %s"
+
+#: includes/payment/class-wc-square-payments.php:128
+#: includes/payment/class-wc-square-payments.php:132
+msgid "Unable to capture charge!"
+msgstr "支払いを取得することが出来ません!"
+
+#: includes/payment/class-wc-square-payments.php:88
+msgid "Capture Charge"
+msgstr "すぐに支払いを取得する"
+
+#. translators: %1$s - refund amount, %2$s - refund id, %3$s - refund reason
+#: includes/payment/class-wc-square-gateway.php:531
+msgid "Refunded %1$s - Refund ID: %2$s - Reason: %3$s"
+msgstr "払い戻しされた %1$s - 払い戻しID:  %2$s - 理由: %3$s"
+
+#. translators: %s - customer id
+#: includes/payment/class-wc-square-gateway.php:473
+msgid "Customer created on Square: %s"
+msgstr "Square で顧客を作成 : %s"
+
+#. translators: %s - error message
+#. translators: %s - errors
+#: includes/payment/class-wc-square-gateway.php:456
+#: includes/payment/class-wc-square-gateway.php:458
+#: includes/payment/class-wc-square-gateway.php:464
+#: includes/payment/class-wc-square-gateway.php:466
+msgid "Error creating customer: %s"
+msgstr "顧客の作成中にエラーが発生しました : %s"
+
+#: includes/payment/class-wc-square-gateway.php:436
+msgid "Guest"
+msgstr "ゲストユーザ"
+
+#. translators: %s - error message
+#: includes/payment/class-wc-square-gateway.php:404
+#: includes/payment/class-wc-square-gateway.php:543
+msgid "Error: %s"
+msgstr "エラー : %s"
+
+#. translators: %s - transaction id
+#: includes/payment/class-wc-square-gateway.php:381
+msgid "Square charge authorized (Authorized ID: %s). Process order to take payment, or cancel to remove the pre-authorization."
+msgstr "Square 決済が承認されました（承認済みID：%s）。支払いを受けるための注文を処理するか、事前承認を取り消すためにキャンセルします。"
+
+#. translators: %s - transaction id
+#: includes/payment/class-wc-square-gateway.php:371
+#: includes/payment/class-wc-square-payments.php:136
+msgid "Square charge complete (Charge ID: %s)"
+msgstr "Square 決済完了 (決済ID: %s)"
+
+#: includes/payment/class-wc-square-gateway.php:338
+msgid "Payment Error: "
+msgstr "決済エラー : "
+
+#: includes/payment/class-wc-square-gateway.php:326
+#: includes/payment/class-wc-square-gateway.php:333
+#: includes/payment/class-wc-square-gateway.php:357
+msgid "Error: Square was unable to complete the transaction. Please try again later or use another means of payment."
+msgstr "エラー：Square はトランザクションを完了できませんでした。後でもう一度お試しいただくか、別のお支払い方法を使用してください。"
+
+#: includes/payment/class-wc-square-gateway.php:264
+msgid "•••• •••• •••• ••••"
+msgstr "•••• •••• •••• ••••"
+
+#: includes/payment/class-wc-square-gateway.php:204
+#: includes/payment/class-wc-square-gateway.php:205
+#: includes/payment/class-wc-square-gateway.php:267
+msgid "Card Postal Code"
+msgstr "カード支払い請求先の郵便番号"
+
+#: includes/payment/class-wc-square-gateway.php:200
+#: includes/payment/class-wc-square-gateway.php:266
+msgid "CVV"
+msgstr "CVV"
+
+#: includes/payment/class-wc-square-gateway.php:199
+msgid "Card Code"
+msgstr "セキュリティコード"
+
+#: includes/payment/class-wc-square-gateway.php:195
+#: includes/payment/class-wc-square-gateway.php:265
+msgid "MM / YY"
+msgstr "MM / YY"
+
+#: includes/payment/class-wc-square-gateway.php:194
+msgid "Expiry (MM/YY)"
+msgstr "有効期限（月/年）"
+
+#: includes/payment/class-wc-square-gateway.php:189
+msgid "Card Number"
+msgstr "カード番号"
+
+#: includes/payment/class-wc-square-gateway.php:151
+msgid "When enabled, processing a payment will create a customer profile on Square."
+msgstr "有効にすると、支払いを処理すると Square に顧客プロフィールが作成されます。"
+
+#: includes/payment/class-wc-square-gateway.php:149
+msgid "Enable Create Customer"
+msgstr "顧客作成を有効にする"
+
+#: includes/payment/class-wc-square-gateway.php:148
+msgid "Create Customer"
+msgstr "顧客作成"
+
+#: includes/payment/class-wc-square-gateway.php:144
+msgid "When enabled, the request will only perform an Auth on the provided card. You can then later perform either a Capture or Void."
+msgstr "有効にすると、リクエストは提供されたカードで認証のみを実行します。後で支払いまたは払い戻しのいずれかを実行することができます。"
+
+#: includes/payment/class-wc-square-gateway.php:142
+msgid "Enable Delay Capture"
+msgstr "支払い待ちを有効にする"
+
+#: includes/payment/class-wc-square-gateway.php:141
+msgid "Delay Capture"
+msgstr "支払い待ち"
+
+#: includes/payment/class-wc-square-gateway.php:138
+msgid "Pay with your credit card via Square."
+msgstr "Square 経由でクレジットカードでお支払いください。"
+
+#: includes/payment/class-wc-square-gateway.php:137
+msgid "This controls the description which the user sees during checkout."
+msgstr "お客様のお支払い時に表示する説明を入力します。"
+
+#: includes/payment/class-wc-square-gateway.php:135
+msgid "Description"
+msgstr "説明"
+
+#: includes/payment/class-wc-square-gateway.php:132
+msgid "Credit card (Square)"
+msgstr "クレジットカード（Square）"
+
+#: includes/payment/class-wc-square-gateway.php:131
+msgid "This controls the title which the user sees during checkout."
+msgstr "お客様のお支払い時に表示するタイトルを入力します。"
+
+#: includes/payment/class-wc-square-gateway.php:129
+msgid "Title"
+msgstr "タイトル"
+
+#: includes/payment/class-wc-square-gateway.php:123
+msgid "Enable Square"
+msgstr "Square を有効化"
+
+#: includes/payment/class-wc-square-gateway.php:122
+msgid "Enable/Disable"
+msgstr "有効化/無効化"
+
+#: includes/payment/class-wc-square-gateway.php:43
+msgid "STAGING MODE ENABLED. In staging mode, you can use the card number 4111111111111111 with any CVC and a valid expiration date."
+msgstr "ステージングモードが有効です。ステージングモードでは、カード番号 4111111111111111 に任意の CVC と有効期限を使用できます。"
+
+#: includes/payment/class-wc-square-gateway.php:17
+msgid "Square works by adding payments fields in an iframe and then sending the details to Square for verification and processing."
+msgstr "Square は iframe に支払いフィールドを追加し、詳細を Square に送信して検証と処理を行います。"
+
+#: includes/class-wc-square-wc-products.php:2294
+msgid "You do not have permission to create product attributes"
+msgstr "商品属性を作成する権限がありません。"
+
+#: includes/class-wc-square-wc-products.php:2269
+msgid "Invalid product attribute order_by type - the product attribute order_by type must be any of these: %s"
+msgstr "商品属性の無効な order_by タイプ - 商品属性の order_by タイプはこれらのいずれかでなければなりません: %s"
+
+#: includes/class-wc-square-wc-products.php:2264
+msgid "Invalid product attribute type - the product attribute type must be any of these: %s"
+msgstr "無効な商品属性タイプ - 商品属性タイプは、これらのいずれかでなければなりません: %s"
+
+#: includes/class-wc-square-wc-products.php:2259
+msgid "Slug \"%s\" is already in use. Change it, please."
+msgstr "スラッグ \"%s\" は既に使われています。変更してください。"
+
+#: includes/class-wc-square-wc-products.php:2257
+msgid "Slug \"%s\" is not allowed because it is a reserved term. Change it, please."
+msgstr "スラッグ \"%s\" は予約語のため許可されていません。変更してください。"
+
+#: includes/class-wc-square-wc-products.php:2255
+msgid "Slug \"%s\" is too long (28 characters max). Shorten it, please."
+msgstr "スラッグ \"%s\"は長過ぎます(最大28文字)。短くして下さい"
+
+#: includes/class-wc-square-wc-products.php:2219
+msgid "A product attribute with the provided ID could not be found"
+msgstr "提供された ID の商品属性が見つかりません"
+
+#: includes/class-wc-square-wc-products.php:2204
+msgid "Invalid product attribute ID"
+msgstr "無効な商品属性 ID"
+
+#: includes/class-wc-square-wc-products.php:2165
+#: includes/class-wc-square-wc-products.php:2209
+msgid "You do not have permission to read product attributes"
+msgstr "商品属性を読み取る権限がありません"
+
+#: includes/class-wc-square-wc-products.php:1999
+msgid "Zero size file downloaded"
+msgstr "ゼロサイズのファイルがダウンロードされました"
+
+#: includes/class-wc-square-wc-products.php:1982
+msgid "Invalid image type."
+msgstr "無効な画像形式です。"
+
+#: includes/class-wc-square-wc-products.php:1959
+msgid "Error: %s."
+msgstr "エラー : %s。"
+
+#: includes/class-wc-square-wc-products.php:1959
+#: includes/class-wc-square-wc-products.php:1961
+msgid "Error getting remote image %s."
+msgstr "遠隔画像 %s をエラーが取得"
+
+#: includes/class-wc-square-wc-products.php:1947
+msgid "Invalid URL %s"
+msgstr "無効な URL %s"
+
+#: includes/class-wc-square-wc-products.php:1825
+#: includes/class-wc-square-wc-products.php:1826
+msgid "Placeholder"
+msgstr "プレースホルダー"
+
+#: includes/class-wc-square-wc-products.php:1322
+msgid "Variation #%1$s of %2$s"
+msgstr "%2$s のバリエーション %1$s"
+
+#: includes/class-wc-square-wc-products.php:926
+#: includes/class-wc-square-wc-products.php:1369
+msgid "The SKU already exists on another product"
+msgstr "その SKU はすでに他の商品で使われています"
+
+#: includes/class-wc-square-wc-products.php:649
+msgid "Could not edit the category"
+msgstr "カテゴリーを編集できませんでした"
+
+#: includes/class-wc-square-wc-products.php:619
+msgid "You do not have permission to edit product categories"
+msgstr "商品カテゴリーを編集する権限がありません"
+
+#: includes/class-wc-square-wc-products.php:561
+msgid "Product category parent is invalid"
+msgstr "親商品カテゴリーが無効です"
+
+#: includes/class-wc-square-wc-products.php:541
+msgid "You do not have permission to create product categories"
+msgstr "商品カテゴリーを作成する権限がありません"
+
+#: includes/class-wc-square-wc-products.php:492
+msgid "A product category with the provided ID could not be found"
+msgstr "提供されたIDの商品カテゴリーはありません"
+
+#: includes/class-wc-square-wc-products.php:481
+msgid "Invalid product category ID"
+msgstr "無効な商品カテゴリー ID"
+
+#: includes/class-wc-square-wc-products.php:450
+#: includes/class-wc-square-wc-products.php:486
+msgid "You do not have permission to read product categories"
+msgstr "商品カテゴリーを読み取る権限がありません"
+
+#: includes/class-wc-square-wc-products.php:354
+#: includes/class-wc-square-wc-products.php:611
+msgid "No %1$s data specified to edit %1$s"
+msgstr "%1$s を編集する指定された %1$s のデータなし"
+
+#: includes/class-wc-square-wc-products.php:278
+#: includes/class-wc-square-wc-products.php:405
+msgid "Invalid product type - the product type must be any of these: %s"
+msgstr "無効な商品タイプ - 商品タイプは、これらのいずれかでなければなりません: %s"
+
+#: includes/class-wc-square-wc-products.php:263
+#: includes/class-wc-square-wc-products.php:2251
+msgid "Missing parameter %s"
+msgstr "パラメーター %s がありません"
+
+#: includes/class-wc-square-wc-products.php:256
+msgid "You do not have permission to create products"
+msgstr "商品を作成するための権限がありません"
+
+#: includes/class-wc-square-wc-products.php:249
+#: includes/class-wc-square-wc-products.php:536
+#: includes/class-wc-square-wc-products.php:2287
+msgid "No %1$s data specified to create %1$s"
+msgstr "%1$s を作成する指定された %1$s のデータなし"
+
+#: includes/class-wc-square-wc-products.php:110
+msgid "You do not have permission to delete this %s"
+msgstr "この%sを削除するための権限がありません"
+
+#: includes/class-wc-square-wc-products.php:104
+msgid "You do not have permission to edit this %s"
+msgstr "この%sを編集する権限がありません"
+
+#: includes/class-wc-square-wc-products.php:98
+msgid "You do not have permission to read this %s"
+msgstr "この%sを閲覧する権限がありません"
+
+#: includes/class-wc-square-wc-products.php:90
+msgid "Invalid %s"
+msgstr "無効な %s"
+
+#: includes/class-wc-square-wc-products.php:82
+msgid "No %1$s found with the ID equal to %2$s"
+msgstr "%2$s と等しいIDの %1$s が見つかりません。"
+
+#: includes/class-wc-square-wc-products.php:73
+msgid "Invalid %s ID"
+msgstr "無効な %s ID"
+
+#: includes/class-wc-square-utils.php:50
+msgid "Regular"
+msgstr "標準価格"
+
+#: includes/class-wc-square-connect.php:65
+msgid "This will clear all Square Sync related transients/caches to start fresh. Useful when sync failed halfway through."
+msgstr "これは、すべての Square 同期に関連する一時/キャッシュをリフレッシュしてクリアします。同期してから途中で失敗したときに便利です。"
+
+#: includes/class-wc-square-connect.php:64
+msgid "Clear all transients/cache"
+msgstr "全てのキャッシュや一時データをクリア"
+
+#: includes/class-wc-square-connect.php:63
+msgid "Square Sync Transients"
+msgstr "Square 一時同期"
+
+#: includes/class-wc-square-connect.php:59
+msgid "Square Sync Transients Cleared"
+msgstr "Square 一時同期をクリア"
+
+#: includes/admin/class-wc-square-bulk-sync-handler.php:448
+msgid "%s"
+msgstr "%s"
+
+#: includes/admin/class-wc-square-bulk-sync-handler.php:443
+msgid "%s - WooCommerce Square Sync Operation"
+msgstr "%s - WooCommerce Square 同期操作"
+
+#: includes/admin/class-wc-square-bulk-sync-handler.php:266
+msgid "No Products to Sync."
+msgstr "同期する商品がありません。"
+
+#: includes/admin/class-wc-square-bulk-sync-handler.php:155
+#: includes/admin/class-wc-square-bulk-sync-handler.php:259
+msgid "Sync completed"
+msgstr "同期が完了しました"
+
+#: includes/admin/class-wc-square-bulk-sync-handler.php:150
+#: includes/admin/class-wc-square-bulk-sync-handler.php:254
+msgid "Sync Completed"
+msgstr "同期が完了しました"
+
+#: includes/admin/class-wc-square-bulk-sync-handler.php:75
+#: includes/admin/class-wc-square-bulk-sync-handler.php:190
+msgid "cURL is not available. Sync aborted. Please contact your host to install cURL."
+msgstr "cURL は利用できません。同期が中止されました。cURL をインストールするのにはサーバー管理者にお問い合わせください。"
+
+#: includes/admin/class-wc-square-bulk-sync-handler.php:70
+#: includes/admin/class-wc-square-bulk-sync-handler.php:185
+msgid "Product Sync is disabled. Sync aborted."
+msgstr "商品の同期が無効になっています。同期が中止されました。"
+
+#: includes/admin/class-wc-square-admin-product-meta-box.php:115
+msgid "No"
+msgstr "いいえ"
+
+#: includes/admin/class-wc-square-admin-product-meta-box.php:114
+msgid "Yes"
+msgstr "はい"
+
+#: includes/admin/class-wc-square-admin-product-meta-box.php:113
+msgid "— No Change —"
+msgstr "— 変更なし —"
+
+#: includes/admin/class-wc-square-admin-product-meta-box.php:108
+msgid "Disable Sync"
+msgstr "同期を無効化"
+
+#: includes/admin/class-wc-square-admin-product-meta-box.php:61
+msgid "Check box to disable this product from syncing."
+msgstr "この商品との同期を無効化するチェックボックス。"
+
+#: includes/admin/class-wc-square-admin-product-meta-box.php:59
+msgid "(Square) Disable Sync"
+msgstr "(Square) 同期を無効化"
+
+#: includes/admin/class-wc-square-admin-integration.php:242
+#: includes/admin/class-wc-square-admin-integration.php:277
+#: woocommerce-square.php:84 woocommerce-square.php:96
+msgid "Cheatin&#8217; huh?"
+msgstr "間違えましたか ?"
+
+#: includes/admin/class-wc-square-admin-integration.php:218
+msgid "Square &rarr; WC"
+msgstr "Square &rarr; WC"
+
+#: includes/admin/class-wc-square-admin-integration.php:215
+msgid "Click button to perform a one time sync from Square to WooCommerce."
+msgstr "ボタンをクリックして、 Square から WooCommerce にワンタイム同期を実行します。"
+
+#: includes/admin/class-wc-square-admin-integration.php:214
+msgid "Square &rarr; WC Sync"
+msgstr "Square &rarr; WC 同期"
+
+#: includes/admin/class-wc-square-admin-integration.php:209
+msgid "WC &rarr; Square"
+msgstr "WC &rarr; Square"
+
+#: includes/admin/class-wc-square-admin-integration.php:206
+msgid "Click button to perform a one time sync from WooCommerce to Square."
+msgstr "ボタンをクリックして、 WooCommerce から Square にワンタイム同期を実行します。"
+
+#: includes/admin/class-wc-square-admin-integration.php:205
+msgid "WC &rarr; Square Sync"
+msgstr "WC &rarr; Square 同期"
+
+#: includes/admin/class-wc-square-admin-integration.php:201
+msgid "Initiate a Manual Sync"
+msgstr "手動同期を開始する"
+
+#: includes/admin/class-wc-square-admin-integration.php:185
+msgid "Connect with Square"
+msgstr "Square に接続"
+
+#: includes/admin/class-wc-square-admin-integration.php:177
+msgid "Disconnect from Square"
+msgstr "Square から切断"
+
+#: includes/admin/class-wc-square-admin-integration.php:172
+msgid "Connect/Disconnect"
+msgstr "接続/切断"
+
+#: includes/admin/class-wc-square-admin-integration.php:112
+msgid "For automatic inventory syncing from Square to WooCommerce, this needs to be enabled. It will poll the inventory from Square on an hourly basis."
+msgstr "Square から WooCommerce への自動在庫同期のためには、これを有効にする必要があります。それは毎時間 Square から在庫を同期します。"
+
+#: includes/admin/class-wc-square-admin-integration.php:111
+msgid "Enable"
+msgstr "有効化"
+
+#: includes/admin/class-wc-square-admin-integration.php:109
+msgid "Square Inventory Sync"
+msgstr "Square の在庫に同期"
+
+#: includes/admin/class-wc-square-admin-integration.php:105
+msgid "Product Image will be synced."
+msgstr "商品画像を同期する。"
+
+#: includes/admin/class-wc-square-admin-integration.php:104
+msgid "Sync Images"
+msgstr "画像の同期"
+
+#: includes/admin/class-wc-square-admin-integration.php:102
+msgid "Include Images"
+msgstr "画像を含める"
+
+#: includes/admin/class-wc-square-admin-integration.php:98
+msgid "Inventory will sync on manual update or after a Product is ordered."
+msgstr "手動更新または商品の発注後に在庫が同期されます。"
+
+#: includes/admin/class-wc-square-admin-integration.php:97
+msgid "Sync Inventory"
+msgstr "在庫の同期"
+
+#: includes/admin/class-wc-square-admin-integration.php:95
+msgid "Include Inventory"
+msgstr "在庫を含め​​る"
+
+#: includes/admin/class-wc-square-admin-integration.php:91
+msgid "Categories will sync on creation or update, and Products will have their Categories synced."
+msgstr "カテゴリは作成または更新時に同期され、商品はそのカテゴリが同期されます。"
+
+#: includes/admin/class-wc-square-admin-integration.php:90
+msgid "Sync Categories"
+msgstr "カテゴリーの同期"
+
+#: includes/admin/class-wc-square-admin-integration.php:88
+msgid "Include Categories"
+msgstr "カテゴリーを含める"
+
+#: includes/admin/class-wc-square-admin-integration.php:84
+msgid "Basic Product information will be synced, excluding Categories and Inventory."
+msgstr "カテゴリーと在庫以外の基本的な商品情報が同期されます。"
+
+#: includes/admin/class-wc-square-admin-integration.php:83
+msgid "Products"
+msgstr "商品"
+
+#: includes/admin/class-wc-square-admin-integration.php:81
+msgid "Enabled"
+msgstr "使用可能"
+
+#: includes/admin/class-wc-square-admin-integration.php:78
+msgid "Determine which aspects of your product catalog to synchronize between WooCommerce and Square. Products need to have SKUs set for each variation."
+msgstr "WooCommerce と Square の間を同期するカタログの商品のどの側面を決定します。商品の SKU の各バリエーションの設定が必要です。"
+
+#: includes/admin/class-wc-square-admin-integration.php:76
+msgid "Synchronization"
+msgstr "同期"
+
+#: includes/admin/class-wc-square-admin-integration.php:72
+#: includes/payment/class-wc-square-gateway.php:158
+msgid "Save debug messages to the WooCommerce System Status log."
+msgstr "WooCommerce システムステータスログへのデバッグメッセージを保存します。"
+
+#: includes/admin/class-wc-square-admin-integration.php:70
+#: includes/payment/class-wc-square-gateway.php:156
+msgid "Log debug messages"
+msgstr "デバッグメッセージのログ"
+
+#: includes/admin/class-wc-square-admin-integration.php:69
+#: includes/payment/class-wc-square-gateway.php:155
+msgid "Logging"
+msgstr "ログ記録"
+
+#: includes/admin/class-wc-square-admin-integration.php:63
+msgid "Enter the email(s) to be notified when a sync has ended.  Separate each email with a comma."
+msgstr "同期が終了した時に通知すべきメールアドレスを入力してください。複数の場合はコンマで区切ってください。"
+
+#: includes/admin/class-wc-square-admin-integration.php:61
+msgid "Notification Email"
+msgstr "通知メール"
+
+#: includes/admin/class-wc-square-admin-integration.php:57
+msgid "Select a Location"
+msgstr "会社を選択"
+
+#: includes/admin/class-wc-square-admin-integration.php:55
+msgid "Select the location you wish to link to this site. You must have <a href=\"https://squareup.com/dashboard/locations\" target=\"_blank\">locations</a> set in Square and approved."
+msgstr "このサイトにリンクする場所を選択してください。  Square に設定され、承認された<a href=\"https://squareup.com/dashboard/locations\" target=\"_blank\">場所</a>を持っている必要があります。"
+
+#: includes/admin/class-wc-square-admin-integration.php:53
+msgid "Business Location"
+msgstr "会社の場所"
+
+#: includes/admin/class-wc-square-admin-integration.php:21
+msgid "Connect with Square to start syncing your products and inventory and also accept credit card and debit card payments in your checkout."
+msgstr "商品や在庫の同期を開始し、また、決済時にクレジット カードやデビット カードでの支払いを受けつける Square に接続します。"
+
+#: includes/admin/class-wc-square-admin-integration.php:20
+#: includes/admin/class-wc-square-privacy.php:12
+#: includes/payment/class-wc-square-gateway.php:16
+msgid "Square"
+msgstr "Square"

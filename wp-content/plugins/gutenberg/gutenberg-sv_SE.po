@@ -1,0 +1,4163 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-31 22:58:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/components/index.js:19
+msgid "Custom"
+msgstr "Anpassat"
+
+#: build/editor/index.js:17
+msgid "Draft"
+msgstr "Utkast"
+
+#. translators: 1: block name, 2: block style name
+#: lib/class-wp-block-styles-registry.php:76
+msgid "Block \"%1$s\" does not contain a style named \"%2$s.\"."
+msgstr "Blocket ”%1$s” innehåller inte någon stil med namnet ”%2$s”."
+
+#: build/block-editor/index.js:55
+msgid "Learn more about anchors"
+msgstr "Lär dig mer om ankare"
+
+#: build/editor/index.js:17
+msgid "%1$s Error message: %2$s"
+msgstr "%1$s Felmeddelande: %2$s"
+
+#: build/block-editor/index.js:55
+msgid "Enter a word or two — without spaces — to make a unique web address just for this heading, called an “anchor.” Then, you’ll be able to link directly to this section of your page."
+msgstr "Skriv in ett eller ett par ord – utan mellanslag – för att skapa en unik webbadress för just denna rubrik, ett så kallat ”ankare”. Sedan kommer du att kunna länka direkt till just denna sektion på sin sida."
+
+#: lib/customizer.php:60
+msgid "Widget Blocks (Experimental)"
+msgstr "Widget-block (experimentellt)"
+
+#: build/edit-widgets/index.js:1
+msgid "Block areas saved succesfully."
+msgstr "Blockområden sparade utan problem."
+
+#: build/block-editor/index.js:55
+msgid "Skip"
+msgstr "Hoppa över"
+
+#: build/block-editor/index.js:55
+msgid "Choose Layout"
+msgstr "Välj layout"
+
+#: build/block-editor/index.js:55
+msgid "Select a layout to start with."
+msgstr "Välj en layout att starta med."
+
+#: build/block-editor/index.js:55
+msgid "Select a layout to start with, or make one yourself."
+msgstr "Välj en layout att starta med eller gör din egen."
+
+#: build/block-library/index.js:14
+msgid "What's this?"
+msgstr "Vad är detta?"
+
+#: build/block-library/index.js:14
+msgid "https://codex.wordpress.org/Nofollow"
+msgstr "https://codex.wordpress.org/Nofollow"
+
+#: build/block-library/index.js:14
+msgid "Don't let search engines follow this link."
+msgstr "Låt inte sökmotorer följa denna länk."
+
+#: build/block-library/index.js:14
+msgid "Description"
+msgstr "Beskrivning"
+
+#: build/block-library/index.js:14
+msgid "Open in new tab"
+msgstr "Öppna i ny flik"
+
+#: build/block-library/index.js:14
+msgid "Navigation Label"
+msgstr "Navigeringsetikett"
+
+#: build/block-library/index.js:14
+msgid "links"
+msgstr "länkar"
+
+#: build/block-library/index.js:14
+msgid "menu"
+msgstr "meny"
+
+#: build/block-library/index.js:14
+msgid "Menu Settings"
+msgstr "Menyinställningar"
+
+#: build/block-library/index.js:14
+msgid "Search or paste a link"
+msgstr "Sök eller klistra in en länk"
+
+#: build/block-library/index.js:14
+msgid "https://wordpress.org/support/article/embeds/"
+msgstr "https://wordpress.org/support/article/embeds/"
+
+#: build/block-library/index.js:14
+msgid "Learn more about embeds"
+msgstr "Lär dig mer om inbäddningar"
+
+#: build/block-library/index.js:14
+msgid "Automatically add new pages"
+msgstr "Lägg till nya sidor automatiskt"
+
+#: build/block-library/index.js:14
+msgid "Edit label text"
+msgstr "Redigera etikettext"
+
+#: build/block-library/index.js:14
+msgid "Move right"
+msgstr "Flytta höger"
+
+#: build/block-library/index.js:14
+msgid "Move left"
+msgstr "Flytta vänster"
+
+#: build/block-library/index.js:14
+msgid "Move to start"
+msgstr "Flytta till start"
+
+#: build/block-library/index.js:14
+msgid "SEO Settings"
+msgstr "SEO-inställningar"
+
+#: build/block-library/index.js:14
+msgid "Title Attribute"
+msgstr "Rubrikattribut"
+
+#: build/block-library/index.js:14
+msgid "Remove from menu"
+msgstr "Ta bort från meny"
+
+#: build/block-editor/index.js:55
+msgid "Upload a media file or pick one from your media library."
+msgstr "Ladda upp en mediafil eller välj en från mediabiblioteket."
+
+#: build/block-editor/index.js:55
+msgid "Upload an audio file, pick one from your media library, or add one with a URL."
+msgstr "Ladda upp en ljudfil, välj en från mediabiblioteket eller lägg till en med dess URL."
+
+#: build/block-editor/index.js:55
+msgid "Upload a video file, pick one from your media library, or add one with a URL."
+msgstr "Ladda upp en videofil, välj en från mediabiblioteket eller lägg till en med dess URL."
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Upload an image file, pick one from your media library, or add one with a URL."
+msgstr "Ladda upp en bild, välj en från mediabiblioteket eller lägg till en med dess URL."
+
+#: build/block-library/index.js:14
+msgid "Add a page, link, or other item to your Navigation Menu."
+msgstr "Lägg till en sida, en länk eller något annat objekt i din navigeringsmeny."
+
+#: build/block-library/index.js:14
+msgid "Menu Item (Experimental)"
+msgstr "Menyobjekt (experimentellt)"
+
+#: build/block-library/index.js:14
+msgid "Add nofollow to menu item"
+msgstr "Lägg in ”nofollow” för menyobjektet"
+
+#: build/block-library/index.js:14
+msgid "Provide more context about where the link goes."
+msgstr "Ge mer kontext om vart länken leder."
+
+#: build/block-library/index.js:14
+msgid "Nest underneath…"
+msgstr "Kapsla nivåer nedan …"
+
+#: build/block-library/index.js:14
+msgid "Move to end"
+msgstr "Gå till slutet"
+
+#: build/block-library/index.js:14
+msgid "navigation"
+msgstr "navigation"
+
+#: build/block-library/index.js:14
+msgid "Add a navigation menu to your site."
+msgstr "Lägg till en navigationsmenyn på webbplatsen."
+
+#: build/block-library/index.js:14
+msgid "Navigation Menu (Experimental)"
+msgstr "Navigationsmeny (experimentellt)"
+
+#: build/block-library/index.js:14
+msgid "Automatically add new top level pages to this menu."
+msgstr "Lägg automatiskt till sidor i toppnivå i denna meny."
+
+#: build/block-library/index.js:14
+msgid "Insert a new menu item"
+msgstr "Lägg in ett nytt menyobjekt"
+
+#: build/block-library/index.js:14
+msgid "Upload a file or pick one from your media library."
+msgstr "Ladda upp en fil eller välj en i mediabiblioteket."
+
+#: build/block-library/index.js:14
+msgid "Paste a link to the content you want to display on your site."
+msgstr "Klistra in en länk till innehållet du vill visa på din webbplats."
+
+#: build/block-library/index.js:14
+msgid "Upload an image or video file, or pick one from your media library."
+msgstr "Ladda upp en bild- eller videofil eller välj en från mediabiblioteket."
+
+#: build/block-library/index.js:14
+msgid "Three columns; wide center column"
+msgstr "Tre kolumner med bred kolumn i mitten"
+
+#: build/block-library/index.js:14
+msgid "Three columns; equal split"
+msgstr "Tre jämnbreda kolumner"
+
+#: build/block-library/index.js:14
+msgid "Two columns; two-thirds, one-third split"
+msgstr "Två kolumner uppdelade två resp. en tredjedel"
+
+#: build/block-library/index.js:14
+msgid "Two columns; one-third, two-thirds split"
+msgstr "Två kolumner uppdelade en resp. två tredjedelar"
+
+#: build/block-library/index.js:14
+msgid "Two columns; equal split"
+msgstr "Två jämnbreda kolumner"
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:37
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "Din webbplats saknar %s, så det finns inget att visa just nu."
+
+#: build/block-library/index.js:14
+msgid "Create Table"
+msgstr "Skapa tabell"
+
+#: build/block-library/index.js:14
+msgid "Insert a table for sharing data."
+msgstr "Infoga en tabell för att dela data."
+
+#: build/edit-post/index.js:12
+msgid "More tools & options"
+msgstr "Fler verktyg och alternativ"
+
+#: build/editor/index.js:17
+msgctxt "verb"
+msgid "Group"
+msgstr "Gruppera"
+
+#: build/editor/index.js:17
+msgctxt "Ungrouping blocks from within a Group block back into individual blocks within the Editor "
+msgid "Ungroup"
+msgstr "Lös upp grupp"
+
+#: build/block-editor/index.js:55
+msgid "Separate multiple classes with spaces."
+msgstr "Separera flera klasser med mellanslag."
+
+#: build/components/index.js:19
+msgid "Separate with commas, spaces, or the Enter key."
+msgstr "Separera med kommatecken, mellanslag eller Enter-tangenten."
+
+#: build/components/index.js:19
+msgid "Separate with commas or the Enter key."
+msgstr "Separera med kommatecken eller Enter-tangenten."
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:332
+msgid "Displays a set of blocks"
+msgstr "Visar en uppsättning block"
+
+#: lib/class-wp-rest-widget-areas-controller.php:49
+msgid "The sidebar’s ID."
+msgstr "Sidopanelens ID."
+
+#: lib/class-wp-rest-widget-areas-controller.php:56
+msgid "Sidebar content."
+msgstr "Sidopanelens innehåll"
+
+#: lib/class-wp-rest-widget-areas-controller.php:99
+msgid "Sorry, you are not allowed to read sidebars."
+msgstr "Du har inte behörighet att läsa sidopaneler."
+
+#: lib/class-wp-rest-widget-areas-controller.php:150
+msgid "Sorry, you are not allowed to edit sidebars."
+msgstr "Du har inte behörighet att redigera sidopaneler."
+
+#: build/block-library/index.js:14
+msgid "Move Image Backward"
+msgstr "Flytta bilden bakåt"
+
+#: build/block-library/index.js:14
+msgid "Move Image Forward"
+msgstr "Flytta bilden framåt"
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:328
+#: lib/class-experimental-wp-widget-blocks-manager.php:340
+msgid "Blocks Area"
+msgstr "Blockområden"
+
+#: build/block-library/blocks/latest-posts.php:70
+#: build/block-library/index.js:14
+msgid "Read More"
+msgstr "Läs mer"
+
+#: build/block-library/index.js:14
+msgid "Column Settings"
+msgstr "Kolumninställningar"
+
+#: lib/widgets.php:189
+msgid "Block area updated."
+msgstr "Blockområde uppdaterat."
+
+#: build/server-side-render/index.js:1
+msgid "Block rendered as empty."
+msgstr "Blocket visas tomt."
+
+#: build/format-library/index.js:1
+msgid "Inline Code"
+msgstr "Programkod inline"
+
+#: build/block-library/index.js:14
+msgid "Footer section"
+msgstr "Sidfotssektion"
+
+#: build/block-library/index.js:14
+msgid "Header section"
+msgstr "Sidhuvudssektion"
+
+#: build/block-library/index.js:14
+msgid "Sorting and Filtering"
+msgstr "Sortering och filtrering"
+
+#: build/block-library/index.js:14
+msgid "Post Meta Settings"
+msgstr "Inställningar för metainformation om inlägg"
+
+#: build/block-library/index.js:14
+msgid "Post Content"
+msgstr "Inläggsinnehåll"
+
+#: build/block-library/index.js:14
+msgid "Post Content Settings"
+msgstr "Inställningar för inläggsinnehåll"
+
+#: build/block-library/index.js:14
+msgid "Percentage width"
+msgstr "Bredd i procent"
+
+#: build/block-library/index.js:14
+msgid "Note: Autoplaying audio may cause usability issues for some visitors."
+msgstr "Obs: Självstartande ljud kan orsaka åtkomlighetsproblem för en del besökare."
+
+#: build/block-library/index.js:14
+msgid "Note: Autoplaying videos may cause usability issues for some visitors."
+msgstr "Obs: Vissa självstartande videoklipp kan orsaka åtkomlighetsproblem för en del besökare."
+
+#: lib/widgets.php:188
+msgid "Block area scheduled."
+msgstr "Blockområdet är schemalagt."
+
+#: lib/widgets.php:175
+msgid "New Block Area"
+msgstr "Nytt blockområde"
+
+#: lib/widgets.php:176
+msgid "Edit Block Area"
+msgstr "Redigera blockområde"
+
+#: lib/widgets.php:177
+msgid "View Block Area"
+msgstr "Visa blockområde"
+
+#: lib/widgets.php:178
+msgid "All Block Areas"
+msgstr "Alla blockområden"
+
+#: lib/widgets.php:179
+msgid "Search Block Areas"
+msgstr "Sök blockområden"
+
+#: lib/widgets.php:174
+msgid "Add New Block Area"
+msgstr "Lägg till nytt blockområde"
+
+#: lib/widgets.php:171
+msgctxt "admin menu"
+msgid "Block Areas"
+msgstr "Blockområden"
+
+#: lib/widgets.php:185
+msgid "Block area published."
+msgstr "Blockområdet är publicerat."
+
+#: lib/widgets.php:184
+msgid "Block areas list"
+msgstr "Lista med blockområden"
+
+#: lib/widgets.php:183
+msgid "Block areas list navigation"
+msgstr "Navigering i blockområdeslista"
+
+#: lib/widgets.php:182
+msgid "Filter block areas list"
+msgstr "Filtrera blockområdeslista"
+
+#: lib/widgets.php:180
+msgid "No block area found."
+msgstr "Inga blockområden hittades."
+
+#: lib/widgets.php:170
+msgctxt "post type singular name"
+msgid "Block Area (Experimental)"
+msgstr "Blockområde (experimentellt)"
+
+#: lib/widgets.php:169
+msgctxt "post type general name"
+msgid "Block Area (Experimental)"
+msgstr "Blockområde (experimentellt)"
+
+#: lib/widgets.php:167
+msgid "Experimental custom post type that will store block areas referenced by themes."
+msgstr "Experimentell inläggstyp som sparar blockområden som används av teman."
+
+#: build/block-library/index.js:14
+msgid "section"
+msgstr "sektion"
+
+#: build/block-library/index.js:14
+msgid "row"
+msgstr "rad"
+
+#: build/block-editor/index.js:55
+msgid "Add Block"
+msgstr "Lägg till block"
+
+#: build/block-library/index.js:14
+msgid "Group"
+msgstr "Grupp"
+
+#: build/edit-widgets/index.js:1
+msgid "Block Areas"
+msgstr "Blockområden"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read."
+msgstr "Denna färgkombination kan vara svår för människor att läsa."
+
+#: build/block-library/index.js:14
+msgid "A block that groups other blocks."
+msgstr "Ett block som grupperar andra block."
+
+#: build/block-library/index.js:14
+msgid "You are now editing the image in the image block."
+msgstr "Du redigerar nu bilden i bildblocket."
+
+#: build/block-library/index.js:14
+msgid "You are now viewing the image in the image block."
+msgstr "Nu visar du bilden i bildblocket."
+
+#: build/block-library/index.js:14
+msgid "Crop image to fill entire column"
+msgstr "Beskär bilden så att den fyller hela kolumnen"
+
+#: build/block-library/index.js:14
+msgid "container"
+msgstr "container"
+
+#: build/block-library/index.js:14
+msgid "wrapper"
+msgstr "omslag"
+
+#: build/block-library/index.js:14
+msgid "The current poster image url is %s"
+msgstr "URL för den aktuella posterbilden är %s"
+
+#: build/block-library/index.js:14
+msgid "There is no poster image currently selected"
+msgstr "För närvarande är ingen posterbild vald"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen top bar"
+msgstr "Widget-skärm i topplisten"
+
+#: build/edit-widgets/index.js:1
+msgid "(experimental)"
+msgstr "(experimentellt)"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets advanced settings"
+msgstr "Avancerade widget-inställningar"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen content"
+msgstr "Widget-skärmens innehåll"
+
+#: build/block-library/index.js:14
+msgid "Describe the purpose of the image"
+msgstr "Beskriv syftet med bilden"
+
+#: build/block-editor/index.js:55
+msgid "Add a block"
+msgstr "Lägg till ett block"
+
+#: build/editor/index.js:17
+msgid "Replace Image"
+msgstr "Ersätt bild"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Middle"
+msgstr "Vertikal justering mitten"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Bottom"
+msgstr "Vertikal justering botten"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Top"
+msgstr "Vertikal justering topp"
+
+#: build/block-library/index.js:14
+msgid "Leave empty if the image is purely decorative."
+msgstr "Lämna tomt om bilden endast har dekorativ funktion."
+
+#: build/block-library/index.js:14
+msgid "Play inline"
+msgstr "Spela upp direkt i texten"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting label"
+msgid "Change vertical alignment"
+msgstr "Ändra vertikal positionering"
+
+#: build/block-library/index.js:14
+msgid "Display a legacy widget."
+msgstr "Visa en widget av äldre typ."
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget (Experimental)"
+msgstr "Widget av äldre typ (experimentell)"
+
+#: build/block-library/index.js:14
+msgid "Change widget"
+msgstr "Ändra widget"
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget"
+msgstr "Widget av äldre typ"
+
+#: build/block-library/index.js:14
+msgid "You don't have permissions to use widgets on this site."
+msgstr "Du har inte behörighet att använda widgetar på denna webbplats."
+
+#: build/block-library/index.js:14
+msgid "Select a legacy widget to display:"
+msgstr "Välj vilken widget av äldre typ du vill visa:"
+
+#: build/block-library/index.js:14
+msgid "There are no widgets available."
+msgstr "Inga widgetar är tillgängliga."
+
+#: build/block-library/index.js:14
+msgid "Not a valid widget."
+msgstr "Inte någon giltig widget."
+
+#: build/block-editor/index.js:55
+msgid "Change block type or style"
+msgstr "Ändra blocktyp eller stil"
+
+#: build/block-editor/index.js:55
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "Mellanslag"
+
+#: build/block-editor/index.js:55
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "Backspace"
+
+#: build/block-editor/index.js:55
+msgid "More Rich Text Controls"
+msgstr "Fler kontroller för formaterad text"
+
+#: build/editor/index.js:17
+msgid "Search Terms"
+msgstr "Söktermer"
+
+#: build/editor/index.js:17
+msgid "Exit the Editor"
+msgstr "Stäng redigeraren"
+
+#: build/edit-post/index.js:12
+msgid "Block Manager"
+msgstr "Blockhantering"
+
+#: lib/class-wp-rest-widget-updater-controller.php:101
+msgid "Invalid widget."
+msgstr "Ogiltig widget."
+
+#: lib/class-wp-rest-widget-updater-controller.php:42
+msgid "Class name of the widget."
+msgstr "Widgetens klassnamn."
+
+#: lib/class-wp-rest-widget-updater-controller.php:69
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "Du har inte behörighet att komma åt widgetar på denna webbplats."
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s can't be previewed in the editor."
+msgstr "Inbäddat innehåll från %s kan inte förhandsgranskas i redigeraren."
+
+#: build/components/index.js:19
+msgid "Custom Color"
+msgstr "Anpassad färg"
+
+#: gutenberg.php:49 gutenberg.php:50
+msgid "Widgets (beta)"
+msgstr "Widgetar (beta)"
+
+#: build/block-library/index.js:14
+msgid "link"
+msgstr "länk"
+
+#: build/block-library/index.js:14
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "Uppmana besökare att göra något med en knappformad länk."
+
+#: build/block-library/blocks/rss.php:62
+msgid "by"
+msgstr "av"
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "RSS-fel:"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgctxt "block style"
+msgid "Default"
+msgstr "Standard"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode deactivated"
+msgstr "Fullskärmsläge inaktiverat"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode activated"
+msgstr "Fullskärmsläge aktiverat"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode deactivated"
+msgstr "Spotlight-läge inaktiverat"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode activated"
+msgstr "Spotlight-läge aktiverat"
+
+#: build/edit-post/index.js:12
+msgid "Read about permalinks"
+msgstr "Läs om permalänkar"
+
+#: build/edit-post/index.js:12
+msgid "You’ll find more settings for your page and blocks in the sidebar. Click the cog icon to toggle the sidebar open and closed."
+msgstr "Du hittar fler inställningar för din sida och dina block i sidopanelen. Klicka på kugghjulet för att visa eller dölja sidopanelen."
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar activated"
+msgstr "Verktygsfältet längst upp är aktiverat"
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar deactivated"
+msgstr "Verktygsfältet längst upp är inaktiverat"
+
+#: build/edit-post/index.js:12
+msgid "URL Slug"
+msgstr "URL-slug"
+
+#: build/edit-post/index.js:12
+msgid "The last part of the URL. "
+msgstr "Den sista delen av URL:en."
+
+#: build/editor/index.js:17
+msgid "Stick to the top of the blog"
+msgstr "Klistra längst upp i bloggen"
+
+#: build/block-library/blocks/rss.php:27
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Ett fel har inträffat, vilket troligen innebär att webbflödet inte fungerar. Försök igen senare."
+
+#: build/edit-post/index.js:12
+msgid "Back"
+msgstr "Tillbaka"
+
+#: build/block-library/index.js:14
+msgid "atom"
+msgstr "atom"
+
+#: build/block-library/index.js:14
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/index.js:14
+msgid "Max number of words in excerpt"
+msgstr "Max antal ord i utdrag"
+
+#: build/block-library/index.js:14
+msgid "Display excerpt"
+msgstr "Visa utdrag"
+
+#: build/block-library/index.js:14
+msgid "Display date"
+msgstr "Visa datum"
+
+#: build/block-library/index.js:14
+msgid "Display author"
+msgstr "Visa författare"
+
+#: build/block-library/index.js:14
+msgid "RSS Settings"
+msgstr "RSS-inställningar"
+
+#: build/block-library/index.js:14
+msgid "Edit RSS URL"
+msgstr "Redigera RSS-URL"
+
+#: build/block-library/index.js:14
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "Innehållet före detta block kommer att visas i utdraget på din arkivsida."
+
+#: build/block-library/index.js:14
+msgid "The excerpt is visible."
+msgstr "Utdraget är synligt."
+
+#: build/block-library/index.js:14
+msgid "The excerpt is hidden."
+msgstr "Utdraget är dolt."
+
+#: build/block-library/index.js:14
+msgid "Taxonomy"
+msgstr "Taxonomi"
+
+#: build/block-library/index.js:14
+msgid "Default"
+msgstr "Standard"
+
+#: build/block-library/blocks/search.php:76
+#: build/block-library/blocks/search.php:84 build/block-library/index.js:14
+msgid "Search"
+msgstr "Sök"
+
+#: build/block-library/index.js:14
+msgid "Button text"
+msgstr "Knapptext"
+
+#: build/block-library/index.js:14
+msgid "posts"
+msgstr "inlägg"
+
+#: build/block-library/index.js:14
+msgid "Calendar"
+msgstr "Kalender"
+
+#: build/block-library/index.js:14
+msgid "Help visitors find your content."
+msgstr "Hjälp besökare att hitta ditt innehåll."
+
+#: build/block-library/index.js:14
+msgid "A calendar of your site’s posts."
+msgstr "En kalender över inläggen på din webbplats."
+
+#: build/block-library/index.js:14
+msgid "archive"
+msgstr "arkiv"
+
+#: build/block-library/index.js:14
+msgid "Embed Crowdsignal (formerly Polldaddy) content."
+msgstr "Bädda in innehåll från Crowdsignal (f.d. Polldaddy)."
+
+#: build/block-library/index.js:14
+msgid "ebook"
+msgstr "e-bok"
+
+#: build/block-library/index.js:14
+msgid "Focal Point Picker"
+msgstr "Fokalpunktsväljare"
+
+#: build/block-library/index.js:14
+msgid "Embed Amazon Kindle content."
+msgstr "Bädda in innehåll från Amazon Kindle."
+
+#: build/block-library/index.js:14
+msgid "Sorry, this content could not be embedded."
+msgstr "Detta innehåll gick tyvärr inte att bädda in."
+
+#: build/block-library/index.js:14
+msgid "image %1$d of %2$d in gallery"
+msgstr "bild %1$d av %2$d i galleriet"
+
+#: build/block-library/index.js:14
+msgid "Hide the excerpt on the full content page"
+msgstr "Dölj utdraget på sidan med hela innehållet"
+
+#: build/block-library/index.js:14
+msgid "Display entries from any RSS or Atom feed."
+msgstr "Visa inlägg från valfritt webbflöde i format RSS eller Atom."
+
+#: build/block-library/index.js:14
+msgid "feed"
+msgstr "webbflöde"
+
+#: build/block-library/index.js:14
+msgid "Label text"
+msgstr "Text i etikett"
+
+#: build/block-library/index.js:14
+msgid "Add label…"
+msgstr "Lägg till etikett..."
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder text"
+msgstr "Valfri text för platsmarkering"
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder…"
+msgstr "Valfri platsmarkör..."
+
+#: build/block-library/index.js:14
+msgid "Add button text…"
+msgstr "Lägg till knapptext..."
+
+#: build/block-library/index.js:14
+msgid "find"
+msgstr "hitta"
+
+#: build/block-library/index.js:14
+msgid "- Select -"
+msgstr "- Välj -"
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud Settings"
+msgstr "Inställningar för etikettmoln"
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud"
+msgstr "Etikettmoln"
+
+#: build/components/index.js:19
+msgid "Horizontal Pos."
+msgstr "Horisontell placering"
+
+#: build/components/index.js:19
+msgid "Vertical Pos."
+msgstr "Vertikal placering"
+
+#: build/edit-post/index.js:12
+msgid "Feature deactivated"
+msgstr "Funktionen är inaktiverad"
+
+#: build/edit-post/index.js:12
+msgid "Feature activated"
+msgstr "Funktionen är aktiverad"
+
+#: build/block-library/index.js:14
+msgid "A cloud of your most used tags."
+msgstr "Ett moln med dina mest använda etiketter."
+
+#: build/format-library/index.js:1
+msgid "Underline"
+msgstr "Understreck"
+
+#: build/editor/index.js:17
+msgid "https://codex.wordpress.org/Excerpt"
+msgstr "https://codex.wordpress.org/Excerpt"
+
+#: build/block-editor/index.js:55
+msgid "Attempt Block Recovery"
+msgstr "Försök att återskapa block"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Try again"
+msgstr "Försök igen"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "Konvertera till länk"
+
+#: build/block-library/index.js:14
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "Innehåll…"
+
+#: build/nux/index.js:1
+msgid "Editor tips"
+msgstr "Redigeringstips"
+
+#: build/editor/index.js:17
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "words"
+
+#: build/edit-post/index.js:12
+msgid "Document (selected)"
+msgstr "Dokument (valt)"
+
+#: build/edit-post/index.js:12
+msgid "Block (selected)"
+msgstr "Block (valt)"
+
+#: build/block-editor/index.js:55
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d ord"
+msgstr[1] "%d ord"
+
+#: build/block-library/index.js:14
+msgid "Link Rel"
+msgstr "Länk-rel"
+
+#: build/block-library/index.js:14
+msgid "Link CSS Class"
+msgstr "CSS-klass för länk"
+
+#: build/edit-post/index.js:12
+msgid "Top Toolbar"
+msgstr "Verktygsfält i toppen"
+
+#: build/block-library/index.js:14
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Skapa innehåll och spara det så att du och andra upphovsmän kan återanvända det överallt på er webbplats. Om blocket uppdateras kommer ändringarna att slå igenom överallt där blocket används."
+
+#: build/edit-post/index.js:12
+msgid "Permalink"
+msgstr "Permalänk"
+
+#: build/block-editor/index.js:55
+msgid "(selected block)"
+msgstr "(valt block)"
+
+#: build/block-editor/index.js:55
+msgid "Block tools"
+msgstr "Blockverktyg"
+
+#: build/editor/index.js:17
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "För att redigera den utvalda bilden behöver du behörighet att ladda upp mediafiler."
+
+#: build/block-editor/index.js:55
+msgid "To edit this block, you need permission to upload media."
+msgstr "För att redigera detta block behöver du behörighet att ladda upp media."
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute"
+msgstr "Denna bild har ett alt-attribut som är tomt."
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "Denna bild har ett alt-attribut som är tomt. Dess filnamn är %s"
+
+#: lib/widgets-page.php:57 build/block-editor/index.js:55
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#: lib/widgets-page.php:60 build/block-editor/index.js:55
+msgid "Full Size"
+msgstr "Full storlek"
+
+#: build/block-editor/index.js:55
+msgid "Block icon"
+msgstr "Blockikon"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Start writing or type / to choose a block"
+msgstr "Börja skriva eller tryck på ”/” för att välja ett block"
+
+#: build/block-library/index.js:14
+msgid "Paragraph block"
+msgstr "Textstyckesblock"
+
+#: build/block-library/index.js:14
+msgid "Page Break"
+msgstr "Sidbrytning"
+
+#: lib/widgets.php:173
+msgctxt "Block"
+msgid "Add New"
+msgstr "Lägg till nytt"
+
+#: build/block-library/index.js:14
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Dra bilder, ladda upp nya eller välj filer från ditt bibliotek."
+
+#: build/block-library/index.js:14
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "Tomt block. Börja skriva eller tryck på snedstreck för att välja ett block"
+
+#: build/block-library/index.js:14
+msgid "Stack on mobile"
+msgstr "Stapla på mobil"
+
+#: build/editor/index.js:17
+msgid "Start writing with text or HTML"
+msgstr "Börja skriva in text eller HTML"
+
+#: build/editor/index.js:17
+msgid "Type text or HTML"
+msgstr "Skriv in text eller HTML"
+
+#: build/format-library/index.js:1
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "Varning: länken har lagts till men kan innehålla fel. Vänligen testa den."
+
+#: build/block-editor/index.js:55
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s block markerad."
+msgstr[1] "%s block markerade."
+
+#: build/block-editor/index.js:55
+msgid "Link selected."
+msgstr "Länken är markerad."
+
+#: build/format-library/index.js:1
+msgid "Link inserted."
+msgstr "Länken har lagts in."
+
+#: lib/widgets.php:172
+msgctxt "add new on admin bar"
+msgid "Block Area"
+msgstr "Blockområde"
+
+#: lib/widgets.php:186
+msgid "Block area published privately."
+msgstr "Blockområde har publicerats privat."
+
+#: lib/widgets.php:187
+msgid "Block area reverted to draft."
+msgstr "Blockområdet har återställts till utkast."
+
+#: lib/widgets.php:181
+msgid "No block areas found in Trash."
+msgstr "Inga blockområden hittades i papperskorgen."
+
+#: build/block-editor/index.js:55
+msgid "Align Text Center"
+msgstr "Centrera text"
+
+#: build/block-editor/index.js:55
+msgid "Align Text Left"
+msgstr "Vänsterställ text"
+
+#: build/block-editor/index.js:55
+msgid "Align Text Right"
+msgstr "Högerställ text"
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "Beskrivning"
+
+#: build/block-editor/index.js:55
+msgctxt "blocks"
+msgid "Most Used"
+msgstr "Mest använda"
+
+#: build/block-editor/index.js:55
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Lös upp"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Enorm"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Large"
+msgstr "Stor"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Small"
+msgstr "Liten"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: build/components/index.js:19
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Enter"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "Importera"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Download"
+msgstr "Ladda ner"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Embed"
+msgstr "Bädda in"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Embed"
+msgstr "Bädda in"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Classic"
+msgstr "Klassisk"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Large"
+msgstr "Stor"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Squared"
+msgstr "Kvadratisk"
+
+#: build/format-library/index.js:1
+msgid "%s (opens in a new tab)"
+msgstr "%s (öppnas i en ny flik)"
+
+#: build/format-library/index.js:1
+msgid "Link edited."
+msgstr "Länk redigerad."
+
+#: build/format-library/index.js:1
+msgid "Link removed."
+msgstr "Länk borttagen."
+
+#: build/format-library/index.js:1
+msgid "media"
+msgstr "media"
+
+#: build/editor/index.js:17
+msgid "Double-check your settings before publishing."
+msgstr "Dubbelkontrollera dina inställningar innan du publicerar."
+
+#: build/editor/index.js:17
+msgid "Generating preview…"
+msgstr "Genererar förhandsgranskning…"
+
+#: build/editor/index.js:17
+msgid "Edit or update the image"
+msgstr "Redigera eller uppdatera bilden"
+
+#: build/block-editor/index.js:55
+msgid "Media"
+msgstr "Media"
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the nearest toolbar."
+msgstr "Navigera till närmaste verktygsfält."
+
+#: build/edit-post/index.js:12
+msgid "Document tools"
+msgstr "Dokumentverktyg"
+
+#: build/edit-post/index.js:12
+msgid "Document and block tools"
+msgstr "Dokument och blockverktyg"
+
+#: build/block-library/index.js:14
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Bädda in ett videoklipp från ditt mediebibliotek eller ladda upp ett nytt."
+
+#: build/block-library/index.js:14
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Lägg in poesi. Använd specialformat för radavstånd. Eller citera några rader ur en sångtext."
+
+#: build/block-library/index.js:14
+msgid "Add white space between blocks and customize its height."
+msgstr "Lägg in ett tomt utrymme mellan block och anpassa dess höjd."
+
+#: build/block-library/index.js:14
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Lägg in andra anpassade element med hjälp av en WordPress-kortkod."
+
+#: build/block-library/index.js:14
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Skapa en avgränsning mellan olika idéer eller sektioner med hjälp av en horisontell avgränsare."
+
+#: build/block-library/index.js:14
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Framhäv ett citat visuellt. ”När vi citerar andra, citerar vi oss själva.” — Julio Cortázar"
+
+#: build/block-library/index.js:14
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "Ge särskild visuell betoning på ett citat från din text."
+
+#: build/block-library/index.js:14
+msgid "Start with the building block of all narrative."
+msgstr "Starta med byggstenen för alla berättelser."
+
+#: build/block-library/index.js:14
+msgid "Separate your content into a multi-page experience."
+msgstr "Dela upp ditt innehåll till en upplevelse som sträcker sig över flera sidor."
+
+#: build/block-library/index.js:14
+msgid "Media & Text Settings"
+msgstr "Media och textinställningar"
+
+#: build/block-library/index.js:14
+msgid "Create a bulleted or numbered list."
+msgstr "Skapa en punktlista eller en numrerad lista."
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent comments."
+msgstr "Visa en lista med de senaste kommentarerna."
+
+#: build/block-library/index.js:14
+msgid "Insert an image to make a visual statement."
+msgstr "Lägg in en bild för att berätta visuellt."
+
+#: build/block-library/index.js:14
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Lägg till anpassad HTML-kod och förhandsgranska det när du redigerar."
+
+#: build/block-library/index.js:14
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Introducera nya sektioner och organisera innehåll för att hjälpa besökare (och sökmotorer) att förstå strukturen på ditt innehåll."
+
+#: build/block-library/index.js:14
+msgid "Display multiple images in a rich gallery."
+msgstr "Visa flera bilder i ett fullödigt galleri."
+
+#: build/block-library/index.js:14
+msgid "Add a link to a downloadable file."
+msgstr "Lägg till en länk till en nedladdningsbar fil."
+
+#: build/block-library/index.js:14
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "Bädda in videoklipp, bilder, tweets, ljud och annat innehåll från externa källor."
+
+#: build/block-library/index.js:14
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "Placera media och ord sida vid sida för en rikare layout."
+
+#: build/block-library/index.js:14
+msgid "Resize for smaller devices"
+msgstr "Ändra storlek för mindre enheter"
+
+#: build/block-library/index.js:14
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "Denna inbäddning kanske inte behåller sitt bildförhållande om storleken på webbläsarens fönster ändras."
+
+#: build/block-library/index.js:14
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "Denna inbäddning behåller sitt bildförhållande när storleken på webbläsarens fönster ändras."
+
+#: build/block-library/index.js:14
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Lägg till en bild eller videoklipp med ett textöverlägg – bra för rubriker."
+
+#: build/block-library/index.js:14
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Visa programkodsutdrag som respekterar dina mellanslag och tabbtecken."
+
+#: build/block-library/index.js:14
+msgid "Use the classic WordPress editor."
+msgstr "Använd den klassiska WordPress-redigeraren."
+
+#: build/block-library/index.js:14
+msgid "Display a list of all categories."
+msgstr "Visa en lista på alla kategorier."
+
+#: build/block-library/index.js:14
+msgid "Embed a simple audio player."
+msgstr "Bädda in en enkel ljudspelare."
+
+#: build/block-library/index.js:14
+msgid "Embed a tweet."
+msgstr "Bädda in en status från Twitter."
+
+#: build/block-library/index.js:14
+msgid "Embed a YouTube video."
+msgstr "Bädda in en video från YouTube."
+
+#: build/block-library/index.js:14
+msgid "Embed a Vimeo video."
+msgstr "Bädda in en video från Vimeo."
+
+#: build/block-library/index.js:14
+msgid "Embed an Animoto video."
+msgstr "Bädda in en video från Animoto."
+
+#: build/block-library/index.js:14
+msgid "Embed CollegeHumor content."
+msgstr "Bädda in innehåll från CollegeHumor."
+
+#: build/block-library/index.js:14
+msgid "Embed a Dailymotion video."
+msgstr "Bädda in en video från Dailymotion."
+
+#: build/block-library/index.js:14
+msgid "Embed Meetup.com content."
+msgstr "Bädda in innehåll från Meetup.com."
+
+#: build/block-library/index.js:14
+msgid "Embed a TED video."
+msgstr "Bädda in en video från TED."
+
+#: build/block-library/index.js:14
+msgid "Embed a VideoPress video."
+msgstr "Bädda in en video från VideoPress."
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress.tv video."
+msgstr "Bädda in en video från WordPress.tv."
+
+#: build/block-library/index.js:14
+msgid "Embed Flickr content."
+msgstr "Bädda in innehåll från Flickr."
+
+#: build/block-library/index.js:14
+msgid "Embed Spotify content."
+msgstr "Bädda in innehåll från Spotify."
+
+#: build/block-library/index.js:14
+msgid "Embed SoundCloud content."
+msgstr "Bädda in innehåll från SoundCloud."
+
+#: build/block-library/index.js:14
+msgid "Embed SmugMug content."
+msgstr "Bädda in innehåll från SmugMug."
+
+#: build/block-library/index.js:14
+msgid "Embed Slideshare content."
+msgstr "Bädda in innehåll från Slideshare."
+
+#: build/block-library/index.js:14
+msgid "Embed Scribd content."
+msgstr "Bädda in innehåll från Scribd."
+
+#: build/block-library/index.js:14
+msgid "Embed Screencast content."
+msgstr "Bädda in innehåll från Screencast."
+
+#: build/block-library/index.js:14
+msgid "Embed ReverbNation content."
+msgstr "Bädda in innehåll från ReverbNation."
+
+#: build/block-library/index.js:14
+msgid "Embed Polldaddy content."
+msgstr "Bädda in innehåll från Polldaddy."
+
+#: build/block-library/index.js:14
+msgid "Embed Mixcloud content."
+msgstr "Bädda in innehåll från Mixcloud."
+
+#: build/block-library/index.js:14
+msgid "Embed Kickstarter content."
+msgstr "Bädda in innehåll från Kickstarter."
+
+#: build/block-library/index.js:14
+msgid "Embed Issuu content."
+msgstr "Bädda in innehåll från Issuu."
+
+#: build/block-library/index.js:14
+msgid "Embed Imgur content."
+msgstr "Bädda in innehåll från Imgur."
+
+#: build/block-library/index.js:14
+msgid "Embed Hulu content."
+msgstr "Bädda in innehåll från Hulu."
+
+#: build/block-library/index.js:14
+msgid "Embed Cloudup content."
+msgstr "Bädda in innehåll från Cloudup."
+
+#: build/block-library/index.js:14
+msgid "Embed a Reddit thread."
+msgstr "Bädda in en tråd från Reddit."
+
+#: build/block-library/index.js:14
+msgid "Embed Speaker Deck content."
+msgstr "Bädda in innehåll från Speaker Deck."
+
+#: build/block-library/index.js:14
+msgid "Embed a Facebook post."
+msgstr "Bädda in ett inlägg från Facebook."
+
+#: build/block-library/index.js:14
+msgid "Embed a Tumblr post."
+msgstr "Bädda in ett inlägg från Tumblr."
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress post."
+msgstr "Bädda in ett inlägg från  WordPress."
+
+#: build/block-library/index.js:14
+msgid "Embed an Instagram post."
+msgstr "Bädda in ett inlägg från Instagram."
+
+#: build/components/index.js:19
+msgid "Home/End"
+msgstr "Home/End"
+
+#: build/components/index.js:19
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Gå till veckans första (Home) eller sista (End) dag."
+
+#: build/edit-post/index.js:12
+msgctxt "noun"
+msgid "View"
+msgstr "Visa"
+
+#: build/block-editor/index.js:55
+msgid "Insert from URL"
+msgstr "Infoga från URL"
+
+#: build/edit-post/index.js:12
+msgid "General"
+msgstr "Allmänt"
+
+#: build/edit-post/index.js:12
+msgid "Options"
+msgstr "Alternativ"
+
+#: build/block-editor/index.js:55
+msgid "Paste or type URL"
+msgstr "Klistra in eller skriv URL"
+
+#: build/edit-post/index.js:12
+msgid "Enable Tips"
+msgstr "Aktivera tips"
+
+#: build/block-library/index.js:14
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "Vänster till höger"
+
+#: build/edit-post/index.js:12
+msgid "Advanced Panels"
+msgstr "Avancerade paneler"
+
+#: build/edit-post/index.js:12
+msgid "Document Panels"
+msgstr "Dokumentpaneler"
+
+#: build/block-editor/index.js:55
+msgid "Styles"
+msgstr "Stilar"
+
+#: build/edit-post/index.js:12
+msgid "Focus on one block at a time"
+msgstr "Fokusera på ett block i taget"
+
+#: build/edit-post/index.js:12
+msgid "Access all block and document tools in a single place"
+msgstr "Få åtkomst till alla block- och dokumentverktyg på en enda plats"
+
+#: build/edit-post/index.js:12
+msgid "Open the block navigation menu."
+msgstr "Öppna blocknavigationsmenyn."
+
+#: build/edit-post/index.js:12
+msgid "Work without distraction"
+msgstr "Arbeta utan att distraheras"
+
+#: build/block-editor/index.js:55
+msgid "Block Navigation"
+msgstr "Navigering mellan block"
+
+#: build/editor/index.js:17
+msgid "%s address"
+msgstr "Adress för %s"
+
+#: build/components/index.js:19
+msgid "Minutes"
+msgstr "Minuter"
+
+#: build/components/index.js:19
+msgid "Time"
+msgstr "Tid"
+
+#: build/components/index.js:19
+msgid "Year"
+msgstr "År"
+
+#: build/components/index.js:19
+msgid "Day"
+msgstr "Dag"
+
+#: build/components/index.js:19
+msgid "Month"
+msgstr "Månad"
+
+#: build/components/index.js:19
+msgid "Date"
+msgstr "Datum"
+
+#: build/components/index.js:19
+msgid "Change color format"
+msgstr "Ändra färgformat"
+
+#: build/format-library/index.js:1 build/block-library/index.js:14
+msgid "Open in New Tab"
+msgstr "Öppna i ny flik"
+
+#: build/components/index.js:19
+msgid "Color value in RGB"
+msgstr "Färgvärde i RGB"
+
+#: build/components/index.js:19
+msgid "Click to Select"
+msgstr "Klicka för att välja"
+
+#: build/block-library/index.js:14
+msgid "Media area"
+msgstr "Mediaområde"
+
+#: build/block-library/index.js:14
+msgid "Media & Text"
+msgstr "Media och text"
+
+#: build/block-library/index.js:14
+msgid "Show media on right"
+msgstr "Visa media till höger"
+
+#: build/block-library/index.js:14
+msgid "Show media on left"
+msgstr "Visa media till vänster"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "(opens in a new tab)"
+msgstr "(öppnas i en ny flik)"
+
+#: build/components/index.js:19
+msgid "RGB mode active"
+msgstr "RGB-läge aktiv"
+
+#: build/components/index.js:19
+msgid "Navigating with a keyboard"
+msgstr "Navigera med ett tangentbord"
+
+#: build/components/index.js:19
+msgid "Click the desired day to select it."
+msgstr "Klicka på önskad dag för att välja den."
+
+#: build/components/index.js:19
+msgid "Color value in HSL"
+msgstr "Färgvärde i HSL"
+
+#: build/components/index.js:19
+msgid "Color value in hexadecimal"
+msgstr "Färgvärde i hexadecimal"
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for this block."
+msgstr "Din webbplats inkluderar inte stöd för detta block."
+
+#: build/components/index.js:19
+msgid "Calendar Help"
+msgstr "Kalenderhjälp"
+
+#: build/components/index.js:19
+msgid "Move the arrow left or right to change hue."
+msgstr "Flytta pilen åt vänster eller höger för att ändra nyans."
+
+#: build/components/index.js:19
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "Nyansvärde i grader, från 0 till 359."
+
+#: build/components/index.js:19
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Alfa-värde, från 0 (transparent) till 1 (helt ogenomskinligt)."
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "Din webbplats inkluderar inte stöd för block ”%s”. Du kan lämna detta block intakt eller ta bort det helt."
+
+#: build/block-library/index.js:14
+msgid "Unrecognized Block"
+msgstr "Okänd blocktyp"
+
+#: build/block-library/index.js:14
+msgid "Stripes"
+msgstr "Ränder"
+
+#: build/components/index.js:19
+msgid "Hue/saturation/lightness mode active"
+msgstr "Arbetsläget kulör/mättnadsgrad/ljushet är aktivt (hue/saturation/lightness)"
+
+#: build/components/index.js:19
+msgid "Hex color mode active"
+msgstr "Hexadecimalt färgläget (RGB) är aktivt"
+
+#: build/components/index.js:19
+msgid "Choose a shade"
+msgstr "Välj skugga"
+
+#: build/components/index.js:19
+msgid "Select the date in focus."
+msgstr "Välj det datum som befinner sig i fokus."
+
+#: build/components/index.js:19
+msgid "Left and Right Arrows"
+msgstr "Vänsterpil och och högerpil"
+
+#: build/components/index.js:19
+msgid "Up and Down Arrows"
+msgstr "Uppåt- och nedåtpil"
+
+#: build/components/index.js:19
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: build/components/index.js:19
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Gå bakåt (PgUp) eller framåt (PgDn) en månad."
+
+#: build/components/index.js:19
+msgid "Page Up and Page Down"
+msgstr "Page Up och Page Down"
+
+#: build/components/index.js:19
+msgid "Home and End"
+msgstr "Home och End"
+
+#: build/components/index.js:19
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Gå bakåt (upp) eller framåt (ned) en vecka."
+
+#: build/components/index.js:19
+msgid "April"
+msgstr "april"
+
+#: build/components/index.js:19
+msgid "August"
+msgstr "augusti"
+
+#: build/components/index.js:19
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "Klicka på höger- eller vänsterpilarna för att välja en annan månad i förfluten tid eller i framtiden."
+
+#: build/components/index.js:19
+msgid "December"
+msgstr "december"
+
+#: build/components/index.js:19
+msgid "February"
+msgstr "februari"
+
+#: build/components/index.js:19
+msgid "Hours"
+msgstr "Öppettider"
+
+#: build/components/index.js:19
+msgid "January"
+msgstr "januari"
+
+#: build/components/index.js:19
+msgid "July"
+msgstr "juli"
+
+#: build/components/index.js:19
+msgid "June"
+msgstr "juni"
+
+#: build/components/index.js:19
+msgid "March"
+msgstr "mars"
+
+#: build/components/index.js:19
+msgid "May"
+msgstr "maj"
+
+#: build/components/index.js:19
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Gå bakåt (vänster) eller framåt (höger) en dag."
+
+#: build/components/index.js:19
+msgid "November"
+msgstr "november"
+
+#: build/components/index.js:19
+msgid "October"
+msgstr "oktober"
+
+#: build/editor/index.js:17
+msgid "Save as Pending"
+msgstr "Spara som väntande"
+
+#: build/components/index.js:19
+msgid "September"
+msgstr "september"
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "Din webbplats inkluderar inte stöd för blocket ”%s”. Du kan lämna detta block som det är, konvertera innehållet till ett block med anpassad HTML eller ta bort det helt."
+
+#: build/components/index.js:19
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to decrease saturation, and right to increase saturation."
+msgstr "Använd piltangenterna för att ändra grundfärg. Flytta uppåt för ljusare färg, nedåt för mörkare, till vänster för minskad mättnad och till höger för att öka mättnaden."
+
+#: build/block-library/index.js:14
+msgid "Edit media"
+msgstr "Redigera media"
+
+#: build/block-library/index.js:14
+msgid "Cover"
+msgstr "Omslag"
+
+#: build/block-library/index.js:14
+msgid "Cover Settings"
+msgstr "Omslagsinställningar"
+
+#: build/editor/index.js:17
+msgid "Take Over"
+msgstr "Ta över"
+
+#: build/block-editor/index.js:55
+msgid "Paste URL or type to search"
+msgstr "Klistra in URL eller skriv för att söka"
+
+#: lib/widgets-page.php:58 build/block-editor/index.js:55
+msgid "Medium"
+msgstr "Medium"
+
+#: build/editor/index.js:17
+msgid "Are you ready to schedule?"
+msgstr "Är du redo att schemalägga?"
+
+#: build/editor/index.js:17
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "%s arbetar för närvarande med detta inlägg, vilket innebär att du inte kan göra ändringar, såvida du inte tar över."
+
+#: build/editor/index.js:17
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "En annan användare arbetar för närvarande med detta inlägg, vilket innebär att du inte kan göra ändringar, såvida du inte tar över."
+
+#: build/editor/index.js:17
+msgid "Always show pre-publish checks."
+msgstr "Visa alltid kontroller innan publicering sker."
+
+#: build/editor/index.js:17
+msgid "Terms"
+msgstr "Termer"
+
+#: build/editor/index.js:17
+msgid "Your work will be published at the specified date and time."
+msgstr "Ditt arbete kommer att publiceras på angivet datum och tid."
+
+#: build/editor/index.js:17
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "En annan användare har nu redigeringskontroll av detta inlägg. Oroa dig inte, dina ändringar fram till nu har sparats."
+
+#: build/editor/index.js:17
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "%s har nu redigeringskontroll av detta inlägg. Oroa dig inte, dina ändringar fram till nu har sparats."
+
+#: build/editor/index.js:17
+msgid "Avatar"
+msgstr "Profilbild"
+
+#: build/block-editor/index.js:55
+msgid "Convert to HTML"
+msgstr "Konvertera till HTML"
+
+#: build/block-library/index.js:14
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:14
+msgid "Main Color"
+msgstr "Huvudfärg"
+
+#: build/block-library/index.js:14
+msgid "Insert Media"
+msgstr "Infoga media"
+
+#: build/edit-post/index.js:12
+msgid "This block can only be used once."
+msgstr "Detta block kan bara användas en gång."
+
+#: build/block-editor/index.js:55
+msgid "This block contains unexpected or invalid content."
+msgstr "Detta block innehåller oväntat eller ogiltigt innehåll"
+
+#: build/editor/index.js:17
+msgid "Someone else has taken over this post."
+msgstr "Någon annan har tagit över detta inlägg."
+
+#: build/editor/index.js:17
+msgid "This post is already being edited."
+msgstr "Detta inlägg redigeras redan."
+
+#: build/block-library/index.js:14
+msgid "Write HTML…"
+msgstr "Skriv HTML…"
+
+#: build/block-library/index.js:14
+msgid "Media Settings"
+msgstr "Inställningar för media"
+
+#: build/edit-post/index.js:12
+msgid "Exit Code Editor"
+msgstr "Avsluta kodredigerare"
+
+#: build/block-library/index.js:14
+msgid "Overlay"
+msgstr "Överlägg"
+
+#: build/block-library/index.js:14
+msgid "Overlay Color"
+msgstr "Överläggsfärg"
+
+#: build/block-library/index.js:14
+msgid "Solid Color"
+msgstr "Solid färg"
+
+#: build/edit-post/index.js:12
+msgid "Editing Code"
+msgstr "Att redigera kod"
+
+#: build/edit-post/index.js:12
+msgid "Enable Pre-publish Checks"
+msgstr "Aktivera kontroller före publicering"
+
+#: build/block-editor/index.js:55
+msgid "Resolve Block"
+msgstr "Lös upp blocket"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "Importera från JSON"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "Ogiltig JSON-fil"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "Återanvändbart block importerat utan problem."
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "Period"
+
+#: build/block-editor/index.js:55
+msgid "Current"
+msgstr "Nuvarande"
+
+#: build/edit-post/index.js:12
+msgid "Escape"
+msgstr "Esc"
+
+#: build/block-editor/index.js:55
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d block"
+msgstr[1] "%d block"
+
+#: build/block-library/index.js:14
+msgid "Reusable Template"
+msgstr "Återanvändbar mall"
+
+#: build/block-library/index.js:14
+msgid "Template block used as a container."
+msgstr "Mallblock som används som container."
+
+#: build/block-editor/index.js:55
+msgid "Change text alignment"
+msgstr "Ändra textens justering"
+
+#: build/block-editor/index.js:55
+msgid "Change alignment"
+msgstr "Ändra justering"
+
+#: build/block-editor/index.js:55
+msgid "After Conversion"
+msgstr "Efter konvertering"
+
+#: build/block-editor/index.js:55
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "Ändra typ hos %d block"
+msgstr[1] "Ändra typ hos %d block"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "Komma"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "Backtick (`)"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "Ogiltig JSON-fil för återanvändbart block"
+
+#: build/edit-post/index.js:12
+msgid "Forward-slash"
+msgstr "Snedstreck"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "Inga arkiv att visa."
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "Filen är tom."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "Denna filtyp stöds inte här."
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Manage All Reusable Blocks"
+msgstr "Hantera alla återanvändbara block"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen Mode"
+msgstr "Helskärmsläge"
+
+#: build/editor/index.js:17
+msgid "Title"
+msgstr "Titel"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Vackert landskap"
+
+#: build/editor/index.js:17
+msgid "Close panel"
+msgstr "Stäng panel"
+
+#: build/block-library/index.js:14
+msgid "blockquote"
+msgstr "blockcitat"
+
+#: build/block-library/index.js:14
+msgid "Subheading (deprecated)"
+msgstr "Underrubrik (taget ur bruk)"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "Detta block är taget ur bruk. Använd blocket ”Stycke” i stället."
+
+#: build/block-library/index.js:14
+msgid "Column Count"
+msgstr "Kolumnantal"
+
+#: build/block-library/index.js:14
+msgid "Row Count"
+msgstr "Radantal"
+
+#: build/block-library/index.js:14
+msgid "Text Columns (deprecated)"
+msgstr "Textkolumner (taget ur bruk)"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Detta block är taget ur bruk. Använd blocket ”Kolumner” i stället."
+
+#: build/block-library/index.js:14
+msgid "Remove Poster Image"
+msgstr "Ta bort posterbild"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Classic Block"
+msgstr "Konvertera till Klassiskt block"
+
+#: build/block-library/index.js:14
+msgid "Poster Image"
+msgstr "Bildposter"
+
+#: build/block-library/index.js:14
+msgid "Select Poster Image"
+msgstr "Välj bildposter"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight Mode"
+msgstr "Spotlight-läge"
+
+#: build/edit-post/index.js:12
+msgid "Change the block type after adding a new paragraph."
+msgstr "Ändra blocktypen när ett nytt stycke lagts till."
+
+#: build/block-editor/index.js:55
+msgid "Insert After"
+msgstr "Infoga efter"
+
+#: build/block-editor/index.js:55
+msgid "Insert Before"
+msgstr "Infoga före"
+
+#: build/block-library/index.js:14
+msgid "movie"
+msgstr "film"
+
+#: build/edit-post/index.js:12
+msgid "Display this help."
+msgstr "Visa denna hjälp."
+
+#: build/edit-post/index.js:12
+msgid "Remove a link."
+msgstr "Ta bort en länk."
+
+#: build/edit-post/index.js:12
+msgid "Global shortcuts"
+msgstr "Globala genvägar"
+
+#: build/edit-post/index.js:12
+msgid "Save your changes."
+msgstr "Spara dina ändringar."
+
+#: build/edit-post/index.js:12
+msgid "Undo your last changes."
+msgstr "Ångra dina senaste ändringar."
+
+#: build/edit-post/index.js:12
+msgid "Convert the selected text into a link."
+msgstr "Konvertera den valda texten till en länk."
+
+#: build/editor/index.js:17
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "Etiketter hjälper användare och sökmotorer att navigera runt på webbplatsen och hitta innehållet. Lägg till några nyckelord som beskriver inlägget."
+
+#: build/editor/index.js:17
+msgid "Add tags"
+msgstr "Lägg till etiketter"
+
+#: build/editor/index.js:17
+msgid "Apply the \"%1$s\" format."
+msgstr "Tillämpa formatet ”%1$s”."
+
+#: build/editor/index.js:17
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "Ditt tema använder inläggsformat för att markera olika typer av innehåll, t.ex. bilder eller video. Använd ett inläggsformat för att visa detta speciella utseende."
+
+#: build/editor/index.js:17
+msgid "Use a post format"
+msgstr "Använd ett inläggsformat"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "Flytta %1$d block från position %2$d en plats nedåt"
+msgstr[1] "Flytta %1$d block från position %2$d en plats nedåt"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "Flytta %1$d block från position %2$d en plats uppåt"
+msgstr[1] "Flytta %1$d block från position %2$d en plats uppåt"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "Flytta blocket %1$s från position %2$d upp till position %3$d"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "Flytta blocket %1$s från position %2$d ned till position %3$d"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block before the selected block(s)."
+msgstr "Skjut in ett nytt block före det markerade bloket (blocken)."
+
+#: build/edit-post/index.js:12
+msgid "Remove the selected block(s)."
+msgstr "Ta bort det markerade blocket (blocken)."
+
+#: build/edit-post/index.js:12
+msgid "Duplicate the selected block(s)."
+msgstr "Duplicera markerat/markerade block."
+
+#: build/edit-post/index.js:12
+msgid "Block shortcuts"
+msgstr "Kortkoder för block"
+
+#: build/edit-post/index.js:12
+msgid "Clear selection."
+msgstr "Ta bort markeringen."
+
+#: build/edit-post/index.js:12
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "Välj all text vid inmatning. Tryck en gång till för att välja alla block."
+
+#: build/edit-post/index.js:12
+msgid "Selection shortcuts"
+msgstr "Genvägar för markering"
+
+#: build/edit-post/index.js:12
+msgid "Switch between Visual Editor and Code Editor."
+msgstr "Växla mellan visuell redigerare och kodredigerare."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor (alternative)."
+msgstr "Gå till föregående del av redigeraren (alternativ)."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor."
+msgstr "Gå till föregående del av redigeraren."
+
+#: build/edit-post/index.js:12
+msgid "Show or hide the settings sidebar."
+msgstr "Visa eller dölj sidopanelen för inställningar."
+
+#: build/edit-post/index.js:12
+msgid "Redo your last undo."
+msgstr "Gör om den senast ångrade åtgärden."
+
+#: build/edit-post/index.js:12
+msgid "Underline the selected text."
+msgstr "Gör understrykning av den markerade texten."
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text italic."
+msgstr "Ändra den markerade texten till kursiv."
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text bold."
+msgstr "Ändra den markerade texten till fetstil."
+
+#: build/edit-post/index.js:12
+msgid "Text formatting"
+msgstr "Textformatering"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block after the selected block(s)."
+msgstr "Infoga ett nytt block efter markerat/markerade block."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor (alternative)."
+msgstr "Navigera till nästa del av redigeraren (alternativ)."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor."
+msgstr "Navigera till nästa del av redigeraren."
+
+#: build/edit-post/index.js:12
+msgid "Keyboard Shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: post-content.php:181
+msgid "Thanks for testing Gutenberg!"
+msgstr "Tack för att du provar Gutenberg!"
+
+#: post-content.php:173
+msgid "Help build Gutenberg"
+msgstr "Hjälp till att bygga Gutenberg"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:164
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Om du vill läsa mer om hur du kan bygga nya block eller om du vill hjälpa till i projektet är du välkommen över till <a href=\"%s\">filförvaret på GitHub</a>."
+
+#: post-content.php:155
+msgid "The WordPress community"
+msgstr "WordPress-gemenskapen"
+
+#: post-content.php:155
+msgid "Code is Poetry"
+msgstr "Kod är poesi"
+
+#: post-content.php:151
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Du kan bygga alla typer av block du känner för, statiska eller dynamiska, dekorativa eller enkla. Här är ett pullquote-block som kan lyfta fram ett citat ur din text:"
+
+#: post-content.php:141
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Alla block kan välja att följa dessa justeringar. Även inbäddningsblocken har dem och de är responsive direkt från start:"
+
+#: post-content.php:137
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Ovanstående är ett galleri som består av bara två bilder. Det är ett enklare sätt att skapa visuellt tilltalande layouter utan att behöva hantera s.k. floats. Det är också enkelt att åter konvertera galleriet till enskilda bilder med hjälp av blockväxlaren."
+
+#: post-content.php:126
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Jovisst, en fullbred bild kan bli riktigt stor. Men ibland är bilden värd det."
+
+#: post-content.php:122
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Det är viktigt med åtkomlighet – glöm inte attributet alt för bilder"
+
+#: post-content.php:118
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Genom att kombinera de nya justeringarna <strong>bred bredd</strong> och <strong>fullbred bredd</strong> med gallerier kan du mycket snabbt skapa en mycket mediarik layout:"
+
+#: post-content.php:114
+msgid "Media Rich"
+msgstr "Mediarik"
+
+#: post-content.php:110
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Du kan ändra antalet kolumner i dina gallerier med hjälp av ett skjutreglage i blockinspekteraren i sidopanelen."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "Informationen som motsvarar citatets upphovsman är ett separat textfält, på samma sätt som bildtexter under bilder, vilket gör att citatets struktur skyddas även om du markerar, modifierar eller tar bort uppgiften om upphovsmannen. Det är alltid enkelt att lägga in uppgiften igen."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Block kan vara vad helst du behöver. Du kanske vill lägga till ett nedtonat citat när du komponerar din text. Eller så föredrar du ett citat som är stiliserat i jätteformat. Med infogaren har du alla dessa alternativ."
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "Redigeraren kommer att sträva efter en ny upplevelse för hur man bygger en sida eller ett inlägg så att det blir enklare att skriva inlägg med rikt innehåll och där man använder ”block” för att enkelt skapa det som idag kan behöva kortkoder, anpassad html-kod eller ”hemliga ingredienser” för upptäckt av länkar till inbäddat material."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "En enorm fördel med block är att du kan redigera dem på plats och direkt manipulera ditt innehåll. I stället för att använda fält för att redigera saker som upphovsmannen till ett citat eller en knapptext kan du nu direkt ändra innehållet. Prova att redigera nedanstående citat:"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Visuell redigering"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "Och <em>listor</em> som den här, förstås :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Layout-block, såsom knappar, hero-bilder, avgränsare m.m."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Inbäddat material, såsom YouTube, Twitter eller andra WordPress-inlägg."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Bilder och videoklipp"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Text och rubriker"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Ta och prova nu. Du kanske upptäcker att WordPress redan kan lägga in olika saker i dina inlägg som du inte kände till. Här är en kort lista med saker som du för närvarande kan hitta där:"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Tänk dig att allt WordPress kan göra är snabbt och smidigt tillgängligt för dig på en och samma plats i gränssnittet. Du behöver inte leta reda på HTML-taggar, klasser eller minnas någon komplicerad syntax för kortkoder. Det är idén med infogaren – knappen <code>(+)</code> som du ser på olika platser i redigeraren, vilken låter dig bläddra bland alla tillgängliga innehållsblock och lägga till dem i ditt inlägg. Tillägg och teman kan registrera egna block, något som skapar rika möjligheter för redigering och publicering."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "Verktyget <em>infogaren</em>"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Prova att markera och ta bort eller ändra bildtexten. Du behöver inte längre vara rädd för att råka markera bilden eller annan text av misstag och förstöra utseendet."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Om ditt tema har stöd för det kommer du att se knappen ”bred” i verktygsfältet för bilder. Ta och prova den!"
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "I den nya redigeraren är ett centralt fokus att hantera bilder och mediafiler med stor försiktighet. Förhoppningsvis kommer du att upptäcka att det blivit mycket enklare och stabilare än tidigare att göra sådana saker som att lägga till bildtexter eller ange att en bild ska vara fullbred."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "En bild säger mer än tusen ord"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Även rubriker är block, vilka hjälper dig att strukturera och organisera ditt innehåll."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "... och även detta, som är högerjusterat."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Det du läser nu är ett <strong>textblock</strong>, det mest grundläggande blocket av alla. Textblocket har sina egna inställningar som gör att det fritt kan flyttas runt inom inlägget..."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Målet för den nya redigeraren är att göra det enkelt och skojigt att lägga till rikt innehåll i WordPress. Hela inlägget består av <em>innehållsbitar</em>– ungefär som LEGO-bitar – som du kan flytta runt och interagera med. Om du flyttar din pekare märker du hur olika block markeras med ramar och pilar. Klicka på pilarna för att snabbt flytta blocken utan någon risk att förlora någonting medan du håller på att kopiera och klistra in."
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Välkommen till Gutenberg-redigeraren"
+
+#: build/block-library/index.js:14
+msgctxt "block name"
+msgid "More"
+msgstr "Mer"
+
+#: build/block-library/index.js:14
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Mer"
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unschedule this post?"
+msgstr "Är du säker på att du vill ta bort schemaläggningen av detta inlägg?"
+
+#: build/block-library/index.js:14
+msgid "Alt Text (Alternative Text)"
+msgstr "Alt-text (alternativ text)"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block"
+msgstr "Återanvändbart block"
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Se vad du kan göra med Gutenberg"
+
+#: build/editor/index.js:17
+msgid "Untitled Reusable Block"
+msgstr "Block utan rubrik som kan återanvändas"
+
+#: build/block-editor/index.js:55
+msgid "Reusable"
+msgstr "Återanvändbar"
+
+#: build/block-editor/index.js:55
+msgid "(current %s: %s)"
+msgstr "(nuvarande %s: %s)"
+
+#: build/editor/index.js:17
+msgid "Add to Reusable Blocks"
+msgstr "Lägg till i återanvändbara block"
+
+#: build/block-editor/index.js:55
+msgid "(%s: %s)"
+msgstr "(%s: %s)"
+
+#: build/editor/index.js:17
+msgid "Remove from Reusable Blocks"
+msgstr "Ta bort från återanvändbara block"
+
+#: build/block-library/index.js:14
+msgid "Keep as HTML"
+msgstr "Behåll som HTML"
+
+#: build/block-library/index.js:14
+msgid "Color Settings"
+msgstr "Färginställningar"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block: %s"
+msgstr "Återanvändbart block: %s"
+
+#: build/block-library/index.js:14
+msgid "Edit URL"
+msgstr "Ändra URL"
+
+#: build/block-library/index.js:14
+msgid "Display Date"
+msgstr "Visa datum"
+
+#: build/block-library/index.js:14
+msgid "Display Excerpt"
+msgstr "Visa utdrag"
+
+#: gutenberg.php:58
+msgid "Support"
+msgstr "Support"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "Inga kommentarer att visa."
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "Välj år"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "Välj inlägg"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "Välj vecka"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "Välj dag"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "Välj månad"
+
+#: gutenberg.php:60
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: build/block-library/index.js:14
+msgid "Audio Settings"
+msgstr "Ljudinställningar"
+
+#: build/block-library/index.js:14
+msgid "Video Settings"
+msgstr "Videoinställningar"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "Svaret är inget giltigt JSON-svar."
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:14
+msgid "Archives"
+msgstr "Arkiv"
+
+#: build/block-library/index.js:14
+msgid "Archives Settings"
+msgstr "Arkivinställningar"
+
+#: build/block-library/index.js:14
+msgid "Show Post Counts"
+msgstr "Visa antal inlägg"
+
+#: build/block-library/index.js:14
+msgid "Display as Dropdown"
+msgstr "Visa som rullgardinsmeny"
+
+#: build/block-library/index.js:14
+msgid "Auto"
+msgstr "Auto"
+
+#: build/block-library/index.js:14
+msgid "Background Opacity"
+msgstr "Bakgrundens opacitet"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments Settings"
+msgstr "Inställningar för senaste kommentarerna"
+
+#: build/block-library/index.js:14
+msgid "Display Avatar"
+msgstr "Visa profilbild"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments"
+msgstr "Senaste kommentarerna"
+
+#: build/block-library/index.js:14
+msgid "recent comments"
+msgstr "senaste kommentarerna"
+
+#: build/block-library/index.js:14
+msgid "Muted"
+msgstr "Tystad"
+
+#: build/edit-post/index.js:12
+msgid "Editor publish"
+msgstr "Redigerarens publicera-område"
+
+#: build/block-library/index.js:14
+msgid "Number of Comments"
+msgstr "Antal kommentarer"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s on %2$s"
+
+#: build/block-library/index.js:14
+msgid "Display a monthly archive of your posts."
+msgstr "Visa ett månadsarkiv på dina inlägg."
+
+#: build/block-library/index.js:14
+msgid "Preload"
+msgstr "Förhandsladda"
+
+#: build/block-library/index.js:14
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:14
+msgid "document"
+msgstr "dokument"
+
+#: build/block-library/index.js:14
+msgid "Copy URL"
+msgstr "Kopiera URL"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Available block types"
+msgstr "Tillgängliga blocktyper"
+
+#: lib/widgets-page.php:59 build/block-editor/index.js:55
+msgid "Large"
+msgstr "Stor"
+
+#: build/block-library/index.js:14
+msgid "Show Download Button"
+msgstr "Visa nedladdningsknapp"
+
+#: build/list-reusable-blocks/index.js:1 build/block-library/index.js:14
+msgid "File"
+msgstr "Fil"
+
+#: build/block-library/index.js:14
+msgid "Edit file"
+msgstr "Redigera fil"
+
+#: build/block-library/index.js:14
+msgid "Write file name…"
+msgstr "Skriv filnamn…"
+
+#: build/block-library/index.js:14
+msgid "Column"
+msgstr "Kolumn"
+
+#: build/block-editor/index.js:55
+msgid "Transform To:"
+msgstr "Omvandla till:"
+
+#: build/block-editor/index.js:55
+msgid "Remove Block"
+msgstr "Ta bort block"
+
+#: build/block-library/index.js:14
+msgid "Text Link Settings"
+msgstr "Inställningar för länktext"
+
+#: build/block-library/index.js:14
+msgid "Download Button Settings"
+msgstr "Inställningar för nedladdningsknapp"
+
+#: build/edit-post/index.js:12
+msgid "Open publish panel"
+msgstr "Öppna publiceringspanel"
+
+#: build/block-library/index.js:14
+msgid "Wide Line"
+msgstr "Bred linje"
+
+#: build/block-library/index.js:14
+msgid "Loop"
+msgstr "Loop"
+
+#: build/block-library/index.js:14
+msgid "Autoplay"
+msgstr "Spela upp automatiskt"
+
+#: build/block-library/index.js:14
+msgid "Playback Controls"
+msgstr "Uppspelningsreglage"
+
+#: build/block-library/index.js:14
+msgid "Outline"
+msgstr "Markera ytterkanter"
+
+#: build/block-library/index.js:14
+msgid "A single column within a columns block."
+msgstr "En enstaka kolumn inom ett block med kolumner."
+
+#: build/block-library/index.js:14
+msgid "Link To"
+msgstr "Länk till"
+
+#: build/block-library/index.js:14
+msgid "Dots"
+msgstr "Punkter"
+
+#: build/format-library/index.js:1
+msgid "Inline Image"
+msgstr "Bild inlagd i texten"
+
+#: build/block-editor/index.js:55
+msgid "Light green cyan"
+msgstr "Ljusgrön cyan"
+
+#: build/block-editor/index.js:55
+msgid "Pale pink"
+msgstr "Blek rosa"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid orange"
+msgstr "Lysande intensivt orange"
+
+#: build/block-editor/index.js:55
+msgid "Vivid green cyan"
+msgstr "Intensivt cyangrönt"
+
+#: build/block-editor/index.js:55
+msgid "Cyan bluish gray"
+msgstr "Cyan blågrå"
+
+#: build/block-editor/index.js:55
+msgid "Very dark gray"
+msgstr "Mycket mörkgrå"
+
+#: build/block-editor/index.js:55
+msgid "Very light gray"
+msgstr "Mycket ljusgrå"
+
+#: build/block-editor/index.js:55
+msgid "Vivid red"
+msgstr "Intensivt röd"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid amber"
+msgstr "Lysande intensivt gult"
+
+#: build/block-editor/index.js:55
+msgid "Pale cyan blue"
+msgstr "Blek cyanblå"
+
+#: build/block-editor/index.js:55
+msgid "Vivid cyan blue"
+msgstr "Intensivt cyanblå"
+
+#: build/edit-post/index.js:12
+msgid "Welcome to the wonderful world of blocks! Click the “+” (“Add block”) button to add a new block. There are blocks available for all kinds of content: you can insert text, headings, images, lists, and lots more!"
+msgstr "Välkommen till den underbara världen av block! Klicka på knappen ”+” (”Lägg till block”) för att lägga till ett nytt block. Det finns block tillgängliga för alla typer av innehåll: du kan infoga text, rubriker, bilder, listor och mycket mer!"
+
+#: build/components/index.js:19
+msgid "Close dialog"
+msgstr "Stäng dialogruta"
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "Inaktivera tips"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "Jag förstår"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "Se nästa tips"
+
+#: build/block-library/index.js:14
+msgid "Replace image"
+msgstr "Ersätt bild"
+
+#: build/editor/index.js:17
+msgid "Are you ready to submit for review?"
+msgstr "Är du redo att skicka in en recension?"
+
+#: build/editor/index.js:17
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "När du är klar, skicka in ditt arbete för granskning, och en redaktör kommer att kunna godkänna det åt dig."
+
+#: build/editor/index.js:17
+msgid "Finished writing? That’s great, let’s get this published right now. Just click “Publish” and you’re good to go."
+msgstr "Skrivit klart? Det är bra, låt oss nu genast få det publicerat. Klicka bara på ”Publicera” och allt är klart."
+
+#: build/editor/index.js:17
+msgid "Click “Preview” to load a preview of this page, so you can make sure you’re happy with your blocks."
+msgstr "Klicka på ”Förhandsgranska” för att ladda en förhandsvisning av denna sida, så att du kan vara säker på att du är nöjd med dina block."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Denna filtyp är inte tillåten av säkerhetsskäl."
+
+#: build/block-library/index.js:14
+msgid "Enter URL here…"
+msgstr "Ange URL här…"
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "Ett fel inträffade när filen %s laddades upp till mediebiblioteket."
+
+#: build/editor/index.js:17
+msgid "View the autosave"
+msgstr "Visa autosparad version"
+
+#: build/editor/index.js:17
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "Det finns en autosparad version av detta inlägg som är nyare än nedanstående version."
+
+#: build/editor/index.js:17
+msgid "Autosaving"
+msgstr "Autosparar"
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "Filen överskrider den maximala storleken för filuppladdningar på denna webbplats."
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "Okänt fel"
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent posts."
+msgstr "Visa en lista över dina senaste inlägg."
+
+#: build/block-library/index.js:14
+msgid "Table Settings"
+msgstr "Tabellinställningar"
+
+#: build/edit-post/index.js:12
+msgid "Pin to toolbar"
+msgstr "Fäst i verktygsfältet"
+
+#: build/edit-post/index.js:12
+msgid "Unpin from toolbar"
+msgstr "Lossa från verktygsfältet"
+
+#: build/block-library/index.js:14
+msgid "Fixed width table cells"
+msgstr "Tabellceller med fast bredd"
+
+#: build/block-library/index.js:14
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Lägg in text som respekterar dina mellanrum och tabbtecken, och samtidigt kan formateras."
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "Lägg till ett block med innehåll som hämtas från andra webbplatser, såsom Twitter, Instagram eller YouTube."
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "Lägg till ett block som visar innehåll i flera kolumner där du sedan lägger till de innehållsblock du behöver."
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "Ett fel inträffade vid laddning av block: %s"
+
+#: build/block-library/index.js:14
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "Lägg en tabell – utmärkt för att publicera tabeller och data."
+
+#: build/editor/index.js:17
+msgid "Copy the permalink"
+msgstr "Kopiera permalänken"
+
+#: build/editor/index.js:17
+msgid "Permalink copied"
+msgstr "Permalänken kopierad"
+
+#: build/block-library/index.js:14
+msgid "Name:"
+msgstr "Namn:"
+
+#: build/components/index.js:19
+msgid "Color code: %s"
+msgstr "Färgkod: %s"
+
+#: build/components/index.js:19
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s av %3$s)"
+
+#: build/block-library/index.js:14
+msgid "Height in pixels"
+msgstr "Höjd i pixlar"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Ta bort %s"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "Inbäddningshanterare"
+
+#: build/block-library/index.js:14
+msgid "Spacer Settings"
+msgstr "Inställnignar för distanselement"
+
+#: build/block-library/index.js:14
+msgid "Spacer"
+msgstr "Distanselement"
+
+#: build/block-library/index.js:14
+msgid "Toggle to show a large initial letter."
+msgstr "Slå på/av visning av anfang (förstorad första bokstav)."
+
+#: build/block-library/index.js:14
+msgid "Showing large initial letter."
+msgstr "Visar anfang (förstorad första bokstav)."
+
+#: build/components/index.js:19
+msgid "Remove item"
+msgstr "Ta bort objektet"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Link Settings"
+msgstr "Länkinställningar"
+
+#: build/block-library/index.js:14
+msgid "next page"
+msgstr "nästa sida"
+
+#: build/block-library/index.js:14
+msgid "Height"
+msgstr "Höjd"
+
+#: build/format-library/index.js:1 build/block-library/index.js:14
+msgid "Width"
+msgstr "Bredd"
+
+#: build/block-library/index.js:14
+msgid "Image Dimensions"
+msgstr "Bilddimensioner"
+
+#: build/block-editor/index.js:55
+msgid "Skip to the selected block"
+msgstr "Hoppa över till det valda blocket"
+
+#: build/edit-post/index.js:12
+msgid "Show Block Settings"
+msgstr "Visa blockinställningar"
+
+#: build/edit-post/index.js:12
+msgid "Hide Block Settings"
+msgstr "Dölj blockinställningar"
+
+#: build/block-library/index.js:14
+msgid "Image Size"
+msgstr "Bildstorlek"
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are not cropped."
+msgstr "Miniatyrerna är inte beskurna."
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are cropped to align."
+msgstr "Miniatyrbilder kantklipps så att de passar in."
+
+#: build/block-library/index.js:14
+msgid "pagination"
+msgstr "sidindelning"
+
+#: build/edit-post/index.js:12
+msgid "Editor settings"
+msgstr "Inställningar för redigeraren"
+
+#: build/edit-post/index.js:12
+msgid "Close plugin"
+msgstr "Stäng tillägget"
+
+#: build/edit-post/index.js:12
+msgid "Block settings closed"
+msgstr "Blockets inställningar är stängda"
+
+#: build/editor/index.js:17
+msgid "Edit post permalink"
+msgstr "Redigera inläggets permalänk"
+
+#: build/editor/index.js:17
+msgid "Schedule…"
+msgstr "Schemalägg..."
+
+#: build/editor/index.js:17
+msgid "Publish…"
+msgstr "Publicera..."
+
+#: build/block-editor/index.js:55
+msgid "Media Library"
+msgstr "Mediabibliotek"
+
+#: build/block-library/index.js:14
+msgid "Page break"
+msgstr "Sidbrytning"
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "Ta bort länkning"
+
+#: build/components/index.js:19
+msgid "Add item"
+msgstr "Lägg till objekt"
+
+#: build/block-editor/index.js:55
+msgid "Advanced"
+msgstr "Avancerat"
+
+#: build/editor/index.js:17
+msgid "Reset the template"
+msgstr "Återställ mallen"
+
+#: build/editor/index.js:17
+msgid "Keep it as is"
+msgstr "Behåll det som det är"
+
+#: build/edit-post/index.js:12
+msgid "Plugins"
+msgstr "Tillägg"
+
+#: build/components/index.js:19
+msgid "Custom Size"
+msgstr "Anpassad storlek"
+
+#: build/editor/index.js:17
+msgid "Document Statistics"
+msgstr "Dokumentstatistik"
+
+#: build/editor/index.js:17
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "Återställning av mallen kan det leda till förlust av innehåll, vill du fortsätta?"
+
+#: build/edit-post/index.js:12
+msgid "Code editor selected"
+msgstr "Kodredigerare vald"
+
+#: build/edit-post/index.js:12
+msgid "Visual editor selected"
+msgstr "Visuell redigerare vald"
+
+#: build/editor/index.js:17
+msgid "Scheduled"
+msgstr "Schemalagd"
+
+#: build/editor/index.js:17
+msgid "Scheduling…"
+msgstr "Schemalägger..."
+
+#: build/editor/index.js:17
+msgid "is now scheduled. It will go live on"
+msgstr "är tidsinställt och publiceras"
+
+#: build/editor/index.js:17
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "Innehållet i ditt inlägg matchar inte mallen som tilldelats till din inläggstyp."
+
+#: build/blocks/index.js:2
+msgid "Layout Elements"
+msgstr "Layoutelement"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s togs bort"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s added"
+msgstr "%s har lagts till"
+
+#: build/editor/index.js:17
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+#: build/editor/index.js:17
+msgid "Block deleted."
+msgstr "Block borttaget."
+
+#: build/editor/index.js:17
+msgid "Block updated."
+msgstr "Block uppdaterad."
+
+#: build/editor/index.js:17
+msgid "Block created."
+msgstr "Block skapad."
+
+#: build/editor/index.js:17
+msgid "Trashing failed"
+msgstr "Borttagning misslyckades"
+
+#: build/edit-post/index.js:12
+msgid "View Post"
+msgstr "Visa inlägg"
+
+#: build/editor/index.js:17
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "Du har osparade ändringar. Om du fortsätter kommer de att gå förlorade."
+
+#: build/editor/index.js:17
+msgid "Document Outline"
+msgstr "Dokumentöversikt"
+
+#: build/editor/index.js:17
+msgid "Headings"
+msgstr "Rubriker"
+
+#: build/editor/index.js:17
+msgid "Words"
+msgstr "Ord"
+
+#: build/editor/index.js:17
+msgid "Content structure"
+msgstr "Innehållsstruktur"
+
+#: build/editor/index.js:17
+msgid "Public"
+msgstr "Offentlig"
+
+#: build/editor/index.js:17
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "Skyddad med ett lösenord du väljer. Endast de som har lösenordet kan se det här inlägget."
+
+#: build/editor/index.js:17
+msgid "Only visible to site admins and editors."
+msgstr "Endast synlig för webbplatsadministratörer och redigerare."
+
+#: build/editor/index.js:17
+msgid "Private"
+msgstr "Privat"
+
+#: build/editor/index.js:17
+msgid "Visible to everyone."
+msgstr "Synlig för alla."
+
+#: build/editor/index.js:17
+msgid "Post Visibility"
+msgstr "Inläggets synlighet"
+
+#: build/editor/index.js:17
+msgid "Would you like to privately publish this post now?"
+msgstr "Vill du publicera detta inlägg privat nu?"
+
+#: build/editor/index.js:17
+msgid "Use a secure password"
+msgstr "Använd ett säkert lösenord"
+
+#: build/editor/index.js:17
+msgid "Create password"
+msgstr "Skapa lösenord"
+
+#: build/editor/index.js:17
+msgid "Move to Trash"
+msgstr "Flytta till papperskorg"
+
+#: build/editor/index.js:17
+msgid "Parent Term"
+msgstr "Överordnad term"
+
+#: build/editor/index.js:17
+msgid "Parent Category"
+msgstr "Överordnad kategori"
+
+#: build/editor/index.js:17
+msgid "Add new term"
+msgstr "Lägg till ny term"
+
+#: build/editor/index.js:17
+msgid "Add new category"
+msgstr "Lägg till ny kategori"
+
+#: build/editor/index.js:17
+msgid "Term"
+msgstr "Term"
+
+#: build/editor/index.js:17
+msgid "Tag"
+msgstr "Etikett"
+
+#: build/editor/index.js:17
+msgid "Add New Term"
+msgstr "Lägg till ny term"
+
+#: build/editor/index.js:17
+msgid "Switch to Draft"
+msgstr "Byt till utkast"
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unpublish this post?"
+msgstr "Är du säker på att du vill avpublicera detta inlägg?"
+
+#: build/editor/index.js:17
+msgid "Immediately"
+msgstr "Genast"
+
+#: build/editor/index.js:17
+msgid "Save Draft"
+msgstr "Spara utkast"
+
+#: build/editor/index.js:17
+msgid "Saving"
+msgstr "Sparar"
+
+#: build/editor/index.js:17
+msgid "Publish:"
+msgstr "Publicera:"
+
+#: build/editor/index.js:17
+msgid "Are you ready to publish?"
+msgstr "Är du redo att publicera?"
+
+#: build/editor/index.js:17
+msgid "Copy Link"
+msgstr "Kopiera länk"
+
+#: build/edit-widgets/index.js:1 build/editor/index.js:17
+msgid "Update"
+msgstr "Uppdatera"
+
+#: build/editor/index.js:17
+msgid "Submit for Review"
+msgstr "Skicka in för recension"
+
+#: build/editor/index.js:17
+msgid "Updating…"
+msgstr "Uppdaterar…"
+
+#: build/editor/index.js:17
+msgid "Publishing…"
+msgstr "Publicerar…"
+
+#: build/editor/index.js:17
+msgid "Allow Pingbacks & Trackbacks"
+msgstr "Tillåt pingbacks och trackbacks"
+
+#: build/editor/index.js:17
+msgid "Permalink:"
+msgstr "Permalänk:"
+
+#: build/editor/index.js:17
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d version"
+msgstr[1] "%d versioner"
+
+#: build/editor/index.js:17
+msgid "Suggestion:"
+msgstr "Förslag:"
+
+#: build/editor/index.js:17
+msgid "Post Format"
+msgstr "Inläggsformat"
+
+#: build/editor/index.js:17
+msgid "Chat"
+msgstr "Chatt"
+
+#: build/editor/index.js:17
+msgid "Status"
+msgstr "Status"
+
+#: build/editor/index.js:17
+msgid "Standard"
+msgstr "Standard"
+
+#: build/editor/index.js:17
+msgid "Learn more about manual excerpts"
+msgstr "Lär dig mer om manuella utdrag"
+
+#: build/editor/index.js:17
+msgid "Write an excerpt (optional)"
+msgstr "Skriv ett utdrag (valfritt)"
+
+#: build/editor/index.js:17
+msgid "Allow Comments"
+msgstr "Tillåt kommentarer"
+
+#: build/editor/index.js:17
+msgid "Template:"
+msgstr "Mall:"
+
+#: build/editor/index.js:17
+msgid "no parent"
+msgstr "ingen överordnad"
+
+#: build/editor/index.js:17
+msgid "no title"
+msgstr "ingen rubrik"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "No blocks found."
+msgstr "Inga block hittades."
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "Inbäddningar"
+
+#: build/editor/index.js:17
+msgid "Blocks"
+msgstr "Block"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Search for a block"
+msgstr "Sök efter ett block"
+
+#: build/block-editor/index.js:55
+msgid "Add block"
+msgstr "Lägg till block"
+
+#: build/block-editor/index.js:55
+msgid "Add %s"
+msgstr "Lägg till %s"
+
+#: build/editor/index.js:17
+msgid "Copy Error"
+msgstr "Kopieringsfel"
+
+#: build/editor/index.js:17
+msgid "Copy Post Text"
+msgstr "Kopiera inläggstext"
+
+#: build/editor/index.js:17
+msgid "Attempt Recovery"
+msgstr "Försök återställning"
+
+#: build/editor/index.js:17
+msgid "The editor has encountered an unexpected error."
+msgstr "Redigeraren har stött på ett oväntat fel."
+
+#: build/editor/index.js:17
+msgid "Undo"
+msgstr "Ångra"
+
+#: build/editor/index.js:17
+msgid "Redo"
+msgstr "Gör om"
+
+#: build/editor/index.js:17
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(Flera H1-rubriker rekommenderas inte)"
+
+#: build/editor/index.js:17
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(Ditt tema kan redan använda en H1 för inläggsrubriken)"
+
+#: build/editor/index.js:17
+msgid "(Incorrect heading level)"
+msgstr "(Felaktig rubriknivå)"
+
+#: build/editor/index.js:17
+msgid "(Empty heading)"
+msgstr "(Tom rubrik)"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "More options"
+msgstr "Fler alternativ"
+
+#: build/block-editor/index.js:55
+msgid "Edit visually"
+msgstr "Redigera visuellt"
+
+#: build/block-editor/index.js:55
+msgid "Duplicate"
+msgstr "Duplicera"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "Block kan inte flyttas ner eftersom de redan är längst ner"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "Block kan inte flyttas upp eftersom de redan är högst upp"
+
+#: build/block-editor/index.js:55
+msgid "Edit as HTML"
+msgstr "Redigera som HTML"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Blocks"
+msgstr "Konvertera till block"
+
+#: build/block-editor/index.js:55
+msgid "Block: %s"
+msgstr "Block: %s"
+
+#: build/block-editor/index.js:55
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "Detta block har stött på ett fel och kan inte förhandsgranskas."
+
+#: build/block-editor/index.js:55
+msgid "No block selected."
+msgstr "Inga block valda."
+
+#: build/edit-post/index.js:12
+msgid "Transform into:"
+msgstr "Omvandla till:"
+
+#: build/edit-post/index.js:12
+msgid "Remove"
+msgstr "Ta bort"
+
+#: build/edit-post/index.js:12
+msgid "Find original"
+msgstr "Hitta original"
+
+#: build/edit-post/index.js:12
+msgid "Copy All Content"
+msgstr "Kopiera allt innehåll"
+
+#: build/edit-post/index.js:12 build/editor/index.js:17
+#: build/block-library/index.js:14
+msgid "Copied!"
+msgstr "kopierad!"
+
+#: build/edit-post/index.js:12
+msgid "Visibility"
+msgstr "Synlighet"
+
+#: build/edit-post/index.js:12
+msgid "Status & Visibility"
+msgstr "Status och synlighet"
+
+#: build/edit-post/index.js:12
+msgid "Document"
+msgstr "Dokument"
+
+#: build/edit-post/index.js:12 build/editor/index.js:17
+msgid "Featured Image"
+msgstr "Utvald bild"
+
+#: build/edit-post/index.js:12
+msgid "Close settings"
+msgstr "Stäng inställningar"
+
+#: build/edit-post/index.js:12
+msgid "Tools"
+msgstr "Verktyg"
+
+#: build/edit-post/index.js:12
+msgid "Editor"
+msgstr "Redigerare"
+
+#: build/edit-post/index.js:12
+msgid "Code Editor"
+msgstr "Kodredigerare"
+
+#: build/edit-post/index.js:12
+msgid "Visual Editor"
+msgstr "Visuell redigerare"
+
+#: build/edit-post/index.js:12
+msgid "Settings"
+msgstr "Inställningar"
+
+#: build/components/index.js:19 build/block-library/index.js:14
+msgid "Reset"
+msgstr "Återställ"
+
+#: build/components/index.js:19
+msgid "Dismiss this notice"
+msgstr "Avfärda denna notis"
+
+#: build/components/index.js:19
+msgid "Item removed."
+msgstr "Objekt borttaget."
+
+#: build/components/index.js:19
+msgid "Item added."
+msgstr "Objekt tillagt."
+
+#: build/components/index.js:19
+msgid "Drop files to upload"
+msgstr "Släpp filer för att ladda upp"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "Ett okänt fel uppstod."
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "No results."
+msgstr "Inga resultat."
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "%d resultat hittades, använd upp och nedpilarna för att navigera."
+msgstr[1] "%d resultat hittades, använd upp och nedpilarna för att navigera."
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "URL"
+msgstr "URL"
+
+#: build/block-editor/index.js:55
+msgid "Submit"
+msgstr "Skicka"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+#: build/components/index.js:19
+msgid "Close"
+msgstr "Stäng"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Insert Link"
+msgstr "Infoga länk"
+
+#: build/editor/index.js:17 build/format-library/index.js:1
+#: build/block-library/index.js:14
+msgid "Link"
+msgstr "Länk"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "Genomstruken"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "Kursiv"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "Fet"
+
+#: build/block-library/index.js:14
+msgid "Remove Link"
+msgstr "Ta bort länk"
+
+#: build/components/index.js:19 build/block-library/index.js:14
+msgid "Number of items"
+msgstr "Antal objekt"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "Category"
+msgstr "Kategori"
+
+#: build/components/index.js:19
+msgid "Z → A"
+msgstr "Z \t A"
+
+#: build/components/index.js:19
+msgid "A → Z"
+msgstr "A \t Z"
+
+#: build/components/index.js:19
+msgid "Oldest to Newest"
+msgstr "Äldsta till nyaste"
+
+#: build/components/index.js:19
+msgid "Newest to Oldest"
+msgstr "Nyaste till äldsta"
+
+#: build/components/index.js:19
+msgid "Order by"
+msgstr "Sortera efter"
+
+#: build/media-utils/index.js:1
+msgid "Select"
+msgstr "Välj"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "Välj eller ladda upp media"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Video"
+msgstr "Video"
+
+#: build/block-library/index.js:14
+msgid "Edit video"
+msgstr "Redigera video"
+
+#: build/block-library/index.js:14
+msgid "Write…"
+msgstr "Skriv…"
+
+#: build/block-library/index.js:14
+msgid "poetry"
+msgstr "poesi"
+
+#: build/block-library/index.js:14
+msgid "Verse"
+msgstr "Vers"
+
+#: build/block-library/index.js:14
+msgid "New Column"
+msgstr "Ny kolumn"
+
+#: build/block-library/index.js:14
+msgid "Delete Column"
+msgstr "Ta bort kolumn"
+
+#: build/block-library/index.js:14
+msgid "Add Column After"
+msgstr "Lägg till kolumn efter"
+
+#: build/block-library/index.js:14
+msgid "Add Column Before"
+msgstr "Lägg till kolumn före"
+
+#: build/block-library/index.js:14
+msgid "Delete Row"
+msgstr "Ta bort rad"
+
+#: build/block-library/index.js:14
+msgid "Add Row Before"
+msgstr "Lägg till rad före"
+
+#: build/block-library/index.js:14
+msgid "Table"
+msgstr "Tabell"
+
+#: build/block-library/index.js:14
+msgid "Write shortcode here…"
+msgstr "Skriv kortkod här…"
+
+#: build/block-library/index.js:14
+msgid "Shortcode"
+msgstr "Kortkod"
+
+#: build/block-library/index.js:14
+msgid "divider"
+msgstr "avdelare"
+
+#: build/block-library/index.js:14
+msgid "horizontal-line"
+msgstr "horisontell-linje"
+
+#: build/block-library/index.js:14
+msgid "Separator"
+msgstr "Avgränsare"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Quote"
+msgstr "Citat"
+
+#: build/block-library/index.js:14
+msgid "Write preformatted text…"
+msgstr "Skriv förformaterad text…"
+
+#: build/block-library/index.js:14
+msgid "Preformatted"
+msgstr "Förformaterad"
+
+#: build/block-library/index.js:14
+msgid "text"
+msgstr "text"
+
+#: build/components/index.js:19
+msgid "Font Size"
+msgstr "Textstorlek"
+
+#: build/block-library/index.js:14
+msgid "Text Settings"
+msgstr "Textinställningar"
+
+#: build/block-library/index.js:14
+msgid "numbered list"
+msgstr "numrerad lista"
+
+#: build/block-library/index.js:14
+msgid "bullet list"
+msgstr "punktlista"
+
+#: build/block-library/index.js:14
+msgid "List"
+msgstr "Lista"
+
+#: build/block-library/index.js:14
+msgid "recent posts"
+msgstr "senaste inlägget"
+
+#: build/block-library/index.js:14
+msgid "Latest Posts"
+msgstr "Senaste inläggen"
+
+#: build/block-library/index.js:14
+msgid "Display post date"
+msgstr "Visa inläggsdatum"
+
+#: build/block-library/index.js:14
+msgid "Grid View"
+msgstr "Rutnätsvy"
+
+#: build/block-library/index.js:14
+msgid "List View"
+msgstr "Listvy"
+
+#: build/format-library/index.js:1 build/block-library/index.js:14
+msgid "photo"
+msgstr "foto"
+
+#: build/block-library/index.js:14
+msgid "Image Settings"
+msgstr "Bildinställningar"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Image"
+msgstr "Bild"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Preview"
+msgstr "Förhandsgranska"
+
+#: build/block-library/index.js:14
+msgid "embed"
+msgstr "bädda in"
+
+#: build/block-library/index.js:14
+msgid "Custom HTML"
+msgstr "Anpassad HTML"
+
+#: build/block-library/index.js:14
+msgid "subtitle"
+msgstr "underrubrik"
+
+#: build/block-library/index.js:14
+msgid "title"
+msgstr "rubrik"
+
+#: build/block-library/index.js:14
+msgid "Heading"
+msgstr "Rubrik"
+
+#: build/block-library/index.js:14
+msgid "Write heading…"
+msgstr "Skriv rubrik…"
+
+#: build/block-library/index.js:14
+msgid "Level"
+msgstr "Nivå"
+
+#: build/block-library/index.js:14
+msgid "Heading Settings"
+msgstr "Rubrikinställningar"
+
+#: build/block-library/index.js:14
+msgid "photos"
+msgstr "foton"
+
+#: build/block-library/index.js:14
+msgid "images"
+msgstr "bilder"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Remove Image"
+msgstr "Ta bort bild"
+
+#: build/block-library/index.js:14
+msgid "Crop Images"
+msgstr "Beskär bilder"
+
+#: build/block-library/index.js:14
+msgid "Gallery Settings"
+msgstr "Inställningar för galleri"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Gallery"
+msgstr "Galleri"
+
+#: build/block-library/index.js:14
+msgid "Classic"
+msgstr "Klassisk"
+
+#: build/block-library/index.js:14
+msgid "video"
+msgstr "video"
+
+#: build/block-library/index.js:14
+msgid "audio"
+msgstr "ljud"
+
+#: build/block-library/index.js:14
+msgid "music"
+msgstr "musik"
+
+#: build/block-library/index.js:14
+msgid "image"
+msgstr "bild"
+
+#: build/block-library/index.js:14
+msgid "blog"
+msgstr "blogg"
+
+#: build/block-library/index.js:14
+msgid "post"
+msgstr "inlägg"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s"
+msgstr "Inbäddat innehåll från %s"
+
+#: build/block-library/index.js:14
+msgid "Enter URL to embed here…"
+msgstr "Ange URL att bädda in här…"
+
+#: build/block-library/index.js:14
+msgid "%s URL"
+msgstr "%s URL"
+
+#: build/block-library/index.js:14
+msgid "Embedding…"
+msgstr "Bäddar in…"
+
+#: build/block-library/index.js:14
+msgid "Write title…"
+msgstr "Skriv rubrik…"
+
+#: build/block-library/index.js:14
+msgid "Text Alignment"
+msgstr "Textjustering"
+
+#: build/block-library/index.js:14
+msgid "Fixed Background"
+msgstr "Fixerad bakgrund"
+
+#: build/block-library/index.js:14
+msgid "Edit image"
+msgstr "Redigera bild"
+
+#: build/block-library/index.js:14
+msgid "Columns"
+msgstr "Kolumner"
+
+#: build/block-library/index.js:14
+msgid "Code"
+msgstr "Kod"
+
+#: build/block-library/index.js:14
+msgid "Write code…"
+msgstr "Skriv kod…"
+
+#: build/block-library/index.js:14
+msgid "Categories"
+msgstr "Kategorier"
+
+#: build/block-library/index.js:14
+msgid "Show Hierarchy"
+msgstr "Visa hierarki"
+
+#: build/block-library/index.js:14
+msgid "Show post counts"
+msgstr "Visa antal inlägg"
+
+#: build/block-library/index.js:14
+msgid "Categories Settings"
+msgstr "Kategoriinställningar"
+
+#: build/block-library/index.js:14
+msgid "Add text…"
+msgstr "Lägg till text…"
+
+#: build/block-library/index.js:14
+msgid "Button"
+msgstr "Knapp"
+
+#: build/block-library/index.js:14
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: build/block-library/index.js:14
+msgid "Block has been deleted or is unavailable."
+msgstr "Block har tagits bort eller är inte tillgängligt."
+
+#: build/block-editor/index.js:55
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: build/block-library/index.js:14
+msgid "Edit audio"
+msgstr "Redigera ljud"
+
+#: build/block-library/index.js:14
+msgid "Write caption…"
+msgstr "Skriv bildtext…"
+
+#: build/block-library/index.js:14
+msgid "Use URL"
+msgstr "Använd URL"
+
+#: build/block-library/index.js:14
+msgid "Attachment Page"
+msgstr "Sida för bilaga"
+
+#: build/block-library/index.js:14
+msgid "Drop Cap"
+msgstr "Anfang"
+
+#: build/block-editor/index.js:55
+msgid "Move down"
+msgstr "Flytta ner"
+
+#: build/block-editor/index.js:55
+msgid "Move up"
+msgstr "Flytta upp"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the beginning of the content and can’t be moved up"
+msgstr "Block %s är i början av innehållet och kan inte flyttas upp"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the end of the content and can’t be moved down"
+msgstr "Block %s är i slutet av innehållet och kan inte flyttas ner"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "Block %s är det enda blocket och kan inte flyttas"
+
+#: build/editor/index.js:17
+msgid "is now live."
+msgstr "är nu live."
+
+#: build/editor/index.js:17
+msgid "Convert to Regular Block"
+msgstr "Konvertera till vanlig block"
+
+#: build/block-library/index.js:14
+msgid "Write list…"
+msgstr "Skriv lista…"
+
+#: build/block-editor/index.js:55
+msgid "Convert to ordered list"
+msgstr "Konvertera till numrerad lista"
+
+#: build/block-editor/index.js:55
+msgid "Convert to unordered list"
+msgstr "Konvertera till punktlista"
+
+#: build/block-editor/index.js:55
+msgid "Outdent list item"
+msgstr "Lyft listobjektet en nivå"
+
+#: build/block-editor/index.js:55
+msgid "Indent list item"
+msgstr "Sänk listobjektet en nivå"
+
+#: build/block-library/index.js:14
+msgid "ordered list"
+msgstr "numrerad lista"
+
+#: build/block-library/index.js:14
+msgid "Pullquote"
+msgstr "Markerat citat"
+
+#: build/block-library/index.js:14
+msgid "Write quote…"
+msgstr "Skriv in citat..."
+
+#: build/block-library/index.js:14
+msgid "Write citation…"
+msgstr "Skriv citat..."
+
+#: build/edit-post/index.js:12
+msgid "Editor content"
+msgstr "Innehållsredigerare"
+
+#: build/edit-post/index.js:12
+msgid "Editor plugins"
+msgstr "Tilläggsredigerare"
+
+#: build/editor/index.js:17
+msgid "Order"
+msgstr "Ordning"
+
+#: build/edit-post/index.js:12
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "Ytterligare inställningar finns nu tillgängliga i Redigerarens sidopanelen med blockinställningar"
+
+#: build/block-library/index.js:14
+msgid "Write subheading…"
+msgstr "Skriv underrubrik ..."
+
+#: build/block-editor/index.js:55
+msgid "Block Styles"
+msgstr "Blockstilar"
+
+#: build/block-library/index.js:14
+msgid "Heading %d"
+msgstr "Rubriknivå %d"
+
+#: build/edit-post/index.js:12
+msgid "Editor top bar"
+msgstr "Redigerarens toppband"
+
+#: build/editor/index.js:17
+msgid "Visibility:"
+msgstr "Synlighet:"
+
+#: build/editor/index.js:17
+msgid "What’s next?"
+msgstr "Vad kommer härnäst?"
+
+#: build/editor/index.js:17
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"Är du säker på att du vill ta bort detta återanvändbara block?\n"
+"\n"
+"Det kommer att tas bort permanent från alla inlägg och sidor som använder det."
+
+#: build/blocks/index.js:2
+msgid "Reusable Blocks"
+msgstr "Återanvändbara block"
+
+#: build/block-library/index.js:14
+msgid "Paragraph"
+msgstr "Stycke"
+
+#: build/editor/index.js:17
+msgid "Paragraphs"
+msgstr "Stycken"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d resultat hittades."
+msgstr[1] "%d resultat hittades."
+
+#: build/block-library/index.js:14
+msgid "Add Row After"
+msgstr "Lägg till rad efter"
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/edit-post/index.js:12 build/editor/index.js:17
+msgid "(no title)"
+msgstr "(utan rubrik)"
+
+#: build/components/index.js:19
+msgid "AM"
+msgstr "f m"
+
+#: build/editor/index.js:17
+msgid "Add New Tag"
+msgstr "Lägg till en ny tagg"
+
+#: build/components/index.js:19
+msgid "All"
+msgstr "Alla"
+
+#: build/block-editor/index.js:55 build/format-library/index.js:1
+msgid "Apply"
+msgstr "Verkställ"
+
+#: build/block-library/index.js:14
+msgid "Background Color"
+msgstr "Färg för bakgrund"
+
+#: build/edit-post/index.js:12
+msgid "Block"
+msgstr "Block"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Edit"
+msgstr "Redigera"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Edit Link"
+msgstr "Redigera länken"
+
+#: build/block-library/index.js:14
+msgid "Media File"
+msgstr "Mediafil"
+
+#: build/block-library/index.js:14
+msgid "No posts found."
+msgstr "Hittade inga inlägg."
+
+#: build/block-library/index.js:14
+msgid "None"
+msgstr "Inget"
+
+#: build/components/index.js:19
+msgid "PM"
+msgstr "e m"
+
+#: build/edit-post/index.js:12
+msgid "Page Attributes"
+msgstr "Sidoattribut"
+
+#: build/editor/index.js:17
+msgid "Password Protected"
+msgstr "Lösenordsskyddat"
+
+#: build/editor/index.js:17
+msgid "Pending Review"
+msgstr "Väntar på granskning"
+
+#: build/editor/index.js:17
+msgid "Published"
+msgstr "Publicerat"
+
+#: build/editor/index.js:17
+msgid "Saved"
+msgstr "Sparat"
+
+#: build/editor/index.js:17
+msgid "Schedule"
+msgstr "Tidsinställ"
+
+#: build/block-library/index.js:14
+msgid "Edit table"
+msgstr "Redigera tabell"
+
+#: build/block-library/index.js:14
+msgid "Edit gallery"
+msgstr "Redigera galleri"
+
+#: build/editor/index.js:17
+msgid "Aside"
+msgstr "Notis"
+
+#: build/editor/index.js:17
+msgid "Set Featured Image"
+msgstr "Ställ in utvald bild"
+
+#: build/block-library/index.js:14
+msgid "Read more"
+msgstr "Läs mer"
+
+#: build/editor/index.js:17
+msgid "Updating failed."
+msgstr "Uppdatering misslyckades."
+
+#: build/editor/index.js:17
+msgid "Publishing failed."
+msgstr "Publicering misslyckades."
+
+#: build/editor/index.js:17
+msgid "Scheduling failed."
+msgstr "Schemaläggning misslyckades."
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Audio"
+msgstr "Ljud"
+
+#: build/block-editor/index.js:55
+msgid "Upload"
+msgstr "Ladda upp"
+
+#: build/block-editor/index.js:55
+msgid "HTML Anchor"
+msgstr "HTML-ankare"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "Denna färgkombination kan vara svår för människor att läsa. Försök använda en ljusare bakgrundsfärg och/eller en mörkare textfärg."
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "Denna färgkombination kan vara svår för människor att läsa. Försök använda en mörkare bakgrundsfärg och/eller en ljusare textfärg."
+
+#: build/components/index.js:19
+msgid "Clear"
+msgstr "Rensa"
+
+#: build/components/index.js:19
+msgid "Custom color picker"
+msgstr "Anpassad färgväljare"
+
+#: build/components/index.js:19
+msgid "Color: %s"
+msgstr "Färg: %s"
+
+#: build/block-editor/index.js:55
+msgid "Full Width"
+msgstr "Full bredd"
+
+#: build/block-editor/index.js:55
+msgid "Wide Width"
+msgstr "Bred bredd"
+
+#: build/blocks/index.js:2
+msgid "Widgets"
+msgstr "Widgetar"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "Formatering"
+
+#: build/blocks/index.js:2
+msgid "Common Blocks"
+msgstr "Vanliga block"
+
+#: build/block-editor/index.js:55
+msgid "Align Center"
+msgstr "Centrera"
+
+#: build/block-editor/index.js:55
+msgid "Align Left"
+msgstr "Vänsterställ"
+
+#: build/block-editor/index.js:55
+msgid "Align Right"
+msgstr "Högerställ"
+
+#: build/block-editor/index.js:55
+msgid "Additional CSS Class(es)"
+msgstr "Ytterligare CSS-klass(er)"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Trycker sedan 1440. Detta är utvecklingstillägget för den nya blockredigeraren i kärnan."
+
+#: build/editor/index.js:17
+msgid "Add title"
+msgstr "Lägg till rubrik"
+
+#: gutenberg.php:93
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "Gutenbergs utvecklingsläge kräver att filer byggs. Kör <code>npm install</code> för att installera beroenden, <code>npm run build</code> för att bygga filerna eller <code>npm run dev</code> för att bygga filerna och granska efter ändringar. Läs filen <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> för mer information."
+
+#: build/editor/index.js:17
+msgid "Author"
+msgstr "Författare"
+
+#: build/edit-post/index.js:12
+msgid "Discussion"
+msgstr "Diskussion"
+
+#: build/edit-post/index.js:12
+msgid "Custom Fields"
+msgstr "Anpassade fält"
+
+#: build/edit-post/index.js:12
+msgid "Excerpt"
+msgstr "Utdrag"
+
+#: build/edit-post/index.js:12 build/editor/index.js:17
+msgid "Publish"
+msgstr "Publicera"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Save"
+msgstr "Spara"
+
+#: gutenberg.php:64
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Välj kategori"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Demo"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Gutenberg teamet"
+
+#: build/block-library/index.js:14
+msgid "Metadata"
+msgstr "Metadata"
+
+#: lib/class-wp-block-styles-registry.php:50
+msgid "Block style name must be a string."
+msgstr "Namn på blocktyper måste bestå av strängar."
+
+#: build/block-library/blocks/latest-posts.php:37
+#: build/block-library/blocks/rss.php:35 build/block-library/index.js:14
+msgid "(Untitled)"
+msgstr "(Utan titel)"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:80
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg kräver WordPress %s eller senare för att fungera korrekt. Uppdatera WordPress innan du aktiverar Gutenberg."

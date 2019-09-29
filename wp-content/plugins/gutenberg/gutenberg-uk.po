@@ -1,0 +1,4029 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-24 16:05:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-editor/index.js:55
+msgid "Learn more about anchors"
+msgstr "Дізнайтеся більше про якорі"
+
+#: lib/customizer.php:60
+msgid "Widget Blocks (Experimental)"
+msgstr "Блоки віджетів (Експериментальне)"
+
+#: build/editor/index.js:17
+msgid "%1$s Error message: %2$s"
+msgstr "%1$s Повідомлення про помилку: %2$s"
+
+#: build/block-editor/index.js:55
+msgid "Skip"
+msgstr "Пропустити"
+
+#: build/block-editor/index.js:55
+msgid "Choose Layout"
+msgstr "Виберіть макет"
+
+#: build/block-library/index.js:14
+msgid "https://codex.wordpress.org/Nofollow"
+msgstr "https://codex.wordpress.org/Nofollow"
+
+#: build/block-library/index.js:14
+msgid "SEO Settings"
+msgstr "SEO Налаштування"
+
+#: build/block-library/index.js:14
+msgid "menu"
+msgstr "меню"
+
+#: build/block-library/index.js:14
+msgid "links"
+msgstr "посилання"
+
+#: build/block-library/index.js:14
+msgid "Menu Settings"
+msgstr "Налаштування меню"
+
+#: build/block-library/index.js:14
+msgid "https://wordpress.org/support/article/embeds/"
+msgstr "https://wordpress.org/support/article/embeds/"
+
+#: build/block-library/index.js:14
+msgid "Three columns; wide center column"
+msgstr "Три колонки; широка центральна колонка"
+
+#: build/block-library/index.js:14
+msgid "Three columns; equal split"
+msgstr "Три колонки; рівне розділення"
+
+#: build/block-library/index.js:14
+msgid "Search or paste a link"
+msgstr "Пошук або вставка посилання"
+
+#: build/block-library/index.js:14
+msgid "What's this?"
+msgstr "Що це?"
+
+#: build/edit-widgets/index.js:1
+msgid "Block areas saved succesfully."
+msgstr "Області блоків успішно збережені."
+
+#: build/block-library/index.js:14
+msgid "Description"
+msgstr "Опис"
+
+#: build/editor/index.js:17
+msgctxt "verb"
+msgid "Group"
+msgstr "Групувати"
+
+#: build/editor/index.js:17
+msgctxt "Ungrouping blocks from within a Group block back into individual blocks within the Editor "
+msgid "Ungroup"
+msgstr "Розгрупувати"
+
+#: build/edit-post/index.js:12
+msgid "More tools & options"
+msgstr "Більше інструментів і можливостей"
+
+#: build/block-library/index.js:14
+msgid "Create Table"
+msgstr "Створити таблицю"
+
+#: build/block-library/index.js:14
+msgid "Insert a table for sharing data."
+msgstr "Створити таблицю для представлення даних."
+
+#: build/components/index.js:19
+msgid "Separate with commas or the Enter key."
+msgstr "Розділяйте комами або клавішею Enter."
+
+#: build/components/index.js:19
+msgid "Separate with commas, spaces, or the Enter key."
+msgstr "Розділяйте комами, пробілами або клавішею Enter."
+
+#: build/block-editor/index.js:55
+msgid "Separate multiple classes with spaces."
+msgstr "Розділіть декілька класів пробілами."
+
+#: lib/class-wp-rest-widget-areas-controller.php:150
+msgid "Sorry, you are not allowed to edit sidebars."
+msgstr "На жаль, ви не можете редагувати області віджетів."
+
+#: build/block-library/index.js:14
+msgid "Move Image Forward"
+msgstr "Перемістити зображення вперед"
+
+#: build/block-library/index.js:14
+msgid "Move Image Backward"
+msgstr "Перемістити зображення назад"
+
+#: lib/class-wp-rest-widget-areas-controller.php:99
+msgid "Sorry, you are not allowed to read sidebars."
+msgstr "На жаль, ви не можете читати області віджетів."
+
+#: lib/class-wp-rest-widget-areas-controller.php:56
+msgid "Sidebar content."
+msgstr "Вміст області віджетів."
+
+#: lib/class-wp-rest-widget-areas-controller.php:49
+msgid "The sidebar’s ID."
+msgstr "ID області віджетів."
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:332
+msgid "Displays a set of blocks"
+msgstr "Відображає набір блоків"
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:328
+#: lib/class-experimental-wp-widget-blocks-manager.php:340
+msgid "Blocks Area"
+msgstr "Область блоків"
+
+#: build/block-library/index.js:14
+msgid "Column Settings"
+msgstr "Налаштування стовпців"
+
+#: build/block-library/index.js:14
+msgid "Note: Autoplaying audio may cause usability issues for some visitors."
+msgstr "Замітка: Автоматичне відтворення звуку може викликати проблеми з використанням у деяких відвідувачів."
+
+#: build/block-library/index.js:14
+msgid "Percentage width"
+msgstr "Ширина у відсотках"
+
+#: build/format-library/index.js:1
+msgid "Inline Code"
+msgstr "Вбудований код"
+
+#: build/block-library/index.js:14
+msgid "Post Content"
+msgstr "Вміст запису"
+
+#: build/block-library/blocks/latest-posts.php:70
+msgid "Read More"
+msgstr "Читати далі"
+
+#: build/block-library/index.js:14
+msgid "Footer section"
+msgstr "Область підвалу"
+
+#: build/block-library/index.js:14
+msgid "Header section"
+msgstr "Область заголовку"
+
+#: build/block-library/index.js:14
+msgid "Sorting and Filtering"
+msgstr "Сортування і фільтрація"
+
+#: build/block-library/index.js:14
+msgid "Post Meta Settings"
+msgstr "Налаштування метаданих запису"
+
+#: lib/widgets.php:189
+msgid "Block area updated."
+msgstr "Область блоків оновлена."
+
+#: lib/widgets.php:188
+msgid "Block area scheduled."
+msgstr "Область блоків запланована до публікації."
+
+#: build/server-side-render/index.js:1
+msgid "Block rendered as empty."
+msgstr "Блок відображається як порожній."
+
+#: build/block-library/index.js:14
+msgid "Note: Autoplaying videos may cause usability issues for some visitors."
+msgstr "Замітка: Автоматичне відтворення відео може викликати проблеми з використанням у деяких відвідувачів."
+
+#: build/block-library/index.js:14
+msgid "Post Content Settings"
+msgstr "Налаштування вмісту запису"
+
+#: lib/widgets.php:185
+msgid "Block area published."
+msgstr "Область блоків опублікована."
+
+#: lib/widgets.php:182
+msgid "Filter block areas list"
+msgstr "Відфільтрувати список областей блоків"
+
+#: lib/widgets.php:184
+msgid "Block areas list"
+msgstr "Список областей блоків"
+
+#: lib/widgets.php:183
+msgid "Block areas list navigation"
+msgstr "Навігація по списку областей блоків"
+
+#: lib/widgets.php:180
+msgid "No block area found."
+msgstr "Область блоків не знайдено."
+
+#: lib/widgets.php:179
+msgid "Search Block Areas"
+msgstr "Пошук областей блоків"
+
+#: lib/widgets.php:178
+msgid "All Block Areas"
+msgstr "Всі області блоків"
+
+#: lib/widgets.php:177
+msgid "View Block Area"
+msgstr "Подивитися область блоків"
+
+#: lib/widgets.php:176
+msgid "Edit Block Area"
+msgstr "Змінити область блоків"
+
+#: lib/widgets.php:175
+msgid "New Block Area"
+msgstr "Нова область блоків"
+
+#: lib/widgets.php:171
+msgctxt "admin menu"
+msgid "Block Areas"
+msgstr "Області блоків"
+
+#: lib/widgets.php:170
+msgctxt "post type singular name"
+msgid "Block Area (Experimental)"
+msgstr "Область блоків (експериментальна)"
+
+#: lib/widgets.php:169
+msgctxt "post type general name"
+msgid "Block Area (Experimental)"
+msgstr "Область блоків (експериментальна)"
+
+#: lib/widgets.php:174
+msgid "Add New Block Area"
+msgstr "Додати нову область блоків"
+
+#: lib/widgets.php:167
+msgid "Experimental custom post type that will store block areas referenced by themes."
+msgstr "Експериментальний користувацький тип запису, який зберігає області блоків, на які посилаються теми."
+
+#: build/block-editor/index.js:55
+msgid "Add Block"
+msgstr "Додати блок"
+
+#: build/block-library/index.js:14
+msgid "row"
+msgstr "рядок"
+
+#: build/block-library/index.js:14
+msgid "wrapper"
+msgstr "обгортка"
+
+#: build/block-library/index.js:14
+msgid "container"
+msgstr "контейнер"
+
+#: build/block-library/index.js:14
+msgid "Group"
+msgstr "Група"
+
+#: build/block-library/index.js:14
+msgid "section"
+msgstr "розділ"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen content"
+msgstr "Вміст екрану віджетів"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets advanced settings"
+msgstr "Розширені налаштування віджетів"
+
+#: build/edit-widgets/index.js:1
+msgid "(experimental)"
+msgstr "(експериментальний)"
+
+#: build/edit-widgets/index.js:1
+msgid "Block Areas"
+msgstr "Області Блоку"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen top bar"
+msgstr "Верхня панель екрану віджетів"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read."
+msgstr "Це поєднання кольорів може бути важким для читання людьми."
+
+#: build/block-library/index.js:14
+msgid "There is no poster image currently selected"
+msgstr "В даний момент зображення постера не вибрано"
+
+#: build/block-library/index.js:14
+msgid "The current poster image url is %s"
+msgstr "Поточний URL зображення постера %s"
+
+#: build/block-library/index.js:14
+msgid "A block that groups other blocks."
+msgstr "Блок, який групує інші блоки."
+
+#: build/block-library/index.js:14
+msgid "Crop image to fill entire column"
+msgstr "Обрізати зображення для заповнення всього стовпця"
+
+#: build/block-library/index.js:14
+msgid "You are now editing the image in the image block."
+msgstr "Тепер ви редагуєте зображення в блоці зображення."
+
+#: build/block-library/index.js:14
+msgid "You are now viewing the image in the image block."
+msgstr "Тепер ви переглядаєте зображення в блоці зображення."
+
+#: build/block-library/index.js:14
+msgid "Play inline"
+msgstr "Програти вбудований вміст"
+
+#: build/block-library/index.js:14
+msgid "Leave empty if the image is purely decorative."
+msgstr "Залишити порожнім, якщо зображення є суто декоративним."
+
+#: build/block-library/index.js:14
+msgid "Describe the purpose of the image"
+msgstr "Опишіть призначення зображення"
+
+#: build/block-editor/index.js:55
+msgid "Add a block"
+msgstr "Додайте блок"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting label"
+msgid "Change Alignment"
+msgstr "Змініть вирівнювання"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Bottom"
+msgstr "Вертикальне вирівнювання низу"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Middle"
+msgstr "Вертикальне вирівнювання середини"
+
+#: build/editor/index.js:17
+msgid "Replace Image"
+msgstr "Замініть зображення"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Top"
+msgstr "Вертикальне вирівнювання верху"
+
+#: build/block-library/index.js:14
+msgid "Select a legacy widget to display:"
+msgstr "Виберіть застарілий віджет для відображення:"
+
+#: build/block-library/index.js:14
+msgid "There are no widgets available."
+msgstr "Немає доступних віджетів."
+
+#: build/block-library/index.js:14
+msgid "Change widget"
+msgstr "Зманіть віджет"
+
+#: build/block-library/index.js:14
+msgid "Display a legacy widget."
+msgstr "Відобразити застарілий віджет."
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget (Experimental)"
+msgstr "Застарілий віджет (Експериментальне)"
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget"
+msgstr "Застарілий віджет"
+
+#: build/block-library/index.js:14
+msgid "Not a valid widget."
+msgstr "Не вірний віджет."
+
+#: build/block-editor/index.js:55
+msgid "Change block type or style"
+msgstr "Змінити тип блоку або стиль"
+
+#: build/block-library/index.js:14
+msgid "You don't have permissions to use widgets on this site."
+msgstr "У вас немає прав на використання віджетів на цьому сайті."
+
+#: build/block-editor/index.js:55
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "Пробіл"
+
+#: build/block-editor/index.js:55
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "Backspace"
+
+#: build/edit-post/index.js:12
+msgid "Block Manager"
+msgstr "Менеджер блоків"
+
+#: build/editor/index.js:17
+msgid "Exit the Editor"
+msgstr "Вийти з редактору"
+
+#: lib/class-wp-rest-widget-updater-controller.php:101
+msgid "Invalid widget."
+msgstr "Невірний віджет."
+
+#: build/editor/index.js:17
+msgid "Search Terms"
+msgstr "Умови пошуку"
+
+#: lib/class-wp-rest-widget-updater-controller.php:42
+msgid "Class name of the widget."
+msgstr "Ім'я класу віджета."
+
+#: lib/class-wp-rest-widget-updater-controller.php:69
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "На жаль, у вас немає доступу до віджетів на цьому сайті."
+
+#: build/block-editor/index.js:55
+msgid "More Rich Text Controls"
+msgstr "Більше елементів управління Rich Text"
+
+#: gutenberg.php:49 gutenberg.php:50
+msgid "Widgets (beta)"
+msgstr "Віджети (бета-версія)"
+
+#: build/block-library/index.js:14
+msgid "link"
+msgstr "посилання"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s can't be previewed in the editor."
+msgstr "Вбудований вміст від %s не можна переглянути в редакторі."
+
+#: build/components/index.js:19
+msgid "Custom Color"
+msgstr "Налаштування кольору"
+
+#: build/block-library/index.js:14
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "Підкажіть відвідувачам дію з посиланням на стиль кнопки."
+
+#: build/block-library/blocks/rss.php:62
+msgid "by"
+msgstr "від"
+
+#: build/block-library/blocks/rss.php:27
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Сталася помилка Це може означати, що канал не працює. Спробуйте ще раз пізніше."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "Помилка RSS:"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgctxt "block style"
+msgid "Default"
+msgstr "Без обумовлення"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode deactivated"
+msgstr "Повноекранний режим вимкнено"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode activated"
+msgstr "Повноекранний режим активовано"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode deactivated"
+msgstr "Режим освітлення вимкнено"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode activated"
+msgstr "Режим освітлення ввімкнено"
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar deactivated"
+msgstr "Верхній Тулбар вимкнено"
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar activated"
+msgstr "Верхній Тулбар ввімкнено"
+
+#: build/editor/index.js:17
+msgid "Stick to the top of the blog"
+msgstr "Приліпити до верхньої частини блогу"
+
+#: build/edit-post/index.js:12
+msgid "Read about permalinks"
+msgstr "Читайте про постійні посилання"
+
+#: build/edit-post/index.js:12
+msgid "The last part of the URL. "
+msgstr "Остання частина URL. "
+
+#: build/edit-post/index.js:12
+msgid "You’ll find more settings for your page and blocks in the sidebar. Click the cog icon to toggle the sidebar open and closed."
+msgstr "На бічній панелі ви знайдете більше налаштувань для своєї сторінки та блоків. Натисніть піктограму cog, щоб перемкнути бічну панель і закрити її."
+
+#: build/edit-post/index.js:12
+msgid "URL Slug"
+msgstr "Частина посилання"
+
+#: build/edit-post/index.js:12
+msgid "Back"
+msgstr "Задній"
+
+#: build/edit-post/index.js:12
+msgid "Feature activated"
+msgstr "Функція вимкнена"
+
+#: build/edit-post/index.js:12
+msgid "Feature deactivated"
+msgstr "Функція ввімкнена"
+
+#: build/components/index.js:19
+msgid "Vertical Pos."
+msgstr "Вертикальна поз."
+
+#: build/components/index.js:19
+msgid "Horizontal Pos."
+msgstr "Горизонтальне поз."
+
+#: build/block-library/index.js:14
+msgid "feed"
+msgstr "потік"
+
+#: build/block-library/index.js:14
+msgid "Display entries from any RSS or Atom feed."
+msgstr "Відобразити записи з будь-якого каналу RSS або Atom."
+
+#: build/block-library/index.js:14
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/index.js:14
+msgid "Max number of words in excerpt"
+msgstr "Максимальна кількість слів у витязі"
+
+#: build/block-library/index.js:14
+msgid "Display excerpt"
+msgstr "Показати уривок"
+
+#: build/block-library/index.js:14
+msgid "Display date"
+msgstr "Показати дату"
+
+#: build/block-library/index.js:14
+msgid "Display author"
+msgstr "Показати автора"
+
+#: build/block-library/index.js:14
+msgid "RSS Settings"
+msgstr "Налаштування RSS"
+
+#: build/block-library/index.js:14
+msgid "Edit RSS URL"
+msgstr "Редагувати URL RSS"
+
+#: build/block-library/index.js:14
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "Вміст перед цим блоком буде показано у витягуванні на сторінці архівів."
+
+#: build/block-library/index.js:14
+msgid "Hide the excerpt on the full content page"
+msgstr "Приховати витяг на повній сторінці вмісту"
+
+#: build/block-library/index.js:14
+msgid "Sorry, this content could not be embedded."
+msgstr "На жаль, цей вміст не вдалося вбудувати."
+
+#: build/block-library/index.js:14
+msgid "Embed Amazon Kindle content."
+msgstr "Вставити вміст Amazon Kindle."
+
+#: build/block-library/index.js:14
+msgid "ebook"
+msgstr "екнига"
+
+#: build/block-library/index.js:14
+msgid "Embed Crowdsignal (formerly Polldaddy) content."
+msgstr "Вставити вміст Crowdsignal (раніше Polldaddy)."
+
+#: build/block-library/index.js:14
+msgid "Focal Point Picker"
+msgstr "Фокусна відстань вибір"
+
+#: build/block-library/index.js:14
+msgid "Taxonomy"
+msgstr "Таксономії"
+
+#: build/block-library/index.js:14
+msgid "- Select -"
+msgstr "- Вибрати -"
+
+#: build/block-library/index.js:14
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: build/block-library/index.js:14
+msgid "find"
+msgstr "знайти"
+
+#: build/block-library/blocks/search.php:76
+#: build/block-library/blocks/search.php:84 build/block-library/index.js:14
+msgid "Search"
+msgstr "Пошук"
+
+#: build/block-library/index.js:14
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: build/block-library/index.js:14
+msgid "Label text"
+msgstr "Текст підпису"
+
+#: build/block-library/index.js:14
+msgid "posts"
+msgstr "записи"
+
+#: build/block-library/index.js:14
+msgid "Calendar"
+msgstr "Календар"
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud"
+msgstr "Хмаринка позначок"
+
+#: build/block-library/index.js:14
+msgid "archive"
+msgstr "архів"
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud Settings"
+msgstr "Налаштування хмари тегів"
+
+#: build/block-library/index.js:14
+msgid "Help visitors find your content."
+msgstr "Допоможіть відвідувачам знайти ваш вміст."
+
+#: build/block-library/index.js:14
+msgid "Add button text…"
+msgstr "Додати текст кнопки…"
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder…"
+msgstr "Необов'язковий заповнювач…"
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder text"
+msgstr "Опціональний текст заповнювача"
+
+#: build/block-library/index.js:14
+msgid "Add label…"
+msgstr "Додати мітку…"
+
+#: build/block-library/index.js:14
+msgid "image %1$d of %2$d in gallery"
+msgstr "малюнок %1$d з %2$d у галереї"
+
+#: build/block-library/index.js:14
+msgid "A calendar of your site’s posts."
+msgstr "Календар повідомлень вашого сайту."
+
+#: build/block-library/index.js:14
+msgid "The excerpt is visible."
+msgstr "Витяг видно."
+
+#: build/block-library/index.js:14
+msgid "The excerpt is hidden."
+msgstr "Витяг сховано."
+
+#: build/block-library/index.js:14
+msgid "atom"
+msgstr "atom"
+
+#: build/block-library/index.js:14
+msgid "A cloud of your most used tags."
+msgstr "Хмара часто використовуваних позначок."
+
+#: build/format-library/index.js:1
+msgid "Underline"
+msgstr "Підкреслений"
+
+#: build/editor/index.js:17
+msgid "https://codex.wordpress.org/Excerpt"
+msgstr "https://codex.wordpress.org/Excerpt"
+
+#: build/block-editor/index.js:55
+msgid "Attempt Block Recovery"
+msgstr "Спроба відновлення Блоку"
+
+#: build/editor/index.js:17
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "слів"
+
+#: build/block-library/index.js:14
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "Вміст…"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "Перетворити на посилання"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Try again"
+msgstr "Спробувати ще раз"
+
+#: build/nux/index.js:1
+msgid "Editor tips"
+msgstr "Поради редактора"
+
+#: build/components/index.js:19
+msgid "Font size: %s"
+msgstr "Розмір шрифту: %s"
+
+#: build/edit-post/index.js:12
+msgid "Block (selected)"
+msgstr "Блок (обрано)"
+
+#: build/edit-post/index.js:12
+msgid "Document (selected)"
+msgstr "Документ (обрано)"
+
+#: build/block-editor/index.js:55
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d слово"
+msgstr[1] "%d слова"
+msgstr[2] "%d слово"
+
+#: build/edit-post/index.js:12
+msgid "Top Toolbar"
+msgstr "Верхній Тулбар"
+
+#: build/block-library/index.js:14
+msgid "Link Rel"
+msgstr "Посилання Рел"
+
+#: build/block-library/index.js:14
+msgid "Link CSS Class"
+msgstr "CSS клас посилання"
+
+#: build/block-library/index.js:14
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Створіть вміст і збережіть його для вас та інших учасників для повторного використання на своєму сайті. Оновити блок, і зміни застосовуються скрізь, де воно використовується."
+
+#: build/editor/index.js:17
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "Щоб відредагувати обране зображення, вам потрібен дозвіл на завантаження медіафайлів."
+
+#: build/block-editor/index.js:55
+msgid "(selected block)"
+msgstr "(вибраний блок)"
+
+#: build/block-editor/index.js:55
+msgid "Block tools"
+msgstr "Блок інструменти"
+
+#: build/edit-post/index.js:12
+msgid "Permalink"
+msgstr "Посилання"
+
+#: build/block-editor/index.js:55
+msgid "To edit this block, you need permission to upload media."
+msgstr "Щоб відредагувати цей блок, вам потрібен дозвіл на завантаження медіафайлів."
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute"
+msgstr "Це зображення має порожній атрибут alt"
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "Це зображення має порожній атрибут alt; це ім'я файлу %s"
+
+#: lib/widgets.php:173
+msgctxt "Block"
+msgid "Add New"
+msgstr "Додати"
+
+#: build/format-library/index.js:1
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "Увага: посилання вставлено, але може мати помилки. Будь ласка, випробуйте його."
+
+#: build/block-editor/index.js:55
+msgid "Thumbnail"
+msgstr "Мініатюри"
+
+#: build/block-editor/index.js:55
+msgid "Full Size"
+msgstr "Повний розмір"
+
+#: build/block-editor/index.js:55
+msgid "Block icon"
+msgstr "Блок значок"
+
+#: build/block-editor/index.js:55
+msgid "Align text right"
+msgstr "Вирівняти текст праворуч"
+
+#: build/block-editor/index.js:55
+msgid "Align text center"
+msgstr "Вирівняти текст центр"
+
+#: build/block-editor/index.js:55
+msgid "Align text left"
+msgstr "Вирівняти текст ліворуч"
+
+#: build/block-library/index.js:14
+msgid "Page Break"
+msgstr "Розрив сторінки"
+
+#: build/block-library/index.js:14
+msgid "Stack on mobile"
+msgstr "Стекування на мобільний"
+
+#: build/block-library/index.js:14
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Перетягніть зображення, завантажте нові або виділіть файли з вашої бібліотеки."
+
+#: build/block-editor/index.js:55
+msgid "Link selected."
+msgstr "Посилання обрано."
+
+#: build/editor/index.js:17
+msgid "Start writing with text or HTML"
+msgstr "Почніть писати текст або HTML"
+
+#: build/editor/index.js:17
+msgid "Type text or HTML"
+msgstr "Введіть текст або HTML"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Start writing or type / to choose a block"
+msgstr "Почніть писати або вводити / вибрати блок"
+
+#: build/block-library/index.js:14
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "Порожній блок; Почніть писати або набувати косу риску, щоб вибрати блок"
+
+#: build/block-library/index.js:14
+msgid "Paragraph block"
+msgstr "Блок абзацу"
+
+#: build/block-editor/index.js:55
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s блок вибрано."
+msgstr[1] "%s блок вибрано."
+msgstr[2] "%s блок вибрано."
+
+#: build/format-library/index.js:1
+msgid "Link inserted."
+msgstr "Посилання вставлено."
+
+#: lib/widgets.php:172
+msgctxt "add new on admin bar"
+msgid "Block Area"
+msgstr "Область блоків"
+
+#: lib/widgets.php:187
+msgid "Block area reverted to draft."
+msgstr "Область блоків повернута в чернетки."
+
+#: lib/widgets.php:186
+msgid "Block area published privately."
+msgstr "Область блоків опублікована як особиста."
+
+#: lib/widgets.php:181
+msgid "No block areas found in Trash."
+msgstr "Немає областей блоків в кошику."
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "Анотація"
+
+#: build/block-editor/index.js:55
+msgctxt "blocks"
+msgid "Most Used"
+msgstr "Найбільш вживані"
+
+#: build/block-editor/index.js:55
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Вирішити"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Величезний"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Large"
+msgstr "Великий"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Cередній"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Small"
+msgstr "Менший"
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Нормальне"
+
+#: build/components/index.js:19
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Введіть"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "Імпорт"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Download"
+msgstr "Завантажити"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Embed"
+msgstr "Вбудувати"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Embed"
+msgstr "Вбудувати"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Classic"
+msgstr "Класичний"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Large"
+msgstr "Великий"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Squared"
+msgstr "Квадратний"
+
+#: build/format-library/index.js:1
+msgid "%s (opens in a new tab)"
+msgstr "%s (відкривається у новій вкладці)"
+
+#: build/format-library/index.js:1
+msgid "Link edited."
+msgstr "Посилання відредаговано."
+
+#: build/format-library/index.js:1
+msgid "Link removed."
+msgstr "Посилання видалено."
+
+#: build/format-library/index.js:1
+msgid "media"
+msgstr "медіа"
+
+#: build/editor/index.js:17
+msgid "Double-check your settings before publishing."
+msgstr "Перевірте свої налаштування перед публікацією."
+
+#: build/editor/index.js:17
+msgid "Generating preview…"
+msgstr "Генерування перегляду…"
+
+#: build/editor/index.js:17
+msgid "Edit or update the image"
+msgstr "Редагування або оновлення зображення"
+
+#: build/block-editor/index.js:55
+msgid "Media"
+msgstr "Медіафайли"
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the nearest toolbar."
+msgstr "Перейдіть на найближчу панель інструментів."
+
+#: build/edit-post/index.js:12
+msgid "Document tools"
+msgstr "Інструменти документування"
+
+#: build/edit-post/index.js:12
+msgid "Document and block tools"
+msgstr "Інструменти документування та блокування"
+
+#: build/block-library/index.js:14
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Вставте відео з Медіафайлів або завантажте нове."
+
+#: build/block-library/index.js:14
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Вставити вірші. Використовуйте спеціальні формати інтервалу. Або цитата лірика пісні."
+
+#: build/block-library/index.js:14
+msgid "Add white space between blocks and customize its height."
+msgstr "Додати пробіл між блоками та налаштувати його висоту."
+
+#: build/block-library/index.js:14
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Вставте додаткові спеціальні елементи за допомогою короткого коду WordPress."
+
+#: build/block-library/index.js:14
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Створіть перерву між ідеями або розділами з горизонтальним сепаратором."
+
+#: build/block-library/index.js:14
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Наведіть цитований текст наочного акценту. \"Цитуючи інших, ми називаємо себе\". - Хуліо Кортазар"
+
+#: build/block-library/index.js:14
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "Надайте особливий нагляд на цитату з тексту."
+
+#: build/block-library/index.js:14
+msgid "Start with the building block of all narrative."
+msgstr "Почніть зі складу всієї розповіді."
+
+#: build/block-library/index.js:14
+msgid "Separate your content into a multi-page experience."
+msgstr "Розділіть свій вміст на багатосторінковий досвід."
+
+#: build/block-library/index.js:14
+msgid "Media & Text Settings"
+msgstr "Медіа & Текст Налаштування"
+
+#: build/block-library/index.js:14
+msgid "Create a bulleted or numbered list."
+msgstr "Створіть маркований або пронумерований список."
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent comments."
+msgstr "Відображення списку останніх коментарів."
+
+#: build/block-library/index.js:14
+msgid "Insert an image to make a visual statement."
+msgstr "Вставте зображення для створення візуального твердження."
+
+#: build/block-library/index.js:14
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Додайте власний HTML-код і попередньо перегляньте його під час редагування."
+
+#: build/block-library/index.js:14
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Впроваджуйте нові розділи та організуйте вміст, щоб допомогти відвідувачам (та пошуковим системам) зрозуміти структуру вашого вмісту."
+
+#: build/block-library/index.js:14
+msgid "Display multiple images in a rich gallery."
+msgstr "Відображати кілька фотографій у режимі Галереї."
+
+#: build/block-library/index.js:14
+msgid "Add a link to a downloadable file."
+msgstr "Додайте посилання на завантажений файл."
+
+#: build/block-library/index.js:14
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "Вставляти відео, зображення, твітів, звук та інший вміст із зовнішніх джерел."
+
+#: build/block-library/index.js:14
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "Встановіть медіа та слова поруч, щоб отримати багатший макет."
+
+#: build/block-library/index.js:14
+msgid "Resize for smaller devices"
+msgstr "Зміна розміру для менших пристроїв"
+
+#: build/block-library/index.js:14
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "Ця вкладка може не зберігати співвідношення сторін, коли браузер змінюється."
+
+#: build/block-library/index.js:14
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "Ця вкладка зберігатиме співвідношення сторін, коли змінюється розмір браузера."
+
+#: build/block-library/index.js:14
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Додайте зображення або відео з текстовим накладанням - чудово підходить для заголовків."
+
+#: build/block-library/index.js:14
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Фрагменти коду відображення, що враховують ваші інтервали та вкладки."
+
+#: build/block-library/index.js:14
+msgid "Use the classic WordPress editor."
+msgstr "Використовуйте класичний редактор WordPress."
+
+#: build/block-library/index.js:14
+msgid "Display a list of all categories."
+msgstr "Відображати список усіх категорій."
+
+#: build/block-library/index.js:14
+msgid "Embed a simple audio player."
+msgstr "Вставити простий аудіопрогравач."
+
+#: build/block-library/index.js:14
+msgid "Embed an Animoto video."
+msgstr "Вставте відеоролик Animoto."
+
+#: build/block-library/index.js:14
+msgid "Embed a Vimeo video."
+msgstr "Вставте відео Vimeo."
+
+#: build/block-library/index.js:14
+msgid "Embed Flickr content."
+msgstr "Вставити вміст Flickr."
+
+#: build/block-library/index.js:14
+msgid "Embed Spotify content."
+msgstr "Вставити вміст Spotify."
+
+#: build/block-library/index.js:14
+msgid "Embed SoundCloud content."
+msgstr "Вставити вміст SoundCloud."
+
+#: build/block-library/index.js:14
+msgid "Embed an Instagram post."
+msgstr "Вставити повідомлення в Instagram."
+
+#: build/block-library/index.js:14
+msgid "Embed a Facebook post."
+msgstr "Вставити повідомлення в Facebook."
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress.tv video."
+msgstr "Вставте відео WordPress.tv."
+
+#: build/block-library/index.js:14
+msgid "Embed a VideoPress video."
+msgstr "Вставте відеозапис VideoPress."
+
+#: build/block-library/index.js:14
+msgid "Embed a Tumblr post."
+msgstr "Вставити повідомлення Tumblr."
+
+#: build/block-library/index.js:14
+msgid "Embed a TED video."
+msgstr "Вставте TED відео."
+
+#: build/block-library/index.js:14
+msgid "Embed Speaker Deck content."
+msgstr "Вставити вміст колодки колонки."
+
+#: build/block-library/index.js:14
+msgid "Embed a YouTube video."
+msgstr "Вставити відео YouTube."
+
+#: build/block-library/index.js:14
+msgid "Embed SmugMug content."
+msgstr "Вставити вміст SmugMug."
+
+#: build/block-library/index.js:14
+msgid "Embed Slideshare content."
+msgstr "Вставити вміст Slideshare."
+
+#: build/block-library/index.js:14
+msgid "Embed Scribd content."
+msgstr "Вставити вміст Scribd."
+
+#: build/block-library/index.js:14
+msgid "Embed Screencast content."
+msgstr "Вставити вміст Screencast."
+
+#: build/block-library/index.js:14
+msgid "Embed ReverbNation content."
+msgstr "Вставити вміст ReverbNation."
+
+#: build/block-library/index.js:14
+msgid "Embed a Reddit thread."
+msgstr "Вставити гілку Reddit."
+
+#: build/block-library/index.js:14
+msgid "Embed Polldaddy content."
+msgstr "Вставити вміст Polldaddy."
+
+#: build/block-library/index.js:14
+msgid "Embed Mixcloud content."
+msgstr "Вставити вміст Mixcloud."
+
+#: build/block-library/index.js:14
+msgid "Embed a tweet."
+msgstr "Вставити твіт."
+
+#: build/block-library/index.js:14
+msgid "Embed Meetup.com content."
+msgstr "Вставити вміст Meetup.com."
+
+#: build/block-library/index.js:14
+msgid "Embed Kickstarter content."
+msgstr "Вставити вміст Kickstarter."
+
+#: build/block-library/index.js:14
+msgid "Embed Issuu content."
+msgstr "Вставити вміст Issuu."
+
+#: build/block-library/index.js:14
+msgid "Embed Imgur content."
+msgstr "Вставити вміст Imgur."
+
+#: build/block-library/index.js:14
+msgid "Embed Hulu content."
+msgstr "Вставити вміст Hulu."
+
+#: build/block-library/index.js:14
+msgid "Embed a Dailymotion video."
+msgstr "Вставити відео Dailymotion."
+
+#: build/block-library/index.js:14
+msgid "Embed Cloudup content."
+msgstr "Вставити вміст Cloudup."
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress post."
+msgstr "Вставити повідомлення WordPress."
+
+#: build/block-library/index.js:14
+msgid "Embed CollegeHumor content."
+msgstr "Вставити CollegeHumor вміст."
+
+#: build/edit-post/index.js:12
+msgctxt "noun"
+msgid "View"
+msgstr "Перегляд"
+
+#: build/components/index.js:19
+msgctxt "font size name"
+msgid "Custom"
+msgstr "Користувацький"
+
+#: build/block-library/index.js:14
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "Зліва направо"
+
+#: build/editor/index.js:17
+msgid "Save as Pending"
+msgstr "Зберегти як  висячий"
+
+#: build/editor/index.js:17
+msgid "%s address"
+msgstr "%s адреса"
+
+#: build/block-editor/index.js:55
+msgid "Paste or type URL"
+msgstr "Вставити або ввести URL-адресу"
+
+#: build/block-editor/index.js:55
+msgid "Insert from URL"
+msgstr "Вставте URL файлу"
+
+#: build/block-editor/index.js:55
+msgid "Block Navigation"
+msgstr "Блок навігації"
+
+#: build/block-editor/index.js:55
+msgid "Styles"
+msgstr "Стилі"
+
+#: build/edit-post/index.js:12
+msgid "Click to change"
+msgstr "Натисніть, щоб змінити"
+
+#: build/edit-post/index.js:12
+msgid "Advanced Panels"
+msgstr "Розширені панелі"
+
+#: build/edit-post/index.js:12
+msgid "Document Panels"
+msgstr "Панелі документів"
+
+#: build/edit-post/index.js:12
+msgid "Enable Tips"
+msgstr "Увімкнути Поради"
+
+#: build/edit-post/index.js:12
+msgid "General"
+msgstr "Загальне"
+
+#: build/edit-post/index.js:12
+msgid "Open the block navigation menu."
+msgstr "Відкрийте меню блокування навігації."
+
+#: build/edit-post/index.js:12
+msgid "Work without distraction"
+msgstr "Робота без відволікання"
+
+#: build/edit-post/index.js:12
+msgid "Focus on one block at a time"
+msgstr "Зосередьтеся на одному блоці за один раз"
+
+#: build/edit-post/index.js:12
+msgid "Access all block and document tools in a single place"
+msgstr "Доступ до всіх інструментів блокування та документації в одному місці"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "(opens in a new tab)"
+msgstr "(відкривається у новій вкладці)"
+
+#: build/components/index.js:19
+msgid "Minutes"
+msgstr "Хвилини"
+
+#: build/components/index.js:19
+msgid "Hours"
+msgstr "Години"
+
+#: build/components/index.js:19
+msgid "Time"
+msgstr "Час"
+
+#: build/components/index.js:19
+msgid "Year"
+msgstr "Рік"
+
+#: build/components/index.js:19
+msgid "Day"
+msgstr "День"
+
+#: build/components/index.js:19
+msgid "December"
+msgstr "Грудень"
+
+#: build/components/index.js:19
+msgid "November"
+msgstr "Листопад"
+
+#: build/components/index.js:19
+msgid "October"
+msgstr "Жовтень"
+
+#: build/components/index.js:19
+msgid "September"
+msgstr "Вересень"
+
+#: build/components/index.js:19
+msgid "August"
+msgstr "Серпень"
+
+#: build/components/index.js:19
+msgid "July"
+msgstr "Липень"
+
+#: build/components/index.js:19
+msgid "June"
+msgstr "Червень"
+
+#: build/components/index.js:19
+msgid "May"
+msgstr "Травень"
+
+#: build/components/index.js:19
+msgid "April"
+msgstr "Квітень"
+
+#: build/components/index.js:19
+msgid "March"
+msgstr "Березень"
+
+#: build/components/index.js:19
+msgid "February"
+msgstr "Лютий"
+
+#: build/components/index.js:19
+msgid "January"
+msgstr "Січень"
+
+#: build/components/index.js:19
+msgid "Month"
+msgstr "Місяць"
+
+#: build/components/index.js:19
+msgid "Date"
+msgstr "Дата"
+
+#: build/components/index.js:19
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Перейдіть до першого (домашнього) або останнього (кінцевого) дня тижня."
+
+#: build/components/index.js:19
+msgid "Home/End"
+msgstr "Головна / кінець"
+
+#: build/components/index.js:19
+msgid "Home and End"
+msgstr "Головна та кінець"
+
+#: build/components/index.js:19
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Перемістити назад (PgUp) або вперед (PgDn) на один місяць."
+
+#: build/components/index.js:19
+msgid "Select the date in focus."
+msgstr "Виберіть дату в фокусі."
+
+#: build/components/index.js:19
+msgid "Navigating with a keyboard"
+msgstr "Навігація за допомогою клавіатури"
+
+#: build/components/index.js:19
+msgid "Calendar Help"
+msgstr "Календар довідки"
+
+#: build/components/index.js:19
+msgid "Choose a shade"
+msgstr "Виберіть тінь"
+
+#: build/components/index.js:19
+msgid "Change color format"
+msgstr "Змінити формат кольорів"
+
+#: build/components/index.js:19
+msgid "Color value in HSL"
+msgstr "Значення кольору в HSL"
+
+#: build/components/index.js:19
+msgid "Color value in RGB"
+msgstr "Значення кольору в RGB"
+
+#: build/components/index.js:19
+msgid "Color value in hexadecimal"
+msgstr "Значення кольору у hexadecimal"
+
+#: build/components/index.js:19
+msgid "RGB mode active"
+msgstr "Режим RGB активний"
+
+#: build/components/index.js:19
+msgid "Hue/saturation/lightness mode active"
+msgstr "Режим відтінку / насичення / легкість активний"
+
+#: build/components/index.js:19
+msgid "Move the arrow left or right to change hue."
+msgstr "Перемістіть стрілку вліво або вправо, щоб змінити відтінок."
+
+#: build/components/index.js:19
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "Відтінок в градусах, від 0 до 359."
+
+#: build/block-library/index.js:14
+msgid "Stripes"
+msgstr "Смужки"
+
+#: build/block-library/index.js:14
+msgid "Unrecognized Block"
+msgstr "Нерозпізнаний блок"
+
+#: build/block-library/index.js:14
+msgid "Media area"
+msgstr "Область медіа"
+
+#: build/block-library/index.js:14
+msgid "Media & Text"
+msgstr "Медіа & Текст"
+
+#: build/format-library/index.js:1 build/block-library/index.js:14
+msgid "Open in New Tab"
+msgstr "Відкрити в новій вкладці"
+
+#: build/components/index.js:19
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: build/components/index.js:19
+msgid "Page Up and Page Down"
+msgstr "Page Up і Page Down"
+
+#: build/components/index.js:19
+msgid "Up and Down Arrows"
+msgstr "Стрілки Вгору та Вниз"
+
+#: build/components/index.js:19
+msgid "Left and Right Arrows"
+msgstr "Стрілки Вліво та Вправо"
+
+#: build/components/index.js:19
+msgid "Click the desired day to select it."
+msgstr "Натисніть потрібний день, щоб вибрати його."
+
+#: build/components/index.js:19
+msgid "Click to Select"
+msgstr "Натисніть, щоб вибрати"
+
+#: build/components/index.js:19
+msgid "Hex color mode active"
+msgstr "Режим Hex кольору активний"
+
+#: build/components/index.js:19
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Значення Альфа від 0 (прозорий) до 1 (повністю непрозорий)."
+
+#: build/block-library/index.js:14
+msgid "Show media on right"
+msgstr "Покажіть медіа праворуч"
+
+#: build/block-library/index.js:14
+msgid "Show media on left"
+msgstr "Покажіть медіа ліворуч"
+
+#: build/components/index.js:19
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Рухайтесь назад (вгору) або вперед (вниз) на один тиждень."
+
+#: build/components/index.js:19
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "Клацніть стрілки вправо або вліво, щоб вибрати інші місяці минулого або майбутнього."
+
+#: build/components/index.js:19
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Перемістити назад (вправо) або вперед (вправо) на один день."
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for this block."
+msgstr "Ваш сайт не включає підтримку цього блоку."
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "Ваш сайт не містить підтримку \"%s\" блоку. Ви можете залишити цей блок недоторканим або повністю вилучити його."
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "Ваш сайт не містить підтримку \"%s\" блоку. Ви можете залишити цей блок недоторканим, перетворити його вміст на спеціальний HTML-блок або повністю вилучити його."
+
+#: build/components/index.js:19
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to decrease saturation, and right to increase saturation."
+msgstr "Використовуйте клавіші зі стрілками, щоб змінити основний колір. Перемістіться вгору, щоб пом'якшити колір, аж до затемнення, ліворуч, щоб зменшити насиченість, і вправо, щоб збільшити насиченість."
+
+#: build/edit-post/index.js:12
+msgid "Options"
+msgstr "Параметри"
+
+#: build/block-library/index.js:14
+msgid "Cover Settings"
+msgstr "Налаштування обкладинки"
+
+#: build/block-library/index.js:14
+msgid "Edit media"
+msgstr "Редагувати медіа"
+
+#: build/block-library/index.js:14
+msgid "Cover"
+msgstr "Обкладинка"
+
+#: build/block-editor/index.js:55
+msgid "Medium"
+msgstr "Cередній"
+
+#: build/block-editor/index.js:55
+msgid "Paste URL or type to search"
+msgstr "Вставте URL-адресу або введіть для пошуку"
+
+#: build/editor/index.js:17
+msgid "Terms"
+msgstr "Значення"
+
+#: build/editor/index.js:17
+msgid "Are you ready to schedule?"
+msgstr "Ви готові запланувати?"
+
+#: build/editor/index.js:17
+msgid "Always show pre-publish checks."
+msgstr "Завжди показувати перед публікацією чеків."
+
+#: build/editor/index.js:17
+msgid "Take Over"
+msgstr "Прийняти"
+
+#: build/editor/index.js:17
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "На даний момент інший користувач працює над цим повідомленням, а це означає, що ви не можете внести зміни, якщо не захочете."
+
+#: build/editor/index.js:17
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "%s в даний час працює над цим повідомленням, а це означає, що ви не можете внести зміни, якщо ви не захочете."
+
+#: build/editor/index.js:17
+msgid "Your work will be published at the specified date and time."
+msgstr "Ваша робота буде опублікована в зазначену дату та час."
+
+#: build/editor/index.js:17
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "Інший користувач має редагування цього повідомлення. Не хвилюйтеся, ваші зміни до цього моменту були збережені."
+
+#: build/editor/index.js:17
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "%s тепер має редагування цього повідомлення. Не хвилюйтеся, ваші зміни до цього моменту були збережені."
+
+#: build/editor/index.js:17
+msgid "Avatar"
+msgstr "Аватар"
+
+#: build/editor/index.js:17
+msgid "This post is already being edited."
+msgstr "Цей пост уже редагується."
+
+#: build/editor/index.js:17
+msgid "Someone else has taken over this post."
+msgstr "Хтось перейшов на цей запис."
+
+#: build/block-editor/index.js:55
+msgid "Convert to HTML"
+msgstr "Перетворити в HTML"
+
+#: build/edit-post/index.js:12
+msgid "This block can only be used once."
+msgstr "Цей блок можна використовувати лише один раз."
+
+#: build/edit-post/index.js:12
+msgid "Editing Code"
+msgstr "Редагування коду"
+
+#: build/components/index.js:19
+msgid "Custom font size"
+msgstr "Спеціальний розмір шрифту"
+
+#: build/block-library/index.js:14
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:14
+msgid "Overlay Color"
+msgstr "Колір перекривання"
+
+#: build/block-library/index.js:14
+msgid "Overlay"
+msgstr "Наддрук"
+
+#: build/block-library/index.js:14
+msgid "Insert Media"
+msgstr "Вставити медіа"
+
+#: build/block-editor/index.js:55
+msgid "This block contains unexpected or invalid content."
+msgstr "Цей блок містить непередбачений або недійсний вміст."
+
+#: build/block-editor/index.js:55
+msgid "Resolve Block"
+msgstr "Вирішити Блок"
+
+#: build/edit-post/index.js:12
+msgid "Enable Pre-publish Checks"
+msgstr "Увімкнути перевірки перед публікацією"
+
+#: build/edit-post/index.js:12
+msgid "Exit Code Editor"
+msgstr "Вихід з Редактора Коду"
+
+#: build/block-library/index.js:14
+msgid "Solid Color"
+msgstr "Суцільний колір"
+
+#: build/block-library/index.js:14
+msgid "Main Color"
+msgstr "Основний колір"
+
+#: build/block-library/index.js:14
+msgid "Write HTML…"
+msgstr "Написати HTML…"
+
+#: build/block-library/index.js:14
+msgid "Media Settings"
+msgstr "Налаштування Медіа"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "Недійсний файл JSON"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "Імпорт з JSON"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "Період"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "Кома"
+
+#: build/block-editor/index.js:55
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "Змінити тип %d блоку"
+msgstr[1] "Змінити тип %d блоків"
+msgstr[2] "Змінити тип %d блоків"
+
+#: build/block-editor/index.js:55
+msgid "Current"
+msgstr "Поточний"
+
+#: build/block-editor/index.js:55
+msgid "Change Alignment"
+msgstr "Змінити вирівнювання"
+
+#: build/edit-post/index.js:12
+msgid "Escape"
+msgstr "Вихід"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "Багаторазовий блок успішно імпортується!"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "Недійсний багаторазовий JSON-файл"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "Backtick"
+
+#: build/block-editor/index.js:55
+msgid "After Conversion"
+msgstr "Після перетворення"
+
+#: build/block-editor/index.js:55
+msgid "Change Text Alignment"
+msgstr "Змінити вирівнювання тексту"
+
+#: build/block-library/index.js:14
+msgid "Template block used as a container."
+msgstr "Шаблонний блок використовується як контейнер."
+
+#: build/block-library/index.js:14
+msgid "Reusable Template"
+msgstr "Багаторазові Шаблони"
+
+#: build/edit-post/index.js:12
+msgid "Forward-slash"
+msgstr "Переслати косу риску"
+
+#: build/block-editor/index.js:55
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d блок"
+msgstr[1] "%d блокb"
+msgstr[2] "%d блок"
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "Цей файл порожній."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "На жаль, цей тип файлу тут не підтримується."
+
+#: build/editor/index.js:17
+msgid "Title"
+msgstr "Заголовок"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen Mode"
+msgstr "На повний екран"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "Немає архівів для показу."
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Manage All Reusable Blocks"
+msgstr "Керування всіма Багаторазовими Блоками"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Красивий краєвид"
+
+#: build/editor/index.js:17
+msgid "Close panel"
+msgstr "Закрити панель"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "Цей блок застарілий. Замість цього скористайтеся блоком абзаців."
+
+#: build/block-library/index.js:14
+msgid "Subheading (deprecated)"
+msgstr "Підрубрика (застаріла)"
+
+#: build/block-library/index.js:14
+msgid "blockquote"
+msgstr "блок цитат"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Classic Block"
+msgstr "Конвертувати в Класичний Блок"
+
+#: build/block-library/index.js:14
+msgid "Remove Poster Image"
+msgstr "Видалити зображення плаката"
+
+#: build/block-library/index.js:14
+msgid "Select Poster Image"
+msgstr "Виберіть зображення плаката"
+
+#: build/block-library/index.js:14
+msgid "Poster Image"
+msgstr "Зображення плаката"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Цей блок застарілий. Замість цього скористайтеся блоком стовпців."
+
+#: build/block-library/index.js:14
+msgid "Text Columns (deprecated)"
+msgstr "Текстові стовпці (застарілі)"
+
+#: build/block-library/index.js:14
+msgid "Row Count"
+msgstr "Графа рядків"
+
+#: build/block-library/index.js:14
+msgid "Column Count"
+msgstr "Кількість Стовпців"
+
+#: build/edit-post/index.js:12
+msgid "Change the block type after adding a new paragraph."
+msgstr "Змініть тип блоку після додавання нового абзацу."
+
+#: build/edit-post/index.js:12
+msgid "Spotlight Mode"
+msgstr "Режим освітлення"
+
+#: build/editor/index.js:17
+msgid "Add tags"
+msgstr "Додати теги"
+
+#: build/edit-post/index.js:12
+msgid "Clear selection."
+msgstr "Очистити вибір."
+
+#: build/edit-post/index.js:12
+msgid "Keyboard Shortcuts"
+msgstr "Комбінації клавіш"
+
+#: build/block-editor/index.js:55
+msgid "Insert After"
+msgstr "Вставити після"
+
+#: build/block-editor/index.js:55
+msgid "Insert Before"
+msgstr "Вставити перед"
+
+#: build/block-library/index.js:14
+msgid "movie"
+msgstr "фільм"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block before the selected block(s)."
+msgstr "Вставте новий блок перед вибраними блоками."
+
+#: build/edit-post/index.js:12
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "Виберіть весь текст під час набору тексту. Натисніть ще раз, щоб вибрати всі блоки."
+
+#: build/edit-post/index.js:12
+msgid "Selection shortcuts"
+msgstr "Ярлики вибору"
+
+#: build/edit-post/index.js:12
+msgid "Switch between Visual Editor and Code Editor."
+msgstr "Переключитися між Visual Editor та Code Editor."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor (alternative)."
+msgstr "Перейдіть до попередньої частини редактора (альтернатива)."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor (alternative)."
+msgstr "Перейдіть до наступної частини редактора (альтернатива)."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor."
+msgstr "Перейдіть до попередньої частини редактора."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor."
+msgstr "Перейдіть до наступної частини редактора."
+
+#: build/edit-post/index.js:12
+msgid "Show or hide the settings sidebar."
+msgstr "Показати або сховати бічну панель налаштувань."
+
+#: build/edit-post/index.js:12
+msgid "Redo your last undo."
+msgstr "Повторити останнє скасування."
+
+#: build/edit-post/index.js:12
+msgid "Undo your last changes."
+msgstr "Скасувати останні зміни."
+
+#: build/edit-post/index.js:12
+msgid "Save your changes."
+msgstr "Збережіть свої зміни."
+
+#: build/edit-post/index.js:12
+msgid "Display this help."
+msgstr "Показати цю довідку."
+
+#: build/edit-post/index.js:12
+msgid "Global shortcuts"
+msgstr "Глобальні ярлики"
+
+#: build/edit-post/index.js:12
+msgid "Remove a link."
+msgstr "Видалити посилання."
+
+#: build/edit-post/index.js:12
+msgid "Convert the selected text into a link."
+msgstr "Перетворити вибраний текст у посилання."
+
+#: build/edit-post/index.js:12
+msgid "Underline the selected text."
+msgstr "Підкреслити виділений текст."
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text italic."
+msgstr "Виділіть текст курсивом."
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text bold."
+msgstr "Виділіть текст напівжирним шрифтом."
+
+#: build/edit-post/index.js:12
+msgid "Text formatting"
+msgstr "Форматування тексту"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block after the selected block(s)."
+msgstr "Вставте новий блок після вибраних блоків."
+
+#: build/editor/index.js:17
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "Теги допомагають користувачам і пошуковим системам переміщатися на вашому сайті та знаходити ваш вміст. Додайте кілька ключових слів для опису вашої публікації."
+
+#: build/editor/index.js:17
+msgid "Apply the \"%1$s\" format."
+msgstr "Застосувати \"%1$s\" формат."
+
+#: build/editor/index.js:17
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "Ваша тема використовує формати публікацій для виділення різних типів вмісту, як-от зображення чи відео. Застосувати формат публікації, щоб побачити цей спеціальний стиль."
+
+#: build/editor/index.js:17
+msgid "Use a post format"
+msgstr "Використовуйте формат публікації"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "Перемістити %1$d блок з позиції %2$d в одному місці"
+msgstr[1] "Перемістити %1$d блоки з позиції %2$d в одному місці"
+msgstr[2] "Перемістити %1$d блок з позиції %2$d в одному місці"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "Перемістити %1$d блок з позиції %2$d в одному місці"
+msgstr[1] "Перемістити %1$d блоки з позиції %2$d в одному місці"
+msgstr[2] "Перемістити %1$d блок з позиції %2$d в одному місці"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "Перемістити %1$s блок з позиції %2$d до позиції %3$d"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "Перемістити блок %1$s з позиції %2$d до позиції %3$d"
+
+#: build/edit-post/index.js:12
+msgid "Remove the selected block(s)."
+msgstr "Видалити вибрані блоки."
+
+#: build/edit-post/index.js:12
+msgid "Duplicate the selected block(s)."
+msgstr "Дублювати вибрані блоки."
+
+#: build/edit-post/index.js:12
+msgid "Block shortcuts"
+msgstr "Блокувати ярлики"
+
+#: post-content.php:181
+msgid "Thanks for testing Gutenberg!"
+msgstr "Дякую за тестування Гутенберга!"
+
+#: post-content.php:173
+msgid "Help build Gutenberg"
+msgstr "Допоможіть побудувати Гутенберг"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:164
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Якщо ви хочете дізнатись більше про те, як створювати додаткові блоки, або якщо ви зацікавлені в тому, щоб допомогти проекту, <a href=\"%s\">перейдіть до сховища GitHub</a> ."
+
+#: post-content.php:155
+msgid "The WordPress community"
+msgstr "Спільнота WordPress"
+
+#: post-content.php:151
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Ви можете побудувати будь-який блок, який вам подобається, статичний або динамічний, декоративний або просто. Ось блок блокування:"
+
+#: post-content.php:141
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Будь-який блок може вибрати ці вирівнювання. Вбудований блок також має їх, і реагує на нього з коробки:"
+
+#: post-content.php:137
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "Вище це галерея з двома зображеннями. Це простий спосіб створити візуально привабливі макети, без необхідності мати справу з поплавцями. Ви також можете легко перетворити галерею назад на індивідуальні зображення знову за допомогою блоку перемикача."
+
+#: post-content.php:126
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "Звичайно, повноцінний імідж може бути досить великим. Але іноді образ це коштує."
+
+#: post-content.php:122
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "Доступність важлива - не забувайте атрибут image alt"
+
+#: post-content.php:118
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Якщо ви об'єднаєте нові <strong>широкі</strong> та <strong>повноцінні</strong> вирівнювання за допомогою галерей, ви можете створити дуже масивний медіа-стилі, дуже швидко:"
+
+#: post-content.php:110
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Ви можете змінити кількість стовпців у ваших галереях, перетягуючи повзунок в інспекторі блоку на бічній панелі."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Блоки можуть бути що завгодно. Наприклад, ви можете додати податкову цитату як частину композиції вашого тексту, або ви можете віддати перевагу стисуванню гіганта. Всі ці параметри доступні у вкладенні."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "Інформація, яка відповідає джерелу цитат, є окремим текстовим полем, подібним до підписів під зображеннями, тому структура цитати захищена, навіть якщо ви вибираєте, змінюєте чи видаляєте джерело. Завжди легко додати його назад."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Метт Малленвег, 2017 рік"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "Редактор намагатиметься створити нову сторінку та пошта, яка спрощує написання багатих повідомлень, і має &quot;блоки&quot;, щоб полегшити доступність коротких кодів, спеціальних HTML-кодів або відкриття вставки &quot;таємного м&#39;яса&quot;."
+
+#: post-content.php:114
+msgid "Media Rich"
+msgstr "Media Rich"
+
+#: post-content.php:155
+msgid "Code is Poetry"
+msgstr "Код - це поезія."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Велика перевага блоків полягає в тому, що ви можете редагувати їх на місці та маніпулювати вмістом безпосередньо. Замість того, щоб мати поля для редагування речей, як джерело цитати, або тексту кнопки, ви можете безпосередньо змінити вміст. Спробуйте редагувати наступну цитату:"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Візуальне Редагування"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "І це, звичайно, <em>Списки</em> :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Блоки макета, як-от кнопки, зображення героя, сепаратори тощо."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Вбудовує, як YouTube, Tweets чи інші повідомлення WordPress."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Галереї"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Зображення та відео"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Текст та заголовки"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Давайте спробуємо, ви можете дізнатись про те, що WordPress вже може додати до своїх публікацій, про які ви не знали. Ось короткий список того, що ви зараз можете знайти там:"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Уявіть, що все, що WordPress може зробити, доступно вам швидко і в одному місці на інтерфейсі. Не потрібно вирахувати HTML теги, класи або запам&#39;ятати складний синтаксис коротких кодів. Це дух за вставкою - кнопка <code>(+)</code> яку ви побачите біля редактора, що дозволяє переглядати всі доступні блоки вмісту та додати їх до вашого повідомлення. Плагіни та теми можуть реєструвати свої власні, відкриваючи всілякі можливості для багатих редагування та публікації."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "Інструмент <em>Вставлення</em>"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Спробуйте вибирати і видаляти або редагувати заголовок, тепер вам не треба бути обережним при виборі зображення чи іншого тексту помилково і позбавити презентацію."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Якщо ваша тема підтримує її, ви побачите кнопку &quot;широкий&quot; на панелі інструментів зображення. Спробувати."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Основна увага нового редактора - це надзвичайно важлива обробка зображень та носіїв. Сподіваємося, ви знайдете аспекти додавання субтитрів або повноцінне розміщення фотографій набагато простіше та надійніше, ніж раніше."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Картина варта тисяч слів"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Заголовки також є окремими блоками, що допомагає контуру та організації вмісту."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "Мета цього нового редактора - зробити додавання багатим змістом до WordPress простим та приємним. Весь цей пост складається з <em>частин вмісту, який</em> трохи схожий на цеглу LEGO, - що ви можете пересуватися та взаємодіяти. Перемістіть курсор навколо, і ви помітите, що різні блоки запалюються контурами та стрілками. Натисніть стрілки, щоб швидко перемістити блоки, не боячись втратити речі в процесі копіювання та вставки."
+
+#: build/block-library/index.js:14
+msgid "Alt Text (Alternative Text)"
+msgstr "Альт Текст (альтернативний текст)"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block"
+msgstr "Багаторазовий блок"
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "… як цей, який правильно вирівняний."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "Те, що ви зараз читаєте, - це <strong>текстовий блок,</strong> найбільш основний блок. Текстовий блок має власні елементи керування, які можна вільно переміщати навколо публікації …"
+
+#: build/block-library/index.js:14
+msgctxt "block name"
+msgid "More"
+msgstr "Читати далі"
+
+#: build/block-library/index.js:14
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Більше параметрів"
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unschedule this post?"
+msgstr "Ви впевнені, що хочете скасувати розклад цього запису?"
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Книга гір і морів"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Ласкаво просимо в редактор Gutenberg"
+
+#: build/editor/index.js:17
+msgid "Untitled Reusable Block"
+msgstr "Без назви Багаторазовий Блок"
+
+#: build/block-editor/index.js:55
+msgid "Reusable"
+msgstr "Багаторазові"
+
+#: build/editor/index.js:17
+msgid "Remove from Reusable Blocks"
+msgstr "Видалити з багаторазових блоків"
+
+#: build/editor/index.js:17
+msgid "Add to Reusable Blocks"
+msgstr "Додати до багаторазових блоків"
+
+#: build/block-library/index.js:14
+msgid "Keep as HTML"
+msgstr "Зберігати як HTML"
+
+#: build/block-editor/index.js:55
+msgid "(%s: %s)"
+msgstr "(%s: %s)"
+
+#: build/block-editor/index.js:55
+msgid "(current %s: %s)"
+msgstr "(поточний %s: %s)"
+
+#: build/block-library/index.js:14
+msgid "Edit URL"
+msgstr "Редагувати посилання (URL)"
+
+#: build/block-library/index.js:14
+msgid "Color Settings"
+msgstr "Налаштування кольорів"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block: %s"
+msgstr "Багаторазовий блок: %s"
+
+#: build/edit-post/index.js:12
+msgid "Editor publish"
+msgstr "Опублікувати редактор"
+
+#: build/block-library/index.js:14
+msgid "Video Settings"
+msgstr "Налаштування відео"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments"
+msgstr "Останні коментарі"
+
+#: build/block-library/index.js:14
+msgid "Background Opacity"
+msgstr "Непрозорість фону"
+
+#: gutenberg.php:60
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: gutenberg.php:58
+msgid "Support"
+msgstr "Підтримка"
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s на %2$s"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "Виберіть тиждень"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "Виберіть день"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "Виберіть місяць"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:14
+msgid "Archives"
+msgstr "Архіви"
+
+#: build/block-library/index.js:14
+msgid "Display Avatar"
+msgstr "Показати аватар"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments Settings"
+msgstr "Налаштування останніх коментарів"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "Виберіть рік"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "Відповідь не є дійсною відповіддю JSON."
+
+#: build/block-library/index.js:14
+msgid "Muted"
+msgstr "Приглушений"
+
+#: build/block-library/index.js:14
+msgid "Auto"
+msgstr "Авто"
+
+#: build/block-library/index.js:14
+msgid "Preload"
+msgstr "Попереднє навантаження"
+
+#: build/block-library/index.js:14
+msgid "Audio Settings"
+msgstr "Налаштування аудіо"
+
+#: build/block-library/index.js:14
+msgid "Display as Dropdown"
+msgstr "Показати випадючим списком"
+
+#: build/block-library/index.js:14
+msgid "Show Post Counts"
+msgstr "Показати лічильник записів"
+
+#: build/block-library/index.js:14
+msgid "Archives Settings"
+msgstr "Налаштування архівів"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "Немає коментарів до показу."
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "Виберіть запис"
+
+#: build/block-library/index.js:14
+msgid "Display Excerpt"
+msgstr "Показати витяг"
+
+#: build/block-library/index.js:14
+msgid "Display Date"
+msgstr "Показати Дату"
+
+#: build/block-library/index.js:14
+msgid "Number of Comments"
+msgstr "Кількість Коментарів"
+
+#: build/block-library/index.js:14
+msgid "recent comments"
+msgstr "недавні коментарі"
+
+#: build/block-library/index.js:14
+msgid "Display a monthly archive of your posts."
+msgstr "Відображати щомісячний архів ваших публікацій."
+
+#: build/block-editor/index.js:55
+msgid "Remove Block"
+msgstr "Видалити блок"
+
+#: build/block-editor/index.js:55
+msgid "Large"
+msgstr "Великий"
+
+#: build/block-library/index.js:14
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:14
+msgid "document"
+msgstr "документ"
+
+#: build/block-library/index.js:14
+msgid "Edit file"
+msgstr "Редагувати файл"
+
+#: build/list-reusable-blocks/index.js:1 build/block-library/index.js:14
+msgid "File"
+msgstr "Файл"
+
+#: build/block-library/index.js:14
+msgid "Column"
+msgstr "Колонка"
+
+#: build/components/index.js:19
+msgid "Close dialog"
+msgstr "Закрити діалог"
+
+#: build/block-library/index.js:14
+msgid "Link To"
+msgstr "Посилання до"
+
+#: build/block-library/index.js:14
+msgid "Show Download Button"
+msgstr "Показати кнопку завантаження"
+
+#: build/block-library/index.js:14
+msgid "Download Button Settings"
+msgstr "Налаштування кнопки завантаження"
+
+#: build/format-library/index.js:1
+msgid "Inline Image"
+msgstr "Вбудоване зображення"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Available block types"
+msgstr "Доступні типи блоків"
+
+#: build/block-editor/index.js:55
+msgid "Light green cyan"
+msgstr "Світлий зелено-блакитний"
+
+#: build/edit-post/index.js:12
+msgid "Welcome to the wonderful world of blocks! Click the “+” (“Add block”) button to add a new block. There are blocks available for all kinds of content: you can insert text, headings, images, lists, and lots more!"
+msgstr "Ласкаво просимо в чудовий світ блоків! Натисніть кнопку \"+\" (\"Додати блок\"), щоб додати новий блок. Доступні блоки для всіх видів контенту: ви можете вставляти текст, заголовки, зображення, списки і багато іншого!"
+
+#: build/block-editor/index.js:55
+msgid "Transform To:"
+msgstr "Перетворити в:"
+
+#: build/edit-post/index.js:12
+msgid "Open publish panel"
+msgstr "Відкрити панель публікації"
+
+#: build/block-library/index.js:14
+msgid "Dots"
+msgstr "Точки"
+
+#: build/block-library/index.js:14
+msgid "Wide Line"
+msgstr "Широка лінія"
+
+#: build/block-library/index.js:14
+msgid "Text Link Settings"
+msgstr "Налаштування текстового посилання"
+
+#: build/block-library/index.js:14
+msgid "Copy URL"
+msgstr "Копіювати URL"
+
+#: build/block-library/index.js:14
+msgid "A single column within a columns block."
+msgstr "Одна колонка в блоці колонок."
+
+#: build/block-library/index.js:14
+msgid "Outline"
+msgstr "Контур"
+
+#: build/block-library/index.js:14
+msgid "Loop"
+msgstr "Зациклити"
+
+#: build/block-library/index.js:14
+msgid "Autoplay"
+msgstr "Автовідтворення"
+
+#: build/block-library/index.js:14
+msgid "Playback Controls"
+msgstr "Налаштування відтворення"
+
+#: build/block-editor/index.js:55
+msgid "Pale cyan blue"
+msgstr "Блідо синьо-блакитний"
+
+#: build/block-editor/index.js:55
+msgid "Vivid green cyan"
+msgstr "Яскравий зелено-блакитний"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid amber"
+msgstr "Яскравий світлий бурштин"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid orange"
+msgstr "Яскраво світлий помаранчевий"
+
+#: build/block-editor/index.js:55
+msgid "Vivid red"
+msgstr "Яскраво червоний"
+
+#: build/block-editor/index.js:55
+msgid "Very dark gray"
+msgstr "Дуже темно-сірий"
+
+#: build/block-editor/index.js:55
+msgid "Very light gray"
+msgstr "Дуже світло-сірий"
+
+#: build/block-editor/index.js:55
+msgid "Pale pink"
+msgstr "Блідо-рожевий"
+
+#: build/block-editor/index.js:55
+msgid "Cyan bluish gray"
+msgstr "Блакитний блакитно-сірий"
+
+#: build/block-editor/index.js:55
+msgid "Vivid cyan blue"
+msgstr "Яскравий синьо-блакитний"
+
+#: build/block-library/index.js:14
+msgid "Write file name…"
+msgstr "Впишіть ім'я файлу…"
+
+#: build/block-library/index.js:14
+msgid "Replace image"
+msgstr "Замінити зображення"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "На жаль, цей тип файлу заборонений з міркувань безпеки."
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "Відключити поради"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "Зрозуміло"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "Наступна порада"
+
+#: build/editor/index.js:17
+msgid "Finished writing? That’s great, let’s get this published right now. Just click “Publish” and you’re good to go."
+msgstr "Закінчили запис? Це чудово, давайте це опублікуємо прямо зараз. Просто натисніть 'Опублікувати' і готово."
+
+#: build/editor/index.js:17
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "Коли ви будете готові, відправте свою роботу на перевірку, і редактор зможе її схвалити."
+
+#: build/editor/index.js:17
+msgid "Are you ready to submit for review?"
+msgstr "Ви готові відправити на перевірку?"
+
+#: build/editor/index.js:17
+msgid "Click “Preview” to load a preview of this page, so you can make sure you’re happy with your blocks."
+msgstr "Натисніть 'Передперегляд', щоб завантажити попередній перегляд цієї сторінки, щоб ви могли переконатися, що задоволені своїми блоками."
+
+#: build/editor/index.js:17
+msgid "Autosaving"
+msgstr "Автозбереження"
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "%sперевищує максимально допустимий розмір завантаження для цього сайту."
+
+#: build/editor/index.js:17
+msgid "View the autosave"
+msgstr "Подивитися автозбереження"
+
+#: build/editor/index.js:17
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "Існує більш пізня версія цього запису, ніж версія нижче."
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "Помилка завантаження файлу %s в медіатеку."
+
+#: build/block-library/index.js:14
+msgid "Enter URL here…"
+msgstr "Введіть URL тут…"
+
+#: build/block-library/index.js:14
+msgid "Table Settings"
+msgstr "Налаштування таблиці"
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "Помилка завантаження блоку: %s"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "Невідома помилка"
+
+#: build/edit-post/index.js:12
+msgid "Pin to toolbar"
+msgstr "Прикріпити до панелі інструментів"
+
+#: build/edit-post/index.js:12
+msgid "Unpin from toolbar"
+msgstr "Відмінити закріплення від панелі інструментів"
+
+#: build/block-library/index.js:14
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "Вставка таблиці - ідеально підходить для обміну діаграмами і даними."
+
+#: build/block-library/index.js:14
+msgid "Fixed width table cells"
+msgstr "Клітинки таблиці з фіксованою шириною"
+
+#: build/block-library/index.js:14
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Додайте текст, який відповідає вашим інтервалам і вкладкам, а також дозволяє стилізувати."
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent posts."
+msgstr "Виводить список ваших останніх записів."
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "Додає блок, який виводить вміст з інших сайтів, таких як Twitter, Instagram або YouTube."
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "Додайте блок, який відображає контент в декількох колонках, а потім в цей блок додайте будь-які інші блоки з контентом, які ви хочете."
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "Вставити обробник"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Видалити %s"
+
+#: build/block-library/index.js:14
+msgid "Height in pixels"
+msgstr "Висота в пікселях"
+
+#: build/components/index.js:19
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s з %3$s)"
+
+#: build/editor/index.js:17
+msgid "Copy the permalink"
+msgstr "Копіювати посилання"
+
+#: build/editor/index.js:17
+msgid "Permalink copied"
+msgstr "Посилання скопійовано"
+
+#: build/block-library/index.js:14
+msgid "Spacer Settings"
+msgstr "Налаштування роздільника"
+
+#: build/block-library/index.js:14
+msgid "Spacer"
+msgstr "Роздільник"
+
+#: build/block-library/index.js:14
+msgid "Toggle to show a large initial letter."
+msgstr "Зробити початкову літеру великою."
+
+#: build/block-library/index.js:14
+msgid "Name:"
+msgstr "Ім'я:"
+
+#: build/components/index.js:19
+msgid "Remove item"
+msgstr "Видалити пункт"
+
+#: build/block-library/index.js:14
+msgid "Showing large initial letter."
+msgstr "Відображення великий початкової літери."
+
+#: build/components/index.js:19
+msgid "Color code: %s"
+msgstr "Колір: %s"
+
+#: build/editor/index.js:17
+msgid "Change Permalinks"
+msgstr "Змінити постійні посилання"
+
+#: build/edit-post/index.js:12
+msgid "Block settings closed"
+msgstr "Налаштування блоку закриті"
+
+#: build/edit-post/index.js:12
+msgid "Close plugin"
+msgstr "Закрити плагін"
+
+#: build/edit-post/index.js:12
+msgid "Editor settings"
+msgstr "Налаштування редактора"
+
+#: build/block-editor/index.js:55
+msgid "Link Settings"
+msgstr "Налаштування посилань"
+
+#: build/block-library/index.js:14
+msgid "Page break"
+msgstr "Розрив сторінки"
+
+#: build/block-library/index.js:14
+msgid "Image Size"
+msgstr "Розмір зображення"
+
+#: build/block-library/index.js:14
+msgid "Height"
+msgstr "Висота"
+
+#: build/format-library/index.js:1 build/block-library/index.js:14
+msgid "Width"
+msgstr "Ширина"
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are not cropped."
+msgstr "Мініатюри не обрізані."
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are cropped to align."
+msgstr "Мініатюри обрізаються для вирівнювання."
+
+#: build/block-editor/index.js:55
+msgid "Skip to the selected block"
+msgstr "Перейти до вибраного блоку"
+
+#: build/editor/index.js:17
+msgid "Edit post permalink"
+msgstr "Редагувати постійне посилання"
+
+#: build/edit-post/index.js:12
+msgid "Show Block Settings"
+msgstr "Показати параметри блоку"
+
+#: build/edit-post/index.js:12
+msgid "Hide Block Settings"
+msgstr "Приховати параметри блоку"
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "Видалити посилання"
+
+#: build/block-library/index.js:14
+msgid "Image Dimensions"
+msgstr "Розмір зображення"
+
+#: build/block-editor/index.js:55
+msgid "Media Library"
+msgstr "Медіафайли"
+
+#: build/block-library/index.js:14
+msgid "pagination"
+msgstr "пагінація"
+
+#: build/editor/index.js:17
+msgid "Publish…"
+msgstr "Опублікувати…"
+
+#: build/editor/index.js:17
+msgid "Schedule…"
+msgstr "Запланувати…"
+
+#: build/block-library/index.js:14
+msgid "next page"
+msgstr "наступна сторінка"
+
+#: build/block-editor/index.js:55
+msgid "Advanced"
+msgstr "Додаткові"
+
+#: build/components/index.js:19
+msgid "Add item"
+msgstr "Додати елемент"
+
+#: build/edit-post/index.js:12
+msgid "Plugins"
+msgstr "Плагіни"
+
+#: build/editor/index.js:17
+msgid "Reset the template"
+msgstr "Скинути шаблон"
+
+#: build/editor/index.js:17
+msgid "Document Statistics"
+msgstr "Статистика документу"
+
+#: build/components/index.js:19
+msgid "Custom Size"
+msgstr "Користувацький розмір"
+
+#: build/editor/index.js:17
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "Скидання шаблону може привести до втрати вмісту, хочете продовжити?"
+
+#: build/editor/index.js:17
+msgid "Keep it as is"
+msgstr "Залишити без змін"
+
+#: build/editor/index.js:17
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "Вміст не відповідає шаблону, призначеного цьому типу запису."
+
+#: build/editor/index.js:17
+msgid "is now scheduled. It will go live on"
+msgstr "запланована і буде опублікована"
+
+#: build/editor/index.js:17
+msgid "Scheduled"
+msgstr "Запланована"
+
+#: build/edit-post/index.js:12
+msgid "Code editor selected"
+msgstr "Вибраний редактор коду"
+
+#: build/edit-post/index.js:12
+msgid "Visual editor selected"
+msgstr "Вибраний візуальний редактор"
+
+#: build/editor/index.js:17
+msgid "Scheduling…"
+msgstr "Планування…"
+
+#: build/blocks/index.js:2
+msgid "Layout Elements"
+msgstr "Елементи розмітки"
+
+#: build/block-editor/index.js:55 build/format-library/index.js:1
+#: build/block-library/index.js:14
+msgid "Apply"
+msgstr "Застосувати"
+
+#: build/block-library/index.js:14
+msgid "Text Color"
+msgstr "Колір тексту"
+
+#: build/block-library/index.js:14
+msgid "Background Color"
+msgstr "Колір фону"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Edit"
+msgstr "Редагувати"
+
+#: build/block-library/index.js:14
+msgid "Code"
+msgstr "Код"
+
+#: build/block-library/index.js:14
+msgid "Button"
+msgstr "Кнопка"
+
+#: build/block-library/index.js:14
+msgid "%s URL"
+msgstr "%s URL"
+
+#: build/block-library/index.js:14
+msgid "Edit image"
+msgstr "Редагувати зображення"
+
+#: build/block-library/index.js:14
+msgid "video"
+msgstr "відео"
+
+#: build/block-library/index.js:14
+msgid "audio"
+msgstr "аудіо"
+
+#: build/block-library/index.js:14
+msgid "music"
+msgstr "музика"
+
+#: build/block-library/index.js:14
+msgid "image"
+msgstr "зображення"
+
+#: build/block-library/index.js:14
+msgid "blog"
+msgstr "блог"
+
+#: build/block-library/index.js:14
+msgid "post"
+msgstr "запис"
+
+#: build/block-library/index.js:14
+msgid "images"
+msgstr "зображення"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Remove Image"
+msgstr "Видалити зображення"
+
+#: build/block-library/index.js:14
+msgid "Crop Images"
+msgstr "Обрізати зображення"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Image"
+msgstr "Зображення"
+
+#: build/block-library/index.js:14
+msgid "embed"
+msgstr "вставка"
+
+#: build/block-library/index.js:14
+msgid "title"
+msgstr "заголовок"
+
+#: build/block-library/index.js:14
+msgid "subtitle"
+msgstr "підзаголовок"
+
+#: build/block-library/index.js:14
+msgid "text"
+msgstr "текст"
+
+#: build/block-library/index.js:14
+msgid "Table"
+msgstr "Таблиця"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Video"
+msgstr "Відео"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "URL"
+msgstr "URL"
+
+#: build/block-editor/index.js:55
+msgid "Submit"
+msgstr "Відправити"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+#: build/components/index.js:19
+msgid "Close"
+msgstr "Закрити"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Insert Link"
+msgstr "Вставити посилання"
+
+#: build/editor/index.js:17 build/format-library/index.js:1
+msgid "Link"
+msgstr "Посилання"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "Перекреслений"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "Курсив"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "Жирний"
+
+#: build/block-library/index.js:14
+msgid "Remove Link"
+msgstr "Видалити посилання"
+
+#: build/components/index.js:19 build/block-library/index.js:14
+msgid "Number of items"
+msgstr "Кількість елементів"
+
+#: build/edit-post/index.js:12
+msgid "Settings"
+msgstr "Налаштування"
+
+#: build/components/index.js:19 build/block-library/index.js:14
+msgid "Reset"
+msgstr "Скинути"
+
+#: build/edit-post/index.js:12 build/editor/index.js:17
+#: build/block-library/index.js:14
+msgid "Copied!"
+msgstr "Скопійовано!"
+
+#: build/edit-post/index.js:12
+msgid "Document"
+msgstr "Документ"
+
+#: build/block-editor/index.js:55
+msgid "Block: %s"
+msgstr "Блок: %s"
+
+#: build/edit-post/index.js:12
+msgid "Remove"
+msgstr "Видалити"
+
+#: build/block-editor/index.js:55
+msgid "Add %s"
+msgstr "Додати %s"
+
+#: build/editor/index.js:17
+msgid "Permalink:"
+msgstr "Постійне посилання:"
+
+#: build/editor/index.js:17
+msgid "Post Format"
+msgstr "Формат запису"
+
+#: build/editor/index.js:17
+msgid "Chat"
+msgstr "Чат"
+
+#: build/editor/index.js:17
+msgid "Status"
+msgstr "Статус"
+
+#: build/editor/index.js:17
+msgid "Copy Link"
+msgstr "Копіювати посилання"
+
+#: build/editor/index.js:17
+msgid "What’s next?"
+msgstr "Що далі?"
+
+#: build/edit-widgets/index.js:1 build/editor/index.js:17
+msgid "Update"
+msgstr "Оновити"
+
+#: build/editor/index.js:17
+msgid "Immediately"
+msgstr "Негайно"
+
+#: build/editor/index.js:17
+msgid "Save Draft"
+msgstr "Зберегти чернетку"
+
+#: build/editor/index.js:17
+msgid "Words"
+msgstr "Слова"
+
+#: build/block-library/index.js:14
+msgid "Text Alignment"
+msgstr "Вирівнювання тексту"
+
+#: build/block-library/index.js:14
+msgid "Heading %d"
+msgstr "Заголовок %s"
+
+#: build/block-library/index.js:14
+msgid "Level"
+msgstr "Рівень"
+
+#: build/block-library/index.js:14
+msgid "Heading Settings"
+msgstr "Налаштування заголовку"
+
+#: build/block-library/index.js:14
+msgid "Media File"
+msgstr "Медіафайл"
+
+#: build/block-library/index.js:14
+msgid "Classic"
+msgstr "Класичний"
+
+#: build/block-library/index.js:14
+msgid "No posts found."
+msgstr "Записів не знайдено."
+
+#: build/block-library/index.js:14
+msgid "Latest Posts"
+msgstr "Останні записи"
+
+#: build/block-library/index.js:14
+msgid "Image Settings"
+msgstr "Налаштування зображення"
+
+#: build/block-library/index.js:14
+msgid "Heading"
+msgstr "Заголовок"
+
+#: build/block-library/index.js:14
+msgid "Text Settings"
+msgstr "Налаштування тексту"
+
+#: build/block-library/index.js:14
+msgid "Read more"
+msgstr "Читати далі"
+
+#: build/block-library/index.js:14
+msgid "List"
+msgstr "Список"
+
+#: build/block-library/index.js:14
+msgid "recent posts"
+msgstr "останні записи"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Quote"
+msgstr "Цитата"
+
+#: build/components/index.js:19
+msgid "Font Size"
+msgstr "Розмір шрифту"
+
+#: build/block-library/index.js:14
+msgid "Edit video"
+msgstr "Редагувати відео"
+
+#: build/block-library/index.js:14
+msgid "Delete Row"
+msgstr "Видалити рядок"
+
+#: build/edit-post/index.js:12
+msgid "Editor"
+msgstr "Редактор"
+
+#: build/edit-post/index.js:12
+msgid "Code Editor"
+msgstr "Редактор коду"
+
+#: build/edit-post/index.js:12
+msgid "Visual Editor"
+msgstr "Візуальний редактор"
+
+#: build/editor/index.js:17
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "У вас є незбережені зміни. Якщо ви продовжите, вони будуть втрачені."
+
+#: build/editor/index.js:17
+msgid "Paragraphs"
+msgstr "Параграфи"
+
+#: build/editor/index.js:17
+msgid "Headings"
+msgstr "Заголовки"
+
+#: build/editor/index.js:17
+msgid "Password Protected"
+msgstr "Захищено паролем"
+
+#: build/editor/index.js:17
+msgid "Post Visibility"
+msgstr "Видимість запису"
+
+#: build/editor/index.js:17
+msgid "Use a secure password"
+msgstr "Використовуйте безпечний пароль"
+
+#: build/editor/index.js:17
+msgid "Create password"
+msgstr "Створити пароль"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Gallery"
+msgstr "Галерея"
+
+#: build/block-library/index.js:14
+msgid "Paragraph"
+msgstr "Параграф"
+
+#: build/edit-post/index.js:12
+msgid "Tools"
+msgstr "Інструменти"
+
+#: build/components/index.js:19
+msgid "Order by"
+msgstr "Сортувати за"
+
+#: build/block-library/index.js:14
+msgid "poetry"
+msgstr "поезія"
+
+#: build/block-library/index.js:14
+msgid "Verse"
+msgstr "Вірш"
+
+#: build/block-library/index.js:14
+msgid "Add Row After"
+msgstr "Додати рядок після"
+
+#: build/block-editor/index.js:55
+msgid "Move down"
+msgstr "Перемістити вниз"
+
+#: build/block-editor/index.js:55
+msgid "Edit as HTML"
+msgstr "Редагувати як HTML"
+
+#: build/block-editor/index.js:55
+msgid "Duplicate"
+msgstr "Дублювати"
+
+#: build/editor/index.js:17
+msgid "Template:"
+msgstr "Шаблон:"
+
+#: build/editor/index.js:17
+msgid "Saved"
+msgstr "Збережено"
+
+#: build/editor/index.js:17
+msgid "Blocks"
+msgstr "Блоки"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "Вставки"
+
+#: build/block-editor/index.js:55
+msgid "Add block"
+msgstr "Додати блок"
+
+#: build/editor/index.js:17
+msgid "Undo"
+msgstr "Скасувати"
+
+#: build/editor/index.js:17
+msgid "Add New Tag"
+msgstr "Додати нову позначку"
+
+#: build/editor/index.js:17
+msgid "Visibility:"
+msgstr "Видимість:"
+
+#: build/editor/index.js:17
+msgid "Published"
+msgstr "Опубліковано"
+
+#: build/editor/index.js:17
+msgid "Standard"
+msgstr "Стандартний"
+
+#: build/editor/index.js:17
+msgid "Allow Comments"
+msgstr "Дозволити коментарі"
+
+#: build/edit-post/index.js:12
+msgid "Visibility"
+msgstr "Видимість"
+
+#: build/edit-post/index.js:12
+msgid "Close settings"
+msgstr "Закрити налаштування"
+
+#: build/edit-post/index.js:12
+msgid "Editor plugins"
+msgstr "Редактор плагінів"
+
+#: build/edit-post/index.js:12
+msgid "Editor content"
+msgstr "Редактор вмісту"
+
+#: build/block-editor/index.js:55
+msgid "Edit visually"
+msgstr "Редагувати візуально"
+
+#: build/block-editor/index.js:55
+msgid "No block selected."
+msgstr "Блок не обраний."
+
+#: build/block-library/index.js:14
+msgid "Drop Cap"
+msgstr "Буквиця"
+
+#: build/editor/index.js:17
+msgid "Convert to Regular Block"
+msgstr "Перетворити в звичайний блок"
+
+#: build/block-library/index.js:14
+msgid "numbered list"
+msgstr "нумерований список"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s видалений"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s added"
+msgstr "%s доданий"
+
+#: build/editor/index.js:17
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Передперегляд"
+
+#: build/editor/index.js:17
+msgid "Block deleted."
+msgstr "Блок видалений."
+
+#: build/editor/index.js:17
+msgid "Block updated."
+msgstr "Блок оновлений."
+
+#: build/editor/index.js:17
+msgid "Block created."
+msgstr "Блок створений."
+
+#: build/editor/index.js:17
+msgid "Trashing failed"
+msgstr "Видалення не вдалося"
+
+#: build/editor/index.js:17
+msgid "Document Outline"
+msgstr "Структура документу"
+
+#: build/editor/index.js:17
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "Захищена паролем, який ви вкажете. Запис зможуть подивитися тільки ті, в кого є пароль."
+
+#: build/editor/index.js:17
+msgid "Only visible to site admins and editors."
+msgstr "Видно тільки адміністраторам і редакторам."
+
+#: build/editor/index.js:17
+msgid "Private"
+msgstr "Приватне"
+
+#: build/editor/index.js:17
+msgid "Visible to everyone."
+msgstr "Видно всім."
+
+#: build/editor/index.js:17
+msgid "Would you like to privately publish this post now?"
+msgstr "Ви хочете опублікувати запис як особистий?"
+
+#: build/editor/index.js:17
+msgid "Parent Term"
+msgstr "Батьківський термін"
+
+#: build/editor/index.js:17
+msgid "Parent Category"
+msgstr "Батьківська рубрика"
+
+#: build/editor/index.js:17
+msgid "Add new term"
+msgstr "Додати новий термін"
+
+#: build/editor/index.js:17
+msgid "Add new category"
+msgstr "Додати нову рубрику"
+
+#: build/editor/index.js:17
+msgid "Term"
+msgstr "Термін"
+
+#: build/editor/index.js:17
+msgid "Add New Term"
+msgstr "Додати новий термін"
+
+#: build/editor/index.js:17
+msgid "Switch to Draft"
+msgstr "Переключитися на чернетку"
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unpublish this post?"
+msgstr "Ви впевнені, що хочете скасувати публікацію запису?"
+
+#: build/editor/index.js:17
+msgid "Saving"
+msgstr "Збереження"
+
+#: build/editor/index.js:17
+msgid "Publish:"
+msgstr "Опублікована:"
+
+#: build/editor/index.js:17
+msgid "Are you ready to publish?"
+msgstr "Ви готові опублікувати?"
+
+#: build/editor/index.js:17
+msgid "is now live."
+msgstr "опублікована."
+
+#: build/editor/index.js:17
+msgid "Schedule"
+msgstr "Запланувати"
+
+#: build/editor/index.js:17
+msgid "Submit for Review"
+msgstr "Надіслати на розгляд"
+
+#: build/editor/index.js:17
+msgid "Pending Review"
+msgstr "Очікує схвалення"
+
+#: build/editor/index.js:17
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d редакція"
+msgstr[1] "%d редакциї"
+msgstr[2] "%d редакцій"
+
+#: build/editor/index.js:17
+msgid "Aside"
+msgstr "Замітка"
+
+#: build/editor/index.js:17
+msgid "Learn more about manual excerpts"
+msgstr "Детальніше про уривки"
+
+#: build/editor/index.js:17
+msgid "Write an excerpt (optional)"
+msgstr "Написати уривок (необов'язково)"
+
+#: build/editor/index.js:17
+msgid "no parent"
+msgstr "без батька"
+
+#: build/editor/index.js:17
+msgid "no title"
+msgstr "без заголовку"
+
+#: build/editor/index.js:17
+msgid "Order"
+msgstr "Порядок сортування"
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "No blocks found."
+msgstr "Блоків не знайдено."
+
+#: build/edit-post/index.js:12 build/block-editor/index.js:55
+msgid "Search for a block"
+msgstr "Пошук блоків"
+
+#: build/editor/index.js:17
+msgid "Copy Error"
+msgstr "Помилка копіювання"
+
+#: build/editor/index.js:17
+msgid "Copy Post Text"
+msgstr "Скопіювати текст запису"
+
+#: build/editor/index.js:17
+msgid "Attempt Recovery"
+msgstr "Спробувати відновити"
+
+#: build/editor/index.js:17
+msgid "The editor has encountered an unexpected error."
+msgstr "Сталася неочікувана помилка."
+
+#: build/editor/index.js:17
+msgid "(Empty heading)"
+msgstr "(Без заголовка)"
+
+#: build/block-editor/index.js:55
+msgid "Block Styles"
+msgstr "Стилі блоків"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "More options"
+msgstr "Ще налаштування"
+
+#: build/block-editor/index.js:55
+msgid "Move up"
+msgstr "Перемістити в верх"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Blocks"
+msgstr "Перетворити в блоки"
+
+#: build/edit-post/index.js:12
+msgid "Transform into:"
+msgstr "Перетворити в:"
+
+#: build/edit-post/index.js:12
+msgid "Find original"
+msgstr "Знайти оригінал"
+
+#: build/edit-post/index.js:12
+msgid "Copy All Content"
+msgstr "Скопіювати весь вміст"
+
+#: build/edit-post/index.js:12
+msgid "Status & Visibility"
+msgstr "Статус і видимість"
+
+#: build/edit-post/index.js:12
+msgid "Page Attributes"
+msgstr "Атрибути сторінки"
+
+#: build/edit-post/index.js:12 build/editor/index.js:17
+msgid "Featured Image"
+msgstr "Зображення запису"
+
+#: build/edit-post/index.js:12
+msgid "Editor top bar"
+msgstr "Панель інструментів"
+
+#: build/components/index.js:19
+msgid "Dismiss this notice"
+msgstr "Закрити це повідомлення"
+
+#: build/components/index.js:19
+msgid "Item removed."
+msgstr "Елемент видалений."
+
+#: build/components/index.js:19
+msgid "Item added."
+msgstr "Елемент доданий."
+
+#: build/components/index.js:19
+msgid "Drop files to upload"
+msgstr "Перетягніть файли для завантаження"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "Виникла невідома помилка."
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "No results."
+msgstr "Нет результатов."
+
+#: build/block-library/blocks/latest-comments.php:31
+#: build/edit-post/index.js:12 build/editor/index.js:17
+msgid "(no title)"
+msgstr "(Без назви)"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Edit Link"
+msgstr "Змінити посилання"
+
+#: build/components/index.js:19
+msgid "All"
+msgstr "Усе"
+
+#: build/components/index.js:19
+msgid "Oldest to Newest"
+msgstr "Від старих до нових"
+
+#: build/components/index.js:19
+msgid "Newest to Oldest"
+msgstr "Від нових до старих"
+
+#: build/media-utils/index.js:1
+msgid "Select"
+msgstr "Вибрати"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "Вибрати або завантажити"
+
+#: build/block-library/index.js:14
+msgid "New Column"
+msgstr "Новий стовпець"
+
+#: build/block-library/index.js:14
+msgid "Delete Column"
+msgstr "Видалити стовпець"
+
+#: build/block-library/index.js:14
+msgid "Add Column After"
+msgstr "Додати стовпець після"
+
+#: build/block-library/index.js:14
+msgid "Add Column Before"
+msgstr "Додати стовпець до"
+
+#: build/block-library/index.js:14
+msgid "Add Row Before"
+msgstr "Додати рядок до"
+
+#: build/block-library/index.js:14
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: build/block-library/index.js:14
+msgid "divider"
+msgstr "роздільник"
+
+#: build/block-library/index.js:14
+msgid "horizontal-line"
+msgstr "горизонтальна-лінія"
+
+#: build/block-library/index.js:14
+msgid "Separator"
+msgstr "Роздільник"
+
+#: build/block-library/index.js:14
+msgid "ordered list"
+msgstr "відсортований список"
+
+#: build/block-library/index.js:14
+msgid "bullet list"
+msgstr "маркований список"
+
+#: build/block-library/index.js:14
+msgid "Display post date"
+msgstr "Відображати дату публікації"
+
+#: build/block-library/index.js:14
+msgid "Grid View"
+msgstr "Вид сіткою"
+
+#: build/block-library/index.js:14
+msgid "List View"
+msgstr "Вид списком"
+
+#: build/format-library/index.js:1 build/block-library/index.js:14
+msgid "photo"
+msgstr "фотографія"
+
+#: build/block-library/index.js:14
+msgid "Custom HTML"
+msgstr "Користувальницький HTML"
+
+#: build/block-library/index.js:14
+msgid "photos"
+msgstr "фотографії"
+
+#: build/block-library/index.js:14
+msgid "None"
+msgstr "Не вказано"
+
+#: build/block-library/index.js:14
+msgid "Attachment Page"
+msgstr "Сторінка вкладення"
+
+#: build/block-library/index.js:14
+msgid "Gallery Settings"
+msgstr "Налаштування галереї"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s"
+msgstr "Вставлений вміст з %s"
+
+#: build/block-library/index.js:14
+msgid "Columns"
+msgstr "Стовпці"
+
+#: build/block-library/index.js:14
+msgid "Categories"
+msgstr "Рубрики"
+
+#: build/block-library/index.js:14
+msgid "Show post counts"
+msgstr "Показати кількість записів"
+
+#: build/block-library/index.js:14
+msgid "Categories Settings"
+msgstr "Налаштування рубрик"
+
+#: build/block-library/index.js:14
+msgid "Add text…"
+msgstr "Додати текст…"
+
+#: build/block-library/index.js:14
+msgid "Block has been deleted or is unavailable."
+msgstr "Блок видалений або недоступний."
+
+#: build/block-editor/index.js:55
+msgid "Cancel"
+msgstr "Відміна"
+
+#: build/block-library/index.js:14
+msgid "Edit audio"
+msgstr "Редагувати аудіо"
+
+#: build/block-library/index.js:14
+msgid "Use URL"
+msgstr "Використовувати URL"
+
+#: build/components/index.js:19
+msgid "Z → A"
+msgstr "Я \t А"
+
+#: build/editor/index.js:17
+msgid "Content structure"
+msgstr "Структура вмісту"
+
+#: build/block-library/index.js:14
+msgid "Show Hierarchy"
+msgstr "Показати Ієрархію"
+
+#: build/editor/index.js:17
+msgid "Public"
+msgstr "Відкрито"
+
+#: build/editor/index.js:17
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(Не рекомендується використовувати більше одного тега H1)"
+
+#: build/editor/index.js:17
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(Ваша тема вже може використовувати тег H1 для заголовка запису)"
+
+#: build/editor/index.js:17
+msgid "(Incorrect heading level)"
+msgstr "(Некоректний рівень заголовка)"
+
+#: build/editor/index.js:17
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"Ви впевнені, що хочете видалити цей спільний блок?\n"
+"Ваші дії призведуть до видалення його з усіх записів і сторінок."
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "Блоки не можуть бути переміщені вниз, так як вони вже знаходяться в самому низу"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "Блоки не можуть бути переміщені вгору, так як вони вже знаходяться зверху"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the beginning of the content and can’t be moved up"
+msgstr "Блок %s знаходиться в самому верху і не може бути переміщений вище"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the end of the content and can’t be moved down"
+msgstr "Блок %s знаходиться в самому низу і не може бути переміщений ще нижче"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "Блок %s є єдиним блоком і не може бути переміщений"
+
+#: build/block-editor/index.js:55
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "Цей блок містить помилку і не може бути переглянутий."
+
+#: build/edit-post/index.js:12
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "Додаткові настройки тепер доступні на бічній панелі розширених налаштувань"
+
+#: build/components/index.js:19
+msgid "PM"
+msgstr "вечора"
+
+#: build/components/index.js:19
+msgid "AM"
+msgstr "ранку"
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "Знайдено %d результат. Використовуйте стрілки на клавіатурі для навігації."
+msgstr[1] "Знайдено  %d результата. Використовуйте стрілки на клавіатурі для навігації."
+msgstr[2] "Знайдено %d результатів. Використовуйте стрілки на клавіатурі для навігації."
+
+#: build/components/index.js:19
+msgid "A → Z"
+msgstr "А \t Я"
+
+#: build/block-library/index.js:14
+msgid "Pullquote"
+msgstr "Витримка"
+
+#: build/block-library/index.js:14
+msgid "Preformatted"
+msgstr "Попередньо форматований"
+
+#: build/block-editor/index.js:55
+msgid "Indent list item"
+msgstr "Додати відступ до елементів списку"
+
+#: build/block-editor/index.js:55
+msgid "Outdent list item"
+msgstr "Прибрати відступ в елементів списку"
+
+#: build/block-editor/index.js:55
+msgid "Convert to ordered list"
+msgstr "Перетворити в нумерований список"
+
+#: build/block-editor/index.js:55
+msgid "Convert to unordered list"
+msgstr "Перетворити в маркований список"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Preview"
+msgstr "Передперегляд"
+
+#: build/blocks/index.js:2
+msgid "Reusable Blocks"
+msgstr "Багаторазовий блок"
+
+#: build/editor/index.js:17
+msgid "Updating…"
+msgstr "Оновлення…"
+
+#: build/editor/index.js:17
+msgid "Publishing…"
+msgstr "Публікація…"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "Знайдено %d результат."
+msgstr[1] "Знайдено %d результатів."
+msgstr[2] "Знайдено %d результат."
+
+#: build/editor/index.js:17
+msgid "Redo"
+msgstr "Повторити"
+
+#: build/edit-post/index.js:12
+msgid "Block"
+msgstr "Блок"
+
+#: build/block-library/index.js:14
+msgid "Write…"
+msgstr "Напишіть…"
+
+#: build/block-library/index.js:14
+msgid "Write subheading…"
+msgstr "Введіть підзаголовок…"
+
+#: build/block-library/index.js:14
+msgid "Write shortcode here…"
+msgstr "Введіть шорткод тут…"
+
+#: build/block-library/index.js:14
+msgid "Write citation…"
+msgstr "Введіть цитату…"
+
+#: build/block-library/index.js:14
+msgid "Write quote…"
+msgstr "Введіть цитату…"
+
+#: build/block-library/index.js:14
+msgid "Write preformatted text…"
+msgstr "Напишіть попередньо відформатований текст…"
+
+#: build/block-library/index.js:14
+msgid "Write list…"
+msgstr "Скласти список…"
+
+#: build/block-library/index.js:14
+msgid "Write heading…"
+msgstr "Введіть заголовок…"
+
+#: build/block-library/index.js:14
+msgid "Enter URL to embed here…"
+msgstr "Вкажіть URL для вставки…"
+
+#: build/block-library/index.js:14
+msgid "Embedding…"
+msgstr "Вставка…"
+
+#: build/block-library/index.js:14
+msgid "Write title…"
+msgstr "Введіть заголовок…"
+
+#: build/block-library/index.js:14
+msgid "Fixed Background"
+msgstr "Фіксований фон"
+
+#: build/block-library/index.js:14
+msgid "Write code…"
+msgstr "Введіть код…"
+
+#: build/block-library/index.js:14
+msgid "Write caption…"
+msgstr "Напишіть підпис…"
+
+#: build/block-library/index.js:14
+msgid "Edit table"
+msgstr "Редагувати таблицю"
+
+#: build/block-library/index.js:14
+msgid "Edit gallery"
+msgstr "Редагувати галерею"
+
+#: build/editor/index.js:17
+msgid "Set Featured Image"
+msgstr "Встановіть головне зображення"
+
+#: build/editor/index.js:17
+msgid "Move to Trash"
+msgstr "Перемістити в кошик"
+
+#: build/editor/index.js:17
+msgid "Tag"
+msgstr "Позначка"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "Category"
+msgstr "Категорія"
+
+#: build/editor/index.js:17
+msgid "Suggestion:"
+msgstr "Пропозиції:"
+
+#: build/editor/index.js:17
+msgid "Allow Pingbacks & Trackbacks"
+msgstr "Дозволити сповіщення і зворотні посилання"
+
+#: build/editor/index.js:17
+msgid "Updating failed."
+msgstr "Помилка оновлення."
+
+#: build/editor/index.js:17
+msgid "Scheduling failed."
+msgstr "Не вдалося запланувати."
+
+#: build/editor/index.js:17
+msgid "Publishing failed."
+msgstr "Помилка публікації."
+
+#: build/edit-post/index.js:12
+msgid "View Post"
+msgstr "Переглянути запис"
+
+#: build/blocks/index.js:2
+msgid "Widgets"
+msgstr "Віджети"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "Форматування"
+
+#: build/block-editor/index.js:55
+msgid "Align center"
+msgstr "Вирівняти по центру"
+
+#: build/block-editor/index.js:55
+msgid "Upload"
+msgstr "Завантажити"
+
+#: build/components/index.js:19
+msgid "Clear"
+msgstr "Очистити"
+
+#: build/components/index.js:19
+msgid "Color: %s"
+msgstr "Колір: %s"
+
+#: build/block-editor/index.js:55
+msgid "Full width"
+msgstr "На всю ширину"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Audio"
+msgstr "Аудіо"
+
+#: build/block-editor/index.js:55
+msgid "HTML Anchor"
+msgstr "HTML Якір"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "Це поєднання кольорів може утруднити читання. Спробуйте використовувати більше яскравий колір фону і / або більше темний колір тексту."
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "Це поєднання кольорів може утруднити читання. Спробуйте використовувати більше темний колір фону і / або більше яскравий колір тексту."
+
+#: build/components/index.js:19
+msgid "Custom color picker"
+msgstr "Довільний вибір кольору"
+
+#: build/block-editor/index.js:55
+msgid "Wide width"
+msgstr "По ширині вмісту"
+
+#: build/blocks/index.js:2
+msgid "Common Blocks"
+msgstr "Основні блоки"
+
+#: build/block-editor/index.js:55
+msgid "Align right"
+msgstr "Вирівняти вправо"
+
+#: build/block-editor/index.js:55
+msgid "Align left"
+msgstr "Вирівняти вліво"
+
+#: build/block-editor/index.js:55
+msgid "Additional CSS Class(es)"
+msgstr "Додатковий клас(и) CSS"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Друкуємо з 1440 року. Це розробка плагіна для нового редактора блоків в ядрі."
+
+#: build/editor/index.js:17
+msgid "Add title"
+msgstr "Додати заголовок"
+
+#: gutenberg.php:93
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "Режим розробки Gutenberg вимагає компонування файлів. Запустіть <code>npm install</code> для встановлення залежностей, <code>npm run build</code> для компонування файлів або <code>npm run dev</code> для їх компонування і відстеження змін. Для більш детальної інформації ознайомтесь з файлом <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">про участь</a>."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: build/editor/index.js:17
+msgid "Author"
+msgstr "Автор"
+
+#: build/edit-post/index.js:12
+msgid "Discussion"
+msgstr "Обговорення"
+
+#: build/edit-post/index.js:12
+msgid "Excerpt"
+msgstr "Уривок"
+
+#: build/block-library/index.js:14
+msgid "Metadata"
+msgstr "Метадані"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Save"
+msgstr "Зберегти"
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Команда Gutenberg"
+
+#: gutenberg.php:64
+msgid "Documentation"
+msgstr "Документація"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Демо"
+
+#: build/block-library/blocks/latest-posts.php:37
+#: build/block-library/blocks/rss.php:35 build/block-library/index.js:14
+msgid "(Untitled)"
+msgstr "(Без назви)"
+
+#: build/edit-post/index.js:12
+msgid "Custom Fields"
+msgstr "Користувальницькі поля"
+
+#: build/edit-post/index.js:12 build/editor/index.js:17
+msgid "Publish"
+msgstr "Опублікувати"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Виберіть рубрику"
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:80
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Гутенберг вимагає WordPress %s або пізнішої для належного функціонування. Будь ласка, оновіть WordPress перед активацією Gutenberg."

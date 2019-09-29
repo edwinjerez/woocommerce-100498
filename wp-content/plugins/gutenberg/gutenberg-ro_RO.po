@@ -1,0 +1,124 @@
+# Translation of Plugins - Gutenberg - Development (trunk) in Romanian
+# This file is distributed under the same license as the Plugins - Gutenberg - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-09-30 09:23:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: Plugins - Gutenberg - Development (trunk)\n"
+
+#: lib/register.php:101
+msgid "Edit in Gutenberg"
+msgstr "Editează în Gutenberg"
+
+#: lib/register.php:92
+msgid "Edit in Classic Editor"
+msgstr "Editează în editor clasic"
+
+#. translators: %s: post title
+#: lib/register.php:170
+msgid "Edit &#8220;%s&#8221; in the classic editor"
+msgstr "Editează &#8222;%s&#8221; în editor clasic"
+
+#: lib/register.php:173
+msgid "Classic Editor"
+msgstr "Editor clasic"
+
+#: blocks/library/categories/index.php:35
+msgid "Select Category"
+msgstr "Selectează categoria"
+
+#: lib/client-assets.php:697
+msgid "Invalid post type."
+msgstr "Tip de articol nevalid."
+
+#: blocks/library/latest-posts/index.php:28
+msgid "(Untitled)"
+msgstr "(Fără titlu)"
+
+#: lib/init-checks.php:19
+msgid "Gutenberg requires WordPress 4.8 or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "Gutenberg necesită WordPress 4.8 sau o versiune ulterioară pentru a funcționa corect. Te rog actualizează WordPress înainte de a activa Gutenberg."
+
+#: lib/client-assets.php:512
+msgid "Unauthorized post type."
+msgstr "Tip de articol neautorizat."
+
+#: lib/client-assets.php:508
+msgid "Unrecognized post type."
+msgstr "Tip de articol nerecunoscut."
+
+#: lib/client-assets.php:503
+msgid "Post not found."
+msgstr "Articol negăsit."
+
+#. Author of the plugin/theme
+msgid "Gutenberg Team"
+msgstr "Echipa Gutenberg"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. #-#-#-#-#  gutenberg-code.pot (Gutenberg 1.2.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: lib/register.php:51 lib/register.php:183
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#. translators: %s: post title
+#: lib/register.php:180
+msgid "Edit &#8220;%s&#8221; in the Gutenberg editor"
+msgstr "Editează &#8222;%s&#8221; în editorul Gutenberg"
+
+#: lib/register.php:60 lib/register.php:61
+msgid "Demo"
+msgstr "Demonstrație"
+
+#: lib/register.php:52
+msgid "New Post"
+msgstr "Articol nou"
+
+#: lib/client-assets.php:110
+msgid "F j, Y g:i a"
+msgstr "j F Y G:i"
+
+#: lib/client-assets.php:109
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: lib/client-assets.php:108
+msgid "g:i a"
+msgstr "G:i"
+
+#. translators: %s: duration
+#: lib/client-assets.php:104
+msgid "%s ago"
+msgstr "Acum %s"
+
+#. translators: %s: duration
+#: lib/client-assets.php:102
+msgid "%s from now"
+msgstr "%s de acum"
+
+#. translators: 1: block name
+#: lib/class-wp-block-type-registry.php:105
+msgid "Block type \"%s\" is not registered."
+msgstr "Tipul de bloc „%s” nu este înregistrat."
+
+#. translators: 1: block name
+#: lib/class-wp-block-type-registry.php:74
+msgid "Block type \"%s\" is already registered."
+msgstr "Tipul de bloc „%s” este deja înregistrat."
+
+#: lib/class-wp-block-type-registry.php:67
+msgid "Block type names must contain a namespace prefix. Example: my-plugin/my-custom-block-type"
+msgstr "Numele tipului de bloc trebuie să conțină un prefix pentru nume-spațiu. Exemplu: my-plugin / my-custom-block-type"
+
+#: lib/class-wp-block-type-registry.php:60
+msgid "Block type names must be strings."
+msgstr "Numele tipului de bloc trebuie să fie șiruri de caractere."
